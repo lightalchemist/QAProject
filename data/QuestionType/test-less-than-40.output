@@ -1,0 +1,100 @@
+ENTY:other What do practitioners of Wicca worship ?
+NUM:count How many followers does Wicca have ?
+DESC:reason What is Florence Nightingale famous for ?
+NUM:date When was Florence Nightingale born ?
+NUM:date When did Amtrak begin operations ?
+NUM:count How many passengers does Amtrak serve annually ?
+NUM:count How many employees does Amtrak have ?
+HUM:ind Who is the president or chief executive of Amtrak ?
+NUM:date When did Jack Welch become chairman of General Electric ?
+NUM:count How many years was Jack Welch with GE ?
+NUM:date When did Jack Welch retire from GE ?
+NUM:count How many people did Jack Welch fire from GE ?
+LOC:country In what country did the Khmer Rouge movement take place ?
+NUM:date When did the Khmer Rouge come into power ?
+HUM:ind Who was Khmer Rouge 's first leader ?
+NUM:date When was the Khmer Rouge removed from power ?
+NUM:count How many members are there in the singing group the Wiggles ?
+LOC:other Where is the group Wiggles from ?
+ENTY:other What kind of a particle is a quark ?
+HUM:ind Who discovered quarks ?
+NUM:date When were quarks discovered ?
+ENTY:cremat What kind of music does the Clash play ?
+LOC:city What town was Nimitz native of ?
+ENTY:event During what war did Nimitz serve ?
+NUM:ord What rank did Nimitz reach ?
+NUM:date What year did the Teapot Dome scandal take place ?
+HUM:ind Who was President of the United States in <num> ?
+DESC:desc What was the main focus of the Teapot Dome scandal ?
+NUM:date When was the USS Constitution commissioned ?
+ENTY:event What conflict did the USS Constitution distinguish herself in ?
+HUM:gr What is USS Constitution 's nickname ?
+HUM:ind Who established the Nobel prize awards ?
+NUM:date When were the Nobel prize awards first given ?
+NUM:money What is the monetary value of the Nobel prize ?
+HUM:gr What tribe did Sacajawea belong to ?
+NUM:date What years did Sacajawea accompany Lewis and Clark on their expedition ?
+NUM:date When did Sacajawea die ?
+LOC:other Where is Sacajawea buried ?
+NUM:money How much is the Sacajawea coin worth ?
+NUM:date When was the IFC established ?
+DESC:desc What is IFC 's mission ?
+HUM:ind Who was the leader of the cult IFC ?
+NUM:count How many members of Heaven 's Gate committed suicide ?
+NUM:date When did the mass suicide of Heaven 's Gate occur ?
+LOC:other Where did the mass suicide of Heaven 's Gate occur ?
+DESC:manner How did the Heaven 's Gate members commit suicide ?
+DESC:reason Why did the Heaven 's Gate members commit suicide ?
+ENTY:religion What is Bashar Assad 's party affiliation ?
+HUM:title What was Bashar Assad 's profession prior to assuming the Presidency ?
+NUM:period How long are Syrian presidential terms ?
+NUM:date When was Abu Nidal born ?
+HUM:ind What was Abu Nidal 's name at birth ?
+NUM:count How many followers does Abu Nidal have ?
+NUM:date In what year did the PLO condemn Abu Nidal to death ?
+HUM:ind What is Carlos the Jackal 's real name ?
+LOC:other Where was Carlos the Jackal born ?
+HUM:ind Whom did Ramirez marry ?
+NUM:date When was Carlos the Jackal captured ?
+LOC:other Where was Carlos -LRB- Ramirez -RRB- captured ?
+NUM:date When was Cassini launched ?
+NUM:money How much did it cost to build Cassini ?
+LOC:other What is Cassini 's destination ?
+ENTY:religion What is the religious affiliation of the Kurds ?
+NUM:count How many Kurds live in Turkey ?
+NUM:date When was the first Burger King restaurant opened ?
+LOC:other Where was the first Burger King restaurant opened ?
+NUM:money What are Burger King 's gross sales today ?
+HUM:ind Who is the CEO of the publishing company Conde Nast ?
+LOC:other Where are the company Conde Nast 's headquarters ?
+HUM:ind Whom did Eileen Marie Collins marry ?
+LOC:other Where does Eileen Marie Collins live ?
+HUM:title What is Eileen Marie Collins ' occupation ?
+HUM:gr What branch of the service did Eileen Marie Collins serve in ?
+NUM:ord What rank did Eileen Marie Collins reach ?
+LOC:other Where was Walter Mosley born ?
+NUM:date When was the Good Friday agreement made ?
+ENTY:veh What kind of ship is the Liberty Bell <num> ?
+DESC:desc What happened to the Liberty Bell <num> ?
+LOC:country What is Vilar 's nationality ?
+HUM:gr What is the name of the company Vilar founded ?
+HUM:ind Who founded Public Citizen ?
+NUM:date When was Public Citizen formed ?
+HUM:ind Who is Public Citizen 's current head ?
+LOC:state What state does senator Jim Inhofe represent ?
+HUM:gr What branch of the service did senator Jim Inhofe serve in ?
+HUM:ind Who founded the Muslim Brotherhood ?
+NUM:date When was the Muslim Brotherhood formed ?
+DESC:desc What is Muslim Brotherhood 's goal ?
+LOC:other Where is the Berkman Center for Internet and Society located ?
+DESC:desc What is Berkman Center for Internet and Society 's mission ?
+DESC:desc What kind of insect is a boll weevil ?
+HUM:ind What was Johnny Appleseed 's real name ?
+LOC:other Where was Johnny Appleseed born ?
+NUM:date When did Johnny Appleseed die ?
+ENTY:other What did Johnny Appleseed wear as a hat ?
+ENTY:veh What is the name of the first space shuttle ?
+NUM:date When was the first flight of the Columbia shuttle ?
+NUM:date When was the Challenger space shuttle disaster ?
+NUM:count How many members were in the crew of the Challenger ?
+NUM:period How long did the Challenger flight last before it exploded ?
