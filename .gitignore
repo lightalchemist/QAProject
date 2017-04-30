@@ -87,3 +87,9 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Compressed files
+*.gz
+
+# Data for glove embeddings
+data/glove_embeddings/
