@@ -1,0 +1,94 @@
+HUM:ind Who is the author of the book , `` The Iron Lady : A Biography of Margaret Thatcher '' ?
+NUM:money What was the monetary value of the Nobel Peace Prize in <num> ?
+ENTY:product What does the Peugeot company manufacture ?
+NUM:money How much did Mercury spend on advertising in <num> ?
+HUM:ind What is the name of the managing director of Apricot Computer ?
+DESC:reason Why did David Koresh ask the FBI for a word processor ?
+NUM:money What debts did Qintex group leave ?
+ENTY:dismed What is the name of the rare neurological disease with symptoms such as : involuntary movements -LRB- tics -RRB- , swearing , and incoherent vocalizations -LRB- grunts , shouts , etc. -RRB- ?
+NUM:dist How far is Yaroslavl from Moscow ?
+HUM:ind Name the designer of the shoe that spawned millions of plastic imitations , known as `` jellies '' .
+HUM:ind Who was President Cleveland 's wife ?
+NUM:money How much did Manchester United spend on players in <num> ?
+NUM:money How much could you rent a Volkswagen bug for in <num> ?
+LOC:country What country is the biggest producer of tungsten ?
+NUM:date When was London 's Docklands Light Railway constructed ?
+HUM:ind What two US biochemists won the Nobel Prize in medicine in <num> ?
+NUM:period How long did the Charles Manson murder trial last ?
+HUM:ind Who was the first Taiwanese President ?
+HUM:ind Who was the leader of the Branch Davidian Cult confronted by the FBI in Waco , Texas in <num> ?
+HUM:ind Who was the first American in space ?
+NUM:date When did the Jurassic Period end ?
+NUM:date When did Spain and Korea start ambassadorial relations ?
+NUM:date When did Nixon visit China ?
+HUM:ind Who was the lead actress in the movie `` Sleepless in Seattle '' ?
+ENTY:termeq What is the name of the `` female '' counterpart to El Nino , which results in cooling temperatures and very dry weather ?
+LOC:other Where did the 6th annual meeting of Indonesia-Malaysia forest experts take place ?
+HUM:ind Who may be best known for breaking the color line in baseball ?
+LOC:other What is the brightest star visible from Earth ?
+DESC:def What are the Valdez Principles ?
+LOC:other Where was Ulysses S. Grant born ?
+HUM:ind Who received the Will Rogers Award in <num> ?
+LOC:city What is the largest city in Germany ?
+LOC:mount What is the name of the highest mountain in Africa ?
+HUM:ind What was the name of the US helicopter pilot shot down over North Korea ?
+LOC:other Where was George Washington born ?
+HUM:ind Who was chosen to be the first black chairman of the military Joint Chiefs of Staff ?
+HUM:ind Who won the Nobel Peace Prize in <num> ?
+ENTY:other What is the legal blood alcohol limit for the state of California ?
+NUM:perc What was the target rate for M3 growth in <num> ?
+HUM:ind What costume designer decided that Michael Jackson should only wear one glove ?
+HUM:ind Who is the director of the international group called the Human Genome Organization -LRB- HUGO -RRB- that is trying to coordinate gene-mapping research worldwide ?
+HUM:ind Who is the mayor of Marbella ?
+HUM:gr What company is the largest Japanese ship builder ?
+LOC:other Where is the massive North Korean nuclear complex located ?
+HUM:ind Who fired Maria Ybarra from her position in San Diego council ?
+NUM:date When was Dubai 's first concrete house built ?
+HUM:ind Who is the president of Stanford University ?
+HUM:ind Who invented the road traffic cone ?
+HUM:ind Who was the first doctor to successfully transplant a liver ?
+NUM:date When did Nixon die ?
+LOC:other Where is Microsoft 's corporate headquarters located ?
+NUM:count How many calories are there in a Big Mac ?
+ABBR:abb What is the acronym for the rating system for air conditioner efficiency ?
+ENTY:cremat Name a film that has won the Golden Bear in the Berlin Film Festival ?
+HUM:ind Who was President of Costa Rica in <num> ?
+NUM:money What is the fare cost for the round trip between New York and London on Concorde ?
+ENTY:product What brand of white rum is still made in Cuba ?
+ENTY:dismed What is the name of the chronic neurological autoimmune disease which attacks the protein sheath that surrounds nerve cells causing a gradual loss of movement in the body ?
+ENTY:veh What nuclear-powered Russian submarine sank in the Norwegian Sea on April <num> , <num> ?
+HUM:ind Who is the voice of Miss Piggy ?
+LOC:country Name a country that is developing a magnetic levitation railway system ?
+HUM:ind Name the first private citizen to fly in space .
+LOC:other What is the longest river in the United States ?
+ENTY:termeq What does El Nino mean in spanish ?
+HUM:ind Who came up with the name , El Nino ?
+NUM:count How many lives were lost in the China Airlines ' crash in Nagoya , Japan ?
+NUM:date In what year did Joe DiMaggio compile his 56-game hitting streak ?
+NUM:date When did the original Howdy Doody show go off the air ?
+LOC:other Where is the Taj Mahal ?
+HUM:ind Who leads the star ship Enterprise in Star Trek ?
+ENTY:dismed What cancer is commonly associated with AIDS ?
+NUM:date In which year was New Zealand excluded from the ANZUS alliance ?
+LOC:city Which large U.S. city had the highest murder rate for <num> ?
+ENTY:cremat What did Shostakovich write for Rostropovich ?
+ENTY:other What is the name of the promising anticancer compound derived from the pacific yew tree ?
+NUM:count How many inhabitants live in the town of Ushuaia ?
+NUM:count How many consecutive baseball games did Lou Gehrig play ?
+LOC:other What is the tallest building in Japan ?
+LOC:country Which country is Australia 's largest export market ?
+HUM:ind Which former Ku Klux Klan member won an elected office in the U.S. ?
+HUM:ind Who won two gold medals in skiing in the Olympic Games in Calgary ?
+HUM:ind Who followed Willy Brandt as chancellor of the Federal Republic of Germany ?
+ENTY:other What is Grenada 's main commodity export ?
+NUM:period At what age did Rossini stop writing opera ?
+HUM:ind Who is the founder of Scientology ?
+LOC:city Which city in China has the largest number of foreign financial companies ?
+HUM:ind Who released the Internet worm in the late 1980s ?
+HUM:ind Who first circumnavigated the globe ?
+HUM:ind Who wrote the song , `` Stardust '' ?
+LOC:country What country is the worlds leading supplier of cannabis ?
+NUM:volsize How large is the Arctic refuge to preserve unique wildlife and wilderness value on Alaska 's north coast ?
+LOC:mount Where is the highest point in Japan ?
+ENTY:termeq What is the term for the sum of all genetic material in a given organism ?
+ENTY:event What is considered the costliest disaster the insurance industry has ever faced ?
