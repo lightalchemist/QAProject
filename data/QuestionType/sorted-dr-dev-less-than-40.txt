@@ -1,0 +1,82 @@
+ENTY:religion What ethnic group / race are Crip members ?
+ENTY:color What is Crips ' gang color ?
+HUM:gr What is the name of Durst 's group ?
+HUM:gr What record company is Durst with ?
+LOC:other Where was Durst born ?
+NUM:date When was the Hale Bopp comet discovered ?
+NUM:other How often does the Hale Bopp comet approach the earth ?
+NUM:date When did James Dean die ?
+DESC:desc How did James Dean die ?
+ENTY:cremat Which was the first movie that James Dean was in ?
+ABBR:exp What does AARP stand for ?
+NUM:date When was the organization AARP started ?
+LOC:other Where is AARP 's headquarters ?
+HUM:ind Who is AARP 's top official or CEO ?
+NUM:period How long does one study as a Rhodes scholar ?
+LOC:other Where do Rhodes scholars study ?
+ENTY:animal What kind of animal is an agouti ?
+HUM:ind Who founded the Black Panthers organization ?
+NUM:date When was the Black Panthers founded ?
+LOC:other Where was the Black Panthers founded ?
+ENTY:other What is Insane Clown Posse 's style of music ?
+ENTY:dismed What are prions made of ?
+HUM:ind Who discovered prions ?
+HUM:ind Who is the lead singer / musician in Nirvana ?
+ENTY:other What style of music does Nirvana play ?
+ENTY:other What industry is Rohm and Haas in ?
+LOC:other Where is the company Rohm and Haas located ?
+NUM:money What is Rohm and Haas 's annual revenue ?
+ENTY:cremat What film introduced Jar Jar Binks ?
+HUM:ind What actor is used as Jar Jar Binks ' voice ?
+ENTY:religion To what alien race does Jar Jar Binks belong ?
+ENTY:other Horus is the god of what ?
+LOC:country What country is Horus associated with ?
+HUM:ind Who was Horus 's mother ?
+HUM:ind Who was Horus 's father ?
+HUM:ind Who coined the name Rat Pack ?
+LOC:other What Las Vegas hotel was made famous by the Rat Pack ?
+ENTY:dismed What is the primary symptom of a cataract ?
+DESC:manner How is cataract treated ?
+NUM:date When was the International Criminal Court established ?
+ENTY:other What kind of cases does the International Criminal Court try ?
+HUM:ind Who is the sponsor of the International Criminal Court ?
+ENTY:other What division -LRB- weight -RRB- did boxer Floyd Patterson win ?
+HUM:ind Who beat Floyd Patterson to take the title away ?
+HUM:gr What kind of a community is a Kibbutz ?
+LOC:country With what country are the Kibbutz associated ?
+NUM:date When was the first Kibbutz founded ?
+LOC:other Where was the first Kibbutz founded ?
+NUM:count How many Kibbutzs are there now ?
+NUM:date In what year did the first Concorde passenger flight take place ?
+NUM:count How many seats are in the cabin of a Concorde ?
+NUM:speed How fast does the Concorde fly ?
+NUM:count How many Club Med vacation spots are there worldwide ?
+LOC:other Where was Franz Kafka born ?
+NUM:date When was Franz Kafka born ?
+ENTY:religion What is Franz Kafka 's ethnic background ?
+ENTY:cremat In what film is Gordon Gekko the main character ?
+HUM:ind Who plays the role of Gordon Gekko ?
+NUM:date What year was the movie Wall Street released ?
+HUM:title What was Gekko 's profession ?
+NUM:date When was architect Frank Gehry born ?
+LOC:country What nationality is Frank Gehry ?
+ENTY:sport What sport do the Harlem Globetrotters play ?
+NUM:date When were the Harlem Globetrotters founded ?
+HUM:ind By whom were the Harlem Globetrotters founded ?
+HUM:desc What kind of singer is Ice T ?
+HUM:ind What was Ice T 's original name ?
+LOC:other Where was Ice-T born ?
+ENTY:sport What sport does Jennifer Capriati play ?
+HUM:ind Who is Jennifer Capriati 's coach ?
+NUM:date When was Jennifer Capriati born ?
+HUM:gr What kind of business is Abercrombie and Fitch ?
+NUM:date When was Abercrombie and Fitch established ?
+LOC:other Where was Abercrombie and Fitch established ?
+NUM:count How many Abercrombie and Fitch stores are there ?
+DESC:reason Why is the 'Tale of Genji ' famous ?
+HUM:ind Who wrote the 'Tale of Genji ' ?
+NUM:date When was the 'Tale of Genji ' written ?
+HUM:ind What is Al Jolson 's real name ?
+NUM:date When did Jean Harlow die ?
+NUM:period How old was Jean Harlow when she died ?
+DESC:reason What did Jean Harlow die of ?
