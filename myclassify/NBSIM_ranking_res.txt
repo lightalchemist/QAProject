@@ -1,0 +1,43 @@
+Classifier: NBSIM
+TREC Scores of test_res/NBSIM-dev/NBSIM-0.01:
+map            	all	0.5770
+recip_rank     	all	0.6400
+TREC Scores of test_res/NBSIM-dev/NBSIM-0.1:
+map            	all	0.5769
+recip_rank     	all	0.6398
+TREC Scores of test_res/NBSIM-dev/NBSIM-1:
+map            	all	0.5787
+recip_rank     	all	0.6464
+TREC Scores of test_res/NBSIM-dev/NBSIM-10:
+map            	all	0.5599
+recip_rank     	all	0.6059
+TREC Scores of test_res/NBSIM-dev/NBSIM-100:
+map            	all	0.4719
+recip_rank     	all	0.5234
+TREC Scores of test_res/NBSIM-dev/NBSIM-2:
+map            	all	0.5780
+recip_rank     	all	0.6464
+TREC Scores of test_res/NBSIM-dev/NBSIM-50:
+map            	all	0.5207
+recip_rank     	all	0.5792
+TREC Scores of test_res/NBSIM-test/NBSIM-0.01:
+map            	all	0.6001
+recip_rank     	all	0.6609
+TREC Scores of test_res/NBSIM-test/NBSIM-0.1:
+map            	all	0.5996
+recip_rank     	all	0.6609
+TREC Scores of test_res/NBSIM-test/NBSIM-1:
+map            	all	0.5992
+recip_rank     	all	0.6594
+TREC Scores of test_res/NBSIM-test/NBSIM-10:
+map            	all	0.5871
+recip_rank     	all	0.6570
+TREC Scores of test_res/NBSIM-test/NBSIM-100:
+map            	all	0.4766
+recip_rank     	all	0.5571
+TREC Scores of test_res/NBSIM-test/NBSIM-2:
+map            	all	0.5998
+recip_rank     	all	0.6624
+TREC Scores of test_res/NBSIM-test/NBSIM-50:
+map            	all	0.5139
+recip_rank     	all	0.5954

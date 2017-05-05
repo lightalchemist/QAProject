@@ -1,0 +1,43 @@
+Classifier: NB
+TREC Scores of test_res/NB-dev/NB-0.01:
+map            	all	0.5364
+recip_rank     	all	0.5968
+TREC Scores of test_res/NB-dev/NB-0.1:
+map            	all	0.5362
+recip_rank     	all	0.5966
+TREC Scores of test_res/NB-dev/NB-1:
+map            	all	0.5374
+recip_rank     	all	0.6034
+TREC Scores of test_res/NB-dev/NB-10:
+map            	all	0.5152
+recip_rank     	all	0.5779
+TREC Scores of test_res/NB-dev/NB-100:
+map            	all	0.4419
+recip_rank     	all	0.4847
+TREC Scores of test_res/NB-dev/NB-2:
+map            	all	0.5378
+recip_rank     	all	0.6031
+TREC Scores of test_res/NB-dev/NB-50:
+map            	all	0.4795
+recip_rank     	all	0.5520
+TREC Scores of test_res/NB-test/NB-0.01:
+map            	all	0.5432
+recip_rank     	all	0.6175
+TREC Scores of test_res/NB-test/NB-0.1:
+map            	all	0.5426
+recip_rank     	all	0.6175
+TREC Scores of test_res/NB-test/NB-1:
+map            	all	0.5435
+recip_rank     	all	0.6175
+TREC Scores of test_res/NB-test/NB-10:
+map            	all	0.5293
+recip_rank     	all	0.6141
+TREC Scores of test_res/NB-test/NB-100:
+map            	all	0.4423
+recip_rank     	all	0.5151
+TREC Scores of test_res/NB-test/NB-2:
+map            	all	0.5506
+recip_rank     	all	0.6272
+TREC Scores of test_res/NB-test/NB-50:
+map            	all	0.4769
+recip_rank     	all	0.5623

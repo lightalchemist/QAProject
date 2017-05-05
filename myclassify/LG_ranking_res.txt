@@ -1,0 +1,73 @@
+Classifier: LG
+TREC Scores of test_res/LG-dev/LG-l1-0.01:
+map            	all	0.6542
+recip_rank     	all	0.7090
+TREC Scores of test_res/LG-dev/LG-l1-0.1:
+map            	all	0.7095
+recip_rank     	all	0.7853
+TREC Scores of test_res/LG-dev/LG-l1-1:
+map            	all	0.7014
+recip_rank     	all	0.7740
+TREC Scores of test_res/LG-dev/LG-l1-10:
+map            	all	0.7039
+recip_rank     	all	0.7886
+TREC Scores of test_res/LG-dev/LG-l1-100:
+map            	all	0.7039
+recip_rank     	all	0.7886
+TREC Scores of test_res/LG-dev/LG-l1-1000:
+map            	all	0.7039
+recip_rank     	all	0.7886
+TREC Scores of test_res/LG-dev/LG-l2-0.01:
+map            	all	0.6989
+recip_rank     	all	0.7766
+TREC Scores of test_res/LG-dev/LG-l2-0.1:
+map            	all	0.7117
+recip_rank     	all	0.7866
+TREC Scores of test_res/LG-dev/LG-l2-1:
+map            	all	0.6977
+recip_rank     	all	0.7741
+TREC Scores of test_res/LG-dev/LG-l2-10:
+map            	all	0.6975
+recip_rank     	all	0.7813
+TREC Scores of test_res/LG-dev/LG-l2-100:
+map            	all	0.7039
+recip_rank     	all	0.7886
+TREC Scores of test_res/LG-dev/LG-l2-1000:
+map            	all	0.7041
+recip_rank     	all	0.7886
+TREC Scores of test_res/LG-test/LG-l1-0.01:
+map            	all	0.5786
+recip_rank     	all	0.6587
+TREC Scores of test_res/LG-test/LG-l1-0.1:
+map            	all	0.6244
+recip_rank     	all	0.7078
+TREC Scores of test_res/LG-test/LG-l1-1:
+map            	all	0.6345
+recip_rank     	all	0.7385
+TREC Scores of test_res/LG-test/LG-l1-10:
+map            	all	0.6247
+recip_rank     	all	0.7327
+TREC Scores of test_res/LG-test/LG-l1-100:
+map            	all	0.6248
+recip_rank     	all	0.7330
+TREC Scores of test_res/LG-test/LG-l1-1000:
+map            	all	0.6247
+recip_rank     	all	0.7330
+TREC Scores of test_res/LG-test/LG-l2-0.01:
+map            	all	0.6190
+recip_rank     	all	0.6985
+TREC Scores of test_res/LG-test/LG-l2-0.1:
+map            	all	0.6297
+recip_rank     	all	0.7277
+TREC Scores of test_res/LG-test/LG-l2-1:
+map            	all	0.6311
+recip_rank     	all	0.7376
+TREC Scores of test_res/LG-test/LG-l2-10:
+map            	all	0.6252
+recip_rank     	all	0.7327
+TREC Scores of test_res/LG-test/LG-l2-100:
+map            	all	0.6276
+recip_rank     	all	0.7399
+TREC Scores of test_res/LG-test/LG-l2-1000:
+map            	all	0.6272
+recip_rank     	all	0.7399

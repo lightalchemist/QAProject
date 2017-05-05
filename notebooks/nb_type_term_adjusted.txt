@@ -1,0 +1,1519 @@
+=== Predictions on test data ===
+ inst#     actual  predicted error prediction
+1 1:positive 2:negative   +   0.925460389498
+2 1:positive 2:negative   +   0.753370713437
+3 2:negative 2:negative       0.99102715799
+4 2:negative 2:negative       0.911659019636
+5 2:negative 2:negative       0.82818846581
+6 2:negative 2:negative       0.93392556554
+7 2:negative 2:negative       0.975748620254
+8 2:negative 2:negative       0.993482694935
+9 2:negative 2:negative       0.946976751725
+10 2:negative 2:negative       0.982003931396
+11 2:negative 2:negative       0.50818929272
+12 2:negative 2:negative       0.977234016147
+13 1:positive 2:negative   +   0.548084967376
+14 1:positive 2:negative   +   0.727174240034
+15 1:positive 2:negative   +   0.957008235661
+16 1:positive 1:positive       0.609070757666
+17 2:negative 2:negative       0.548084967398
+18 2:negative 2:negative       0.995090702278
+19 2:negative 2:negative       0.889668167371
+20 1:positive 2:negative   +   0.895432483822
+21 1:positive 2:negative   +   0.895432483822
+22 1:positive 2:negative   +   0.956880135104
+23 1:positive 2:negative   +   0.755347160551
+24 1:positive 1:positive       0.632927650586
+25 1:positive 2:negative   +   0.889065947261
+26 2:negative 2:negative       0.751886139249
+27 2:negative 2:negative       0.977400889155
+28 2:negative 2:negative       0.943016630541
+29 2:negative 2:negative       0.991219214163
+30 2:negative 2:negative       0.968723809142
+31 2:negative 2:negative       0.978556077913
+32 2:negative 2:negative       0.987590188636
+33 2:negative 2:negative       0.949743422295
+34 2:negative 2:negative       0.916710984026
+35 2:negative 2:negative       0.93723632588
+36 2:negative 2:negative       0.96704392641
+37 2:negative 2:negative       0.919512053561
+38 2:negative 2:negative       0.915677658751
+39 2:negative 2:negative       0.943016630539
+40 2:negative 2:negative       0.943016630541
+41 2:negative 2:negative       0.968723809143
+42 2:negative 2:negative       0.970868474765
+43 2:negative 2:negative       0.993141186397
+44 2:negative 2:negative       0.933898744965
+45 2:negative 2:negative       0.891582923575
+46 2:negative 2:negative       0.941409555655
+47 2:negative 2:negative       0.91567765875
+48 2:negative 2:negative       0.803075662944
+49 2:negative 2:negative       0.943016630541
+50 2:negative 2:negative       0.968723809143
+51 2:negative 2:negative       0.89456992733
+52 2:negative 2:negative       0.984364608021
+53 2:negative 2:negative       0.916368044563
+54 2:negative 2:negative       0.916710984025
+55 2:negative 2:negative       0.909542313104
+56 2:negative 2:negative       0.997349984693
+57 2:negative 2:negative       0.991726100316
+58 2:negative 2:negative       0.976574581958
+59 2:negative 2:negative       0.975479692576
+60 2:negative 2:negative       0.963581451572
+61 2:negative 2:negative       0.991603292924
+62 2:negative 2:negative       0.99258003991
+63 1:positive 2:negative   +   0.809071001252
+64 1:positive 1:positive       0.839536606401
+65 1:positive 1:positive       0.726246395007
+66 1:positive 1:positive       0.999999999954
+67 1:positive 1:positive       0.9999999998
+68 1:positive 1:positive       0.999999999904
+69 1:positive 1:positive       0.879965825374
+70 1:positive 1:positive       0.608539499517
+71 1:positive 1:positive       0.999999999937
+72 1:positive 2:negative   +   0.512152620988
+73 1:positive 1:positive       0.879277550186
+74 2:negative 2:negative       0.889921550815
+75 2:negative 2:negative       0.941375566044
+76 2:negative 1:positive   +   0.654337570498
+77 2:negative 2:negative       0.85840842031
+78 2:negative 2:negative       0.782086212454
+79 2:negative 2:negative       0.841832881334
+80 2:negative 2:negative       0.985251235501
+81 2:negative 2:negative       0.71487717756
+82 2:negative 2:negative       0.857848921457
+83 2:negative 2:negative       0.958064709072
+84 2:negative 1:positive   +   0.633000710541
+85 2:negative 2:negative       0.997701211938
+86 2:negative 2:negative       0.991283137122
+87 2:negative 2:negative       0.907353111291
+88 2:negative 2:negative       0.905239390155
+89 2:negative 2:negative       0.727335705435
+90 2:negative 1:positive   +   0.545101172425
+91 2:negative 2:negative       0.969331048111
+92 2:negative 2:negative       0.965962180558
+93 2:negative 2:negative       0.793757076764
+94 2:negative 2:negative       0.940582976013
+95 2:negative 1:positive   +   0.654740385074
+96 2:negative 2:negative       0.794603298783
+97 2:negative 2:negative       0.945214574939
+98 2:negative 2:negative       0.788059407877
+99 2:negative 1:positive   +   0.938852799813
+100 2:negative 2:negative       0.826510612172
+101 2:negative 1:positive   +   0.693588106367
+102 2:negative 1:positive   +   0.65301736357
+103 2:negative 2:negative       0.98268992907
+104 2:negative 2:negative       0.781115676816
+105 2:negative 2:negative       0.923954435617
+106 2:negative 1:positive   +   0.640868842414
+107 2:negative 2:negative       0.753129552028
+108 2:negative 1:positive   +   0.598006517074
+109 2:negative 2:negative       0.794365196905
+110 2:negative 2:negative       0.851686255055
+111 2:negative 2:negative       0.936262229538
+112 2:negative 1:positive   +   0.507613118945
+113 2:negative 2:negative       0.71487717756
+114 2:negative 1:positive   +   0.938385718738
+115 2:negative 2:negative       0.840834594692
+116 2:negative 2:negative       0.669893415837
+117 2:negative 2:negative       0.952770633505
+118 2:negative 1:positive   +   0.812285135139
+119 2:negative 2:negative       0.903052347899
+120 2:negative 2:negative       0.642380442482
+121 2:negative 2:negative       0.975043513839
+122 2:negative 2:negative       0.890332383992
+123 2:negative 2:negative       0.725085678456
+124 2:negative 2:negative       0.930115442052
+125 2:negative 1:positive   +   0.546507387806
+126 2:negative 2:negative       0.921544992689
+127 2:negative 1:positive   +   0.999999992716
+128 2:negative 2:negative       0.948841201187
+129 2:negative 2:negative       0.695179338642
+130 2:negative 2:negative       0.828299815454
+131 2:negative 2:negative       0.990282299812
+132 2:negative 1:positive   +   0.704634565566
+133 2:negative 2:negative       0.900732175499
+134 2:negative 2:negative       0.90795732948
+135 2:negative 2:negative       0.898437234742
+136 2:negative 1:positive   +   0.696697640599
+137 2:negative 1:positive   +   0.737933904926
+138 2:negative 2:negative       0.584370853042
+139 2:negative 2:negative       0.983075968767
+140 2:negative 2:negative       0.556348846496
+141 2:negative 2:negative       0.950912784503
+142 2:negative 1:positive   +   0.737933904915
+143 2:negative 1:positive   +   0.741665992045
+144 2:negative 2:negative       0.816907647451
+145 2:negative 2:negative       0.747770539436
+146 2:negative 2:negative       0.952044592523
+147 2:negative 2:negative       0.891264639449
+148 2:negative 2:negative       0.982689929059
+149 2:negative 2:negative       0.644788228416
+150 2:negative 2:negative       0.782086212458
+151 2:negative 2:negative       0.75312955203
+152 2:negative 2:negative       0.768334773778
+153 2:negative 1:positive   +   0.584081692243
+154 2:negative 1:positive   +   0.796668504389
+155 2:negative 2:negative       0.852833906641
+156 2:negative 2:negative       0.795282121398
+157 1:positive 2:negative   +   0.981178873371
+158 1:positive 2:negative   +   0.709785323451
+159 1:positive 2:negative   +   0.99160962805
+160 1:positive 2:negative   +   0.991676681519
+161 1:positive 2:negative   +   0.995778711116
+162 2:negative 2:negative       0.634795472627
+163 2:negative 2:negative       0.959939813892
+164 2:negative 2:negative       0.93785269454
+165 2:negative 2:negative       0.905364684314
+166 2:negative 2:negative       0.990510460475
+167 2:negative 2:negative       0.977651271572
+168 2:negative 2:negative       0.993176633721
+169 2:negative 2:negative       0.997400743674
+170 2:negative 2:negative       0.941154187226
+171 2:negative 2:negative       0.97001752976
+172 2:negative 2:negative       0.990318184422
+173 2:negative 2:negative       0.993920654315
+174 2:negative 2:negative       0.995480686718
+175 2:negative 2:negative       0.988353409168
+176 2:negative 2:negative       0.854329788338
+177 2:negative 2:negative       0.952727859693
+178 2:negative 2:negative       0.940543017158
+179 2:negative 2:negative       0.978516695337
+180 2:negative 2:negative       0.929937483913
+181 2:negative 1:positive   +   0.523342431905
+182 2:negative 2:negative       0.988751158892
+183 2:negative 2:negative       0.951398853037
+184 2:negative 2:negative       0.995170108895
+185 2:negative 2:negative       0.984517170861
+186 2:negative 2:negative       0.84108715231
+187 2:negative 2:negative       0.994820348701
+188 2:negative 2:negative       0.993293140191
+189 2:negative 2:negative       0.989965615422
+190 2:negative 2:negative       0.963302403788
+191 2:negative 2:negative       0.994330820898
+192 2:negative 2:negative       0.98207028697
+193 1:positive 2:negative   +   0.801936569101
+194 2:negative 1:positive   +   0.617553690887
+195 2:negative 2:negative       0.957780986183
+196 2:negative 2:negative       0.99317616437
+197 2:negative 2:negative       0.726587543905
+198 2:negative 2:negative       0.958419288913
+199 2:negative 2:negative       0.978963191555
+200 2:negative 2:negative       0.600856539088
+201 1:positive 2:negative   +   0.98428178171
+202 1:positive 2:negative   +   0.912655478351
+203 1:positive 2:negative   +   0.912655478351
+204 1:positive 2:negative   +   0.987138817955
+205 1:positive 1:positive       0.581304892426
+206 2:negative 2:negative       0.977168423903
+207 2:negative 2:negative       0.784407858761
+208 2:negative 2:negative       0.794373949027
+209 2:negative 2:negative       0.988587241655
+210 2:negative 2:negative       0.986935742954
+211 2:negative 2:negative       0.964786173149
+212 2:negative 2:negative       0.964786173149
+213 2:negative 2:negative       0.900199227618
+214 2:negative 2:negative       0.905934541583
+215 2:negative 2:negative       0.999834660217
+216 2:negative 2:negative       0.900809640221
+217 2:negative 2:negative       0.916075076628
+218 2:negative 2:negative       0.915845505857
+219 2:negative 2:negative       0.954602936533
+220 2:negative 2:negative       0.990831735804
+221 2:negative 2:negative       0.979008234436
+222 2:negative 2:negative       0.995125315856
+223 2:negative 2:negative       0.992337591357
+224 2:negative 2:negative       0.963891397814
+225 2:negative 1:positive   +   0.554617465682
+226 2:negative 2:negative       0.963891397814
+227 2:negative 2:negative       0.96613764149
+228 2:negative 2:negative       0.981702712776
+229 2:negative 2:negative       0.963891397814
+230 2:negative 2:negative       0.881567815966
+231 2:negative 2:negative       0.973247594306
+232 2:negative 2:negative       0.973247594306
+233 2:negative 2:negative       0.979008234436
+234 2:negative 2:negative       0.944391094773
+235 2:negative 2:negative       0.838334783247
+236 2:negative 2:negative       0.987698413033
+237 2:negative 2:negative       0.973247594306
+238 2:negative 2:negative       0.984408046556
+239 2:negative 2:negative       0.856972604736
+240 2:negative 2:negative       0.963891397814
+241 2:negative 2:negative       0.990831735804
+242 1:positive 2:negative   +   0.999527281592
+243 1:positive 1:positive       0.56596347738
+244 2:negative 2:negative       0.989555406163
+245 2:negative 2:negative       0.961687905896
+246 2:negative 2:negative       0.975477219107
+247 2:negative 2:negative       0.933964348378
+248 2:negative 2:negative       0.977919945102
+249 2:negative 2:negative       0.999022229251
+250 2:negative 2:negative       0.920465574697
+251 2:negative 2:negative       0.999925354441
+252 2:negative 2:negative       0.865775808561
+253 2:negative 2:negative       0.999999909921
+254 2:negative 2:negative       0.836722363944
+255 2:negative 2:negative       0.649146101647
+256 2:negative 2:negative       0.9391444405
+257 2:negative 2:negative       0.991958686137
+258 2:negative 2:negative       0.98736413749
+259 1:positive 2:negative   +   0.507321804445
+260 1:positive 2:negative   +   0.710580166235
+261 1:positive 2:negative   +   0.536638995297
+262 1:positive 2:negative   +   0.559079222453
+263 1:positive 2:negative   +   0.544720938731
+264 1:positive 1:positive       0.638421509083
+265 1:positive 2:negative   +   0.519368637073
+266 1:positive 2:negative   +   0.579999614226
+267 1:positive 2:negative   +   0.588388077903
+268 1:positive 2:negative   +   0.580969116002
+269 1:positive 1:positive       0.509204879889
+270 1:positive 2:negative   +   0.743627553447
+271 1:positive 2:negative   +   0.735909229477
+272 1:positive 2:negative   +   0.538093044622
+273 2:negative 2:negative       0.814946207329
+274 2:negative 1:positive   +   0.600628399259
+275 2:negative 2:negative       0.989768360143
+276 2:negative 1:positive   +   0.603941489266
+277 2:negative 2:negative       0.686549032602
+278 2:negative 2:negative       0.953820361997
+279 2:negative 2:negative       0.957494465375
+280 2:negative 1:positive   +   0.587973927409
+281 2:negative 2:negative       0.962747081253
+282 2:negative 2:negative       0.553006532779
+283 2:negative 2:negative       0.915882048806
+284 2:negative 2:negative       0.972391291798
+285 2:negative 2:negative       0.987364759519
+286 2:negative 2:negative       0.996820843214
+287 2:negative 2:negative       0.981299395551
+288 2:negative 2:negative       0.949683226057
+289 2:negative 2:negative       0.948512256918
+290 2:negative 2:negative       0.976893036446
+291 2:negative 2:negative       0.97527820033
+292 2:negative 2:negative       0.870575265062
+293 2:negative 2:negative       0.916614695914
+294 2:negative 2:negative       0.616440748006
+295 2:negative 2:negative       0.7913466101
+296 2:negative 2:negative       0.820241714258
+297 2:negative 2:negative       0.912165795256
+298 2:negative 2:negative       0.97054723488
+299 2:negative 2:negative       0.900940263368
+300 2:negative 2:negative       0.828120858907
+301 2:negative 2:negative       0.881858888792
+302 1:positive 2:negative   +   0.923753342027
+303 1:positive 2:negative   +   0.578471574892
+304 1:positive 1:positive       0.559591285425
+305 1:positive 2:negative   +   0.854430202355
+306 1:positive 2:negative   +   0.51258192524
+307 1:positive 2:negative   +   0.982170433414
+308 1:positive 1:positive       0.517484427964
+309 1:positive 2:negative   +   0.983818913008
+310 1:positive 2:negative   +   0.915364977112
+311 1:positive 1:positive       0.703975520661
+312 1:positive 2:negative   +   0.606854816076
+313 2:negative 2:negative       0.917735286225
+314 2:negative 2:negative       0.986967298766
+315 2:negative 2:negative       0.664208801394
+316 2:negative 2:negative       0.977327049574
+317 2:negative 2:negative       0.619674267748
+318 2:negative 2:negative       0.984369998134
+319 2:negative 2:negative       0.613614322325
+320 2:negative 2:negative       0.917396184252
+321 2:negative 2:negative       0.973633068595
+322 2:negative 2:negative       0.933194262456
+323 2:negative 2:negative       0.875982586677
+324 2:negative 2:negative       0.542949368801
+325 2:negative 2:negative       0.776213370984
+326 2:negative 2:negative       0.975288838679
+327 2:negative 2:negative       0.513085533631
+328 2:negative 2:negative       0.954630003679
+329 2:negative 2:negative       0.715735988559
+330 2:negative 2:negative       0.897426802421
+331 2:negative 2:negative       0.993636677151
+332 2:negative 2:negative       0.991629679788
+333 2:negative 2:negative       0.976461339415
+334 2:negative 2:negative       0.974178612355
+335 2:negative 2:negative       0.973790276341
+336 2:negative 2:negative       0.973633068594
+337 2:negative 2:negative       0.980063304263
+338 2:negative 2:negative       0.975449628706
+339 2:negative 2:negative       0.98517912207
+340 2:negative 1:positive   +   0.535244573
+341 2:negative 2:negative       0.889165887078
+342 2:negative 2:negative       0.968906210494
+343 2:negative 2:negative       0.877381474145
+344 2:negative 2:negative       0.995919807156
+345 2:negative 2:negative       0.972391291888
+346 2:negative 2:negative       0.975449628706
+347 2:negative 2:negative       0.889165887078
+348 2:negative 2:negative       0.982661468974
+349 2:negative 2:negative       0.989149634283
+350 2:negative 2:negative       0.977524285925
+351 2:negative 2:negative       0.98517912207
+352 2:negative 2:negative       0.976994019331
+353 2:negative 2:negative       0.976392694294
+354 2:negative 2:negative       0.980611225674
+355 2:negative 2:negative       0.876717323969
+356 2:negative 2:negative       0.982698788702
+357 2:negative 2:negative       0.965061930379
+358 2:negative 2:negative       0.992360118607
+359 2:negative 2:negative       0.919686935672
+360 2:negative 2:negative       0.964279586418
+361 2:negative 2:negative       0.505869833952
+362 2:negative 2:negative       0.85349487872
+363 2:negative 1:positive   +   0.709911910535
+364 2:negative 2:negative       0.71763869101
+365 2:negative 2:negative       0.988353409167
+366 2:negative 1:positive   +   0.541445352669
+367 2:negative 2:negative       0.975449628706
+368 2:negative 2:negative       0.612026291634
+369 2:negative 2:negative       0.889165887077
+370 2:negative 2:negative       0.592971083924
+371 2:negative 2:negative       0.815959290096
+372 2:negative 2:negative       0.918014989324
+373 2:negative 2:negative       0.976825620436
+374 2:negative 1:positive   +   0.853565817089
+375 2:negative 2:negative       0.84497548917
+376 2:negative 2:negative       0.862418813025
+377 2:negative 2:negative       0.784891577274
+378 2:negative 2:negative       0.891136238806
+379 2:negative 2:negative       0.855965563169
+380 2:negative 2:negative       0.983818913011
+381 2:negative 2:negative       0.988353409168
+382 2:negative 2:negative       0.60323059977
+383 2:negative 2:negative       0.917735286223
+384 2:negative 2:negative       0.730400523424
+385 2:negative 2:negative       0.976994019334
+386 2:negative 2:negative       0.910064270838
+387 2:negative 2:negative       0.984444300433
+388 2:negative 2:negative       0.869373899593
+389 2:negative 2:negative       0.623786173415
+390 2:negative 2:negative       0.985266145613
+391 2:negative 1:positive   +   0.665883056137
+392 2:negative 2:negative       0.612026291636
+393 2:negative 2:negative       0.974882109336
+394 2:negative 2:negative       0.968816236195
+395 2:negative 2:negative       0.862858488807
+396 2:negative 2:negative       0.976994019335
+397 2:negative 2:negative       0.978799145227
+398 2:negative 2:negative       0.987783535761
+399 2:negative 2:negative       0.917735286224
+400 2:negative 2:negative       0.853494878723
+401 2:negative 1:positive   +   0.508212385966
+402 2:negative 2:negative       0.984833017725
+403 2:negative 2:negative       0.877039304284
+404 2:negative 2:negative       0.965061930379
+405 2:negative 2:negative       0.986688002522
+406 2:negative 2:negative       0.66382709976
+407 2:negative 2:negative       0.639093565224
+408 2:negative 2:negative       0.974103486729
+409 2:negative 2:negative       0.977458669085
+410 2:negative 1:positive   +   0.521865167913
+411 2:negative 1:positive   +   0.554663492569
+412 2:negative 2:negative       0.96800044491
+413 2:negative 2:negative       0.963689251228
+414 1:positive 2:negative   +   0.944123265322
+415 1:positive 1:positive       0.75588398538
+416 1:positive 1:positive       0.664534307211
+417 1:positive 2:negative   +   0.5539235656
+418 1:positive 1:positive       0.747679710061
+419 2:negative 1:positive   +   0.716717353494
+420 2:negative 1:positive   +   0.932589175343
+421 2:negative 1:positive   +   0.716717353496
+422 2:negative 2:negative       0.669038783442
+423 2:negative 2:negative       0.708468548183
+424 2:negative 1:positive   +   0.660901189258
+425 2:negative 1:positive   +   0.549345439932
+426 2:negative 1:positive   +   0.716717353503
+427 2:negative 1:positive   +   0.959674203895
+428 2:negative 1:positive   +   0.616062149467
+429 2:negative 2:negative       0.892413295527
+430 2:negative 1:positive   +   0.541906292034
+431 2:negative 2:negative       0.540865741668
+432 2:negative 2:negative       0.808995275311
+433 2:negative 2:negative       0.569204921644
+434 2:negative 1:positive   +   0.624242039658
+435 2:negative 2:negative       0.905811558736
+436 2:negative 1:positive   +   0.6426584421
+437 2:negative 1:positive   +   0.864535598101
+438 2:negative 1:positive   +   0.752053516941
+439 2:negative 2:negative       0.935892031739
+440 2:negative 1:positive   +   0.743554676429
+441 2:negative 2:negative       0.585573633888
+442 2:negative 1:positive   +   0.666933631983
+443 2:negative 1:positive   +   0.903376053069
+444 2:negative 1:positive   +   0.686766334552
+445 2:negative 2:negative       0.580123795672
+446 2:negative 1:positive   +   0.624242039655
+447 2:negative 1:positive   +   0.731350264464
+448 2:negative 2:negative       0.793308130009
+449 1:positive 2:negative   +   0.92159437909
+450 2:negative 2:negative       0.935693601348
+451 2:negative 2:negative       0.949696069666
+452 2:negative 1:positive   +   0.690630296521
+453 2:negative 2:negative       0.969453511552
+454 2:negative 2:negative       0.827268511624
+455 2:negative 1:positive   +   0.582492225383
+456 2:negative 2:negative       0.710402489044
+457 1:positive 1:positive       0.710370537751
+458 2:negative 1:positive   +   0.501007525057
+459 2:negative 2:negative       0.816696281861
+460 2:negative 2:negative       0.555423798406
+461 2:negative 2:negative       0.832977397278
+462 2:negative 2:negative       0.631048375856
+463 2:negative 1:positive   +   0.730066055226
+464 1:positive 2:negative   +   0.91897509501
+465 1:positive 2:negative   +   0.537019978551
+466 1:positive 2:negative   +   0.950807960934
+467 2:negative 1:positive   +   0.688613906501
+468 2:negative 2:negative       0.883809425549
+469 2:negative 2:negative       0.790377933819
+470 2:negative 2:negative       0.962490430862
+471 2:negative 2:negative       0.994434523739
+472 2:negative 2:negative       0.990570643767
+473 2:negative 2:negative       0.989977920619
+474 2:negative 2:negative       0.726570270937
+475 2:negative 2:negative       0.994625883302
+476 2:negative 2:negative       0.973600009666
+477 2:negative 2:negative       0.710273809832
+478 2:negative 2:negative       0.801873643862
+479 2:negative 2:negative       0.609930889142
+480 2:negative 2:negative       0.952813363805
+481 1:positive 1:positive       0.605394002636
+482 1:positive 1:positive       0.867086942445
+483 1:positive 2:negative   +   0.752159605495
+484 2:negative 2:negative       0.913240955942
+485 2:negative 2:negative       0.919031333155
+486 2:negative 2:negative       0.794477630973
+487 2:negative 2:negative       0.996319859908
+488 1:positive 1:positive       0.603608527093
+489 2:negative 2:negative       0.965047108227
+490 2:negative 2:negative       0.952308108877
+491 2:negative 2:negative       0.952443375895
+492 2:negative 2:negative       0.999999882715
+493 2:negative 2:negative       0.986755052861
+494 2:negative 2:negative       0.99358025347
+495 2:negative 2:negative       0.82193524437
+496 1:positive 1:positive       0.931422181014
+497 1:positive 1:positive       0.912115828173
+498 1:positive 1:positive       0.66846634144
+499 1:positive 2:negative   +   0.566894614496
+500 1:positive 2:negative   +   0.70256267287
+501 1:positive 2:negative   +   0.612026291638
+502 1:positive 2:negative   +   0.921992849113
+503 1:positive 2:negative   +   0.945296394811
+504 1:positive 2:negative   +   0.937774743187
+505 1:positive 2:negative   +   0.925883873215
+506 2:negative 1:positive   +   0.52858572341
+507 2:negative 2:negative       0.688470042006
+508 2:negative 2:negative       0.689109329417
+509 2:negative 2:negative       0.687673648713
+510 2:negative 2:negative       0.702562672872
+511 2:negative 2:negative       0.634818999616
+512 2:negative 2:negative       0.663424114886
+513 2:negative 2:negative       0.717832775717
+514 2:negative 2:negative       0.630134972622
+515 2:negative 2:negative       0.788607314076
+516 2:negative 2:negative       0.933469463584
+517 2:negative 2:negative       0.988875405773
+518 2:negative 2:negative       0.87946601665
+519 2:negative 1:positive   +   0.65999285212
+520 2:negative 2:negative       0.992968446474
+521 2:negative 1:positive   +   0.637695147883
+522 2:negative 2:negative       0.689109329417
+523 2:negative 2:negative       0.943625065273
+524 2:negative 2:negative       0.972568774591
+525 2:negative 2:negative       0.910603401569
+526 2:negative 2:negative       0.919800949775
+527 2:negative 2:negative       0.730044889315
+528 2:negative 2:negative       0.999851960497
+529 2:negative 2:negative       0.965372788002
+530 2:negative 2:negative       0.936323563562
+531 2:negative 2:negative       0.997606052862
+532 2:negative 1:positive   +   0.565762100114
+533 2:negative 2:negative       0.604030796678
+534 2:negative 2:negative       0.960382931694
+535 2:negative 2:negative       0.997606052862
+536 2:negative 2:negative       0.999962899098
+537 2:negative 2:negative       0.995885748503
+538 2:negative 2:negative       0.988916151076
+539 2:negative 2:negative       0.974497573579
+540 1:positive 2:negative   +   0.915042844651
+541 1:positive 2:negative   +   0.760591411232
+542 1:positive 2:negative   +   0.813389136216
+543 1:positive 2:negative   +   0.937890547524
+544 2:negative 2:negative       0.938873710171
+545 2:negative 2:negative       0.997349984692
+546 2:negative 2:negative       0.760591411232
+547 2:negative 2:negative       0.976568129609
+548 1:positive 2:negative   +   0.956514690342
+549 1:positive 2:negative   +   0.95949513145
+550 1:positive 2:negative   +   0.95949513145
+551 2:negative 2:negative       0.94983631959
+552 2:negative 2:negative       0.946521128645
+553 2:negative 2:negative       0.931732548117
+554 2:negative 2:negative       0.873883640785
+555 2:negative 2:negative       0.955402515759
+556 2:negative 1:positive   +   0.53866055662
+557 2:negative 2:negative       0.837336549044
+558 2:negative 1:positive   +   0.582317223334
+559 2:negative 2:negative       0.988574846958
+560 2:negative 2:negative       0.988530256516
+561 2:negative 2:negative       0.967371040334
+562 2:negative 2:negative       0.953660729396
+563 2:negative 2:negative       0.907244206357
+564 2:negative 2:negative       0.955968451249
+565 2:negative 2:negative       0.945252768324
+566 2:negative 2:negative       0.946229021356
+567 2:negative 2:negative       0.858158622591
+568 2:negative 2:negative       0.945467006601
+569 2:negative 2:negative       0.941288467752
+570 2:negative 2:negative       0.734839699229
+571 2:negative 2:negative       0.987910385497
+572 2:negative 2:negative       0.96906667282
+573 2:negative 2:negative       0.969900989301
+574 2:negative 2:negative       0.984479057833
+575 2:negative 2:negative       0.989244886672
+576 2:negative 2:negative       0.925956794234
+577 2:negative 2:negative       0.978328348434
+578 2:negative 2:negative       0.921098985449
+579 2:negative 2:negative       0.941288467752
+580 2:negative 2:negative       0.749568953706
+581 2:negative 2:negative       0.960009716204
+582 2:negative 2:negative       0.957840101815
+583 2:negative 2:negative       0.896875366482
+584 2:negative 2:negative       0.952712626872
+585 2:negative 2:negative       0.952914190312
+586 2:negative 2:negative       0.946229021356
+587 2:negative 2:negative       0.981987093956
+588 1:positive 1:positive       0.856678722525
+589 1:positive 1:positive       0.610805302665
+590 1:positive 2:negative   +   0.63909064958
+591 2:negative 2:negative       0.962980387354
+592 2:negative 1:positive   +   0.772611359058
+593 2:negative 2:negative       0.60904532228
+594 2:negative 1:positive   +   0.593746138623
+595 2:negative 1:positive   +   0.698124690727
+596 2:negative 1:positive   +   0.607605573714
+597 2:negative 1:positive   +   0.783459877654
+598 2:negative 1:positive   +   0.500217832707
+599 2:negative 1:positive   +   0.512964984503
+600 2:negative 1:positive   +   0.603121464349
+601 2:negative 2:negative       0.95424937531
+602 2:negative 2:negative       0.88483381679
+603 2:negative 2:negative       0.905734388907
+604 2:negative 2:negative       0.924361565801
+605 2:negative 1:positive   +   0.583132493159
+606 2:negative 2:negative       0.57409406233
+607 2:negative 2:negative       0.532127448569
+608 2:negative 1:positive   +   0.71934226364
+609 2:negative 2:negative       0.629472096894
+610 2:negative 1:positive   +   0.891946560182
+611 2:negative 2:negative       0.594230064146
+612 2:negative 1:positive   +   0.689597580109
+613 2:negative 2:negative       0.806314229294
+614 2:negative 2:negative       0.656297991367
+615 2:negative 2:negative       0.832330109162
+616 2:negative 1:positive   +   0.843027982011
+617 2:negative 1:positive   +   0.549483148447
+618 2:negative 1:positive   +   0.658291014975
+619 2:negative 1:positive   +   0.696962703815
+620 2:negative 2:negative       0.615785681397
+621 2:negative 1:positive   +   0.999999999812
+622 2:negative 2:negative       0.668020957161
+623 2:negative 1:positive   +   0.867682439623
+624 2:negative 1:positive   +   0.886970221384
+625 2:negative 1:positive   +   0.624644198143
+626 2:negative 2:negative       0.923415182668
+627 2:negative 1:positive   +   0.693924130242
+628 2:negative 1:positive   +   0.798895073831
+629 2:negative 2:negative       0.75922731152
+630 2:negative 2:negative       0.89072502165
+631 2:negative 1:positive   +   0.810562184021
+632 2:negative 1:positive   +   0.595005272851
+633 2:negative 2:negative       0.818391467645
+634 2:negative 2:negative       0.939515896062
+635 2:negative 2:negative       0.728256461334
+636 2:negative 2:negative       0.945162059108
+637 1:positive 1:positive       0.908784002787
+638 2:negative 2:negative       0.882388942118
+639 2:negative 2:negative       0.711079015156
+640 2:negative 1:positive   +   0.784730514397
+641 2:negative 2:negative       0.547748743619
+642 1:positive 2:negative   +   0.995253073657
+643 2:negative 2:negative       0.997759293643
+644 2:negative 2:negative       0.998685681889
+645 2:negative 2:negative       0.996769205818
+646 1:positive 2:negative   +   0.907524318723
+647 1:positive 2:negative   +   0.81320441948
+648 1:positive 2:negative   +   0.781454744334
+649 1:positive 1:positive       0.837128803565
+650 1:positive 1:positive       0.886195834481
+651 1:positive 1:positive       0.894354915966
+652 1:positive 1:positive       0.999999999069
+653 1:positive 1:positive       0.929010833985
+654 1:positive 1:positive       0.755347268709
+655 2:negative 2:negative       0.98795283837
+656 2:negative 2:negative       0.692434803093
+657 2:negative 2:negative       0.841803319682
+658 2:negative 2:negative       0.960833600544
+659 2:negative 2:negative       0.638485206058
+660 2:negative 2:negative       0.893712247233
+661 2:negative 2:negative       0.839882432051
+662 2:negative 1:positive   +   0.72813440739
+663 2:negative 1:positive   +   0.94533859845
+664 2:negative 2:negative       0.947039361407
+665 2:negative 2:negative       0.718890792655
+666 2:negative 1:positive   +   0.676324573694
+667 2:negative 1:positive   +   0.899985908641
+668 2:negative 1:positive   +   0.661217051173
+669 1:positive 2:negative   +   0.661098719957
+670 1:positive 2:negative   +   0.581676706386
+671 1:positive 1:positive       0.581126583167
+672 1:positive 2:negative   +   0.647233398368
+673 1:positive 2:negative   +   0.657607330784
+674 1:positive 2:negative   +   0.92651557362
+675 1:positive 2:negative   +   0.689530348083
+676 1:positive 2:negative   +   0.663105806682
+677 2:negative 2:negative       0.567003401838
+678 2:negative 2:negative       0.753723021117
+679 2:negative 2:negative       0.88058629163
+680 2:negative 2:negative       0.86797433702
+681 2:negative 2:negative       0.880586291631
+682 2:negative 2:negative       0.792477856058
+683 2:negative 2:negative       0.94955155835
+684 2:negative 2:negative       0.767872449232
+685 2:negative 2:negative       0.893885646484
+686 2:negative 2:negative       0.662687152927
+687 2:negative 1:positive   +   0.63459958624
+688 2:negative 2:negative       0.997146132971
+689 2:negative 2:negative       0.690895376167
+690 2:negative 1:positive   +   0.910493302251
+691 1:positive 2:negative   +   0.84414382934
+692 1:positive 1:positive       0.641454700547
+693 1:positive 1:positive       0.733604021297
+694 2:negative 1:positive   +   0.863143434904
+695 2:negative 2:negative       0.748833964704
+696 2:negative 1:positive   +   0.706622467249
+697 2:negative 1:positive   +   0.707365208717
+698 2:negative 1:positive   +   0.628679274683
+699 2:negative 2:negative       0.884506412131
+700 2:negative 2:negative       0.999034378223
+701 2:negative 2:negative       0.917266942997
+702 2:negative 2:negative       0.908544816196
+703 2:negative 2:negative       0.922179433141
+704 2:negative 2:negative       0.59511739545
+705 2:negative 1:positive   +   0.565230576859
+706 2:negative 1:positive   +   0.547114236984
+707 2:negative 2:negative       0.753717119031
+708 2:negative 2:negative       0.96557226254
+709 2:negative 1:positive   +   0.746238548875
+710 2:negative 2:negative       0.919777335232
+711 2:negative 2:negative       0.67844302856
+712 2:negative 2:negative       0.872110964697
+713 1:positive 2:negative   +   0.996682146014
+714 1:positive 2:negative   +   0.997987852384
+715 2:negative 2:negative       0.908271761179
+716 2:negative 2:negative       0.914136795197
+717 2:negative 2:negative       0.823287811461
+718 2:negative 2:negative       0.91233060934
+719 2:negative 2:negative       0.966444736966
+720 2:negative 2:negative       0.87108779932
+721 2:negative 2:negative       0.769278806533
+722 2:negative 2:negative       0.96283572316
+723 2:negative 2:negative       0.951416838662
+724 2:negative 2:negative       0.559806111935
+725 2:negative 2:negative       0.92921496112
+726 2:negative 2:negative       0.984501487709
+727 2:negative 2:negative       0.957979523356
+728 2:negative 2:negative       0.967709693025
+729 2:negative 2:negative       0.929093789662
+730 2:negative 2:negative       0.976294335127
+731 2:negative 2:negative       0.862743162736
+732 2:negative 1:positive   +   0.506947561525
+733 2:negative 2:negative       0.616579408603
+734 2:negative 2:negative       0.962595487618
+735 2:negative 2:negative       0.997239773299
+736 2:negative 2:negative       0.984501487705
+737 2:negative 2:negative       0.972433520126
+738 2:negative 2:negative       0.819154312504
+739 2:negative 2:negative       0.951416838428
+740 2:negative 2:negative       0.834846412398
+741 2:negative 2:negative       0.943643343271
+742 2:negative 2:negative       0.995919807134
+743 1:positive 1:positive       0.616448777429
+744 2:negative 2:negative       0.994189493056
+745 2:negative 2:negative       0.924423876383
+746 2:negative 2:negative       0.98943346026
+747 2:negative 2:negative       0.952475996256
+748 2:negative 2:negative       0.946745775359
+749 2:negative 2:negative       0.952422397646
+750 2:negative 2:negative       0.878821618227
+751 2:negative 2:negative       0.955507069649
+752 2:negative 2:negative       0.995898932203
+753 2:negative 2:negative       0.909558192692
+754 2:negative 2:negative       0.552793281648
+755 2:negative 2:negative       0.95980967292
+756 2:negative 2:negative       0.970702384363
+757 2:negative 2:negative       0.995089223193
+758 2:negative 2:negative       0.998399849905
+759 1:positive 2:negative   +   0.858787832048
+760 2:negative 2:negative       0.831987588544
+761 2:negative 1:positive   +   0.649688447174
+762 2:negative 1:positive   +   0.507213751387
+763 2:negative 1:positive   +   0.591292296212
+764 2:negative 1:positive   +   0.923908474079
+765 2:negative 2:negative       0.991052548614
+766 2:negative 1:positive   +   0.58146122861
+767 2:negative 2:negative       0.528995207646
+768 2:negative 1:positive   +   0.555958762255
+769 2:negative 1:positive   +   0.54862199124
+770 2:negative 1:positive   +   0.633069586304
+771 2:negative 1:positive   +   0.74510951081
+772 2:negative 1:positive   +   0.881610464742
+773 2:negative 2:negative       0.90778016088
+774 2:negative 2:negative       0.658425179236
+775 2:negative 1:positive   +   0.701908171661
+776 2:negative 1:positive   +   0.603815074978
+777 2:negative 2:negative       0.606616756405
+778 1:positive 2:negative   +   0.788365259512
+779 1:positive 1:positive       0.794809061934
+780 1:positive 2:negative   +   0.938788637197
+781 2:negative 1:positive   +   0.845412595867
+782 2:negative 1:positive   +   0.58848766365
+783 2:negative 1:positive   +   0.557149339894
+784 2:negative 2:negative       0.612756471182
+785 2:negative 1:positive   +   0.607160359733
+786 2:negative 2:negative       0.849717394716
+787 2:negative 1:positive   +   0.70690346712
+788 1:positive 1:positive       0.687728231471
+789 2:negative 2:negative       0.789455282781
+790 1:positive 2:negative   +   0.920593077911
+791 1:positive 2:negative   +   0.856237540377
+792 1:positive 2:negative   +   0.848426639781
+793 1:positive 2:negative   +   0.651259645182
+794 1:positive 2:negative   +   0.802787503186
+795 2:negative 2:negative       0.904169001302
+796 2:negative 2:negative       0.998032512521
+797 2:negative 2:negative       0.998869092956
+798 2:negative 2:negative       0.919249961735
+799 2:negative 2:negative       0.993280885827
+800 2:negative 2:negative       0.997566943192
+801 2:negative 2:negative       0.99604567381
+802 2:negative 2:negative       0.959347586999
+803 1:positive 2:negative   +   0.861833639424
+804 1:positive 2:negative   +   0.90882328498
+805 1:positive 2:negative   +   0.914830828891
+806 1:positive 2:negative   +   0.841451675734
+807 1:positive 2:negative   +   0.871252755307
+808 2:negative 2:negative       0.947202363717
+809 2:negative 2:negative       0.96053702987
+810 2:negative 2:negative       0.954173918133
+811 2:negative 2:negative       0.95156929243
+812 2:negative 2:negative       0.913664868033
+813 2:negative 2:negative       0.947131307973
+814 2:negative 2:negative       0.987539618362
+815 2:negative 2:negative       0.993419214254
+816 2:negative 2:negative       0.91927039138
+817 1:positive 2:negative   +   0.663029955764
+818 1:positive 2:negative   +   0.660012912216
+819 2:negative 2:negative       0.921584119082
+820 2:negative 2:negative       0.881676464088
+821 2:negative 2:negative       0.936468059382
+822 2:negative 2:negative       0.912816182782
+823 2:negative 2:negative       0.80817887713
+824 1:positive 2:negative   +   0.522207226178
+825 1:positive 1:positive       0.653115718528
+826 1:positive 2:negative   +   0.818737233751
+827 1:positive 1:positive       0.751755156809
+828 1:positive 2:negative   +   0.832621471751
+829 1:positive 2:negative   +   0.884234651143
+830 1:positive 2:negative   +   0.59336531125
+831 1:positive 1:positive       0.692898096652
+832 1:positive 2:negative   +   0.876845575985
+833 1:positive 1:positive       0.76393851085
+834 1:positive 2:negative   +   0.876845576037
+835 2:negative 2:negative       0.879135088741
+836 2:negative 1:positive   +   0.545265765901
+837 2:negative 2:negative       0.878546097254
+838 2:negative 2:negative       0.75547252436
+839 2:negative 1:positive   +   0.627005389007
+840 2:negative 1:positive   +   0.568937900892
+841 2:negative 1:positive   +   0.74821694409
+842 2:negative 2:negative       0.566936299096
+843 2:negative 2:negative       0.991410431951
+844 2:negative 1:positive   +   0.802799331299
+845 2:negative 2:negative       0.871882885781
+846 2:negative 2:negative       0.828405728938
+847 2:negative 2:negative       0.500975967446
+848 2:negative 2:negative       0.987193165423
+849 2:negative 2:negative       0.566936299099
+850 2:negative 2:negative       0.885626727201
+851 2:negative 1:positive   +   0.552143862072
+852 2:negative 2:negative       0.850846181885
+853 2:negative 2:negative       0.805134581655
+854 2:negative 2:negative       0.918437170212
+855 1:positive 1:positive       0.870396138802
+856 1:positive 1:positive       0.948481669387
+857 2:negative 1:positive   +   0.658314258216
+858 2:negative 2:negative       0.848328135488
+859 2:negative 1:positive   +   0.802872066836
+860 1:positive 2:negative   +   0.968893820755
+861 1:positive 2:negative   +   0.994998997503
+862 1:positive 2:negative   +   0.952136949079
+863 2:negative 2:negative       0.847327503737
+864 2:negative 2:negative       0.74436333726
+865 2:negative 2:negative       0.933178149743
+866 2:negative 2:negative       0.971872676422
+867 2:negative 2:negative       0.993632063514
+868 2:negative 2:negative       0.9943797082
+869 2:negative 2:negative       0.970125255465
+870 2:negative 2:negative       0.991345350076
+871 2:negative 2:negative       0.972176581499
+872 1:positive 2:negative   +   0.559490502497
+873 1:positive 2:negative   +   0.729269696793
+874 1:positive 1:positive       0.728487040407
+875 2:negative 2:negative       0.956572335681
+876 2:negative 2:negative       0.999748183579
+877 2:negative 2:negative       0.938497591833
+878 2:negative 2:negative       0.65686006246
+879 2:negative 1:positive   +   0.595795270065
+880 2:negative 2:negative       0.989654344513
+881 2:negative 2:negative       0.792123602148
+882 2:negative 1:positive   +   0.578024623813
+883 2:negative 2:negative       0.6033699355
+884 2:negative 1:positive   +   0.739583973082
+885 2:negative 1:positive   +   0.772572057156
+886 2:negative 2:negative       0.53642808862
+887 2:negative 1:positive   +   0.51875597311
+888 2:negative 2:negative       0.917562528138
+889 2:negative 2:negative       0.864584340095
+890 2:negative 1:positive   +   0.511874267858
+891 2:negative 2:negative       0.992337591329
+892 2:negative 2:negative       0.5690104402
+893 2:negative 2:negative       0.864584340097
+894 2:negative 2:negative       0.566480023983
+895 2:negative 2:negative       0.997660797107
+896 2:negative 1:positive   +   0.585432845143
+897 2:negative 1:positive   +   0.900112996427
+898 2:negative 1:positive   +   0.772572057166
+899 2:negative 1:positive   +   0.908600051877
+900 2:negative 1:positive   +   0.629514712492
+901 2:negative 1:positive   +   0.570122407395
+902 2:negative 2:negative       0.988882520314
+903 2:negative 1:positive   +   0.522848866795
+904 2:negative 2:negative       0.613587195958
+905 2:negative 2:negative       0.516009806971
+906 2:negative 1:positive   +   0.509147448559
+907 2:negative 2:negative       0.951105450239
+908 2:negative 2:negative       0.922637938697
+909 2:negative 2:negative       0.603369935522
+910 2:negative 2:negative       0.603369935532
+911 2:negative 2:negative       0.922637938675
+912 2:negative 1:positive   +   0.618690166721
+913 2:negative 2:negative       0.623550478068
+914 2:negative 2:negative       0.797786978373
+915 1:positive 2:negative   +   0.522137461812
+916 2:negative 2:negative       0.811774279606
+917 2:negative 2:negative       0.888106202532
+918 2:negative 2:negative       0.732165445698
+919 2:negative 2:negative       0.968925942685
+920 1:positive 2:negative   +   0.549334655844
+921 1:positive 2:negative   +   0.675311127697
+922 1:positive 2:negative   +   0.963708464448
+923 1:positive 2:negative   +   0.868935141268
+924 1:positive 2:negative   +   0.574249370731
+925 2:negative 2:negative       0.963613139109
+926 2:negative 2:negative       0.870242758491
+927 2:negative 2:negative       0.995035187352
+928 2:negative 2:negative       0.980930649969
+929 2:negative 2:negative       0.995660777461
+930 2:negative 2:negative       0.845067398301
+931 2:negative 2:negative       0.88411330617
+932 1:positive 1:positive       0.976035086015
+933 1:positive 1:positive       0.659693380598
+934 1:positive 1:positive       0.999999998102
+935 1:positive 1:positive       0.772257239777
+936 1:positive 1:positive       0.605891331123
+937 1:positive 1:positive       0.52256005088
+938 1:positive 1:positive       0.999999988257
+939 2:negative 2:negative       0.913939421698
+940 2:negative 2:negative       0.829780214325
+941 2:negative 2:negative       0.888799609919
+942 2:negative 2:negative       0.835381637379
+943 2:negative 2:negative       0.587140621583
+944 2:negative 2:negative       0.806251541393
+945 1:positive 2:negative   +   0.553395145454
+946 1:positive 2:negative   +   0.896922626014
+947 1:positive 2:negative   +   0.531683282233
+948 1:positive 1:positive       0.644198732655
+949 1:positive 1:positive       0.813758778596
+950 2:negative 2:negative       0.530525713939
+951 2:negative 2:negative       0.946465220913
+952 2:negative 2:negative       0.677888814904
+953 2:negative 1:positive   +   0.876284038916
+954 1:positive 2:negative   +   0.995227273291
+955 1:positive 2:negative   +   0.936589003533
+956 1:positive 2:negative   +   0.968148415858
+957 1:positive 2:negative   +   0.989141013257
+958 1:positive 2:negative   +   0.995715620102
+959 2:negative 2:negative       0.967764002642
+960 1:positive 1:positive       0.725989820598
+961 1:positive 1:positive       0.884341774508
+962 1:positive 1:positive       0.572664079242
+963 1:positive 1:positive       0.911763180026
+964 1:positive 2:negative   +   0.800860890817
+965 1:positive 1:positive       0.718653505913
+966 1:positive 1:positive       0.552988005953
+967 2:negative 2:negative       0.80807865622
+968 2:negative 1:positive   +   0.706903467163
+969 2:negative 2:negative       0.796461905298
+970 2:negative 2:negative       0.886892956429
+971 2:negative 2:negative       0.880361671516
+972 2:negative 1:positive   +   0.733223631587
+973 2:negative 2:negative       0.784454175347
+974 2:negative 1:positive   +   0.726376262198
+975 2:negative 2:negative       0.845241191292
+976 2:negative 2:negative       0.529365847159
+977 2:negative 2:negative       0.799349048458
+978 2:negative 1:positive   +   0.549502493034
+979 2:negative 1:positive   +   0.783449157882
+980 2:negative 2:negative       0.797062763723
+981 2:negative 1:positive   +   0.92396602335
+982 2:negative 2:negative       0.989875315574
+983 2:negative 2:negative       0.98686742351
+984 2:negative 1:positive   +   0.54950249304
+985 2:negative 2:negative       0.991930833004
+986 2:negative 2:negative       0.857691658657
+987 2:negative 1:positive   +   0.602531900734
+988 2:negative 2:negative       0.989887789219
+989 2:negative 2:negative       0.864959793587
+990 2:negative 2:negative       0.923673928609
+991 2:negative 2:negative       0.850368551742
+992 2:negative 2:negative       0.790976049922
+993 2:negative 2:negative       0.734493472703
+994 2:negative 1:positive   +   0.68642404665
+995 1:positive 2:negative   +   0.981687194581
+996 1:positive 2:negative   +   0.973710475309
+997 1:positive 1:positive       0.567917097857
+998 1:positive 2:negative   +   0.56673253064
+999 1:positive 2:negative   +   0.540579764423
+1000 2:negative 2:negative       0.840623299418
+1001 2:negative 2:negative       0.867588345949
+1002 2:negative 2:negative       0.809918485203
+1003 2:negative 1:positive   +   0.683549205479
+1004 2:negative 2:negative       0.974234106267
+1005 1:positive 1:positive       0.734976902802
+1006 2:negative 2:negative       0.936180883558
+1007 2:negative 2:negative       0.752562535537
+1008 2:negative 2:negative       0.666775074992
+1009 2:negative 2:negative       0.666775074987
+1010 2:negative 1:positive   +   0.56458694111
+1011 2:negative 2:negative       0.948895117793
+1012 2:negative 1:positive   +   0.581947713204
+1013 2:negative 2:negative       0.808113332843
+1014 2:negative 1:positive   +   0.614862728473
+1015 2:negative 2:negative       0.993551009827
+1016 2:negative 2:negative       0.51032589774
+1017 2:negative 2:negative       0.977252187678
+1018 2:negative 1:positive   +   0.692821081017
+1019 2:negative 2:negative       0.988896201603
+1020 1:positive 2:negative   +   0.538969636375
+1021 1:positive 1:positive       0.742300286999
+1022 1:positive 2:negative   +   0.815906865375
+1023 1:positive 1:positive       0.853848069734
+1024 2:negative 2:negative       0.992592931088
+1025 2:negative 2:negative       0.993486961993
+1026 2:negative 2:negative       0.689539438282
+1027 2:negative 2:negative       0.939598227827
+1028 2:negative 2:negative       0.999395032801
+1029 2:negative 2:negative       0.99537511221
+1030 2:negative 2:negative       0.991152611848
+1031 2:negative 2:negative       0.924342417133
+1032 2:negative 1:positive   +   0.660783728021
+1033 2:negative 2:negative       0.980341822405
+1034 2:negative 2:negative       0.620424199626
+1035 2:negative 2:negative       0.913311844426
+1036 2:negative 2:negative       0.998264667799
+1037 2:negative 2:negative       0.815348875317
+1038 2:negative 2:negative       0.987983967494
+1039 2:negative 2:negative       0.987840714293
+1040 2:negative 2:negative       0.983383505783
+1041 2:negative 2:negative       0.923443414966
+1042 2:negative 2:negative       0.998646190752
+1043 2:negative 2:negative       0.9822352954
+1044 2:negative 2:negative       0.990790931354
+1045 2:negative 2:negative       0.89727947233
+1046 2:negative 2:negative       0.98529448773
+1047 2:negative 2:negative       0.991632363778
+1048 2:negative 2:negative       0.964018889534
+1049 2:negative 2:negative       0.943062045625
+1050 2:negative 2:negative       0.88778522479
+1051 2:negative 2:negative       0.992592931088
+1052 2:negative 2:negative       0.997989868036
+1053 2:negative 2:negative       0.923443414966
+1054 2:negative 2:negative       0.985237904642
+1055 2:negative 2:negative       0.978879413435
+1056 2:negative 2:negative       0.913547674501
+1057 2:negative 2:negative       0.664456127538
+1058 2:negative 2:negative       0.805117761307
+1059 2:negative 2:negative       0.864311085247
+1060 2:negative 2:negative       0.945512917548
+1061 2:negative 2:negative       0.932704078406
+1062 2:negative 2:negative       0.861201270613
+1063 2:negative 2:negative       0.926856603242
+1064 2:negative 2:negative       0.98935506587
+1065 2:negative 2:negative       0.614141156755
+1066 2:negative 2:negative       0.898146914282
+1067 2:negative 2:negative       0.825804529205
+1068 2:negative 2:negative       0.97435525922
+1069 2:negative 2:negative       0.704767250006
+1070 2:negative 2:negative       0.977341758671
+1071 2:negative 2:negative       0.97691351139
+1072 2:negative 2:negative       0.979963835286
+1073 2:negative 2:negative       0.993553101062
+1074 2:negative 2:negative       0.954570722844
+1075 2:negative 2:negative       0.958099305437
+1076 2:negative 2:negative       0.983408831371
+1077 2:negative 2:negative       0.952179088434
+1078 2:negative 2:negative       0.97387529383
+1079 2:negative 1:positive   +   0.552473166056
+1080 2:negative 2:negative       0.980341822405
+1081 2:negative 2:negative       0.962220071576
+1082 2:negative 2:negative       0.943343914812
+1083 2:negative 2:negative       0.928125380154
+1084 2:negative 2:negative       0.939510796448
+1085 2:negative 2:negative       0.892100368476
+1086 2:negative 2:negative       0.99544386478
+1087 2:negative 2:negative       0.94161383189
+1088 2:negative 2:negative       0.975919093824
+1089 2:negative 2:negative       0.92911213984
+1090 2:negative 2:negative       0.99626935934
+1091 2:negative 2:negative       0.939299580169
+1092 2:negative 2:negative       0.987318288785
+1093 2:negative 2:negative       0.923873028528
+1094 2:negative 2:negative       0.99106165438
+1095 2:negative 2:negative       0.990858582711
+1096 2:negative 2:negative       0.997190356874
+1097 2:negative 2:negative       0.931164530156
+1098 2:negative 2:negative       0.980183291833
+1099 2:negative 2:negative       0.957371143987
+1100 2:negative 2:negative       0.840453326027
+1101 2:negative 2:negative       0.783283075712
+1102 2:negative 2:negative       0.993112484454
+1103 2:negative 2:negative       0.969983029825
+1104 2:negative 2:negative       0.99537511221
+1105 2:negative 2:negative       0.546824914185
+1106 2:negative 2:negative       0.960617707414
+1107 2:negative 2:negative       0.977026168075
+1108 2:negative 2:negative       0.99537511221
+1109 2:negative 2:negative       0.928670059601
+1110 2:negative 2:negative       0.945609310758
+1111 2:negative 2:negative       0.983335525543
+1112 2:negative 2:negative       0.603742561664
+1113 2:negative 2:negative       0.973218322669
+1114 2:negative 2:negative       0.707317304754
+1115 2:negative 2:negative       0.971552053467
+1116 2:negative 2:negative       0.992132002647
+1117 2:negative 2:negative       0.948044847443
+1118 2:negative 2:negative       0.944667163544
+1119 2:negative 2:negative       0.994092252974
+1120 1:positive 1:positive       0.59028646505
+1121 1:positive 2:negative   +   0.638772604866
+1122 1:positive 1:positive       0.894903729
+1123 2:negative 2:negative       0.854929396124
+1124 2:negative 1:positive   +   0.824014302226
+1125 2:negative 2:negative       0.912829086689
+1126 2:negative 2:negative       0.634496709212
+1127 2:negative 1:positive   +   0.815423638756
+1128 2:negative 2:negative       0.9241544817
+1129 2:negative 1:positive   +   0.505745099549
+1130 2:negative 2:negative       0.555482353527
+1131 2:negative 2:negative       0.740425040784
+1132 2:negative 2:negative       0.937970374429
+1133 2:negative 2:negative       0.623719996669
+1134 2:negative 2:negative       0.770353735695
+1135 2:negative 2:negative       0.566535165509
+1136 2:negative 1:positive   +   0.755877032048
+1137 2:negative 2:negative       0.770353735711
+1138 2:negative 2:negative       0.54010751563
+1139 2:negative 2:negative       0.890736793496
+1140 2:negative 2:negative       0.575010588026
+1141 2:negative 1:positive   +   0.947845321154
+1142 2:negative 1:positive   +   0.796063565166
+1143 2:negative 1:positive   +   0.788284651823
+1144 2:negative 2:negative       0.730144576205
+1145 1:positive 1:positive       0.999999999092
+1146 1:positive 1:positive       0.999999998143
+1147 2:negative 2:negative       0.625529720917
+1148 1:positive 2:negative   +   0.85005746335
+1149 1:positive 2:negative   +   0.85832436381
+1150 2:negative 2:negative       0.902409823568
+1151 2:negative 2:negative       0.93523827373
+1152 2:negative 2:negative       0.907899877823
+1153 2:negative 1:positive   +   0.542475658516
+1154 2:negative 2:negative       0.932927617893
+1155 2:negative 2:negative       0.983021433785
+1156 2:negative 1:positive   +   0.701340530448
+1157 2:negative 2:negative       0.975655867428
+1158 2:negative 1:positive   +   0.831367771677
+1159 2:negative 2:negative       0.698850857892
+1160 2:negative 2:negative       0.979161302254
+1161 2:negative 2:negative       0.946625329813
+1162 2:negative 1:positive   +   0.665289294394
+1163 2:negative 2:negative       0.549508719532
+1164 2:negative 2:negative       0.800178284396
+1165 2:negative 2:negative       0.834556389961
+1166 2:negative 2:negative       0.859156225904
+1167 2:negative 2:negative       0.916088096351
+1168 2:negative 1:positive   +   0.748504971907
+1169 2:negative 1:positive   +   0.548999588492
+1170 2:negative 2:negative       0.975655867428
+1171 2:negative 1:positive   +   0.58332352436
+1172 2:negative 2:negative       0.862002982332
+1173 2:negative 2:negative       0.96117138117
+1174 2:negative 2:negative       0.587403868982
+1175 2:negative 2:negative       0.826555197963
+1176 1:positive 2:negative   +   0.681437881879
+1177 2:negative 2:negative       0.593062499362
+1178 2:negative 2:negative       0.8407727462
+1179 2:negative 2:negative       0.952475167666
+1180 2:negative 2:negative       0.989572144989
+1181 2:negative 2:negative       0.931330895197
+1182 2:negative 1:positive   +   0.627215214364
+1183 2:negative 2:negative       0.87703286239
+1184 2:negative 2:negative       0.698566652344
+1185 2:negative 1:positive   +   0.534062765276
+1186 2:negative 2:negative       0.805385347691
+1187 2:negative 2:negative       0.825523139789
+1188 2:negative 2:negative       0.949822459177
+1189 2:negative 2:negative       0.640902002407
+1190 2:negative 2:negative       0.555041093376
+1191 2:negative 2:negative       0.997209740768
+1192 2:negative 2:negative       0.536886004472
+1193 2:negative 2:negative       0.858263758374
+1194 2:negative 2:negative       0.876150389778
+1195 2:negative 2:negative       0.572872184683
+1196 1:positive 1:positive       0.852315448241
+1197 2:negative 1:positive   +   0.581626339017
+1198 2:negative 1:positive   +   0.539384151533
+1199 2:negative 2:negative       0.991636721729
+1200 2:negative 2:negative       0.670032667052
+1201 2:negative 2:negative       0.501210263917
+1202 2:negative 2:negative       0.551164981804
+1203 2:negative 1:positive   +   0.673621350947
+1204 2:negative 1:positive   +   0.693295844886
+1205 2:negative 2:negative       0.529884431137
+1206 2:negative 2:negative       0.641575935314
+1207 2:negative 2:negative       0.963660731174
+1208 2:negative 2:negative       0.968774940621
+1209 2:negative 2:negative       0.942461562486
+1210 2:negative 2:negative       0.894935566671
+1211 2:negative 2:negative       0.935740366854
+1212 2:negative 2:negative       0.592451897512
+1213 2:negative 2:negative       0.793329201847
+1214 2:negative 2:negative       0.895847862018
+1215 2:negative 1:positive   +   0.900518460997
+1216 2:negative 1:positive   +   0.685874630139
+1217 1:positive 2:negative   +   0.856155682185
+1218 2:negative 2:negative       0.979630865495
+1219 2:negative 2:negative       0.707481428209
+1220 1:positive 1:positive       0.713935175546
+1221 1:positive 2:negative   +   0.808925773741
+1222 1:positive 2:negative   +   0.922011177355
+1223 1:positive 2:negative   +   0.887597908531
+1224 1:positive 2:negative   +   0.947436491582
+1225 2:negative 2:negative       0.97183039252
+1226 1:positive 2:negative   +   0.576757330798
+1227 1:positive 2:negative   +   0.942073581541
+1228 1:positive 2:negative   +   0.743966972801
+1229 1:positive 2:negative   +   0.542481965942
+1230 1:positive 1:positive       0.520887404352
+1231 2:negative 2:negative       0.871344791469
+1232 2:negative 2:negative       0.973962675326
+1233 2:negative 2:negative       0.997739447212
+1234 2:negative 2:negative       0.981004090456
+1235 2:negative 2:negative       0.991959052727
+1236 2:negative 2:negative       0.987841927609
+1237 2:negative 2:negative       0.757253722529
+1238 2:negative 2:negative       0.999964674058
+1239 2:negative 2:negative       0.997928538755
+1240 2:negative 2:negative       0.982039580389
+1241 2:negative 1:positive   +   0.669141514508
+1242 2:negative 2:negative       0.980882502492
+1243 2:negative 2:negative       0.994896361737
+1244 1:positive 2:negative   +   0.870111029502
+1245 2:negative 2:negative       0.998178245318
+1246 2:negative 2:negative       0.999416607937
+1247 2:negative 2:negative       0.997328285084
+1248 2:negative 2:negative       0.634888798952
+1249 2:negative 2:negative       0.961840943578
+1250 1:positive 1:positive       0.731510703382
+1251 1:positive 1:positive       0.907835283314
+1252 1:positive 1:positive       0.968123442859
+1253 1:positive 1:positive       0.983257156805
+1254 1:positive 1:positive       0.961243825307
+1255 1:positive 1:positive       0.761277357734
+1256 1:positive 1:positive       0.904110484589
+1257 1:positive 1:positive       0.952733883505
+1258 2:negative 2:negative       0.931810187884
+1259 2:negative 2:negative       0.75734903439
+1260 2:negative 1:positive   +   0.963956295971
+1261 2:negative 2:negative       0.897943547238
+1262 2:negative 2:negative       0.95508666582
+1263 2:negative 1:positive   +   0.913783590438
+1264 2:negative 2:negative       0.847855327778
+1265 2:negative 1:positive   +   0.544193239582
+1266 2:negative 2:negative       0.772878358842
+1267 2:negative 2:negative       0.613611911524
+1268 2:negative 2:negative       0.933346201149
+1269 2:negative 2:negative       0.848997024391
+1270 2:negative 1:positive   +   0.832407246276
+1271 2:negative 2:negative       0.631641840385
+1272 2:negative 1:positive   +   0.877273837836
+1273 2:negative 2:negative       0.926299316897
+1274 2:negative 1:positive   +   0.958114485376
+1275 2:negative 2:negative       0.923497210694
+1276 2:negative 1:positive   +   0.907835283339
+1277 2:negative 2:negative       0.826677994786
+1278 1:positive 2:negative   +   0.970830050658
+1279 1:positive 1:positive       0.62761878981
+1280 1:positive 2:negative   +   0.949039327099
+1281 2:negative 2:negative       0.998488719281
+1282 2:negative 2:negative       0.873936382697
+1283 2:negative 1:positive   +   0.621546658024
+1284 2:negative 2:negative       0.963101949288
+1285 2:negative 2:negative       0.961934065884
+1286 2:negative 2:negative       0.730764117609
+1287 2:negative 2:negative       0.849394840762
+1288 2:negative 2:negative       0.876893452827
+1289 2:negative 2:negative       0.724901846218
+1290 2:negative 2:negative       0.941518600418
+1291 2:negative 2:negative       0.975345280505
+1292 2:negative 2:negative       0.876887675285
+1293 2:negative 2:negative       0.505032105717
+1294 2:negative 2:negative       0.537597393642
+1295 2:negative 1:positive   +   0.59025700279
+1296 2:negative 2:negative       0.558188172932
+1297 2:negative 2:negative       0.522002913674
+1298 1:positive 1:positive       0.513811040031
+1299 2:negative 2:negative       0.914486643302
+1300 1:positive 2:negative   +   0.546870924503
+1301 1:positive 2:negative   +   0.561853409616
+1302 2:negative 2:negative       0.957802294909
+1303 2:negative 2:negative       0.631761819093
+1304 2:negative 1:positive   +   0.745529523203
+1305 2:negative 2:negative       0.971340299501
+1306 2:negative 2:negative       0.793937803448
+1307 2:negative 2:negative       0.957802294871
+1308 2:negative 2:negative       0.584685437256
+1309 2:negative 2:negative       0.942331863587
+1310 2:negative 2:negative       0.795965986718
+1311 2:negative 2:negative       0.622777574766
+1312 1:positive 1:positive       0.615436181156
+1313 1:positive 1:positive       0.866128800114
+1314 1:positive 1:positive       0.873463562706
+1315 1:positive 2:negative   +   0.570311773217
+1316 1:positive 1:positive       0.693864736067
+1317 2:negative 1:positive   +   0.67537206479
+1318 2:negative 2:negative       0.583957529467
+1319 2:negative 2:negative       0.964797985205
+1320 2:negative 2:negative       0.970323455094
+1321 2:negative 2:negative       0.948925475425
+1322 2:negative 2:negative       0.593166996358
+1323 2:negative 1:positive   +   0.541928686006
+1324 2:negative 2:negative       0.927394021771
+1325 2:negative 1:positive   +   0.578190752848
+1326 2:negative 2:negative       0.61974742435
+1327 2:negative 2:negative       0.744733990956
+1328 2:negative 2:negative       0.577378061361
+1329 2:negative 2:negative       0.724355344714
+1330 2:negative 2:negative       0.933666477128
+1331 2:negative 2:negative       0.618872604106
+1332 2:negative 2:negative       0.676311471744
+1333 2:negative 2:negative       0.663443855173
+1334 2:negative 2:negative       0.816971419316
+1335 2:negative 2:negative       0.962358443308
+1336 2:negative 2:negative       0.973517618272
+1337 1:positive 2:negative   +   0.691148259172
+1338 1:positive 2:negative   +   0.769794049776
+1339 1:positive 2:negative   +   0.712265582243
+1340 1:positive 2:negative   +   0.670712902915
+1341 2:negative 2:negative       0.95834867007
+1342 2:negative 2:negative       0.966296058087
+1343 2:negative 2:negative       0.675700845833
+1344 2:negative 2:negative       0.992727007417
+1345 2:negative 2:negative       0.596982163559
+1346 2:negative 2:negative       0.777913518133
+1347 2:negative 2:negative       0.987652121713
+1348 2:negative 2:negative       0.931997572988
+1349 2:negative 2:negative       0.837946749035
+1350 2:negative 2:negative       0.642336588575
+1351 2:negative 2:negative       0.611085437733
+1352 1:positive 2:negative   +   0.970189640456
+1353 1:positive 1:positive       0.831617289335
+1354 2:negative 2:negative       0.77956057578
+1355 2:negative 1:positive   +   0.827647658376
+1356 2:negative 1:positive   +   0.826836961419
+1357 2:negative 2:negative       0.993446857549
+1358 2:negative 1:positive   +   0.789737599126
+1359 2:negative 1:positive   +   0.927801727527
+1360 2:negative 1:positive   +   0.690340854237
+1361 2:negative 1:positive   +   0.805452213484
+1362 2:negative 1:positive   +   0.721237144923
+1363 2:negative 2:negative       0.603055072805
+1364 2:negative 2:negative       0.575377428767
+1365 2:negative 1:positive   +   0.828353863151
+1366 1:positive 1:positive       0.841889058675
+1367 1:positive 2:negative   +   0.885274981417
+1368 1:positive 1:positive       0.762711918526
+1369 1:positive 2:negative   +   0.731182455151
+1370 1:positive 1:positive       0.520238817777
+1371 1:positive 2:negative   +   0.675010413019
+1372 1:positive 2:negative   +   0.765263103383
+1373 1:positive 2:negative   +   0.729988362305
+1374 1:positive 1:positive       0.711778449222
+1375 2:negative 2:negative       0.696266540467
+1376 2:negative 2:negative       0.801154378687
+1377 1:positive 2:negative   +   0.514116026397
+1378 1:positive 2:negative   +   0.745259964035
+1379 1:positive 2:negative   +   0.613890473177
+1380 1:positive 2:negative   +   0.539094001998
+1381 1:positive 2:negative   +   0.567567534047
+1382 1:positive 2:negative   +   0.677392269936
+1383 1:positive 2:negative   +   0.684101982736
+1384 1:positive 2:negative   +   0.716810363153
+1385 2:negative 2:negative       0.926455910778
+1386 2:negative 2:negative       0.747039159343
+1387 2:negative 2:negative       0.835875852935
+1388 2:negative 2:negative       0.965345458617
+1389 2:negative 2:negative       0.869400400978
+1390 1:positive 2:negative   +   0.606960981579
+1391 2:negative 2:negative       0.78239922653
+1392 1:positive 2:negative   +   0.947254680035
+1393 1:positive 1:positive       0.632428712055
+1394 1:positive 2:negative   +   0.922959645224
+1395 2:negative 2:negative       0.955028866927
+1396 2:negative 2:negative       0.717938524427
+1397 2:negative 2:negative       0.540751325799
+1398 2:negative 1:positive   +   0.585179782481
+1399 2:negative 2:negative       0.516703058126
+1400 1:positive 1:positive       0.58574890904
+1401 1:positive 2:negative   +   0.813183998435
+1402 1:positive 2:negative   +   0.514986521012
+1403 1:positive 2:negative   +   0.863597047097
+1404 1:positive 1:positive       0.961902380293
+1405 2:negative 2:negative       0.580848368931
+1406 2:negative 1:positive   +   0.808626047515
+1407 2:negative 2:negative       0.917791325705
+1408 2:negative 2:negative       0.580980684033
+1409 1:positive 1:positive       0.573258561199
+1410 1:positive 1:positive       0.605725556971
+1411 1:positive 2:negative   +   0.800547056523
+1412 1:positive 2:negative   +   0.87083544292
+1413 1:positive 2:negative   +   0.858601330275
+1414 1:positive 1:positive       0.946610068783
+1415 2:negative 2:negative       0.920634608155
+1416 2:negative 2:negative       0.603312922522
+1417 2:negative 1:positive   +   0.691927157455
+1418 2:negative 2:negative       0.969860195907
+1419 2:negative 2:negative       0.690489282417
+1420 2:negative 2:negative       0.821723872451
+1421 2:negative 1:positive   +   0.72280073253
+1422 2:negative 1:positive   +   0.969182722463
+1423 2:negative 1:positive   +   0.775202722202
+1424 2:negative 2:negative       0.921363531562
+1425 2:negative 1:positive   +   0.54270000041
+1426 2:negative 1:positive   +   0.615796571825
+1427 2:negative 2:negative       0.84612517298
+1428 2:negative 2:negative       0.962311260066
+1429 2:negative 1:positive   +   0.699095664913
+1430 2:negative 2:negative       0.68754660644
+1431 2:negative 1:positive   +   0.542700000435
+1432 2:negative 2:negative       0.953301931055
+1433 2:negative 2:negative       0.89111827092
+1434 2:negative 2:negative       0.52573442915
+1435 2:negative 2:negative       0.827790584139
+1436 2:negative 2:negative       0.827790584127
+1437 2:negative 2:negative       0.857800041959
+1438 2:negative 2:negative       0.959145715213
+1439 2:negative 2:negative       0.945560826759
+1440 2:negative 2:negative       0.956456568887
+1441 2:negative 2:negative       0.784089597288
+1442 2:negative 2:negative       0.859731388814
+1443 2:negative 2:negative       0.94513565043
+1444 2:negative 2:negative       0.936672418433
+1445 2:negative 2:negative       0.953301931094
+1446 2:negative 2:negative       0.970386363983
+1447 2:negative 2:negative       0.937440861441
+1448 2:negative 2:negative       0.956456568969
+1449 2:negative 2:negative       0.940714670168
+1450 2:negative 2:negative       0.598724346928
+1451 2:negative 2:negative       0.557656174128
+1452 2:negative 2:negative       0.934612857709
+1453 2:negative 1:positive   +   0.615115149093
+1454 2:negative 2:negative       0.863557859577
+1455 2:negative 2:negative       0.958969678923
+1456 2:negative 2:negative       0.652906791222
+1457 2:negative 2:negative       0.944787559881
+1458 2:negative 2:negative       0.956456568966
+1459 2:negative 2:negative       0.906449656265
+1460 2:negative 1:positive   +   0.506001653659
+1461 2:negative 2:negative       0.906449656255
+1462 2:negative 2:negative       0.976207785879
+1463 2:negative 2:negative       0.956176974391
+1464 2:negative 1:positive   +   0.550197036688
+1465 2:negative 2:negative       0.923440813182
+1466 2:negative 2:negative       0.865582860634
+1467 2:negative 2:negative       0.961545305888
+1468 2:negative 2:negative       0.941211246193
+1469 2:negative 2:negative       0.945135650425
+1470 2:negative 2:negative       0.912953313464
+1471 2:negative 2:negative       0.902356867861
+1472 2:negative 1:positive   +   0.823845082145
+1473 2:negative 2:negative       0.636312751508
+1474 2:negative 2:negative       0.947049607641
+1475 2:negative 1:positive   +   0.570023070998
+1476 2:negative 2:negative       0.503378300017
+1477 2:negative 1:positive   +   0.589341714376
+1478 2:negative 1:positive   +   0.901406761021
+1479 2:negative 2:negative       0.956456568968
+1480 2:negative 2:negative       0.870908287319
+1481 2:negative 2:negative       0.96181196177
+1482 2:negative 2:negative       0.945135650406
+1483 1:positive 2:negative   +   0.727503712299
+1484 1:positive 1:positive       0.715284895647
+1485 1:positive 2:negative   +   0.71038371598
+1486 1:positive 2:negative   +   0.821286694237
+1487 1:positive 1:positive       0.671390415051
+1488 1:positive 2:negative   +   0.87325256498
+1489 1:positive 1:positive       0.749492734677
+1490 2:negative 2:negative       0.660057709214
+1491 2:negative 2:negative       0.941855718177
+1492 2:negative 2:negative       0.73149270125
+1493 2:negative 2:negative       0.963192335316
+1494 2:negative 2:negative       0.98887677714
+1495 2:negative 2:negative       0.943200385237
+1496 2:negative 1:positive   +   0.538201237043
+1497 2:negative 2:negative       0.95227639595
+1498 2:negative 2:negative       0.956572166488
+1499 2:negative 2:negative       0.989316501547
+1500 2:negative 2:negative       0.992839629034
+1501 2:negative 2:negative       0.993179321212
+1502 2:negative 2:negative       0.985439729529
+1503 2:negative 2:negative       0.986030664931
+1504 2:negative 2:negative       0.994360466263
+1505 2:negative 2:negative       0.987185502232
+1506 1:positive 2:negative   +   0.67568346813
+1507 1:positive 2:negative   +   0.765962436418
+1508 1:positive 1:positive       0.661901078891
+1509 2:negative 2:negative       0.991093268453
+1510 2:negative 2:negative       0.986897234145
+1511 2:negative 2:negative       0.981739826265
+1512 2:negative 2:negative       0.984339936104
+1513 2:negative 2:negative       0.590455215414
+1514 2:negative 2:negative       0.734429433397
+1515 2:negative 2:negative       0.944621361318
+1516 2:negative 2:negative       0.949021338781
+1517 2:negative 2:negative       0.951324479785

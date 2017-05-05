@@ -1,0 +1,121 @@
+Classifier: GB
+TREC Scores of test_res/GB-dev/GB-100-12:
+map            	all	0.6188
+recip_rank     	all	0.6870
+TREC Scores of test_res/GB-dev/GB-100-2:
+map            	all	0.6950
+recip_rank     	all	0.7345
+TREC Scores of test_res/GB-dev/GB-100-24:
+map            	all	0.6000
+recip_rank     	all	0.6803
+TREC Scores of test_res/GB-dev/GB-100-3:
+map            	all	0.6862
+recip_rank     	all	0.7269
+TREC Scores of test_res/GB-dev/GB-100-6:
+map            	all	0.6471
+recip_rank     	all	0.7133
+TREC Scores of test_res/GB-dev/GB-400-12:
+map            	all	0.6188
+recip_rank     	all	0.6870
+TREC Scores of test_res/GB-dev/GB-400-2:
+map            	all	0.6882
+recip_rank     	all	0.7409
+TREC Scores of test_res/GB-dev/GB-400-24:
+map            	all	0.6000
+recip_rank     	all	0.6803
+TREC Scores of test_res/GB-dev/GB-400-3:
+map            	all	0.6460
+recip_rank     	all	0.7357
+TREC Scores of test_res/GB-dev/GB-400-6:
+map            	all	0.6447
+recip_rank     	all	0.7421
+TREC Scores of test_res/GB-dev/GB-50-12:
+map            	all	0.5940
+recip_rank     	all	0.6652
+TREC Scores of test_res/GB-dev/GB-50-2:
+map            	all	0.6816
+recip_rank     	all	0.7378
+TREC Scores of test_res/GB-dev/GB-50-24:
+map            	all	0.4889
+recip_rank     	all	0.5853
+TREC Scores of test_res/GB-dev/GB-50-3:
+map            	all	0.6669
+recip_rank     	all	0.6982
+TREC Scores of test_res/GB-dev/GB-50-6:
+map            	all	0.6460
+recip_rank     	all	0.7015
+TREC Scores of test_res/GB-dev/GB-800-12:
+map            	all	0.6188
+recip_rank     	all	0.6870
+TREC Scores of test_res/GB-dev/GB-800-2:
+map            	all	0.6636
+recip_rank     	all	0.7129
+TREC Scores of test_res/GB-dev/GB-800-24:
+map            	all	0.6000
+recip_rank     	all	0.6803
+TREC Scores of test_res/GB-dev/GB-800-3:
+map            	all	0.6276
+recip_rank     	all	0.7287
+TREC Scores of test_res/GB-dev/GB-800-6:
+map            	all	0.6224
+recip_rank     	all	0.7131
+TREC Scores of test_res/GB-test/GB-100-12:
+map            	all	0.5878
+recip_rank     	all	0.6765
+TREC Scores of test_res/GB-test/GB-100-2:
+map            	all	0.6288
+recip_rank     	all	0.7033
+TREC Scores of test_res/GB-test/GB-100-24:
+map            	all	0.5263
+recip_rank     	all	0.5675
+TREC Scores of test_res/GB-test/GB-100-3:
+map            	all	0.6286
+recip_rank     	all	0.6891
+TREC Scores of test_res/GB-test/GB-100-6:
+map            	all	0.6230
+recip_rank     	all	0.7013
+TREC Scores of test_res/GB-test/GB-400-12:
+map            	all	0.5878
+recip_rank     	all	0.6765
+TREC Scores of test_res/GB-test/GB-400-2:
+map            	all	0.6337
+recip_rank     	all	0.7124
+TREC Scores of test_res/GB-test/GB-400-24:
+map            	all	0.5263
+recip_rank     	all	0.5675
+TREC Scores of test_res/GB-test/GB-400-3:
+map            	all	0.6157
+recip_rank     	all	0.7020
+TREC Scores of test_res/GB-test/GB-400-6:
+map            	all	0.5839
+recip_rank     	all	0.6605
+TREC Scores of test_res/GB-test/GB-50-12:
+map            	all	0.5312
+recip_rank     	all	0.6350
+TREC Scores of test_res/GB-test/GB-50-2:
+map            	all	0.6100
+recip_rank     	all	0.6919
+TREC Scores of test_res/GB-test/GB-50-24:
+map            	all	0.3825
+recip_rank     	all	0.4660
+TREC Scores of test_res/GB-test/GB-50-3:
+map            	all	0.6321
+recip_rank     	all	0.6997
+TREC Scores of test_res/GB-test/GB-50-6:
+map            	all	0.6160
+recip_rank     	all	0.6937
+TREC Scores of test_res/GB-test/GB-800-12:
+map            	all	0.5878
+recip_rank     	all	0.6765
+TREC Scores of test_res/GB-test/GB-800-2:
+map            	all	0.6108
+recip_rank     	all	0.7000
+TREC Scores of test_res/GB-test/GB-800-24:
+map            	all	0.5263
+recip_rank     	all	0.5675
+TREC Scores of test_res/GB-test/GB-800-3:
+map            	all	0.6103
+recip_rank     	all	0.7010
+TREC Scores of test_res/GB-test/GB-800-6:
+map            	all	0.5799
+recip_rank     	all	0.6565

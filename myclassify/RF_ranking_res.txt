@@ -1,0 +1,2881 @@
+Classifier: RF
+TREC Scores of test_res/RF-dev/RF-100-entropy-11-2-None:
+map            	all	0.6758
+recip_rank     	all	0.7468
+TREC Scores of test_res/RF-dev/RF-100-entropy-11-2-balanced:
+map            	all	0.6517
+recip_rank     	all	0.7115
+TREC Scores of test_res/RF-dev/RF-100-entropy-11-2-balanced_subsample:
+map            	all	0.6747
+recip_rank     	all	0.7447
+TREC Scores of test_res/RF-dev/RF-100-entropy-11-4-None:
+map            	all	0.6769
+recip_rank     	all	0.7469
+TREC Scores of test_res/RF-dev/RF-100-entropy-11-4-balanced:
+map            	all	0.6588
+recip_rank     	all	0.7353
+TREC Scores of test_res/RF-dev/RF-100-entropy-11-4-balanced_subsample:
+map            	all	0.6535
+recip_rank     	all	0.7250
+TREC Scores of test_res/RF-dev/RF-100-entropy-11-6-None:
+map            	all	0.6782
+recip_rank     	all	0.7229
+TREC Scores of test_res/RF-dev/RF-100-entropy-11-6-balanced:
+map            	all	0.6897
+recip_rank     	all	0.7426
+TREC Scores of test_res/RF-dev/RF-100-entropy-11-6-balanced_subsample:
+map            	all	0.6791
+recip_rank     	all	0.7376
+TREC Scores of test_res/RF-dev/RF-100-entropy-11-8-None:
+map            	all	0.6720
+recip_rank     	all	0.7282
+TREC Scores of test_res/RF-dev/RF-100-entropy-11-8-balanced:
+map            	all	0.6530
+recip_rank     	all	0.7145
+TREC Scores of test_res/RF-dev/RF-100-entropy-11-8-balanced_subsample:
+map            	all	0.6531
+recip_rank     	all	0.7261
+TREC Scores of test_res/RF-dev/RF-100-entropy-16-2-None:
+map            	all	0.6705
+recip_rank     	all	0.7362
+TREC Scores of test_res/RF-dev/RF-100-entropy-16-2-balanced:
+map            	all	0.6728
+recip_rank     	all	0.7181
+TREC Scores of test_res/RF-dev/RF-100-entropy-16-2-balanced_subsample:
+map            	all	0.6734
+recip_rank     	all	0.7308
+TREC Scores of test_res/RF-dev/RF-100-entropy-16-4-None:
+map            	all	0.6773
+recip_rank     	all	0.7470
+TREC Scores of test_res/RF-dev/RF-100-entropy-16-4-balanced:
+map            	all	0.6494
+recip_rank     	all	0.7124
+TREC Scores of test_res/RF-dev/RF-100-entropy-16-4-balanced_subsample:
+map            	all	0.6793
+recip_rank     	all	0.7518
+TREC Scores of test_res/RF-dev/RF-100-entropy-16-6-None:
+map            	all	0.6826
+recip_rank     	all	0.7526
+TREC Scores of test_res/RF-dev/RF-100-entropy-16-6-balanced:
+map            	all	0.6714
+recip_rank     	all	0.7423
+TREC Scores of test_res/RF-dev/RF-100-entropy-16-6-balanced_subsample:
+map            	all	0.6885
+recip_rank     	all	0.7736
+TREC Scores of test_res/RF-dev/RF-100-entropy-16-8-None:
+map            	all	0.6755
+recip_rank     	all	0.7319
+TREC Scores of test_res/RF-dev/RF-100-entropy-16-8-balanced:
+map            	all	0.6780
+recip_rank     	all	0.7564
+TREC Scores of test_res/RF-dev/RF-100-entropy-16-8-balanced_subsample:
+map            	all	0.6805
+recip_rank     	all	0.7461
+TREC Scores of test_res/RF-dev/RF-100-entropy-20-2-None:
+map            	all	0.6748
+recip_rank     	all	0.7359
+TREC Scores of test_res/RF-dev/RF-100-entropy-20-2-balanced:
+map            	all	0.6689
+recip_rank     	all	0.7164
+TREC Scores of test_res/RF-dev/RF-100-entropy-20-2-balanced_subsample:
+map            	all	0.6559
+recip_rank     	all	0.7155
+TREC Scores of test_res/RF-dev/RF-100-entropy-20-4-None:
+map            	all	0.6573
+recip_rank     	all	0.7273
+TREC Scores of test_res/RF-dev/RF-100-entropy-20-4-balanced:
+map            	all	0.6733
+recip_rank     	all	0.7405
+TREC Scores of test_res/RF-dev/RF-100-entropy-20-4-balanced_subsample:
+map            	all	0.6563
+recip_rank     	all	0.7142
+TREC Scores of test_res/RF-dev/RF-100-entropy-20-6-None:
+map            	all	0.6885
+recip_rank     	all	0.7369
+TREC Scores of test_res/RF-dev/RF-100-entropy-20-6-balanced:
+map            	all	0.6625
+recip_rank     	all	0.7311
+TREC Scores of test_res/RF-dev/RF-100-entropy-20-6-balanced_subsample:
+map            	all	0.6903
+recip_rank     	all	0.7536
+TREC Scores of test_res/RF-dev/RF-100-entropy-20-8-None:
+map            	all	0.6750
+recip_rank     	all	0.7321
+TREC Scores of test_res/RF-dev/RF-100-entropy-20-8-balanced:
+map            	all	0.6882
+recip_rank     	all	0.7462
+TREC Scores of test_res/RF-dev/RF-100-entropy-20-8-balanced_subsample:
+map            	all	0.6805
+recip_rank     	all	0.7244
+TREC Scores of test_res/RF-dev/RF-100-entropy-8-2-None:
+map            	all	0.6973
+recip_rank     	all	0.7478
+TREC Scores of test_res/RF-dev/RF-100-entropy-8-2-balanced:
+map            	all	0.6754
+recip_rank     	all	0.7364
+TREC Scores of test_res/RF-dev/RF-100-entropy-8-2-balanced_subsample:
+map            	all	0.6762
+recip_rank     	all	0.7444
+TREC Scores of test_res/RF-dev/RF-100-entropy-8-4-None:
+map            	all	0.6753
+recip_rank     	all	0.7396
+TREC Scores of test_res/RF-dev/RF-100-entropy-8-4-balanced:
+map            	all	0.6645
+recip_rank     	all	0.7247
+TREC Scores of test_res/RF-dev/RF-100-entropy-8-4-balanced_subsample:
+map            	all	0.6705
+recip_rank     	all	0.7317
+TREC Scores of test_res/RF-dev/RF-100-entropy-8-6-None:
+map            	all	0.6871
+recip_rank     	all	0.7452
+TREC Scores of test_res/RF-dev/RF-100-entropy-8-6-balanced:
+map            	all	0.6905
+recip_rank     	all	0.7394
+TREC Scores of test_res/RF-dev/RF-100-entropy-8-6-balanced_subsample:
+map            	all	0.6703
+recip_rank     	all	0.7311
+TREC Scores of test_res/RF-dev/RF-100-entropy-8-8-None:
+map            	all	0.6841
+recip_rank     	all	0.7363
+TREC Scores of test_res/RF-dev/RF-100-entropy-8-8-balanced:
+map            	all	0.6871
+recip_rank     	all	0.7372
+TREC Scores of test_res/RF-dev/RF-100-entropy-8-8-balanced_subsample:
+map            	all	0.6791
+recip_rank     	all	0.7397
+TREC Scores of test_res/RF-dev/RF-100-gini-11-2-None:
+map            	all	0.6592
+recip_rank     	all	0.7242
+TREC Scores of test_res/RF-dev/RF-100-gini-11-2-balanced:
+map            	all	0.6732
+recip_rank     	all	0.7276
+TREC Scores of test_res/RF-dev/RF-100-gini-11-2-balanced_subsample:
+map            	all	0.6749
+recip_rank     	all	0.7073
+TREC Scores of test_res/RF-dev/RF-100-gini-11-4-None:
+map            	all	0.6521
+recip_rank     	all	0.7367
+TREC Scores of test_res/RF-dev/RF-100-gini-11-4-balanced:
+map            	all	0.6523
+recip_rank     	all	0.7083
+TREC Scores of test_res/RF-dev/RF-100-gini-11-4-balanced_subsample:
+map            	all	0.6508
+recip_rank     	all	0.7225
+TREC Scores of test_res/RF-dev/RF-100-gini-11-6-None:
+map            	all	0.6429
+recip_rank     	all	0.7116
+TREC Scores of test_res/RF-dev/RF-100-gini-11-6-balanced:
+map            	all	0.6396
+recip_rank     	all	0.7080
+TREC Scores of test_res/RF-dev/RF-100-gini-11-6-balanced_subsample:
+map            	all	0.6852
+recip_rank     	all	0.7577
+TREC Scores of test_res/RF-dev/RF-100-gini-11-8-None:
+map            	all	0.6602
+recip_rank     	all	0.7088
+TREC Scores of test_res/RF-dev/RF-100-gini-11-8-balanced:
+map            	all	0.6782
+recip_rank     	all	0.7378
+TREC Scores of test_res/RF-dev/RF-100-gini-11-8-balanced_subsample:
+map            	all	0.6839
+recip_rank     	all	0.7569
+TREC Scores of test_res/RF-dev/RF-100-gini-16-2-None:
+map            	all	0.6667
+recip_rank     	all	0.7417
+TREC Scores of test_res/RF-dev/RF-100-gini-16-2-balanced:
+map            	all	0.6522
+recip_rank     	all	0.7155
+TREC Scores of test_res/RF-dev/RF-100-gini-16-2-balanced_subsample:
+map            	all	0.6388
+recip_rank     	all	0.7039
+TREC Scores of test_res/RF-dev/RF-100-gini-16-4-None:
+map            	all	0.6416
+recip_rank     	all	0.7226
+TREC Scores of test_res/RF-dev/RF-100-gini-16-4-balanced:
+map            	all	0.6600
+recip_rank     	all	0.7315
+TREC Scores of test_res/RF-dev/RF-100-gini-16-4-balanced_subsample:
+map            	all	0.6776
+recip_rank     	all	0.7411
+TREC Scores of test_res/RF-dev/RF-100-gini-16-6-None:
+map            	all	0.6633
+recip_rank     	all	0.7458
+TREC Scores of test_res/RF-dev/RF-100-gini-16-6-balanced:
+map            	all	0.6896
+recip_rank     	all	0.7524
+TREC Scores of test_res/RF-dev/RF-100-gini-16-6-balanced_subsample:
+map            	all	0.6793
+recip_rank     	all	0.7667
+TREC Scores of test_res/RF-dev/RF-100-gini-16-8-None:
+map            	all	0.6629
+recip_rank     	all	0.7275
+TREC Scores of test_res/RF-dev/RF-100-gini-16-8-balanced:
+map            	all	0.6723
+recip_rank     	all	0.7301
+TREC Scores of test_res/RF-dev/RF-100-gini-16-8-balanced_subsample:
+map            	all	0.6904
+recip_rank     	all	0.7440
+TREC Scores of test_res/RF-dev/RF-100-gini-20-2-None:
+map            	all	0.6549
+recip_rank     	all	0.7331
+TREC Scores of test_res/RF-dev/RF-100-gini-20-2-balanced:
+map            	all	0.6365
+recip_rank     	all	0.6898
+TREC Scores of test_res/RF-dev/RF-100-gini-20-2-balanced_subsample:
+map            	all	0.6474
+recip_rank     	all	0.7101
+TREC Scores of test_res/RF-dev/RF-100-gini-20-4-None:
+map            	all	0.6571
+recip_rank     	all	0.7504
+TREC Scores of test_res/RF-dev/RF-100-gini-20-4-balanced:
+map            	all	0.6499
+recip_rank     	all	0.7006
+TREC Scores of test_res/RF-dev/RF-100-gini-20-4-balanced_subsample:
+map            	all	0.6626
+recip_rank     	all	0.7361
+TREC Scores of test_res/RF-dev/RF-100-gini-20-6-None:
+map            	all	0.6493
+recip_rank     	all	0.7237
+TREC Scores of test_res/RF-dev/RF-100-gini-20-6-balanced:
+map            	all	0.6561
+recip_rank     	all	0.7058
+TREC Scores of test_res/RF-dev/RF-100-gini-20-6-balanced_subsample:
+map            	all	0.6716
+recip_rank     	all	0.7141
+TREC Scores of test_res/RF-dev/RF-100-gini-20-8-None:
+map            	all	0.6798
+recip_rank     	all	0.7532
+TREC Scores of test_res/RF-dev/RF-100-gini-20-8-balanced:
+map            	all	0.6651
+recip_rank     	all	0.7219
+TREC Scores of test_res/RF-dev/RF-100-gini-20-8-balanced_subsample:
+map            	all	0.6639
+recip_rank     	all	0.6997
+TREC Scores of test_res/RF-dev/RF-100-gini-8-2-None:
+map            	all	0.6626
+recip_rank     	all	0.7223
+TREC Scores of test_res/RF-dev/RF-100-gini-8-2-balanced:
+map            	all	0.6862
+recip_rank     	all	0.7483
+TREC Scores of test_res/RF-dev/RF-100-gini-8-2-balanced_subsample:
+map            	all	0.6761
+recip_rank     	all	0.7365
+TREC Scores of test_res/RF-dev/RF-100-gini-8-4-None:
+map            	all	0.6515
+recip_rank     	all	0.7294
+TREC Scores of test_res/RF-dev/RF-100-gini-8-4-balanced:
+map            	all	0.6677
+recip_rank     	all	0.7366
+TREC Scores of test_res/RF-dev/RF-100-gini-8-4-balanced_subsample:
+map            	all	0.6650
+recip_rank     	all	0.7369
+TREC Scores of test_res/RF-dev/RF-100-gini-8-6-None:
+map            	all	0.6769
+recip_rank     	all	0.7530
+TREC Scores of test_res/RF-dev/RF-100-gini-8-6-balanced:
+map            	all	0.6760
+recip_rank     	all	0.7336
+TREC Scores of test_res/RF-dev/RF-100-gini-8-6-balanced_subsample:
+map            	all	0.6805
+recip_rank     	all	0.7380
+TREC Scores of test_res/RF-dev/RF-100-gini-8-8-None:
+map            	all	0.6621
+recip_rank     	all	0.7320
+TREC Scores of test_res/RF-dev/RF-100-gini-8-8-balanced:
+map            	all	0.6957
+recip_rank     	all	0.7577
+TREC Scores of test_res/RF-dev/RF-100-gini-8-8-balanced_subsample:
+map            	all	0.6936
+recip_rank     	all	0.7555
+TREC Scores of test_res/RF-dev/RF-150-entropy-11-2-None:
+map            	all	0.6700
+recip_rank     	all	0.7359
+TREC Scores of test_res/RF-dev/RF-150-entropy-11-2-balanced:
+map            	all	0.6497
+recip_rank     	all	0.7205
+TREC Scores of test_res/RF-dev/RF-150-entropy-11-2-balanced_subsample:
+map            	all	0.6708
+recip_rank     	all	0.7539
+TREC Scores of test_res/RF-dev/RF-150-entropy-11-4-None:
+map            	all	0.6920
+recip_rank     	all	0.7514
+TREC Scores of test_res/RF-dev/RF-150-entropy-11-4-balanced:
+map            	all	0.6829
+recip_rank     	all	0.7474
+TREC Scores of test_res/RF-dev/RF-150-entropy-11-4-balanced_subsample:
+map            	all	0.6770
+recip_rank     	all	0.7537
+TREC Scores of test_res/RF-dev/RF-150-entropy-11-6-None:
+map            	all	0.6890
+recip_rank     	all	0.7424
+TREC Scores of test_res/RF-dev/RF-150-entropy-11-6-balanced:
+map            	all	0.6838
+recip_rank     	all	0.7326
+TREC Scores of test_res/RF-dev/RF-150-entropy-11-6-balanced_subsample:
+map            	all	0.6767
+recip_rank     	all	0.7318
+TREC Scores of test_res/RF-dev/RF-150-entropy-11-8-None:
+map            	all	0.6678
+recip_rank     	all	0.7191
+TREC Scores of test_res/RF-dev/RF-150-entropy-11-8-balanced:
+map            	all	0.6715
+recip_rank     	all	0.7302
+TREC Scores of test_res/RF-dev/RF-150-entropy-11-8-balanced_subsample:
+map            	all	0.6602
+recip_rank     	all	0.7324
+TREC Scores of test_res/RF-dev/RF-150-entropy-16-2-None:
+map            	all	0.6740
+recip_rank     	all	0.7413
+TREC Scores of test_res/RF-dev/RF-150-entropy-16-2-balanced:
+map            	all	0.6768
+recip_rank     	all	0.7247
+TREC Scores of test_res/RF-dev/RF-150-entropy-16-2-balanced_subsample:
+map            	all	0.6708
+recip_rank     	all	0.7364
+TREC Scores of test_res/RF-dev/RF-150-entropy-16-4-None:
+map            	all	0.6706
+recip_rank     	all	0.7372
+TREC Scores of test_res/RF-dev/RF-150-entropy-16-4-balanced:
+map            	all	0.6665
+recip_rank     	all	0.7361
+TREC Scores of test_res/RF-dev/RF-150-entropy-16-4-balanced_subsample:
+map            	all	0.6827
+recip_rank     	all	0.7433
+TREC Scores of test_res/RF-dev/RF-150-entropy-16-6-None:
+map            	all	0.6971
+recip_rank     	all	0.7701
+TREC Scores of test_res/RF-dev/RF-150-entropy-16-6-balanced:
+map            	all	0.6723
+recip_rank     	all	0.7379
+TREC Scores of test_res/RF-dev/RF-150-entropy-16-6-balanced_subsample:
+map            	all	0.6781
+recip_rank     	all	0.7495
+TREC Scores of test_res/RF-dev/RF-150-entropy-16-8-None:
+map            	all	0.6959
+recip_rank     	all	0.7610
+TREC Scores of test_res/RF-dev/RF-150-entropy-16-8-balanced:
+map            	all	0.6989
+recip_rank     	all	0.7818
+TREC Scores of test_res/RF-dev/RF-150-entropy-16-8-balanced_subsample:
+map            	all	0.6925
+recip_rank     	all	0.7758
+TREC Scores of test_res/RF-dev/RF-150-entropy-20-2-None:
+map            	all	0.6706
+recip_rank     	all	0.7344
+TREC Scores of test_res/RF-dev/RF-150-entropy-20-2-balanced:
+map            	all	0.6768
+recip_rank     	all	0.7286
+TREC Scores of test_res/RF-dev/RF-150-entropy-20-2-balanced_subsample:
+map            	all	0.6647
+recip_rank     	all	0.7263
+TREC Scores of test_res/RF-dev/RF-150-entropy-20-4-None:
+map            	all	0.6840
+recip_rank     	all	0.7449
+TREC Scores of test_res/RF-dev/RF-150-entropy-20-4-balanced:
+map            	all	0.6737
+recip_rank     	all	0.7355
+TREC Scores of test_res/RF-dev/RF-150-entropy-20-4-balanced_subsample:
+map            	all	0.6768
+recip_rank     	all	0.7479
+TREC Scores of test_res/RF-dev/RF-150-entropy-20-6-None:
+map            	all	0.6836
+recip_rank     	all	0.7276
+TREC Scores of test_res/RF-dev/RF-150-entropy-20-6-balanced:
+map            	all	0.6464
+recip_rank     	all	0.6926
+TREC Scores of test_res/RF-dev/RF-150-entropy-20-6-balanced_subsample:
+map            	all	0.6822
+recip_rank     	all	0.7490
+TREC Scores of test_res/RF-dev/RF-150-entropy-20-8-None:
+map            	all	0.6943
+recip_rank     	all	0.7644
+TREC Scores of test_res/RF-dev/RF-150-entropy-20-8-balanced:
+map            	all	0.6999
+recip_rank     	all	0.7695
+TREC Scores of test_res/RF-dev/RF-150-entropy-20-8-balanced_subsample:
+map            	all	0.6960
+recip_rank     	all	0.7563
+TREC Scores of test_res/RF-dev/RF-150-entropy-8-2-None:
+map            	all	0.7065
+recip_rank     	all	0.7535
+TREC Scores of test_res/RF-dev/RF-150-entropy-8-2-balanced:
+map            	all	0.6797
+recip_rank     	all	0.7368
+TREC Scores of test_res/RF-dev/RF-150-entropy-8-2-balanced_subsample:
+map            	all	0.6774
+recip_rank     	all	0.7444
+TREC Scores of test_res/RF-dev/RF-150-entropy-8-4-None:
+map            	all	0.6780
+recip_rank     	all	0.7325
+TREC Scores of test_res/RF-dev/RF-150-entropy-8-4-balanced:
+map            	all	0.6634
+recip_rank     	all	0.7276
+TREC Scores of test_res/RF-dev/RF-150-entropy-8-4-balanced_subsample:
+map            	all	0.6723
+recip_rank     	all	0.7305
+TREC Scores of test_res/RF-dev/RF-150-entropy-8-6-None:
+map            	all	0.7025
+recip_rank     	all	0.7676
+TREC Scores of test_res/RF-dev/RF-150-entropy-8-6-balanced:
+map            	all	0.6836
+recip_rank     	all	0.7484
+TREC Scores of test_res/RF-dev/RF-150-entropy-8-6-balanced_subsample:
+map            	all	0.6713
+recip_rank     	all	0.7353
+TREC Scores of test_res/RF-dev/RF-150-entropy-8-8-None:
+map            	all	0.6880
+recip_rank     	all	0.7367
+TREC Scores of test_res/RF-dev/RF-150-entropy-8-8-balanced:
+map            	all	0.6902
+recip_rank     	all	0.7439
+TREC Scores of test_res/RF-dev/RF-150-entropy-8-8-balanced_subsample:
+map            	all	0.6730
+recip_rank     	all	0.7225
+TREC Scores of test_res/RF-dev/RF-150-gini-11-2-None:
+map            	all	0.6793
+recip_rank     	all	0.7489
+TREC Scores of test_res/RF-dev/RF-150-gini-11-2-balanced:
+map            	all	0.6719
+recip_rank     	all	0.7319
+TREC Scores of test_res/RF-dev/RF-150-gini-11-2-balanced_subsample:
+map            	all	0.6883
+recip_rank     	all	0.7417
+TREC Scores of test_res/RF-dev/RF-150-gini-11-4-None:
+map            	all	0.6572
+recip_rank     	all	0.7344
+TREC Scores of test_res/RF-dev/RF-150-gini-11-4-balanced:
+map            	all	0.6606
+recip_rank     	all	0.7105
+TREC Scores of test_res/RF-dev/RF-150-gini-11-4-balanced_subsample:
+map            	all	0.6575
+recip_rank     	all	0.7192
+TREC Scores of test_res/RF-dev/RF-150-gini-11-6-None:
+map            	all	0.6604
+recip_rank     	all	0.7293
+TREC Scores of test_res/RF-dev/RF-150-gini-11-6-balanced:
+map            	all	0.6686
+recip_rank     	all	0.7434
+TREC Scores of test_res/RF-dev/RF-150-gini-11-6-balanced_subsample:
+map            	all	0.6840
+recip_rank     	all	0.7475
+TREC Scores of test_res/RF-dev/RF-150-gini-11-8-None:
+map            	all	0.6598
+recip_rank     	all	0.7228
+TREC Scores of test_res/RF-dev/RF-150-gini-11-8-balanced:
+map            	all	0.6753
+recip_rank     	all	0.7384
+TREC Scores of test_res/RF-dev/RF-150-gini-11-8-balanced_subsample:
+map            	all	0.6854
+recip_rank     	all	0.7707
+TREC Scores of test_res/RF-dev/RF-150-gini-16-2-None:
+map            	all	0.6840
+recip_rank     	all	0.7527
+TREC Scores of test_res/RF-dev/RF-150-gini-16-2-balanced:
+map            	all	0.6580
+recip_rank     	all	0.7165
+TREC Scores of test_res/RF-dev/RF-150-gini-16-2-balanced_subsample:
+map            	all	0.6492
+recip_rank     	all	0.7055
+TREC Scores of test_res/RF-dev/RF-150-gini-16-4-None:
+map            	all	0.6564
+recip_rank     	all	0.7342
+TREC Scores of test_res/RF-dev/RF-150-gini-16-4-balanced:
+map            	all	0.6563
+recip_rank     	all	0.7170
+TREC Scores of test_res/RF-dev/RF-150-gini-16-4-balanced_subsample:
+map            	all	0.6778
+recip_rank     	all	0.7412
+TREC Scores of test_res/RF-dev/RF-150-gini-16-6-None:
+map            	all	0.6555
+recip_rank     	all	0.7371
+TREC Scores of test_res/RF-dev/RF-150-gini-16-6-balanced:
+map            	all	0.6685
+recip_rank     	all	0.7275
+TREC Scores of test_res/RF-dev/RF-150-gini-16-6-balanced_subsample:
+map            	all	0.6874
+recip_rank     	all	0.7605
+TREC Scores of test_res/RF-dev/RF-150-gini-16-8-None:
+map            	all	0.6595
+recip_rank     	all	0.7348
+TREC Scores of test_res/RF-dev/RF-150-gini-16-8-balanced:
+map            	all	0.6788
+recip_rank     	all	0.7367
+TREC Scores of test_res/RF-dev/RF-150-gini-16-8-balanced_subsample:
+map            	all	0.6955
+recip_rank     	all	0.7492
+TREC Scores of test_res/RF-dev/RF-150-gini-20-2-None:
+map            	all	0.6580
+recip_rank     	all	0.7297
+TREC Scores of test_res/RF-dev/RF-150-gini-20-2-balanced:
+map            	all	0.6542
+recip_rank     	all	0.7079
+TREC Scores of test_res/RF-dev/RF-150-gini-20-2-balanced_subsample:
+map            	all	0.6492
+recip_rank     	all	0.7010
+TREC Scores of test_res/RF-dev/RF-150-gini-20-4-None:
+map            	all	0.6628
+recip_rank     	all	0.7446
+TREC Scores of test_res/RF-dev/RF-150-gini-20-4-balanced:
+map            	all	0.6562
+recip_rank     	all	0.7113
+TREC Scores of test_res/RF-dev/RF-150-gini-20-4-balanced_subsample:
+map            	all	0.6628
+recip_rank     	all	0.7250
+TREC Scores of test_res/RF-dev/RF-150-gini-20-6-None:
+map            	all	0.6536
+recip_rank     	all	0.7344
+TREC Scores of test_res/RF-dev/RF-150-gini-20-6-balanced:
+map            	all	0.6564
+recip_rank     	all	0.7031
+TREC Scores of test_res/RF-dev/RF-150-gini-20-6-balanced_subsample:
+map            	all	0.6699
+recip_rank     	all	0.7246
+TREC Scores of test_res/RF-dev/RF-150-gini-20-8-None:
+map            	all	0.6626
+recip_rank     	all	0.7327
+TREC Scores of test_res/RF-dev/RF-150-gini-20-8-balanced:
+map            	all	0.6626
+recip_rank     	all	0.7217
+TREC Scores of test_res/RF-dev/RF-150-gini-20-8-balanced_subsample:
+map            	all	0.6682
+recip_rank     	all	0.7330
+TREC Scores of test_res/RF-dev/RF-150-gini-8-2-None:
+map            	all	0.6729
+recip_rank     	all	0.7352
+TREC Scores of test_res/RF-dev/RF-150-gini-8-2-balanced:
+map            	all	0.6913
+recip_rank     	all	0.7660
+TREC Scores of test_res/RF-dev/RF-150-gini-8-2-balanced_subsample:
+map            	all	0.6783
+recip_rank     	all	0.7481
+TREC Scores of test_res/RF-dev/RF-150-gini-8-4-None:
+map            	all	0.6596
+recip_rank     	all	0.7327
+TREC Scores of test_res/RF-dev/RF-150-gini-8-4-balanced:
+map            	all	0.6691
+recip_rank     	all	0.7290
+TREC Scores of test_res/RF-dev/RF-150-gini-8-4-balanced_subsample:
+map            	all	0.6720
+recip_rank     	all	0.7426
+TREC Scores of test_res/RF-dev/RF-150-gini-8-6-None:
+map            	all	0.6821
+recip_rank     	all	0.7530
+TREC Scores of test_res/RF-dev/RF-150-gini-8-6-balanced:
+map            	all	0.6768
+recip_rank     	all	0.7428
+TREC Scores of test_res/RF-dev/RF-150-gini-8-6-balanced_subsample:
+map            	all	0.6809
+recip_rank     	all	0.7399
+TREC Scores of test_res/RF-dev/RF-150-gini-8-8-None:
+map            	all	0.6679
+recip_rank     	all	0.7299
+TREC Scores of test_res/RF-dev/RF-150-gini-8-8-balanced:
+map            	all	0.6860
+recip_rank     	all	0.7460
+TREC Scores of test_res/RF-dev/RF-150-gini-8-8-balanced_subsample:
+map            	all	0.6947
+recip_rank     	all	0.7660
+TREC Scores of test_res/RF-dev/RF-200-entropy-11-2-None:
+map            	all	0.6738
+recip_rank     	all	0.7450
+TREC Scores of test_res/RF-dev/RF-200-entropy-11-2-balanced:
+map            	all	0.6374
+recip_rank     	all	0.7072
+TREC Scores of test_res/RF-dev/RF-200-entropy-11-2-balanced_subsample:
+map            	all	0.6611
+recip_rank     	all	0.7292
+TREC Scores of test_res/RF-dev/RF-200-entropy-11-4-None:
+map            	all	0.6930
+recip_rank     	all	0.7644
+TREC Scores of test_res/RF-dev/RF-200-entropy-11-4-balanced:
+map            	all	0.6763
+recip_rank     	all	0.7376
+TREC Scores of test_res/RF-dev/RF-200-entropy-11-4-balanced_subsample:
+map            	all	0.6759
+recip_rank     	all	0.7500
+TREC Scores of test_res/RF-dev/RF-200-entropy-11-6-None:
+map            	all	0.6943
+recip_rank     	all	0.7655
+TREC Scores of test_res/RF-dev/RF-200-entropy-11-6-balanced:
+map            	all	0.6705
+recip_rank     	all	0.7314
+TREC Scores of test_res/RF-dev/RF-200-entropy-11-6-balanced_subsample:
+map            	all	0.6744
+recip_rank     	all	0.7403
+TREC Scores of test_res/RF-dev/RF-200-entropy-11-8-None:
+map            	all	0.6691
+recip_rank     	all	0.7224
+TREC Scores of test_res/RF-dev/RF-200-entropy-11-8-balanced:
+map            	all	0.6662
+recip_rank     	all	0.7163
+TREC Scores of test_res/RF-dev/RF-200-entropy-11-8-balanced_subsample:
+map            	all	0.6736
+recip_rank     	all	0.7491
+TREC Scores of test_res/RF-dev/RF-200-entropy-16-2-None:
+map            	all	0.6673
+recip_rank     	all	0.7370
+TREC Scores of test_res/RF-dev/RF-200-entropy-16-2-balanced:
+map            	all	0.6778
+recip_rank     	all	0.7273
+TREC Scores of test_res/RF-dev/RF-200-entropy-16-2-balanced_subsample:
+map            	all	0.6810
+recip_rank     	all	0.7254
+TREC Scores of test_res/RF-dev/RF-200-entropy-16-4-None:
+map            	all	0.6741
+recip_rank     	all	0.7411
+TREC Scores of test_res/RF-dev/RF-200-entropy-16-4-balanced:
+map            	all	0.6608
+recip_rank     	all	0.7352
+TREC Scores of test_res/RF-dev/RF-200-entropy-16-4-balanced_subsample:
+map            	all	0.6732
+recip_rank     	all	0.7287
+TREC Scores of test_res/RF-dev/RF-200-entropy-16-6-None:
+map            	all	0.6923
+recip_rank     	all	0.7520
+TREC Scores of test_res/RF-dev/RF-200-entropy-16-6-balanced:
+map            	all	0.6790
+recip_rank     	all	0.7363
+TREC Scores of test_res/RF-dev/RF-200-entropy-16-6-balanced_subsample:
+map            	all	0.6725
+recip_rank     	all	0.7469
+TREC Scores of test_res/RF-dev/RF-200-entropy-16-8-None:
+map            	all	0.6858
+recip_rank     	all	0.7698
+TREC Scores of test_res/RF-dev/RF-200-entropy-16-8-balanced:
+map            	all	0.7059
+recip_rank     	all	0.7761
+TREC Scores of test_res/RF-dev/RF-200-entropy-16-8-balanced_subsample:
+map            	all	0.6909
+recip_rank     	all	0.7582
+TREC Scores of test_res/RF-dev/RF-200-entropy-20-2-None:
+map            	all	0.6840
+recip_rank     	all	0.7529
+TREC Scores of test_res/RF-dev/RF-200-entropy-20-2-balanced:
+map            	all	0.6607
+recip_rank     	all	0.7155
+TREC Scores of test_res/RF-dev/RF-200-entropy-20-2-balanced_subsample:
+map            	all	0.6623
+recip_rank     	all	0.7167
+TREC Scores of test_res/RF-dev/RF-200-entropy-20-4-None:
+map            	all	0.6736
+recip_rank     	all	0.7389
+TREC Scores of test_res/RF-dev/RF-200-entropy-20-4-balanced:
+map            	all	0.6635
+recip_rank     	all	0.7475
+TREC Scores of test_res/RF-dev/RF-200-entropy-20-4-balanced_subsample:
+map            	all	0.6637
+recip_rank     	all	0.7417
+TREC Scores of test_res/RF-dev/RF-200-entropy-20-6-None:
+map            	all	0.6853
+recip_rank     	all	0.7341
+TREC Scores of test_res/RF-dev/RF-200-entropy-20-6-balanced:
+map            	all	0.6635
+recip_rank     	all	0.7198
+TREC Scores of test_res/RF-dev/RF-200-entropy-20-6-balanced_subsample:
+map            	all	0.6749
+recip_rank     	all	0.7440
+TREC Scores of test_res/RF-dev/RF-200-entropy-20-8-None:
+map            	all	0.6769
+recip_rank     	all	0.7450
+TREC Scores of test_res/RF-dev/RF-200-entropy-20-8-balanced:
+map            	all	0.6924
+recip_rank     	all	0.7591
+TREC Scores of test_res/RF-dev/RF-200-entropy-20-8-balanced_subsample:
+map            	all	0.6921
+recip_rank     	all	0.7478
+TREC Scores of test_res/RF-dev/RF-200-entropy-8-2-None:
+map            	all	0.6961
+recip_rank     	all	0.7531
+TREC Scores of test_res/RF-dev/RF-200-entropy-8-2-balanced:
+map            	all	0.6783
+recip_rank     	all	0.7313
+TREC Scores of test_res/RF-dev/RF-200-entropy-8-2-balanced_subsample:
+map            	all	0.6869
+recip_rank     	all	0.7487
+TREC Scores of test_res/RF-dev/RF-200-entropy-8-4-None:
+map            	all	0.6735
+recip_rank     	all	0.7278
+TREC Scores of test_res/RF-dev/RF-200-entropy-8-4-balanced:
+map            	all	0.6656
+recip_rank     	all	0.7233
+TREC Scores of test_res/RF-dev/RF-200-entropy-8-4-balanced_subsample:
+map            	all	0.6773
+recip_rank     	all	0.7293
+TREC Scores of test_res/RF-dev/RF-200-entropy-8-6-None:
+map            	all	0.6733
+recip_rank     	all	0.7324
+TREC Scores of test_res/RF-dev/RF-200-entropy-8-6-balanced:
+map            	all	0.6797
+recip_rank     	all	0.7418
+TREC Scores of test_res/RF-dev/RF-200-entropy-8-6-balanced_subsample:
+map            	all	0.6753
+recip_rank     	all	0.7316
+TREC Scores of test_res/RF-dev/RF-200-entropy-8-8-None:
+map            	all	0.6902
+recip_rank     	all	0.7514
+TREC Scores of test_res/RF-dev/RF-200-entropy-8-8-balanced:
+map            	all	0.6814
+recip_rank     	all	0.7417
+TREC Scores of test_res/RF-dev/RF-200-entropy-8-8-balanced_subsample:
+map            	all	0.6728
+recip_rank     	all	0.7328
+TREC Scores of test_res/RF-dev/RF-200-gini-11-2-None:
+map            	all	0.6882
+recip_rank     	all	0.7540
+TREC Scores of test_res/RF-dev/RF-200-gini-11-2-balanced:
+map            	all	0.6770
+recip_rank     	all	0.7360
+TREC Scores of test_res/RF-dev/RF-200-gini-11-2-balanced_subsample:
+map            	all	0.6730
+recip_rank     	all	0.7258
+TREC Scores of test_res/RF-dev/RF-200-gini-11-4-None:
+map            	all	0.6615
+recip_rank     	all	0.7261
+TREC Scores of test_res/RF-dev/RF-200-gini-11-4-balanced:
+map            	all	0.6514
+recip_rank     	all	0.7120
+TREC Scores of test_res/RF-dev/RF-200-gini-11-4-balanced_subsample:
+map            	all	0.6589
+recip_rank     	all	0.7311
+TREC Scores of test_res/RF-dev/RF-200-gini-11-6-None:
+map            	all	0.6585
+recip_rank     	all	0.7324
+TREC Scores of test_res/RF-dev/RF-200-gini-11-6-balanced:
+map            	all	0.6598
+recip_rank     	all	0.7323
+TREC Scores of test_res/RF-dev/RF-200-gini-11-6-balanced_subsample:
+map            	all	0.6853
+recip_rank     	all	0.7510
+TREC Scores of test_res/RF-dev/RF-200-gini-11-8-None:
+map            	all	0.6666
+recip_rank     	all	0.7261
+TREC Scores of test_res/RF-dev/RF-200-gini-11-8-balanced:
+map            	all	0.6714
+recip_rank     	all	0.7298
+TREC Scores of test_res/RF-dev/RF-200-gini-11-8-balanced_subsample:
+map            	all	0.6784
+recip_rank     	all	0.7492
+TREC Scores of test_res/RF-dev/RF-200-gini-16-2-None:
+map            	all	0.6872
+recip_rank     	all	0.7633
+TREC Scores of test_res/RF-dev/RF-200-gini-16-2-balanced:
+map            	all	0.6589
+recip_rank     	all	0.7167
+TREC Scores of test_res/RF-dev/RF-200-gini-16-2-balanced_subsample:
+map            	all	0.6612
+recip_rank     	all	0.7067
+TREC Scores of test_res/RF-dev/RF-200-gini-16-4-None:
+map            	all	0.6684
+recip_rank     	all	0.7279
+TREC Scores of test_res/RF-dev/RF-200-gini-16-4-balanced:
+map            	all	0.6576
+recip_rank     	all	0.7108
+TREC Scores of test_res/RF-dev/RF-200-gini-16-4-balanced_subsample:
+map            	all	0.6732
+recip_rank     	all	0.7299
+TREC Scores of test_res/RF-dev/RF-200-gini-16-6-None:
+map            	all	0.6555
+recip_rank     	all	0.7342
+TREC Scores of test_res/RF-dev/RF-200-gini-16-6-balanced:
+map            	all	0.6677
+recip_rank     	all	0.7180
+TREC Scores of test_res/RF-dev/RF-200-gini-16-6-balanced_subsample:
+map            	all	0.6845
+recip_rank     	all	0.7569
+TREC Scores of test_res/RF-dev/RF-200-gini-16-8-None:
+map            	all	0.6677
+recip_rank     	all	0.7476
+TREC Scores of test_res/RF-dev/RF-200-gini-16-8-balanced:
+map            	all	0.6848
+recip_rank     	all	0.7305
+TREC Scores of test_res/RF-dev/RF-200-gini-16-8-balanced_subsample:
+map            	all	0.6953
+recip_rank     	all	0.7661
+TREC Scores of test_res/RF-dev/RF-200-gini-20-2-None:
+map            	all	0.6549
+recip_rank     	all	0.7287
+TREC Scores of test_res/RF-dev/RF-200-gini-20-2-balanced:
+map            	all	0.6702
+recip_rank     	all	0.7292
+TREC Scores of test_res/RF-dev/RF-200-gini-20-2-balanced_subsample:
+map            	all	0.6642
+recip_rank     	all	0.7150
+TREC Scores of test_res/RF-dev/RF-200-gini-20-4-None:
+map            	all	0.6809
+recip_rank     	all	0.7642
+TREC Scores of test_res/RF-dev/RF-200-gini-20-4-balanced:
+map            	all	0.6541
+recip_rank     	all	0.7173
+TREC Scores of test_res/RF-dev/RF-200-gini-20-4-balanced_subsample:
+map            	all	0.6557
+recip_rank     	all	0.7259
+TREC Scores of test_res/RF-dev/RF-200-gini-20-6-None:
+map            	all	0.6544
+recip_rank     	all	0.7363
+TREC Scores of test_res/RF-dev/RF-200-gini-20-6-balanced:
+map            	all	0.6606
+recip_rank     	all	0.7284
+TREC Scores of test_res/RF-dev/RF-200-gini-20-6-balanced_subsample:
+map            	all	0.6799
+recip_rank     	all	0.7279
+TREC Scores of test_res/RF-dev/RF-200-gini-20-8-None:
+map            	all	0.6592
+recip_rank     	all	0.7256
+TREC Scores of test_res/RF-dev/RF-200-gini-20-8-balanced:
+map            	all	0.6719
+recip_rank     	all	0.7356
+TREC Scores of test_res/RF-dev/RF-200-gini-20-8-balanced_subsample:
+map            	all	0.6862
+recip_rank     	all	0.7503
+TREC Scores of test_res/RF-dev/RF-200-gini-8-2-None:
+map            	all	0.6634
+recip_rank     	all	0.7171
+TREC Scores of test_res/RF-dev/RF-200-gini-8-2-balanced:
+map            	all	0.6837
+recip_rank     	all	0.7607
+TREC Scores of test_res/RF-dev/RF-200-gini-8-2-balanced_subsample:
+map            	all	0.6758
+recip_rank     	all	0.7366
+TREC Scores of test_res/RF-dev/RF-200-gini-8-4-None:
+map            	all	0.6653
+recip_rank     	all	0.7293
+TREC Scores of test_res/RF-dev/RF-200-gini-8-4-balanced:
+map            	all	0.6656
+recip_rank     	all	0.7316
+TREC Scores of test_res/RF-dev/RF-200-gini-8-4-balanced_subsample:
+map            	all	0.6772
+recip_rank     	all	0.7481
+TREC Scores of test_res/RF-dev/RF-200-gini-8-6-None:
+map            	all	0.6644
+recip_rank     	all	0.7226
+TREC Scores of test_res/RF-dev/RF-200-gini-8-6-balanced:
+map            	all	0.6820
+recip_rank     	all	0.7569
+TREC Scores of test_res/RF-dev/RF-200-gini-8-6-balanced_subsample:
+map            	all	0.6861
+recip_rank     	all	0.7527
+TREC Scores of test_res/RF-dev/RF-200-gini-8-8-None:
+map            	all	0.6766
+recip_rank     	all	0.7473
+TREC Scores of test_res/RF-dev/RF-200-gini-8-8-balanced:
+map            	all	0.6876
+recip_rank     	all	0.7458
+TREC Scores of test_res/RF-dev/RF-200-gini-8-8-balanced_subsample:
+map            	all	0.6870
+recip_rank     	all	0.7412
+TREC Scores of test_res/RF-dev/RF-300-entropy-11-2-None:
+map            	all	0.6788
+recip_rank     	all	0.7420
+TREC Scores of test_res/RF-dev/RF-300-entropy-11-2-balanced:
+map            	all	0.6508
+recip_rank     	all	0.7192
+TREC Scores of test_res/RF-dev/RF-300-entropy-11-2-balanced_subsample:
+map            	all	0.6701
+recip_rank     	all	0.7379
+TREC Scores of test_res/RF-dev/RF-300-entropy-11-4-None:
+map            	all	0.6954
+recip_rank     	all	0.7667
+TREC Scores of test_res/RF-dev/RF-300-entropy-11-4-balanced:
+map            	all	0.6746
+recip_rank     	all	0.7465
+TREC Scores of test_res/RF-dev/RF-300-entropy-11-4-balanced_subsample:
+map            	all	0.6731
+recip_rank     	all	0.7488
+TREC Scores of test_res/RF-dev/RF-300-entropy-11-6-None:
+map            	all	0.6818
+recip_rank     	all	0.7450
+TREC Scores of test_res/RF-dev/RF-300-entropy-11-6-balanced:
+map            	all	0.6698
+recip_rank     	all	0.7412
+TREC Scores of test_res/RF-dev/RF-300-entropy-11-6-balanced_subsample:
+map            	all	0.6689
+recip_rank     	all	0.7404
+TREC Scores of test_res/RF-dev/RF-300-entropy-11-8-None:
+map            	all	0.6667
+recip_rank     	all	0.7405
+TREC Scores of test_res/RF-dev/RF-300-entropy-11-8-balanced:
+map            	all	0.6685
+recip_rank     	all	0.7371
+TREC Scores of test_res/RF-dev/RF-300-entropy-11-8-balanced_subsample:
+map            	all	0.6781
+recip_rank     	all	0.7513
+TREC Scores of test_res/RF-dev/RF-300-entropy-16-2-None:
+map            	all	0.6733
+recip_rank     	all	0.7435
+TREC Scores of test_res/RF-dev/RF-300-entropy-16-2-balanced:
+map            	all	0.6743
+recip_rank     	all	0.7240
+TREC Scores of test_res/RF-dev/RF-300-entropy-16-2-balanced_subsample:
+map            	all	0.6801
+recip_rank     	all	0.7309
+TREC Scores of test_res/RF-dev/RF-300-entropy-16-4-None:
+map            	all	0.6776
+recip_rank     	all	0.7473
+TREC Scores of test_res/RF-dev/RF-300-entropy-16-4-balanced:
+map            	all	0.6670
+recip_rank     	all	0.7302
+TREC Scores of test_res/RF-dev/RF-300-entropy-16-4-balanced_subsample:
+map            	all	0.6890
+recip_rank     	all	0.7487
+TREC Scores of test_res/RF-dev/RF-300-entropy-16-6-None:
+map            	all	0.6879
+recip_rank     	all	0.7474
+TREC Scores of test_res/RF-dev/RF-300-entropy-16-6-balanced:
+map            	all	0.6700
+recip_rank     	all	0.7148
+TREC Scores of test_res/RF-dev/RF-300-entropy-16-6-balanced_subsample:
+map            	all	0.6805
+recip_rank     	all	0.7414
+TREC Scores of test_res/RF-dev/RF-300-entropy-16-8-None:
+map            	all	0.6958
+recip_rank     	all	0.7713
+TREC Scores of test_res/RF-dev/RF-300-entropy-16-8-balanced:
+map            	all	0.7036
+recip_rank     	all	0.7617
+TREC Scores of test_res/RF-dev/RF-300-entropy-16-8-balanced_subsample:
+map            	all	0.6905
+recip_rank     	all	0.7560
+TREC Scores of test_res/RF-dev/RF-300-entropy-20-2-None:
+map            	all	0.6814
+recip_rank     	all	0.7483
+TREC Scores of test_res/RF-dev/RF-300-entropy-20-2-balanced:
+map            	all	0.6589
+recip_rank     	all	0.7158
+TREC Scores of test_res/RF-dev/RF-300-entropy-20-2-balanced_subsample:
+map            	all	0.6723
+recip_rank     	all	0.7288
+TREC Scores of test_res/RF-dev/RF-300-entropy-20-4-None:
+map            	all	0.6775
+recip_rank     	all	0.7483
+TREC Scores of test_res/RF-dev/RF-300-entropy-20-4-balanced:
+map            	all	0.6698
+recip_rank     	all	0.7336
+TREC Scores of test_res/RF-dev/RF-300-entropy-20-4-balanced_subsample:
+map            	all	0.6718
+recip_rank     	all	0.7365
+TREC Scores of test_res/RF-dev/RF-300-entropy-20-6-None:
+map            	all	0.6939
+recip_rank     	all	0.7643
+TREC Scores of test_res/RF-dev/RF-300-entropy-20-6-balanced:
+map            	all	0.6713
+recip_rank     	all	0.7267
+TREC Scores of test_res/RF-dev/RF-300-entropy-20-6-balanced_subsample:
+map            	all	0.6716
+recip_rank     	all	0.7340
+TREC Scores of test_res/RF-dev/RF-300-entropy-20-8-None:
+map            	all	0.6786
+recip_rank     	all	0.7469
+TREC Scores of test_res/RF-dev/RF-300-entropy-20-8-balanced:
+map            	all	0.6835
+recip_rank     	all	0.7448
+TREC Scores of test_res/RF-dev/RF-300-entropy-20-8-balanced_subsample:
+map            	all	0.6875
+recip_rank     	all	0.7443
+TREC Scores of test_res/RF-dev/RF-300-entropy-8-2-None:
+map            	all	0.7004
+recip_rank     	all	0.7679
+TREC Scores of test_res/RF-dev/RF-300-entropy-8-2-balanced:
+map            	all	0.6747
+recip_rank     	all	0.7379
+TREC Scores of test_res/RF-dev/RF-300-entropy-8-2-balanced_subsample:
+map            	all	0.6763
+recip_rank     	all	0.7459
+TREC Scores of test_res/RF-dev/RF-300-entropy-8-4-None:
+map            	all	0.6702
+recip_rank     	all	0.7284
+TREC Scores of test_res/RF-dev/RF-300-entropy-8-4-balanced:
+map            	all	0.6642
+recip_rank     	all	0.7323
+TREC Scores of test_res/RF-dev/RF-300-entropy-8-4-balanced_subsample:
+map            	all	0.6606
+recip_rank     	all	0.7206
+TREC Scores of test_res/RF-dev/RF-300-entropy-8-6-None:
+map            	all	0.6865
+recip_rank     	all	0.7445
+TREC Scores of test_res/RF-dev/RF-300-entropy-8-6-balanced:
+map            	all	0.6736
+recip_rank     	all	0.7449
+TREC Scores of test_res/RF-dev/RF-300-entropy-8-6-balanced_subsample:
+map            	all	0.6715
+recip_rank     	all	0.7380
+TREC Scores of test_res/RF-dev/RF-300-entropy-8-8-None:
+map            	all	0.6987
+recip_rank     	all	0.7648
+TREC Scores of test_res/RF-dev/RF-300-entropy-8-8-balanced:
+map            	all	0.6840
+recip_rank     	all	0.7510
+TREC Scores of test_res/RF-dev/RF-300-entropy-8-8-balanced_subsample:
+map            	all	0.6814
+recip_rank     	all	0.7439
+TREC Scores of test_res/RF-dev/RF-300-gini-11-2-None:
+map            	all	0.6765
+recip_rank     	all	0.7374
+TREC Scores of test_res/RF-dev/RF-300-gini-11-2-balanced:
+map            	all	0.6739
+recip_rank     	all	0.7414
+TREC Scores of test_res/RF-dev/RF-300-gini-11-2-balanced_subsample:
+map            	all	0.6697
+recip_rank     	all	0.7318
+TREC Scores of test_res/RF-dev/RF-300-gini-11-4-None:
+map            	all	0.6626
+recip_rank     	all	0.7298
+TREC Scores of test_res/RF-dev/RF-300-gini-11-4-balanced:
+map            	all	0.6629
+recip_rank     	all	0.7281
+TREC Scores of test_res/RF-dev/RF-300-gini-11-4-balanced_subsample:
+map            	all	0.6636
+recip_rank     	all	0.7423
+TREC Scores of test_res/RF-dev/RF-300-gini-11-6-None:
+map            	all	0.6630
+recip_rank     	all	0.7284
+TREC Scores of test_res/RF-dev/RF-300-gini-11-6-balanced:
+map            	all	0.6687
+recip_rank     	all	0.7410
+TREC Scores of test_res/RF-dev/RF-300-gini-11-6-balanced_subsample:
+map            	all	0.6864
+recip_rank     	all	0.7464
+TREC Scores of test_res/RF-dev/RF-300-gini-11-8-None:
+map            	all	0.6703
+recip_rank     	all	0.7297
+TREC Scores of test_res/RF-dev/RF-300-gini-11-8-balanced:
+map            	all	0.6817
+recip_rank     	all	0.7393
+TREC Scores of test_res/RF-dev/RF-300-gini-11-8-balanced_subsample:
+map            	all	0.6878
+recip_rank     	all	0.7550
+TREC Scores of test_res/RF-dev/RF-300-gini-16-2-None:
+map            	all	0.6738
+recip_rank     	all	0.7523
+TREC Scores of test_res/RF-dev/RF-300-gini-16-2-balanced:
+map            	all	0.6623
+recip_rank     	all	0.7264
+TREC Scores of test_res/RF-dev/RF-300-gini-16-2-balanced_subsample:
+map            	all	0.6599
+recip_rank     	all	0.7113
+TREC Scores of test_res/RF-dev/RF-300-gini-16-4-None:
+map            	all	0.6653
+recip_rank     	all	0.7337
+TREC Scores of test_res/RF-dev/RF-300-gini-16-4-balanced:
+map            	all	0.6649
+recip_rank     	all	0.7125
+TREC Scores of test_res/RF-dev/RF-300-gini-16-4-balanced_subsample:
+map            	all	0.6761
+recip_rank     	all	0.7428
+TREC Scores of test_res/RF-dev/RF-300-gini-16-6-None:
+map            	all	0.6715
+recip_rank     	all	0.7453
+TREC Scores of test_res/RF-dev/RF-300-gini-16-6-balanced:
+map            	all	0.6688
+recip_rank     	all	0.7214
+TREC Scores of test_res/RF-dev/RF-300-gini-16-6-balanced_subsample:
+map            	all	0.6597
+recip_rank     	all	0.7321
+TREC Scores of test_res/RF-dev/RF-300-gini-16-8-None:
+map            	all	0.6698
+recip_rank     	all	0.7525
+TREC Scores of test_res/RF-dev/RF-300-gini-16-8-balanced:
+map            	all	0.6846
+recip_rank     	all	0.7331
+TREC Scores of test_res/RF-dev/RF-300-gini-16-8-balanced_subsample:
+map            	all	0.6781
+recip_rank     	all	0.7431
+TREC Scores of test_res/RF-dev/RF-300-gini-20-2-None:
+map            	all	0.6775
+recip_rank     	all	0.7383
+TREC Scores of test_res/RF-dev/RF-300-gini-20-2-balanced:
+map            	all	0.6703
+recip_rank     	all	0.7292
+TREC Scores of test_res/RF-dev/RF-300-gini-20-2-balanced_subsample:
+map            	all	0.6625
+recip_rank     	all	0.7182
+TREC Scores of test_res/RF-dev/RF-300-gini-20-4-None:
+map            	all	0.6796
+recip_rank     	all	0.7690
+TREC Scores of test_res/RF-dev/RF-300-gini-20-4-balanced:
+map            	all	0.6599
+recip_rank     	all	0.7223
+TREC Scores of test_res/RF-dev/RF-300-gini-20-4-balanced_subsample:
+map            	all	0.6633
+recip_rank     	all	0.7290
+TREC Scores of test_res/RF-dev/RF-300-gini-20-6-None:
+map            	all	0.6692
+recip_rank     	all	0.7556
+TREC Scores of test_res/RF-dev/RF-300-gini-20-6-balanced:
+map            	all	0.6638
+recip_rank     	all	0.7236
+TREC Scores of test_res/RF-dev/RF-300-gini-20-6-balanced_subsample:
+map            	all	0.6694
+recip_rank     	all	0.7229
+TREC Scores of test_res/RF-dev/RF-300-gini-20-8-None:
+map            	all	0.6801
+recip_rank     	all	0.7601
+TREC Scores of test_res/RF-dev/RF-300-gini-20-8-balanced:
+map            	all	0.6660
+recip_rank     	all	0.7292
+TREC Scores of test_res/RF-dev/RF-300-gini-20-8-balanced_subsample:
+map            	all	0.6874
+recip_rank     	all	0.7599
+TREC Scores of test_res/RF-dev/RF-300-gini-8-2-None:
+map            	all	0.6866
+recip_rank     	all	0.7484
+TREC Scores of test_res/RF-dev/RF-300-gini-8-2-balanced:
+map            	all	0.6719
+recip_rank     	all	0.7465
+TREC Scores of test_res/RF-dev/RF-300-gini-8-2-balanced_subsample:
+map            	all	0.6751
+recip_rank     	all	0.7461
+TREC Scores of test_res/RF-dev/RF-300-gini-8-4-None:
+map            	all	0.6726
+recip_rank     	all	0.7410
+TREC Scores of test_res/RF-dev/RF-300-gini-8-4-balanced:
+map            	all	0.6604
+recip_rank     	all	0.7195
+TREC Scores of test_res/RF-dev/RF-300-gini-8-4-balanced_subsample:
+map            	all	0.6656
+recip_rank     	all	0.7324
+TREC Scores of test_res/RF-dev/RF-300-gini-8-6-None:
+map            	all	0.6792
+recip_rank     	all	0.7412
+TREC Scores of test_res/RF-dev/RF-300-gini-8-6-balanced:
+map            	all	0.6683
+recip_rank     	all	0.7329
+TREC Scores of test_res/RF-dev/RF-300-gini-8-6-balanced_subsample:
+map            	all	0.6658
+recip_rank     	all	0.7313
+TREC Scores of test_res/RF-dev/RF-300-gini-8-8-None:
+map            	all	0.6891
+recip_rank     	all	0.7519
+TREC Scores of test_res/RF-dev/RF-300-gini-8-8-balanced:
+map            	all	0.6670
+recip_rank     	all	0.7329
+TREC Scores of test_res/RF-dev/RF-300-gini-8-8-balanced_subsample:
+map            	all	0.6766
+recip_rank     	all	0.7387
+TREC Scores of test_res/RF-dev/RF-400-entropy-11-2-None:
+map            	all	0.6729
+recip_rank     	all	0.7348
+TREC Scores of test_res/RF-dev/RF-400-entropy-11-2-balanced:
+map            	all	0.6519
+recip_rank     	all	0.7226
+TREC Scores of test_res/RF-dev/RF-400-entropy-11-2-balanced_subsample:
+map            	all	0.6689
+recip_rank     	all	0.7331
+TREC Scores of test_res/RF-dev/RF-400-entropy-11-4-None:
+map            	all	0.6889
+recip_rank     	all	0.7476
+TREC Scores of test_res/RF-dev/RF-400-entropy-11-4-balanced:
+map            	all	0.6676
+recip_rank     	all	0.7390
+TREC Scores of test_res/RF-dev/RF-400-entropy-11-4-balanced_subsample:
+map            	all	0.6663
+recip_rank     	all	0.7413
+TREC Scores of test_res/RF-dev/RF-400-entropy-11-6-None:
+map            	all	0.6874
+recip_rank     	all	0.7490
+TREC Scores of test_res/RF-dev/RF-400-entropy-11-6-balanced:
+map            	all	0.6727
+recip_rank     	all	0.7389
+TREC Scores of test_res/RF-dev/RF-400-entropy-11-6-balanced_subsample:
+map            	all	0.6658
+recip_rank     	all	0.7349
+TREC Scores of test_res/RF-dev/RF-400-entropy-11-8-None:
+map            	all	0.6816
+recip_rank     	all	0.7487
+TREC Scores of test_res/RF-dev/RF-400-entropy-11-8-balanced:
+map            	all	0.6698
+recip_rank     	all	0.7407
+TREC Scores of test_res/RF-dev/RF-400-entropy-11-8-balanced_subsample:
+map            	all	0.6675
+recip_rank     	all	0.7444
+TREC Scores of test_res/RF-dev/RF-400-entropy-16-2-None:
+map            	all	0.6831
+recip_rank     	all	0.7644
+TREC Scores of test_res/RF-dev/RF-400-entropy-16-2-balanced:
+map            	all	0.6639
+recip_rank     	all	0.7229
+TREC Scores of test_res/RF-dev/RF-400-entropy-16-2-balanced_subsample:
+map            	all	0.6739
+recip_rank     	all	0.7285
+TREC Scores of test_res/RF-dev/RF-400-entropy-16-4-None:
+map            	all	0.6898
+recip_rank     	all	0.7561
+TREC Scores of test_res/RF-dev/RF-400-entropy-16-4-balanced:
+map            	all	0.6720
+recip_rank     	all	0.7323
+TREC Scores of test_res/RF-dev/RF-400-entropy-16-4-balanced_subsample:
+map            	all	0.6849
+recip_rank     	all	0.7508
+TREC Scores of test_res/RF-dev/RF-400-entropy-16-6-None:
+map            	all	0.6884
+recip_rank     	all	0.7505
+TREC Scores of test_res/RF-dev/RF-400-entropy-16-6-balanced:
+map            	all	0.6708
+recip_rank     	all	0.7196
+TREC Scores of test_res/RF-dev/RF-400-entropy-16-6-balanced_subsample:
+map            	all	0.6785
+recip_rank     	all	0.7378
+TREC Scores of test_res/RF-dev/RF-400-entropy-16-8-None:
+map            	all	0.7055
+recip_rank     	all	0.7665
+TREC Scores of test_res/RF-dev/RF-400-entropy-16-8-balanced:
+map            	all	0.7029
+recip_rank     	all	0.7727
+TREC Scores of test_res/RF-dev/RF-400-entropy-16-8-balanced_subsample:
+map            	all	0.6732
+recip_rank     	all	0.7369
+TREC Scores of test_res/RF-dev/RF-400-entropy-20-2-None:
+map            	all	0.6798
+recip_rank     	all	0.7448
+TREC Scores of test_res/RF-dev/RF-400-entropy-20-2-balanced:
+map            	all	0.6635
+recip_rank     	all	0.7212
+TREC Scores of test_res/RF-dev/RF-400-entropy-20-2-balanced_subsample:
+map            	all	0.6724
+recip_rank     	all	0.7332
+TREC Scores of test_res/RF-dev/RF-400-entropy-20-4-None:
+map            	all	0.6761
+recip_rank     	all	0.7517
+TREC Scores of test_res/RF-dev/RF-400-entropy-20-4-balanced:
+map            	all	0.6787
+recip_rank     	all	0.7427
+TREC Scores of test_res/RF-dev/RF-400-entropy-20-4-balanced_subsample:
+map            	all	0.6663
+recip_rank     	all	0.7312
+TREC Scores of test_res/RF-dev/RF-400-entropy-20-6-None:
+map            	all	0.6965
+recip_rank     	all	0.7644
+TREC Scores of test_res/RF-dev/RF-400-entropy-20-6-balanced:
+map            	all	0.6596
+recip_rank     	all	0.7021
+TREC Scores of test_res/RF-dev/RF-400-entropy-20-6-balanced_subsample:
+map            	all	0.6719
+recip_rank     	all	0.7292
+TREC Scores of test_res/RF-dev/RF-400-entropy-20-8-None:
+map            	all	0.6961
+recip_rank     	all	0.7718
+TREC Scores of test_res/RF-dev/RF-400-entropy-20-8-balanced:
+map            	all	0.6766
+recip_rank     	all	0.7484
+TREC Scores of test_res/RF-dev/RF-400-entropy-20-8-balanced_subsample:
+map            	all	0.6809
+recip_rank     	all	0.7361
+TREC Scores of test_res/RF-dev/RF-400-entropy-8-2-None:
+map            	all	0.6923
+recip_rank     	all	0.7527
+TREC Scores of test_res/RF-dev/RF-400-entropy-8-2-balanced:
+map            	all	0.6722
+recip_rank     	all	0.7290
+TREC Scores of test_res/RF-dev/RF-400-entropy-8-2-balanced_subsample:
+map            	all	0.6756
+recip_rank     	all	0.7423
+TREC Scores of test_res/RF-dev/RF-400-entropy-8-4-None:
+map            	all	0.6818
+recip_rank     	all	0.7348
+TREC Scores of test_res/RF-dev/RF-400-entropy-8-4-balanced:
+map            	all	0.6670
+recip_rank     	all	0.7302
+TREC Scores of test_res/RF-dev/RF-400-entropy-8-4-balanced_subsample:
+map            	all	0.6662
+recip_rank     	all	0.7254
+TREC Scores of test_res/RF-dev/RF-400-entropy-8-6-None:
+map            	all	0.6910
+recip_rank     	all	0.7583
+TREC Scores of test_res/RF-dev/RF-400-entropy-8-6-balanced:
+map            	all	0.6779
+recip_rank     	all	0.7432
+TREC Scores of test_res/RF-dev/RF-400-entropy-8-6-balanced_subsample:
+map            	all	0.6764
+recip_rank     	all	0.7423
+TREC Scores of test_res/RF-dev/RF-400-entropy-8-8-None:
+map            	all	0.6989
+recip_rank     	all	0.7600
+TREC Scores of test_res/RF-dev/RF-400-entropy-8-8-balanced:
+map            	all	0.6722
+recip_rank     	all	0.7389
+TREC Scores of test_res/RF-dev/RF-400-entropy-8-8-balanced_subsample:
+map            	all	0.6781
+recip_rank     	all	0.7437
+TREC Scores of test_res/RF-dev/RF-400-gini-11-2-None:
+map            	all	0.6694
+recip_rank     	all	0.7382
+TREC Scores of test_res/RF-dev/RF-400-gini-11-2-balanced:
+map            	all	0.6696
+recip_rank     	all	0.7379
+TREC Scores of test_res/RF-dev/RF-400-gini-11-2-balanced_subsample:
+map            	all	0.6746
+recip_rank     	all	0.7360
+TREC Scores of test_res/RF-dev/RF-400-gini-11-4-None:
+map            	all	0.6710
+recip_rank     	all	0.7471
+TREC Scores of test_res/RF-dev/RF-400-gini-11-4-balanced:
+map            	all	0.6545
+recip_rank     	all	0.7202
+TREC Scores of test_res/RF-dev/RF-400-gini-11-4-balanced_subsample:
+map            	all	0.6573
+recip_rank     	all	0.7301
+TREC Scores of test_res/RF-dev/RF-400-gini-11-6-None:
+map            	all	0.6603
+recip_rank     	all	0.7332
+TREC Scores of test_res/RF-dev/RF-400-gini-11-6-balanced:
+map            	all	0.6726
+recip_rank     	all	0.7379
+TREC Scores of test_res/RF-dev/RF-400-gini-11-6-balanced_subsample:
+map            	all	0.6869
+recip_rank     	all	0.7595
+TREC Scores of test_res/RF-dev/RF-400-gini-11-8-None:
+map            	all	0.6569
+recip_rank     	all	0.7276
+TREC Scores of test_res/RF-dev/RF-400-gini-11-8-balanced:
+map            	all	0.6783
+recip_rank     	all	0.7392
+TREC Scores of test_res/RF-dev/RF-400-gini-11-8-balanced_subsample:
+map            	all	0.6877
+recip_rank     	all	0.7561
+TREC Scores of test_res/RF-dev/RF-400-gini-16-2-None:
+map            	all	0.6746
+recip_rank     	all	0.7535
+TREC Scores of test_res/RF-dev/RF-400-gini-16-2-balanced:
+map            	all	0.6641
+recip_rank     	all	0.7272
+TREC Scores of test_res/RF-dev/RF-400-gini-16-2-balanced_subsample:
+map            	all	0.6646
+recip_rank     	all	0.7228
+TREC Scores of test_res/RF-dev/RF-400-gini-16-4-None:
+map            	all	0.6671
+recip_rank     	all	0.7444
+TREC Scores of test_res/RF-dev/RF-400-gini-16-4-balanced:
+map            	all	0.6661
+recip_rank     	all	0.7212
+TREC Scores of test_res/RF-dev/RF-400-gini-16-4-balanced_subsample:
+map            	all	0.6730
+recip_rank     	all	0.7411
+TREC Scores of test_res/RF-dev/RF-400-gini-16-6-None:
+map            	all	0.6716
+recip_rank     	all	0.7454
+TREC Scores of test_res/RF-dev/RF-400-gini-16-6-balanced:
+map            	all	0.6701
+recip_rank     	all	0.7341
+TREC Scores of test_res/RF-dev/RF-400-gini-16-6-balanced_subsample:
+map            	all	0.6642
+recip_rank     	all	0.7273
+TREC Scores of test_res/RF-dev/RF-400-gini-16-8-None:
+map            	all	0.6587
+recip_rank     	all	0.7278
+TREC Scores of test_res/RF-dev/RF-400-gini-16-8-balanced:
+map            	all	0.6790
+recip_rank     	all	0.7299
+TREC Scores of test_res/RF-dev/RF-400-gini-16-8-balanced_subsample:
+map            	all	0.6736
+recip_rank     	all	0.7390
+TREC Scores of test_res/RF-dev/RF-400-gini-20-2-None:
+map            	all	0.6694
+recip_rank     	all	0.7407
+TREC Scores of test_res/RF-dev/RF-400-gini-20-2-balanced:
+map            	all	0.6647
+recip_rank     	all	0.7252
+TREC Scores of test_res/RF-dev/RF-400-gini-20-2-balanced_subsample:
+map            	all	0.6519
+recip_rank     	all	0.7098
+TREC Scores of test_res/RF-dev/RF-400-gini-20-4-None:
+map            	all	0.6665
+recip_rank     	all	0.7366
+TREC Scores of test_res/RF-dev/RF-400-gini-20-4-balanced:
+map            	all	0.6580
+recip_rank     	all	0.7225
+TREC Scores of test_res/RF-dev/RF-400-gini-20-4-balanced_subsample:
+map            	all	0.6597
+recip_rank     	all	0.7264
+TREC Scores of test_res/RF-dev/RF-400-gini-20-6-None:
+map            	all	0.6630
+recip_rank     	all	0.7429
+TREC Scores of test_res/RF-dev/RF-400-gini-20-6-balanced:
+map            	all	0.6652
+recip_rank     	all	0.7345
+TREC Scores of test_res/RF-dev/RF-400-gini-20-6-balanced_subsample:
+map            	all	0.6589
+recip_rank     	all	0.7191
+TREC Scores of test_res/RF-dev/RF-400-gini-20-8-None:
+map            	all	0.6800
+recip_rank     	all	0.7602
+TREC Scores of test_res/RF-dev/RF-400-gini-20-8-balanced:
+map            	all	0.6655
+recip_rank     	all	0.7388
+TREC Scores of test_res/RF-dev/RF-400-gini-20-8-balanced_subsample:
+map            	all	0.6909
+recip_rank     	all	0.7599
+TREC Scores of test_res/RF-dev/RF-400-gini-8-2-None:
+map            	all	0.6883
+recip_rank     	all	0.7492
+TREC Scores of test_res/RF-dev/RF-400-gini-8-2-balanced:
+map            	all	0.6688
+recip_rank     	all	0.7353
+TREC Scores of test_res/RF-dev/RF-400-gini-8-2-balanced_subsample:
+map            	all	0.6772
+recip_rank     	all	0.7524
+TREC Scores of test_res/RF-dev/RF-400-gini-8-4-None:
+map            	all	0.6713
+recip_rank     	all	0.7445
+TREC Scores of test_res/RF-dev/RF-400-gini-8-4-balanced:
+map            	all	0.6702
+recip_rank     	all	0.7337
+TREC Scores of test_res/RF-dev/RF-400-gini-8-4-balanced_subsample:
+map            	all	0.6736
+recip_rank     	all	0.7324
+TREC Scores of test_res/RF-dev/RF-400-gini-8-6-None:
+map            	all	0.6920
+recip_rank     	all	0.7650
+TREC Scores of test_res/RF-dev/RF-400-gini-8-6-balanced:
+map            	all	0.6829
+recip_rank     	all	0.7419
+TREC Scores of test_res/RF-dev/RF-400-gini-8-6-balanced_subsample:
+map            	all	0.6684
+recip_rank     	all	0.7396
+TREC Scores of test_res/RF-dev/RF-400-gini-8-8-None:
+map            	all	0.6925
+recip_rank     	all	0.7613
+TREC Scores of test_res/RF-dev/RF-400-gini-8-8-balanced:
+map            	all	0.6602
+recip_rank     	all	0.7336
+TREC Scores of test_res/RF-dev/RF-400-gini-8-8-balanced_subsample:
+map            	all	0.6751
+recip_rank     	all	0.7412
+TREC Scores of test_res/RF-test/RF-100-entropy-11-2-None:
+map            	all	0.6211
+recip_rank     	all	0.7018
+TREC Scores of test_res/RF-test/RF-100-entropy-11-2-balanced:
+map            	all	0.5958
+recip_rank     	all	0.6822
+TREC Scores of test_res/RF-test/RF-100-entropy-11-2-balanced_subsample:
+map            	all	0.6071
+recip_rank     	all	0.6954
+TREC Scores of test_res/RF-test/RF-100-entropy-11-4-None:
+map            	all	0.6225
+recip_rank     	all	0.6983
+TREC Scores of test_res/RF-test/RF-100-entropy-11-4-balanced:
+map            	all	0.6073
+recip_rank     	all	0.6911
+TREC Scores of test_res/RF-test/RF-100-entropy-11-4-balanced_subsample:
+map            	all	0.6045
+recip_rank     	all	0.6880
+TREC Scores of test_res/RF-test/RF-100-entropy-11-6-None:
+map            	all	0.6051
+recip_rank     	all	0.6687
+TREC Scores of test_res/RF-test/RF-100-entropy-11-6-balanced:
+map            	all	0.6180
+recip_rank     	all	0.7112
+TREC Scores of test_res/RF-test/RF-100-entropy-11-6-balanced_subsample:
+map            	all	0.6112
+recip_rank     	all	0.6957
+TREC Scores of test_res/RF-test/RF-100-entropy-11-8-None:
+map            	all	0.6319
+recip_rank     	all	0.7101
+TREC Scores of test_res/RF-test/RF-100-entropy-11-8-balanced:
+map            	all	0.6042
+recip_rank     	all	0.6879
+TREC Scores of test_res/RF-test/RF-100-entropy-11-8-balanced_subsample:
+map            	all	0.6024
+recip_rank     	all	0.6815
+TREC Scores of test_res/RF-test/RF-100-entropy-16-2-None:
+map            	all	0.6288
+recip_rank     	all	0.7109
+TREC Scores of test_res/RF-test/RF-100-entropy-16-2-balanced:
+map            	all	0.6026
+recip_rank     	all	0.6828
+TREC Scores of test_res/RF-test/RF-100-entropy-16-2-balanced_subsample:
+map            	all	0.6053
+recip_rank     	all	0.6909
+TREC Scores of test_res/RF-test/RF-100-entropy-16-4-None:
+map            	all	0.6186
+recip_rank     	all	0.6937
+TREC Scores of test_res/RF-test/RF-100-entropy-16-4-balanced:
+map            	all	0.6136
+recip_rank     	all	0.7149
+TREC Scores of test_res/RF-test/RF-100-entropy-16-4-balanced_subsample:
+map            	all	0.6108
+recip_rank     	all	0.7060
+TREC Scores of test_res/RF-test/RF-100-entropy-16-6-None:
+map            	all	0.6384
+recip_rank     	all	0.7241
+TREC Scores of test_res/RF-test/RF-100-entropy-16-6-balanced:
+map            	all	0.6075
+recip_rank     	all	0.6935
+TREC Scores of test_res/RF-test/RF-100-entropy-16-6-balanced_subsample:
+map            	all	0.5998
+recip_rank     	all	0.6780
+TREC Scores of test_res/RF-test/RF-100-entropy-16-8-None:
+map            	all	0.6042
+recip_rank     	all	0.6818
+TREC Scores of test_res/RF-test/RF-100-entropy-16-8-balanced:
+map            	all	0.6121
+recip_rank     	all	0.6831
+TREC Scores of test_res/RF-test/RF-100-entropy-16-8-balanced_subsample:
+map            	all	0.6152
+recip_rank     	all	0.7137
+TREC Scores of test_res/RF-test/RF-100-entropy-20-2-None:
+map            	all	0.6211
+recip_rank     	all	0.6890
+TREC Scores of test_res/RF-test/RF-100-entropy-20-2-balanced:
+map            	all	0.5952
+recip_rank     	all	0.6808
+TREC Scores of test_res/RF-test/RF-100-entropy-20-2-balanced_subsample:
+map            	all	0.6072
+recip_rank     	all	0.7132
+TREC Scores of test_res/RF-test/RF-100-entropy-20-4-None:
+map            	all	0.5986
+recip_rank     	all	0.6908
+TREC Scores of test_res/RF-test/RF-100-entropy-20-4-balanced:
+map            	all	0.6304
+recip_rank     	all	0.7192
+TREC Scores of test_res/RF-test/RF-100-entropy-20-4-balanced_subsample:
+map            	all	0.6072
+recip_rank     	all	0.6789
+TREC Scores of test_res/RF-test/RF-100-entropy-20-6-None:
+map            	all	0.6231
+recip_rank     	all	0.6890
+TREC Scores of test_res/RF-test/RF-100-entropy-20-6-balanced:
+map            	all	0.6184
+recip_rank     	all	0.7218
+TREC Scores of test_res/RF-test/RF-100-entropy-20-6-balanced_subsample:
+map            	all	0.6270
+recip_rank     	all	0.7064
+TREC Scores of test_res/RF-test/RF-100-entropy-20-8-None:
+map            	all	0.6265
+recip_rank     	all	0.7132
+TREC Scores of test_res/RF-test/RF-100-entropy-20-8-balanced:
+map            	all	0.6193
+recip_rank     	all	0.7104
+TREC Scores of test_res/RF-test/RF-100-entropy-20-8-balanced_subsample:
+map            	all	0.6282
+recip_rank     	all	0.7159
+TREC Scores of test_res/RF-test/RF-100-entropy-8-2-None:
+map            	all	0.6009
+recip_rank     	all	0.6680
+TREC Scores of test_res/RF-test/RF-100-entropy-8-2-balanced:
+map            	all	0.6431
+recip_rank     	all	0.7366
+TREC Scores of test_res/RF-test/RF-100-entropy-8-2-balanced_subsample:
+map            	all	0.6376
+recip_rank     	all	0.7309
+TREC Scores of test_res/RF-test/RF-100-entropy-8-4-None:
+map            	all	0.6190
+recip_rank     	all	0.7074
+TREC Scores of test_res/RF-test/RF-100-entropy-8-4-balanced:
+map            	all	0.6262
+recip_rank     	all	0.7025
+TREC Scores of test_res/RF-test/RF-100-entropy-8-4-balanced_subsample:
+map            	all	0.6190
+recip_rank     	all	0.7143
+TREC Scores of test_res/RF-test/RF-100-entropy-8-6-None:
+map            	all	0.6176
+recip_rank     	all	0.6871
+TREC Scores of test_res/RF-test/RF-100-entropy-8-6-balanced:
+map            	all	0.6190
+recip_rank     	all	0.6867
+TREC Scores of test_res/RF-test/RF-100-entropy-8-6-balanced_subsample:
+map            	all	0.6227
+recip_rank     	all	0.7109
+TREC Scores of test_res/RF-test/RF-100-entropy-8-8-None:
+map            	all	0.6052
+recip_rank     	all	0.6673
+TREC Scores of test_res/RF-test/RF-100-entropy-8-8-balanced:
+map            	all	0.6211
+recip_rank     	all	0.6990
+TREC Scores of test_res/RF-test/RF-100-entropy-8-8-balanced_subsample:
+map            	all	0.6167
+recip_rank     	all	0.7046
+TREC Scores of test_res/RF-test/RF-100-gini-11-2-None:
+map            	all	0.6069
+recip_rank     	all	0.6778
+TREC Scores of test_res/RF-test/RF-100-gini-11-2-balanced:
+map            	all	0.6168
+recip_rank     	all	0.7093
+TREC Scores of test_res/RF-test/RF-100-gini-11-2-balanced_subsample:
+map            	all	0.6101
+recip_rank     	all	0.6811
+TREC Scores of test_res/RF-test/RF-100-gini-11-4-None:
+map            	all	0.6087
+recip_rank     	all	0.6918
+TREC Scores of test_res/RF-test/RF-100-gini-11-4-balanced:
+map            	all	0.6169
+recip_rank     	all	0.7093
+TREC Scores of test_res/RF-test/RF-100-gini-11-4-balanced_subsample:
+map            	all	0.6215
+recip_rank     	all	0.7101
+TREC Scores of test_res/RF-test/RF-100-gini-11-6-None:
+map            	all	0.6005
+recip_rank     	all	0.6874
+TREC Scores of test_res/RF-test/RF-100-gini-11-6-balanced:
+map            	all	0.6294
+recip_rank     	all	0.7149
+TREC Scores of test_res/RF-test/RF-100-gini-11-6-balanced_subsample:
+map            	all	0.6274
+recip_rank     	all	0.7120
+TREC Scores of test_res/RF-test/RF-100-gini-11-8-None:
+map            	all	0.6025
+recip_rank     	all	0.6870
+TREC Scores of test_res/RF-test/RF-100-gini-11-8-balanced:
+map            	all	0.6261
+recip_rank     	all	0.7140
+TREC Scores of test_res/RF-test/RF-100-gini-11-8-balanced_subsample:
+map            	all	0.6168
+recip_rank     	all	0.6991
+TREC Scores of test_res/RF-test/RF-100-gini-16-2-None:
+map            	all	0.6103
+recip_rank     	all	0.7037
+TREC Scores of test_res/RF-test/RF-100-gini-16-2-balanced:
+map            	all	0.6177
+recip_rank     	all	0.7031
+TREC Scores of test_res/RF-test/RF-100-gini-16-2-balanced_subsample:
+map            	all	0.5994
+recip_rank     	all	0.6896
+TREC Scores of test_res/RF-test/RF-100-gini-16-4-None:
+map            	all	0.6112
+recip_rank     	all	0.7170
+TREC Scores of test_res/RF-test/RF-100-gini-16-4-balanced:
+map            	all	0.6089
+recip_rank     	all	0.6859
+TREC Scores of test_res/RF-test/RF-100-gini-16-4-balanced_subsample:
+map            	all	0.6114
+recip_rank     	all	0.6878
+TREC Scores of test_res/RF-test/RF-100-gini-16-6-None:
+map            	all	0.6249
+recip_rank     	all	0.7034
+TREC Scores of test_res/RF-test/RF-100-gini-16-6-balanced:
+map            	all	0.6277
+recip_rank     	all	0.7232
+TREC Scores of test_res/RF-test/RF-100-gini-16-6-balanced_subsample:
+map            	all	0.6443
+recip_rank     	all	0.7423
+TREC Scores of test_res/RF-test/RF-100-gini-16-8-None:
+map            	all	0.6292
+recip_rank     	all	0.7079
+TREC Scores of test_res/RF-test/RF-100-gini-16-8-balanced:
+map            	all	0.6183
+recip_rank     	all	0.7076
+TREC Scores of test_res/RF-test/RF-100-gini-16-8-balanced_subsample:
+map            	all	0.6233
+recip_rank     	all	0.7184
+TREC Scores of test_res/RF-test/RF-100-gini-20-2-None:
+map            	all	0.6344
+recip_rank     	all	0.7471
+TREC Scores of test_res/RF-test/RF-100-gini-20-2-balanced:
+map            	all	0.6186
+recip_rank     	all	0.7154
+TREC Scores of test_res/RF-test/RF-100-gini-20-2-balanced_subsample:
+map            	all	0.6245
+recip_rank     	all	0.7490
+TREC Scores of test_res/RF-test/RF-100-gini-20-4-None:
+map            	all	0.6080
+recip_rank     	all	0.6976
+TREC Scores of test_res/RF-test/RF-100-gini-20-4-balanced:
+map            	all	0.6068
+recip_rank     	all	0.6748
+TREC Scores of test_res/RF-test/RF-100-gini-20-4-balanced_subsample:
+map            	all	0.6235
+recip_rank     	all	0.7146
+TREC Scores of test_res/RF-test/RF-100-gini-20-6-None:
+map            	all	0.6168
+recip_rank     	all	0.6869
+TREC Scores of test_res/RF-test/RF-100-gini-20-6-balanced:
+map            	all	0.6095
+recip_rank     	all	0.6923
+TREC Scores of test_res/RF-test/RF-100-gini-20-6-balanced_subsample:
+map            	all	0.6211
+recip_rank     	all	0.7094
+TREC Scores of test_res/RF-test/RF-100-gini-20-8-None:
+map            	all	0.6039
+recip_rank     	all	0.7011
+TREC Scores of test_res/RF-test/RF-100-gini-20-8-balanced:
+map            	all	0.6108
+recip_rank     	all	0.6872
+TREC Scores of test_res/RF-test/RF-100-gini-20-8-balanced_subsample:
+map            	all	0.6191
+recip_rank     	all	0.7016
+TREC Scores of test_res/RF-test/RF-100-gini-8-2-None:
+map            	all	0.6184
+recip_rank     	all	0.6968
+TREC Scores of test_res/RF-test/RF-100-gini-8-2-balanced:
+map            	all	0.6167
+recip_rank     	all	0.7051
+TREC Scores of test_res/RF-test/RF-100-gini-8-2-balanced_subsample:
+map            	all	0.6149
+recip_rank     	all	0.6856
+TREC Scores of test_res/RF-test/RF-100-gini-8-4-None:
+map            	all	0.6097
+recip_rank     	all	0.6872
+TREC Scores of test_res/RF-test/RF-100-gini-8-4-balanced:
+map            	all	0.6053
+recip_rank     	all	0.6859
+TREC Scores of test_res/RF-test/RF-100-gini-8-4-balanced_subsample:
+map            	all	0.6118
+recip_rank     	all	0.6916
+TREC Scores of test_res/RF-test/RF-100-gini-8-6-None:
+map            	all	0.6174
+recip_rank     	all	0.6953
+TREC Scores of test_res/RF-test/RF-100-gini-8-6-balanced:
+map            	all	0.6169
+recip_rank     	all	0.6980
+TREC Scores of test_res/RF-test/RF-100-gini-8-6-balanced_subsample:
+map            	all	0.6187
+recip_rank     	all	0.6867
+TREC Scores of test_res/RF-test/RF-100-gini-8-8-None:
+map            	all	0.6084
+recip_rank     	all	0.6776
+TREC Scores of test_res/RF-test/RF-100-gini-8-8-balanced:
+map            	all	0.6237
+recip_rank     	all	0.6832
+TREC Scores of test_res/RF-test/RF-100-gini-8-8-balanced_subsample:
+map            	all	0.6202
+recip_rank     	all	0.6887
+TREC Scores of test_res/RF-test/RF-150-entropy-11-2-None:
+map            	all	0.6108
+recip_rank     	all	0.6622
+TREC Scores of test_res/RF-test/RF-150-entropy-11-2-balanced:
+map            	all	0.6035
+recip_rank     	all	0.6974
+TREC Scores of test_res/RF-test/RF-150-entropy-11-2-balanced_subsample:
+map            	all	0.6153
+recip_rank     	all	0.7009
+TREC Scores of test_res/RF-test/RF-150-entropy-11-4-None:
+map            	all	0.6406
+recip_rank     	all	0.7087
+TREC Scores of test_res/RF-test/RF-150-entropy-11-4-balanced:
+map            	all	0.6300
+recip_rank     	all	0.7183
+TREC Scores of test_res/RF-test/RF-150-entropy-11-4-balanced_subsample:
+map            	all	0.6195
+recip_rank     	all	0.7154
+TREC Scores of test_res/RF-test/RF-150-entropy-11-6-None:
+map            	all	0.6150
+recip_rank     	all	0.6720
+TREC Scores of test_res/RF-test/RF-150-entropy-11-6-balanced:
+map            	all	0.6206
+recip_rank     	all	0.7093
+TREC Scores of test_res/RF-test/RF-150-entropy-11-6-balanced_subsample:
+map            	all	0.6200
+recip_rank     	all	0.7010
+TREC Scores of test_res/RF-test/RF-150-entropy-11-8-None:
+map            	all	0.6180
+recip_rank     	all	0.6903
+TREC Scores of test_res/RF-test/RF-150-entropy-11-8-balanced:
+map            	all	0.6067
+recip_rank     	all	0.6903
+TREC Scores of test_res/RF-test/RF-150-entropy-11-8-balanced_subsample:
+map            	all	0.6059
+recip_rank     	all	0.6816
+TREC Scores of test_res/RF-test/RF-150-entropy-16-2-None:
+map            	all	0.6274
+recip_rank     	all	0.6978
+TREC Scores of test_res/RF-test/RF-150-entropy-16-2-balanced:
+map            	all	0.6080
+recip_rank     	all	0.6872
+TREC Scores of test_res/RF-test/RF-150-entropy-16-2-balanced_subsample:
+map            	all	0.6054
+recip_rank     	all	0.6947
+TREC Scores of test_res/RF-test/RF-150-entropy-16-4-None:
+map            	all	0.6146
+recip_rank     	all	0.6855
+TREC Scores of test_res/RF-test/RF-150-entropy-16-4-balanced:
+map            	all	0.6127
+recip_rank     	all	0.7190
+TREC Scores of test_res/RF-test/RF-150-entropy-16-4-balanced_subsample:
+map            	all	0.6176
+recip_rank     	all	0.7219
+TREC Scores of test_res/RF-test/RF-150-entropy-16-6-None:
+map            	all	0.6359
+recip_rank     	all	0.7143
+TREC Scores of test_res/RF-test/RF-150-entropy-16-6-balanced:
+map            	all	0.6215
+recip_rank     	all	0.6975
+TREC Scores of test_res/RF-test/RF-150-entropy-16-6-balanced_subsample:
+map            	all	0.6186
+recip_rank     	all	0.6922
+TREC Scores of test_res/RF-test/RF-150-entropy-16-8-None:
+map            	all	0.6121
+recip_rank     	all	0.6932
+TREC Scores of test_res/RF-test/RF-150-entropy-16-8-balanced:
+map            	all	0.6200
+recip_rank     	all	0.6986
+TREC Scores of test_res/RF-test/RF-150-entropy-16-8-balanced_subsample:
+map            	all	0.6280
+recip_rank     	all	0.7276
+TREC Scores of test_res/RF-test/RF-150-entropy-20-2-None:
+map            	all	0.6307
+recip_rank     	all	0.7146
+TREC Scores of test_res/RF-test/RF-150-entropy-20-2-balanced:
+map            	all	0.6188
+recip_rank     	all	0.7193
+TREC Scores of test_res/RF-test/RF-150-entropy-20-2-balanced_subsample:
+map            	all	0.6051
+recip_rank     	all	0.7055
+TREC Scores of test_res/RF-test/RF-150-entropy-20-4-None:
+map            	all	0.6081
+recip_rank     	all	0.6876
+TREC Scores of test_res/RF-test/RF-150-entropy-20-4-balanced:
+map            	all	0.6295
+recip_rank     	all	0.7202
+TREC Scores of test_res/RF-test/RF-150-entropy-20-4-balanced_subsample:
+map            	all	0.6107
+recip_rank     	all	0.6935
+TREC Scores of test_res/RF-test/RF-150-entropy-20-6-None:
+map            	all	0.6273
+recip_rank     	all	0.7060
+TREC Scores of test_res/RF-test/RF-150-entropy-20-6-balanced:
+map            	all	0.6393
+recip_rank     	all	0.7379
+TREC Scores of test_res/RF-test/RF-150-entropy-20-6-balanced_subsample:
+map            	all	0.6381
+recip_rank     	all	0.7178
+TREC Scores of test_res/RF-test/RF-150-entropy-20-8-None:
+map            	all	0.6286
+recip_rank     	all	0.6955
+TREC Scores of test_res/RF-test/RF-150-entropy-20-8-balanced:
+map            	all	0.6254
+recip_rank     	all	0.7109
+TREC Scores of test_res/RF-test/RF-150-entropy-20-8-balanced_subsample:
+map            	all	0.6289
+recip_rank     	all	0.7182
+TREC Scores of test_res/RF-test/RF-150-entropy-8-2-None:
+map            	all	0.6079
+recip_rank     	all	0.6799
+TREC Scores of test_res/RF-test/RF-150-entropy-8-2-balanced:
+map            	all	0.6339
+recip_rank     	all	0.7288
+TREC Scores of test_res/RF-test/RF-150-entropy-8-2-balanced_subsample:
+map            	all	0.6426
+recip_rank     	all	0.7421
+TREC Scores of test_res/RF-test/RF-150-entropy-8-4-None:
+map            	all	0.6111
+recip_rank     	all	0.6912
+TREC Scores of test_res/RF-test/RF-150-entropy-8-4-balanced:
+map            	all	0.6174
+recip_rank     	all	0.7007
+TREC Scores of test_res/RF-test/RF-150-entropy-8-4-balanced_subsample:
+map            	all	0.6123
+recip_rank     	all	0.6883
+TREC Scores of test_res/RF-test/RF-150-entropy-8-6-None:
+map            	all	0.6265
+recip_rank     	all	0.6935
+TREC Scores of test_res/RF-test/RF-150-entropy-8-6-balanced:
+map            	all	0.6251
+recip_rank     	all	0.6962
+TREC Scores of test_res/RF-test/RF-150-entropy-8-6-balanced_subsample:
+map            	all	0.6281
+recip_rank     	all	0.6909
+TREC Scores of test_res/RF-test/RF-150-entropy-8-8-None:
+map            	all	0.6179
+recip_rank     	all	0.6949
+TREC Scores of test_res/RF-test/RF-150-entropy-8-8-balanced:
+map            	all	0.6276
+recip_rank     	all	0.7102
+TREC Scores of test_res/RF-test/RF-150-entropy-8-8-balanced_subsample:
+map            	all	0.6256
+recip_rank     	all	0.7089
+TREC Scores of test_res/RF-test/RF-150-gini-11-2-None:
+map            	all	0.6092
+recip_rank     	all	0.6670
+TREC Scores of test_res/RF-test/RF-150-gini-11-2-balanced:
+map            	all	0.6117
+recip_rank     	all	0.6952
+TREC Scores of test_res/RF-test/RF-150-gini-11-2-balanced_subsample:
+map            	all	0.6076
+recip_rank     	all	0.6893
+TREC Scores of test_res/RF-test/RF-150-gini-11-4-None:
+map            	all	0.6213
+recip_rank     	all	0.7190
+TREC Scores of test_res/RF-test/RF-150-gini-11-4-balanced:
+map            	all	0.6265
+recip_rank     	all	0.7098
+TREC Scores of test_res/RF-test/RF-150-gini-11-4-balanced_subsample:
+map            	all	0.6187
+recip_rank     	all	0.7076
+TREC Scores of test_res/RF-test/RF-150-gini-11-6-None:
+map            	all	0.6112
+recip_rank     	all	0.6909
+TREC Scores of test_res/RF-test/RF-150-gini-11-6-balanced:
+map            	all	0.6241
+recip_rank     	all	0.7054
+TREC Scores of test_res/RF-test/RF-150-gini-11-6-balanced_subsample:
+map            	all	0.6200
+recip_rank     	all	0.7091
+TREC Scores of test_res/RF-test/RF-150-gini-11-8-None:
+map            	all	0.6015
+recip_rank     	all	0.6980
+TREC Scores of test_res/RF-test/RF-150-gini-11-8-balanced:
+map            	all	0.6254
+recip_rank     	all	0.7110
+TREC Scores of test_res/RF-test/RF-150-gini-11-8-balanced_subsample:
+map            	all	0.6191
+recip_rank     	all	0.7094
+TREC Scores of test_res/RF-test/RF-150-gini-16-2-None:
+map            	all	0.6064
+recip_rank     	all	0.6978
+TREC Scores of test_res/RF-test/RF-150-gini-16-2-balanced:
+map            	all	0.6048
+recip_rank     	all	0.6973
+TREC Scores of test_res/RF-test/RF-150-gini-16-2-balanced_subsample:
+map            	all	0.6029
+recip_rank     	all	0.6931
+TREC Scores of test_res/RF-test/RF-150-gini-16-4-None:
+map            	all	0.6214
+recip_rank     	all	0.7150
+TREC Scores of test_res/RF-test/RF-150-gini-16-4-balanced:
+map            	all	0.6242
+recip_rank     	all	0.7120
+TREC Scores of test_res/RF-test/RF-150-gini-16-4-balanced_subsample:
+map            	all	0.6115
+recip_rank     	all	0.6836
+TREC Scores of test_res/RF-test/RF-150-gini-16-6-None:
+map            	all	0.6159
+recip_rank     	all	0.7033
+TREC Scores of test_res/RF-test/RF-150-gini-16-6-balanced:
+map            	all	0.6350
+recip_rank     	all	0.7270
+TREC Scores of test_res/RF-test/RF-150-gini-16-6-balanced_subsample:
+map            	all	0.6406
+recip_rank     	all	0.7283
+TREC Scores of test_res/RF-test/RF-150-gini-16-8-None:
+map            	all	0.6322
+recip_rank     	all	0.7172
+TREC Scores of test_res/RF-test/RF-150-gini-16-8-balanced:
+map            	all	0.6173
+recip_rank     	all	0.7008
+TREC Scores of test_res/RF-test/RF-150-gini-16-8-balanced_subsample:
+map            	all	0.6213
+recip_rank     	all	0.7102
+TREC Scores of test_res/RF-test/RF-150-gini-20-2-None:
+map            	all	0.6104
+recip_rank     	all	0.6959
+TREC Scores of test_res/RF-test/RF-150-gini-20-2-balanced:
+map            	all	0.6337
+recip_rank     	all	0.7336
+TREC Scores of test_res/RF-test/RF-150-gini-20-2-balanced_subsample:
+map            	all	0.6159
+recip_rank     	all	0.7348
+TREC Scores of test_res/RF-test/RF-150-gini-20-4-None:
+map            	all	0.6168
+recip_rank     	all	0.7074
+TREC Scores of test_res/RF-test/RF-150-gini-20-4-balanced:
+map            	all	0.6111
+recip_rank     	all	0.6912
+TREC Scores of test_res/RF-test/RF-150-gini-20-4-balanced_subsample:
+map            	all	0.6095
+recip_rank     	all	0.6967
+TREC Scores of test_res/RF-test/RF-150-gini-20-6-None:
+map            	all	0.6041
+recip_rank     	all	0.6656
+TREC Scores of test_res/RF-test/RF-150-gini-20-6-balanced:
+map            	all	0.6116
+recip_rank     	all	0.6993
+TREC Scores of test_res/RF-test/RF-150-gini-20-6-balanced_subsample:
+map            	all	0.6339
+recip_rank     	all	0.7289
+TREC Scores of test_res/RF-test/RF-150-gini-20-8-None:
+map            	all	0.6055
+recip_rank     	all	0.6938
+TREC Scores of test_res/RF-test/RF-150-gini-20-8-balanced:
+map            	all	0.6230
+recip_rank     	all	0.7155
+TREC Scores of test_res/RF-test/RF-150-gini-20-8-balanced_subsample:
+map            	all	0.6380
+recip_rank     	all	0.7286
+TREC Scores of test_res/RF-test/RF-150-gini-8-2-None:
+map            	all	0.5975
+recip_rank     	all	0.6537
+TREC Scores of test_res/RF-test/RF-150-gini-8-2-balanced:
+map            	all	0.6092
+recip_rank     	all	0.6844
+TREC Scores of test_res/RF-test/RF-150-gini-8-2-balanced_subsample:
+map            	all	0.6144
+recip_rank     	all	0.6867
+TREC Scores of test_res/RF-test/RF-150-gini-8-4-None:
+map            	all	0.6143
+recip_rank     	all	0.6887
+TREC Scores of test_res/RF-test/RF-150-gini-8-4-balanced:
+map            	all	0.6148
+recip_rank     	all	0.7009
+TREC Scores of test_res/RF-test/RF-150-gini-8-4-balanced_subsample:
+map            	all	0.6121
+recip_rank     	all	0.7002
+TREC Scores of test_res/RF-test/RF-150-gini-8-6-None:
+map            	all	0.6160
+recip_rank     	all	0.6894
+TREC Scores of test_res/RF-test/RF-150-gini-8-6-balanced:
+map            	all	0.6160
+recip_rank     	all	0.6980
+TREC Scores of test_res/RF-test/RF-150-gini-8-6-balanced_subsample:
+map            	all	0.6111
+recip_rank     	all	0.6735
+TREC Scores of test_res/RF-test/RF-150-gini-8-8-None:
+map            	all	0.6093
+recip_rank     	all	0.6934
+TREC Scores of test_res/RF-test/RF-150-gini-8-8-balanced:
+map            	all	0.6180
+recip_rank     	all	0.6795
+TREC Scores of test_res/RF-test/RF-150-gini-8-8-balanced_subsample:
+map            	all	0.6228
+recip_rank     	all	0.7025
+TREC Scores of test_res/RF-test/RF-200-entropy-11-2-None:
+map            	all	0.6164
+recip_rank     	all	0.6826
+TREC Scores of test_res/RF-test/RF-200-entropy-11-2-balanced:
+map            	all	0.6067
+recip_rank     	all	0.6953
+TREC Scores of test_res/RF-test/RF-200-entropy-11-2-balanced_subsample:
+map            	all	0.6097
+recip_rank     	all	0.6978
+TREC Scores of test_res/RF-test/RF-200-entropy-11-4-None:
+map            	all	0.6359
+recip_rank     	all	0.7117
+TREC Scores of test_res/RF-test/RF-200-entropy-11-4-balanced:
+map            	all	0.6093
+recip_rank     	all	0.6955
+TREC Scores of test_res/RF-test/RF-200-entropy-11-4-balanced_subsample:
+map            	all	0.6122
+recip_rank     	all	0.6959
+TREC Scores of test_res/RF-test/RF-200-entropy-11-6-None:
+map            	all	0.6138
+recip_rank     	all	0.6793
+TREC Scores of test_res/RF-test/RF-200-entropy-11-6-balanced:
+map            	all	0.6217
+recip_rank     	all	0.7161
+TREC Scores of test_res/RF-test/RF-200-entropy-11-6-balanced_subsample:
+map            	all	0.6212
+recip_rank     	all	0.7027
+TREC Scores of test_res/RF-test/RF-200-entropy-11-8-None:
+map            	all	0.6120
+recip_rank     	all	0.6764
+TREC Scores of test_res/RF-test/RF-200-entropy-11-8-balanced:
+map            	all	0.6136
+recip_rank     	all	0.6962
+TREC Scores of test_res/RF-test/RF-200-entropy-11-8-balanced_subsample:
+map            	all	0.6084
+recip_rank     	all	0.6857
+TREC Scores of test_res/RF-test/RF-200-entropy-16-2-None:
+map            	all	0.6361
+recip_rank     	all	0.7117
+TREC Scores of test_res/RF-test/RF-200-entropy-16-2-balanced:
+map            	all	0.6133
+recip_rank     	all	0.7048
+TREC Scores of test_res/RF-test/RF-200-entropy-16-2-balanced_subsample:
+map            	all	0.6149
+recip_rank     	all	0.7182
+TREC Scores of test_res/RF-test/RF-200-entropy-16-4-None:
+map            	all	0.6185
+recip_rank     	all	0.6890
+TREC Scores of test_res/RF-test/RF-200-entropy-16-4-balanced:
+map            	all	0.6191
+recip_rank     	all	0.7141
+TREC Scores of test_res/RF-test/RF-200-entropy-16-4-balanced_subsample:
+map            	all	0.6163
+recip_rank     	all	0.7046
+TREC Scores of test_res/RF-test/RF-200-entropy-16-6-None:
+map            	all	0.6264
+recip_rank     	all	0.7102
+TREC Scores of test_res/RF-test/RF-200-entropy-16-6-balanced:
+map            	all	0.6458
+recip_rank     	all	0.7272
+TREC Scores of test_res/RF-test/RF-200-entropy-16-6-balanced_subsample:
+map            	all	0.6235
+recip_rank     	all	0.7078
+TREC Scores of test_res/RF-test/RF-200-entropy-16-8-None:
+map            	all	0.6125
+recip_rank     	all	0.6873
+TREC Scores of test_res/RF-test/RF-200-entropy-16-8-balanced:
+map            	all	0.6205
+recip_rank     	all	0.6934
+TREC Scores of test_res/RF-test/RF-200-entropy-16-8-balanced_subsample:
+map            	all	0.6283
+recip_rank     	all	0.7253
+TREC Scores of test_res/RF-test/RF-200-entropy-20-2-None:
+map            	all	0.6341
+recip_rank     	all	0.7250
+TREC Scores of test_res/RF-test/RF-200-entropy-20-2-balanced:
+map            	all	0.6195
+recip_rank     	all	0.7124
+TREC Scores of test_res/RF-test/RF-200-entropy-20-2-balanced_subsample:
+map            	all	0.6106
+recip_rank     	all	0.7085
+TREC Scores of test_res/RF-test/RF-200-entropy-20-4-None:
+map            	all	0.6101
+recip_rank     	all	0.6825
+TREC Scores of test_res/RF-test/RF-200-entropy-20-4-balanced:
+map            	all	0.6204
+recip_rank     	all	0.7158
+TREC Scores of test_res/RF-test/RF-200-entropy-20-4-balanced_subsample:
+map            	all	0.6206
+recip_rank     	all	0.7035
+TREC Scores of test_res/RF-test/RF-200-entropy-20-6-None:
+map            	all	0.6230
+recip_rank     	all	0.6905
+TREC Scores of test_res/RF-test/RF-200-entropy-20-6-balanced:
+map            	all	0.6378
+recip_rank     	all	0.7262
+TREC Scores of test_res/RF-test/RF-200-entropy-20-6-balanced_subsample:
+map            	all	0.6381
+recip_rank     	all	0.7273
+TREC Scores of test_res/RF-test/RF-200-entropy-20-8-None:
+map            	all	0.6250
+recip_rank     	all	0.6947
+TREC Scores of test_res/RF-test/RF-200-entropy-20-8-balanced:
+map            	all	0.6196
+recip_rank     	all	0.7079
+TREC Scores of test_res/RF-test/RF-200-entropy-20-8-balanced_subsample:
+map            	all	0.6255
+recip_rank     	all	0.7139
+TREC Scores of test_res/RF-test/RF-200-entropy-8-2-None:
+map            	all	0.6117
+recip_rank     	all	0.6920
+TREC Scores of test_res/RF-test/RF-200-entropy-8-2-balanced:
+map            	all	0.6314
+recip_rank     	all	0.7237
+TREC Scores of test_res/RF-test/RF-200-entropy-8-2-balanced_subsample:
+map            	all	0.6302
+recip_rank     	all	0.7167
+TREC Scores of test_res/RF-test/RF-200-entropy-8-4-None:
+map            	all	0.6141
+recip_rank     	all	0.6883
+TREC Scores of test_res/RF-test/RF-200-entropy-8-4-balanced:
+map            	all	0.6168
+recip_rank     	all	0.6941
+TREC Scores of test_res/RF-test/RF-200-entropy-8-4-balanced_subsample:
+map            	all	0.6143
+recip_rank     	all	0.6904
+TREC Scores of test_res/RF-test/RF-200-entropy-8-6-None:
+map            	all	0.6380
+recip_rank     	all	0.7103
+TREC Scores of test_res/RF-test/RF-200-entropy-8-6-balanced:
+map            	all	0.6204
+recip_rank     	all	0.6870
+TREC Scores of test_res/RF-test/RF-200-entropy-8-6-balanced_subsample:
+map            	all	0.6280
+recip_rank     	all	0.6822
+TREC Scores of test_res/RF-test/RF-200-entropy-8-8-None:
+map            	all	0.6119
+recip_rank     	all	0.6816
+TREC Scores of test_res/RF-test/RF-200-entropy-8-8-balanced:
+map            	all	0.6286
+recip_rank     	all	0.7079
+TREC Scores of test_res/RF-test/RF-200-entropy-8-8-balanced_subsample:
+map            	all	0.6230
+recip_rank     	all	0.6997
+TREC Scores of test_res/RF-test/RF-200-gini-11-2-None:
+map            	all	0.6398
+recip_rank     	all	0.7375
+TREC Scores of test_res/RF-test/RF-200-gini-11-2-balanced:
+map            	all	0.6145
+recip_rank     	all	0.7094
+TREC Scores of test_res/RF-test/RF-200-gini-11-2-balanced_subsample:
+map            	all	0.6105
+recip_rank     	all	0.6884
+TREC Scores of test_res/RF-test/RF-200-gini-11-4-None:
+map            	all	0.6258
+recip_rank     	all	0.7122
+TREC Scores of test_res/RF-test/RF-200-gini-11-4-balanced:
+map            	all	0.6169
+recip_rank     	all	0.7001
+TREC Scores of test_res/RF-test/RF-200-gini-11-4-balanced_subsample:
+map            	all	0.6263
+recip_rank     	all	0.7314
+TREC Scores of test_res/RF-test/RF-200-gini-11-6-None:
+map            	all	0.6186
+recip_rank     	all	0.7075
+TREC Scores of test_res/RF-test/RF-200-gini-11-6-balanced:
+map            	all	0.6217
+recip_rank     	all	0.7098
+TREC Scores of test_res/RF-test/RF-200-gini-11-6-balanced_subsample:
+map            	all	0.6244
+recip_rank     	all	0.7118
+TREC Scores of test_res/RF-test/RF-200-gini-11-8-None:
+map            	all	0.6224
+recip_rank     	all	0.7147
+TREC Scores of test_res/RF-test/RF-200-gini-11-8-balanced:
+map            	all	0.6225
+recip_rank     	all	0.7130
+TREC Scores of test_res/RF-test/RF-200-gini-11-8-balanced_subsample:
+map            	all	0.6208
+recip_rank     	all	0.7068
+TREC Scores of test_res/RF-test/RF-200-gini-16-2-None:
+map            	all	0.6245
+recip_rank     	all	0.7127
+TREC Scores of test_res/RF-test/RF-200-gini-16-2-balanced:
+map            	all	0.6057
+recip_rank     	all	0.6922
+TREC Scores of test_res/RF-test/RF-200-gini-16-2-balanced_subsample:
+map            	all	0.6132
+recip_rank     	all	0.7054
+TREC Scores of test_res/RF-test/RF-200-gini-16-4-None:
+map            	all	0.6242
+recip_rank     	all	0.7083
+TREC Scores of test_res/RF-test/RF-200-gini-16-4-balanced:
+map            	all	0.6223
+recip_rank     	all	0.7024
+TREC Scores of test_res/RF-test/RF-200-gini-16-4-balanced_subsample:
+map            	all	0.6147
+recip_rank     	all	0.6901
+TREC Scores of test_res/RF-test/RF-200-gini-16-6-None:
+map            	all	0.6228
+recip_rank     	all	0.7176
+TREC Scores of test_res/RF-test/RF-200-gini-16-6-balanced:
+map            	all	0.6228
+recip_rank     	all	0.7151
+TREC Scores of test_res/RF-test/RF-200-gini-16-6-balanced_subsample:
+map            	all	0.6421
+recip_rank     	all	0.7381
+TREC Scores of test_res/RF-test/RF-200-gini-16-8-None:
+map            	all	0.6211
+recip_rank     	all	0.7025
+TREC Scores of test_res/RF-test/RF-200-gini-16-8-balanced:
+map            	all	0.6143
+recip_rank     	all	0.7025
+TREC Scores of test_res/RF-test/RF-200-gini-16-8-balanced_subsample:
+map            	all	0.6154
+recip_rank     	all	0.6995
+TREC Scores of test_res/RF-test/RF-200-gini-20-2-None:
+map            	all	0.6157
+recip_rank     	all	0.7057
+TREC Scores of test_res/RF-test/RF-200-gini-20-2-balanced:
+map            	all	0.6283
+recip_rank     	all	0.7243
+TREC Scores of test_res/RF-test/RF-200-gini-20-2-balanced_subsample:
+map            	all	0.6240
+recip_rank     	all	0.7233
+TREC Scores of test_res/RF-test/RF-200-gini-20-4-None:
+map            	all	0.6116
+recip_rank     	all	0.7104
+TREC Scores of test_res/RF-test/RF-200-gini-20-4-balanced:
+map            	all	0.6138
+recip_rank     	all	0.6982
+TREC Scores of test_res/RF-test/RF-200-gini-20-4-balanced_subsample:
+map            	all	0.6166
+recip_rank     	all	0.7057
+TREC Scores of test_res/RF-test/RF-200-gini-20-6-None:
+map            	all	0.6095
+recip_rank     	all	0.6779
+TREC Scores of test_res/RF-test/RF-200-gini-20-6-balanced:
+map            	all	0.6187
+recip_rank     	all	0.7101
+TREC Scores of test_res/RF-test/RF-200-gini-20-6-balanced_subsample:
+map            	all	0.6281
+recip_rank     	all	0.7042
+TREC Scores of test_res/RF-test/RF-200-gini-20-8-None:
+map            	all	0.6069
+recip_rank     	all	0.6845
+TREC Scores of test_res/RF-test/RF-200-gini-20-8-balanced:
+map            	all	0.6182
+recip_rank     	all	0.7297
+TREC Scores of test_res/RF-test/RF-200-gini-20-8-balanced_subsample:
+map            	all	0.6328
+recip_rank     	all	0.7315
+TREC Scores of test_res/RF-test/RF-200-gini-8-2-None:
+map            	all	0.6124
+recip_rank     	all	0.6916
+TREC Scores of test_res/RF-test/RF-200-gini-8-2-balanced:
+map            	all	0.6087
+recip_rank     	all	0.6876
+TREC Scores of test_res/RF-test/RF-200-gini-8-2-balanced_subsample:
+map            	all	0.6199
+recip_rank     	all	0.6925
+TREC Scores of test_res/RF-test/RF-200-gini-8-4-None:
+map            	all	0.6225
+recip_rank     	all	0.7072
+TREC Scores of test_res/RF-test/RF-200-gini-8-4-balanced:
+map            	all	0.6042
+recip_rank     	all	0.6674
+TREC Scores of test_res/RF-test/RF-200-gini-8-4-balanced_subsample:
+map            	all	0.6098
+recip_rank     	all	0.6909
+TREC Scores of test_res/RF-test/RF-200-gini-8-6-None:
+map            	all	0.6228
+recip_rank     	all	0.6876
+TREC Scores of test_res/RF-test/RF-200-gini-8-6-balanced:
+map            	all	0.6167
+recip_rank     	all	0.6857
+TREC Scores of test_res/RF-test/RF-200-gini-8-6-balanced_subsample:
+map            	all	0.6214
+recip_rank     	all	0.6941
+TREC Scores of test_res/RF-test/RF-200-gini-8-8-None:
+map            	all	0.6043
+recip_rank     	all	0.6848
+TREC Scores of test_res/RF-test/RF-200-gini-8-8-balanced:
+map            	all	0.6211
+recip_rank     	all	0.6961
+TREC Scores of test_res/RF-test/RF-200-gini-8-8-balanced_subsample:
+map            	all	0.6247
+recip_rank     	all	0.6971
+TREC Scores of test_res/RF-test/RF-300-entropy-11-2-None:
+map            	all	0.6195
+recip_rank     	all	0.6832
+TREC Scores of test_res/RF-test/RF-300-entropy-11-2-balanced:
+map            	all	0.6148
+recip_rank     	all	0.6952
+TREC Scores of test_res/RF-test/RF-300-entropy-11-2-balanced_subsample:
+map            	all	0.6193
+recip_rank     	all	0.7089
+TREC Scores of test_res/RF-test/RF-300-entropy-11-4-None:
+map            	all	0.6391
+recip_rank     	all	0.7216
+TREC Scores of test_res/RF-test/RF-300-entropy-11-4-balanced:
+map            	all	0.6094
+recip_rank     	all	0.6787
+TREC Scores of test_res/RF-test/RF-300-entropy-11-4-balanced_subsample:
+map            	all	0.6112
+recip_rank     	all	0.7052
+TREC Scores of test_res/RF-test/RF-300-entropy-11-6-None:
+map            	all	0.6189
+recip_rank     	all	0.6867
+TREC Scores of test_res/RF-test/RF-300-entropy-11-6-balanced:
+map            	all	0.6250
+recip_rank     	all	0.7123
+TREC Scores of test_res/RF-test/RF-300-entropy-11-6-balanced_subsample:
+map            	all	0.6268
+recip_rank     	all	0.7116
+TREC Scores of test_res/RF-test/RF-300-entropy-11-8-None:
+map            	all	0.6141
+recip_rank     	all	0.6797
+TREC Scores of test_res/RF-test/RF-300-entropy-11-8-balanced:
+map            	all	0.6173
+recip_rank     	all	0.7038
+TREC Scores of test_res/RF-test/RF-300-entropy-11-8-balanced_subsample:
+map            	all	0.6084
+recip_rank     	all	0.6871
+TREC Scores of test_res/RF-test/RF-300-entropy-16-2-None:
+map            	all	0.6295
+recip_rank     	all	0.7077
+TREC Scores of test_res/RF-test/RF-300-entropy-16-2-balanced:
+map            	all	0.6273
+recip_rank     	all	0.7147
+TREC Scores of test_res/RF-test/RF-300-entropy-16-2-balanced_subsample:
+map            	all	0.6160
+recip_rank     	all	0.7047
+TREC Scores of test_res/RF-test/RF-300-entropy-16-4-None:
+map            	all	0.6324
+recip_rank     	all	0.7278
+TREC Scores of test_res/RF-test/RF-300-entropy-16-4-balanced:
+map            	all	0.6141
+recip_rank     	all	0.7117
+TREC Scores of test_res/RF-test/RF-300-entropy-16-4-balanced_subsample:
+map            	all	0.6238
+recip_rank     	all	0.7035
+TREC Scores of test_res/RF-test/RF-300-entropy-16-6-None:
+map            	all	0.6239
+recip_rank     	all	0.7075
+TREC Scores of test_res/RF-test/RF-300-entropy-16-6-balanced:
+map            	all	0.6348
+recip_rank     	all	0.7151
+TREC Scores of test_res/RF-test/RF-300-entropy-16-6-balanced_subsample:
+map            	all	0.6304
+recip_rank     	all	0.7124
+TREC Scores of test_res/RF-test/RF-300-entropy-16-8-None:
+map            	all	0.6287
+recip_rank     	all	0.7078
+TREC Scores of test_res/RF-test/RF-300-entropy-16-8-balanced:
+map            	all	0.6288
+recip_rank     	all	0.7142
+TREC Scores of test_res/RF-test/RF-300-entropy-16-8-balanced_subsample:
+map            	all	0.6225
+recip_rank     	all	0.7002
+TREC Scores of test_res/RF-test/RF-300-entropy-20-2-None:
+map            	all	0.6254
+recip_rank     	all	0.7059
+TREC Scores of test_res/RF-test/RF-300-entropy-20-2-balanced:
+map            	all	0.6306
+recip_rank     	all	0.7172
+TREC Scores of test_res/RF-test/RF-300-entropy-20-2-balanced_subsample:
+map            	all	0.6239
+recip_rank     	all	0.7151
+TREC Scores of test_res/RF-test/RF-300-entropy-20-4-None:
+map            	all	0.6168
+recip_rank     	all	0.7063
+TREC Scores of test_res/RF-test/RF-300-entropy-20-4-balanced:
+map            	all	0.6196
+recip_rank     	all	0.6985
+TREC Scores of test_res/RF-test/RF-300-entropy-20-4-balanced_subsample:
+map            	all	0.6239
+recip_rank     	all	0.7074
+TREC Scores of test_res/RF-test/RF-300-entropy-20-6-None:
+map            	all	0.6236
+recip_rank     	all	0.6873
+TREC Scores of test_res/RF-test/RF-300-entropy-20-6-balanced:
+map            	all	0.6426
+recip_rank     	all	0.7374
+TREC Scores of test_res/RF-test/RF-300-entropy-20-6-balanced_subsample:
+map            	all	0.6313
+recip_rank     	all	0.7134
+TREC Scores of test_res/RF-test/RF-300-entropy-20-8-None:
+map            	all	0.6290
+recip_rank     	all	0.7002
+TREC Scores of test_res/RF-test/RF-300-entropy-20-8-balanced:
+map            	all	0.6211
+recip_rank     	all	0.6957
+TREC Scores of test_res/RF-test/RF-300-entropy-20-8-balanced_subsample:
+map            	all	0.6299
+recip_rank     	all	0.7108
+TREC Scores of test_res/RF-test/RF-300-entropy-8-2-None:
+map            	all	0.6252
+recip_rank     	all	0.7124
+TREC Scores of test_res/RF-test/RF-300-entropy-8-2-balanced:
+map            	all	0.6287
+recip_rank     	all	0.7091
+TREC Scores of test_res/RF-test/RF-300-entropy-8-2-balanced_subsample:
+map            	all	0.6263
+recip_rank     	all	0.7129
+TREC Scores of test_res/RF-test/RF-300-entropy-8-4-None:
+map            	all	0.6172
+recip_rank     	all	0.7016
+TREC Scores of test_res/RF-test/RF-300-entropy-8-4-balanced:
+map            	all	0.6185
+recip_rank     	all	0.6998
+TREC Scores of test_res/RF-test/RF-300-entropy-8-4-balanced_subsample:
+map            	all	0.6274
+recip_rank     	all	0.7105
+TREC Scores of test_res/RF-test/RF-300-entropy-8-6-None:
+map            	all	0.6305
+recip_rank     	all	0.7038
+TREC Scores of test_res/RF-test/RF-300-entropy-8-6-balanced:
+map            	all	0.6240
+recip_rank     	all	0.7009
+TREC Scores of test_res/RF-test/RF-300-entropy-8-6-balanced_subsample:
+map            	all	0.6222
+recip_rank     	all	0.6927
+TREC Scores of test_res/RF-test/RF-300-entropy-8-8-None:
+map            	all	0.6227
+recip_rank     	all	0.7029
+TREC Scores of test_res/RF-test/RF-300-entropy-8-8-balanced:
+map            	all	0.6183
+recip_rank     	all	0.6792
+TREC Scores of test_res/RF-test/RF-300-entropy-8-8-balanced_subsample:
+map            	all	0.6231
+recip_rank     	all	0.6980
+TREC Scores of test_res/RF-test/RF-300-gini-11-2-None:
+map            	all	0.6296
+recip_rank     	all	0.7214
+TREC Scores of test_res/RF-test/RF-300-gini-11-2-balanced:
+map            	all	0.6122
+recip_rank     	all	0.7099
+TREC Scores of test_res/RF-test/RF-300-gini-11-2-balanced_subsample:
+map            	all	0.6199
+recip_rank     	all	0.7128
+TREC Scores of test_res/RF-test/RF-300-gini-11-4-None:
+map            	all	0.6289
+recip_rank     	all	0.7138
+TREC Scores of test_res/RF-test/RF-300-gini-11-4-balanced:
+map            	all	0.6179
+recip_rank     	all	0.7126
+TREC Scores of test_res/RF-test/RF-300-gini-11-4-balanced_subsample:
+map            	all	0.6194
+recip_rank     	all	0.7145
+TREC Scores of test_res/RF-test/RF-300-gini-11-6-None:
+map            	all	0.6261
+recip_rank     	all	0.7102
+TREC Scores of test_res/RF-test/RF-300-gini-11-6-balanced:
+map            	all	0.6205
+recip_rank     	all	0.6916
+TREC Scores of test_res/RF-test/RF-300-gini-11-6-balanced_subsample:
+map            	all	0.6236
+recip_rank     	all	0.7061
+TREC Scores of test_res/RF-test/RF-300-gini-11-8-None:
+map            	all	0.6159
+recip_rank     	all	0.7113
+TREC Scores of test_res/RF-test/RF-300-gini-11-8-balanced:
+map            	all	0.6288
+recip_rank     	all	0.7229
+TREC Scores of test_res/RF-test/RF-300-gini-11-8-balanced_subsample:
+map            	all	0.6257
+recip_rank     	all	0.7220
+TREC Scores of test_res/RF-test/RF-300-gini-16-2-None:
+map            	all	0.6156
+recip_rank     	all	0.6976
+TREC Scores of test_res/RF-test/RF-300-gini-16-2-balanced:
+map            	all	0.6186
+recip_rank     	all	0.7104
+TREC Scores of test_res/RF-test/RF-300-gini-16-2-balanced_subsample:
+map            	all	0.6179
+recip_rank     	all	0.7126
+TREC Scores of test_res/RF-test/RF-300-gini-16-4-None:
+map            	all	0.6078
+recip_rank     	all	0.6923
+TREC Scores of test_res/RF-test/RF-300-gini-16-4-balanced:
+map            	all	0.6207
+recip_rank     	all	0.6968
+TREC Scores of test_res/RF-test/RF-300-gini-16-4-balanced_subsample:
+map            	all	0.6173
+recip_rank     	all	0.6948
+TREC Scores of test_res/RF-test/RF-300-gini-16-6-None:
+map            	all	0.6229
+recip_rank     	all	0.6997
+TREC Scores of test_res/RF-test/RF-300-gini-16-6-balanced:
+map            	all	0.6244
+recip_rank     	all	0.7137
+TREC Scores of test_res/RF-test/RF-300-gini-16-6-balanced_subsample:
+map            	all	0.6375
+recip_rank     	all	0.7381
+TREC Scores of test_res/RF-test/RF-300-gini-16-8-None:
+map            	all	0.6426
+recip_rank     	all	0.7314
+TREC Scores of test_res/RF-test/RF-300-gini-16-8-balanced:
+map            	all	0.6203
+recip_rank     	all	0.7055
+TREC Scores of test_res/RF-test/RF-300-gini-16-8-balanced_subsample:
+map            	all	0.6175
+recip_rank     	all	0.7080
+TREC Scores of test_res/RF-test/RF-300-gini-20-2-None:
+map            	all	0.6101
+recip_rank     	all	0.6934
+TREC Scores of test_res/RF-test/RF-300-gini-20-2-balanced:
+map            	all	0.6226
+recip_rank     	all	0.7190
+TREC Scores of test_res/RF-test/RF-300-gini-20-2-balanced_subsample:
+map            	all	0.6236
+recip_rank     	all	0.7101
+TREC Scores of test_res/RF-test/RF-300-gini-20-4-None:
+map            	all	0.6201
+recip_rank     	all	0.7107
+TREC Scores of test_res/RF-test/RF-300-gini-20-4-balanced:
+map            	all	0.6150
+recip_rank     	all	0.6929
+TREC Scores of test_res/RF-test/RF-300-gini-20-4-balanced_subsample:
+map            	all	0.6201
+recip_rank     	all	0.7119
+TREC Scores of test_res/RF-test/RF-300-gini-20-6-None:
+map            	all	0.6162
+recip_rank     	all	0.6834
+TREC Scores of test_res/RF-test/RF-300-gini-20-6-balanced:
+map            	all	0.6100
+recip_rank     	all	0.6977
+TREC Scores of test_res/RF-test/RF-300-gini-20-6-balanced_subsample:
+map            	all	0.6249
+recip_rank     	all	0.7210
+TREC Scores of test_res/RF-test/RF-300-gini-20-8-None:
+map            	all	0.6160
+recip_rank     	all	0.6878
+TREC Scores of test_res/RF-test/RF-300-gini-20-8-balanced:
+map            	all	0.6178
+recip_rank     	all	0.7162
+TREC Scores of test_res/RF-test/RF-300-gini-20-8-balanced_subsample:
+map            	all	0.6242
+recip_rank     	all	0.7264
+TREC Scores of test_res/RF-test/RF-300-gini-8-2-None:
+map            	all	0.6149
+recip_rank     	all	0.6797
+TREC Scores of test_res/RF-test/RF-300-gini-8-2-balanced:
+map            	all	0.6172
+recip_rank     	all	0.7008
+TREC Scores of test_res/RF-test/RF-300-gini-8-2-balanced_subsample:
+map            	all	0.6196
+recip_rank     	all	0.6911
+TREC Scores of test_res/RF-test/RF-300-gini-8-4-None:
+map            	all	0.6263
+recip_rank     	all	0.7097
+TREC Scores of test_res/RF-test/RF-300-gini-8-4-balanced:
+map            	all	0.6079
+recip_rank     	all	0.6742
+TREC Scores of test_res/RF-test/RF-300-gini-8-4-balanced_subsample:
+map            	all	0.6099
+recip_rank     	all	0.6842
+TREC Scores of test_res/RF-test/RF-300-gini-8-6-None:
+map            	all	0.6288
+recip_rank     	all	0.6946
+TREC Scores of test_res/RF-test/RF-300-gini-8-6-balanced:
+map            	all	0.6168
+recip_rank     	all	0.7006
+TREC Scores of test_res/RF-test/RF-300-gini-8-6-balanced_subsample:
+map            	all	0.6180
+recip_rank     	all	0.7018
+TREC Scores of test_res/RF-test/RF-300-gini-8-8-None:
+map            	all	0.6310
+recip_rank     	all	0.7120
+TREC Scores of test_res/RF-test/RF-300-gini-8-8-balanced:
+map            	all	0.6230
+recip_rank     	all	0.6979
+TREC Scores of test_res/RF-test/RF-300-gini-8-8-balanced_subsample:
+map            	all	0.6303
+recip_rank     	all	0.7098
+TREC Scores of test_res/RF-test/RF-400-entropy-11-2-None:
+map            	all	0.6283
+recip_rank     	all	0.6911
+TREC Scores of test_res/RF-test/RF-400-entropy-11-2-balanced:
+map            	all	0.6154
+recip_rank     	all	0.6998
+TREC Scores of test_res/RF-test/RF-400-entropy-11-2-balanced_subsample:
+map            	all	0.6195
+recip_rank     	all	0.7149
+TREC Scores of test_res/RF-test/RF-400-entropy-11-4-None:
+map            	all	0.6358
+recip_rank     	all	0.7146
+TREC Scores of test_res/RF-test/RF-400-entropy-11-4-balanced:
+map            	all	0.6104
+recip_rank     	all	0.6926
+TREC Scores of test_res/RF-test/RF-400-entropy-11-4-balanced_subsample:
+map            	all	0.6045
+recip_rank     	all	0.6816
+TREC Scores of test_res/RF-test/RF-400-entropy-11-6-None:
+map            	all	0.6217
+recip_rank     	all	0.6875
+TREC Scores of test_res/RF-test/RF-400-entropy-11-6-balanced:
+map            	all	0.6237
+recip_rank     	all	0.7122
+TREC Scores of test_res/RF-test/RF-400-entropy-11-6-balanced_subsample:
+map            	all	0.6248
+recip_rank     	all	0.7132
+TREC Scores of test_res/RF-test/RF-400-entropy-11-8-None:
+map            	all	0.6186
+recip_rank     	all	0.6874
+TREC Scores of test_res/RF-test/RF-400-entropy-11-8-balanced:
+map            	all	0.6302
+recip_rank     	all	0.7246
+TREC Scores of test_res/RF-test/RF-400-entropy-11-8-balanced_subsample:
+map            	all	0.6148
+recip_rank     	all	0.6949
+TREC Scores of test_res/RF-test/RF-400-entropy-16-2-None:
+map            	all	0.6253
+recip_rank     	all	0.7016
+TREC Scores of test_res/RF-test/RF-400-entropy-16-2-balanced:
+map            	all	0.6141
+recip_rank     	all	0.6989
+TREC Scores of test_res/RF-test/RF-400-entropy-16-2-balanced_subsample:
+map            	all	0.6182
+recip_rank     	all	0.7036
+TREC Scores of test_res/RF-test/RF-400-entropy-16-4-None:
+map            	all	0.6259
+recip_rank     	all	0.6945
+TREC Scores of test_res/RF-test/RF-400-entropy-16-4-balanced:
+map            	all	0.6212
+recip_rank     	all	0.7039
+TREC Scores of test_res/RF-test/RF-400-entropy-16-4-balanced_subsample:
+map            	all	0.6236
+recip_rank     	all	0.6997
+TREC Scores of test_res/RF-test/RF-400-entropy-16-6-None:
+map            	all	0.6241
+recip_rank     	all	0.7094
+TREC Scores of test_res/RF-test/RF-400-entropy-16-6-balanced:
+map            	all	0.6236
+recip_rank     	all	0.7014
+TREC Scores of test_res/RF-test/RF-400-entropy-16-6-balanced_subsample:
+map            	all	0.6273
+recip_rank     	all	0.7073
+TREC Scores of test_res/RF-test/RF-400-entropy-16-8-None:
+map            	all	0.6220
+recip_rank     	all	0.6991
+TREC Scores of test_res/RF-test/RF-400-entropy-16-8-balanced:
+map            	all	0.6144
+recip_rank     	all	0.6991
+TREC Scores of test_res/RF-test/RF-400-entropy-16-8-balanced_subsample:
+map            	all	0.6274
+recip_rank     	all	0.7081
+TREC Scores of test_res/RF-test/RF-400-entropy-20-2-None:
+map            	all	0.6267
+recip_rank     	all	0.7103
+TREC Scores of test_res/RF-test/RF-400-entropy-20-2-balanced:
+map            	all	0.6336
+recip_rank     	all	0.7289
+TREC Scores of test_res/RF-test/RF-400-entropy-20-2-balanced_subsample:
+map            	all	0.6242
+recip_rank     	all	0.7030
+TREC Scores of test_res/RF-test/RF-400-entropy-20-4-None:
+map            	all	0.6159
+recip_rank     	all	0.6986
+TREC Scores of test_res/RF-test/RF-400-entropy-20-4-balanced:
+map            	all	0.6237
+recip_rank     	all	0.7102
+TREC Scores of test_res/RF-test/RF-400-entropy-20-4-balanced_subsample:
+map            	all	0.6261
+recip_rank     	all	0.7035
+TREC Scores of test_res/RF-test/RF-400-entropy-20-6-None:
+map            	all	0.6306
+recip_rank     	all	0.7021
+TREC Scores of test_res/RF-test/RF-400-entropy-20-6-balanced:
+map            	all	0.6362
+recip_rank     	all	0.7229
+TREC Scores of test_res/RF-test/RF-400-entropy-20-6-balanced_subsample:
+map            	all	0.6306
+recip_rank     	all	0.7178
+TREC Scores of test_res/RF-test/RF-400-entropy-20-8-None:
+map            	all	0.6308
+recip_rank     	all	0.7117
+TREC Scores of test_res/RF-test/RF-400-entropy-20-8-balanced:
+map            	all	0.6247
+recip_rank     	all	0.6994
+TREC Scores of test_res/RF-test/RF-400-entropy-20-8-balanced_subsample:
+map            	all	0.6298
+recip_rank     	all	0.7145
+TREC Scores of test_res/RF-test/RF-400-entropy-8-2-None:
+map            	all	0.6202
+recip_rank     	all	0.6998
+TREC Scores of test_res/RF-test/RF-400-entropy-8-2-balanced:
+map            	all	0.6302
+recip_rank     	all	0.7196
+TREC Scores of test_res/RF-test/RF-400-entropy-8-2-balanced_subsample:
+map            	all	0.6286
+recip_rank     	all	0.7140
+TREC Scores of test_res/RF-test/RF-400-entropy-8-4-None:
+map            	all	0.6218
+recip_rank     	all	0.7066
+TREC Scores of test_res/RF-test/RF-400-entropy-8-4-balanced:
+map            	all	0.6215
+recip_rank     	all	0.7014
+TREC Scores of test_res/RF-test/RF-400-entropy-8-4-balanced_subsample:
+map            	all	0.6287
+recip_rank     	all	0.7174
+TREC Scores of test_res/RF-test/RF-400-entropy-8-6-None:
+map            	all	0.6206
+recip_rank     	all	0.6955
+TREC Scores of test_res/RF-test/RF-400-entropy-8-6-balanced:
+map            	all	0.6235
+recip_rank     	all	0.6923
+TREC Scores of test_res/RF-test/RF-400-entropy-8-6-balanced_subsample:
+map            	all	0.6251
+recip_rank     	all	0.6917
+TREC Scores of test_res/RF-test/RF-400-entropy-8-8-None:
+map            	all	0.6197
+recip_rank     	all	0.6957
+TREC Scores of test_res/RF-test/RF-400-entropy-8-8-balanced:
+map            	all	0.6207
+recip_rank     	all	0.6906
+TREC Scores of test_res/RF-test/RF-400-entropy-8-8-balanced_subsample:
+map            	all	0.6261
+recip_rank     	all	0.7056
+TREC Scores of test_res/RF-test/RF-400-gini-11-2-None:
+map            	all	0.6183
+recip_rank     	all	0.7088
+TREC Scores of test_res/RF-test/RF-400-gini-11-2-balanced:
+map            	all	0.6128
+recip_rank     	all	0.7100
+TREC Scores of test_res/RF-test/RF-400-gini-11-2-balanced_subsample:
+map            	all	0.6133
+recip_rank     	all	0.7032
+TREC Scores of test_res/RF-test/RF-400-gini-11-4-None:
+map            	all	0.6286
+recip_rank     	all	0.7100
+TREC Scores of test_res/RF-test/RF-400-gini-11-4-balanced:
+map            	all	0.6186
+recip_rank     	all	0.7010
+TREC Scores of test_res/RF-test/RF-400-gini-11-4-balanced_subsample:
+map            	all	0.6126
+recip_rank     	all	0.6910
+TREC Scores of test_res/RF-test/RF-400-gini-11-6-None:
+map            	all	0.6116
+recip_rank     	all	0.7016
+TREC Scores of test_res/RF-test/RF-400-gini-11-6-balanced:
+map            	all	0.6199
+recip_rank     	all	0.7068
+TREC Scores of test_res/RF-test/RF-400-gini-11-6-balanced_subsample:
+map            	all	0.6249
+recip_rank     	all	0.7112
+TREC Scores of test_res/RF-test/RF-400-gini-11-8-None:
+map            	all	0.6184
+recip_rank     	all	0.7139
+TREC Scores of test_res/RF-test/RF-400-gini-11-8-balanced:
+map            	all	0.6292
+recip_rank     	all	0.7230
+TREC Scores of test_res/RF-test/RF-400-gini-11-8-balanced_subsample:
+map            	all	0.6223
+recip_rank     	all	0.7142
+TREC Scores of test_res/RF-test/RF-400-gini-16-2-None:
+map            	all	0.6136
+recip_rank     	all	0.6927
+TREC Scores of test_res/RF-test/RF-400-gini-16-2-balanced:
+map            	all	0.6252
+recip_rank     	all	0.7160
+TREC Scores of test_res/RF-test/RF-400-gini-16-2-balanced_subsample:
+map            	all	0.6189
+recip_rank     	all	0.7067
+TREC Scores of test_res/RF-test/RF-400-gini-16-4-None:
+map            	all	0.6101
+recip_rank     	all	0.6952
+TREC Scores of test_res/RF-test/RF-400-gini-16-4-balanced:
+map            	all	0.6188
+recip_rank     	all	0.6958
+TREC Scores of test_res/RF-test/RF-400-gini-16-4-balanced_subsample:
+map            	all	0.6180
+recip_rank     	all	0.6919
+TREC Scores of test_res/RF-test/RF-400-gini-16-6-None:
+map            	all	0.6238
+recip_rank     	all	0.6998
+TREC Scores of test_res/RF-test/RF-400-gini-16-6-balanced:
+map            	all	0.6288
+recip_rank     	all	0.7143
+TREC Scores of test_res/RF-test/RF-400-gini-16-6-balanced_subsample:
+map            	all	0.6401
+recip_rank     	all	0.7382
+TREC Scores of test_res/RF-test/RF-400-gini-16-8-None:
+map            	all	0.6318
+recip_rank     	all	0.7077
+TREC Scores of test_res/RF-test/RF-400-gini-16-8-balanced:
+map            	all	0.6186
+recip_rank     	all	0.6999
+TREC Scores of test_res/RF-test/RF-400-gini-16-8-balanced_subsample:
+map            	all	0.6188
+recip_rank     	all	0.6987
+TREC Scores of test_res/RF-test/RF-400-gini-20-2-None:
+map            	all	0.6050
+recip_rank     	all	0.6853
+TREC Scores of test_res/RF-test/RF-400-gini-20-2-balanced:
+map            	all	0.6279
+recip_rank     	all	0.7343
+TREC Scores of test_res/RF-test/RF-400-gini-20-2-balanced_subsample:
+map            	all	0.6222
+recip_rank     	all	0.7139
+TREC Scores of test_res/RF-test/RF-400-gini-20-4-None:
+map            	all	0.6098
+recip_rank     	all	0.6928
+TREC Scores of test_res/RF-test/RF-400-gini-20-4-balanced:
+map            	all	0.6240
+recip_rank     	all	0.7004
+TREC Scores of test_res/RF-test/RF-400-gini-20-4-balanced_subsample:
+map            	all	0.6257
+recip_rank     	all	0.7137
+TREC Scores of test_res/RF-test/RF-400-gini-20-6-None:
+map            	all	0.6215
+recip_rank     	all	0.7059
+TREC Scores of test_res/RF-test/RF-400-gini-20-6-balanced:
+map            	all	0.6145
+recip_rank     	all	0.6988
+TREC Scores of test_res/RF-test/RF-400-gini-20-6-balanced_subsample:
+map            	all	0.6185
+recip_rank     	all	0.7089
+TREC Scores of test_res/RF-test/RF-400-gini-20-8-None:
+map            	all	0.6087
+recip_rank     	all	0.6854
+TREC Scores of test_res/RF-test/RF-400-gini-20-8-balanced:
+map            	all	0.6189
+recip_rank     	all	0.7128
+TREC Scores of test_res/RF-test/RF-400-gini-20-8-balanced_subsample:
+map            	all	0.6283
+recip_rank     	all	0.7180
+TREC Scores of test_res/RF-test/RF-400-gini-8-2-None:
+map            	all	0.6080
+recip_rank     	all	0.6832
+TREC Scores of test_res/RF-test/RF-400-gini-8-2-balanced:
+map            	all	0.6118
+recip_rank     	all	0.6935
+TREC Scores of test_res/RF-test/RF-400-gini-8-2-balanced_subsample:
+map            	all	0.6204
+recip_rank     	all	0.6878
+TREC Scores of test_res/RF-test/RF-400-gini-8-4-None:
+map            	all	0.6147
+recip_rank     	all	0.6935
+TREC Scores of test_res/RF-test/RF-400-gini-8-4-balanced:
+map            	all	0.6144
+recip_rank     	all	0.6890
+TREC Scores of test_res/RF-test/RF-400-gini-8-4-balanced_subsample:
+map            	all	0.6123
+recip_rank     	all	0.6877
+TREC Scores of test_res/RF-test/RF-400-gini-8-6-None:
+map            	all	0.6160
+recip_rank     	all	0.6969
+TREC Scores of test_res/RF-test/RF-400-gini-8-6-balanced:
+map            	all	0.6174
+recip_rank     	all	0.7109
+TREC Scores of test_res/RF-test/RF-400-gini-8-6-balanced_subsample:
+map            	all	0.6149
+recip_rank     	all	0.6910
+TREC Scores of test_res/RF-test/RF-400-gini-8-8-None:
+map            	all	0.6159
+recip_rank     	all	0.6983
+TREC Scores of test_res/RF-test/RF-400-gini-8-8-balanced:
+map            	all	0.6233
+recip_rank     	all	0.6986
+TREC Scores of test_res/RF-test/RF-400-gini-8-8-balanced_subsample:
+map            	all	0.6249
+recip_rank     	all	0.6973

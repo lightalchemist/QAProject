@@ -1,0 +1,73 @@
+Classifier: LGSIM
+TREC Scores of test_res/LGSIM-dev/LGSIM-l1-0.01:
+map            	all	0.6680
+recip_rank     	all	0.7252
+TREC Scores of test_res/LGSIM-dev/LGSIM-l1-0.1:
+map            	all	0.7312
+recip_rank     	all	0.8007
+TREC Scores of test_res/LGSIM-dev/LGSIM-l1-1:
+map            	all	0.7244
+recip_rank     	all	0.7846
+TREC Scores of test_res/LGSIM-dev/LGSIM-l1-10:
+map            	all	0.7209
+recip_rank     	all	0.7906
+TREC Scores of test_res/LGSIM-dev/LGSIM-l1-100:
+map            	all	0.7225
+recip_rank     	all	0.7906
+TREC Scores of test_res/LGSIM-dev/LGSIM-l1-1000:
+map            	all	0.7225
+recip_rank     	all	0.7906
+TREC Scores of test_res/LGSIM-dev/LGSIM-l2-0.01:
+map            	all	0.7242
+recip_rank     	all	0.7987
+TREC Scores of test_res/LGSIM-dev/LGSIM-l2-0.1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/LGSIM-dev/LGSIM-l2-1:
+map            	all	0.7248
+recip_rank     	all	0.7839
+TREC Scores of test_res/LGSIM-dev/LGSIM-l2-10:
+map            	all	0.7185
+recip_rank     	all	0.7834
+TREC Scores of test_res/LGSIM-dev/LGSIM-l2-100:
+map            	all	0.7229
+recip_rank     	all	0.7918
+TREC Scores of test_res/LGSIM-dev/LGSIM-l2-1000:
+map            	all	0.7230
+recip_rank     	all	0.7918
+TREC Scores of test_res/LGSIM-test/LGSIM-l1-0.01:
+map            	all	0.5980
+recip_rank     	all	0.6775
+TREC Scores of test_res/LGSIM-test/LGSIM-l1-0.1:
+map            	all	0.6776
+recip_rank     	all	0.7464
+TREC Scores of test_res/LGSIM-test/LGSIM-l1-1:
+map            	all	0.6773
+recip_rank     	all	0.7634
+TREC Scores of test_res/LGSIM-test/LGSIM-l1-10:
+map            	all	0.6735
+recip_rank     	all	0.7565
+TREC Scores of test_res/LGSIM-test/LGSIM-l1-100:
+map            	all	0.6745
+recip_rank     	all	0.7588
+TREC Scores of test_res/LGSIM-test/LGSIM-l1-1000:
+map            	all	0.6745
+recip_rank     	all	0.7588
+TREC Scores of test_res/LGSIM-test/LGSIM-l2-0.01:
+map            	all	0.6407
+recip_rank     	all	0.7096
+TREC Scores of test_res/LGSIM-test/LGSIM-l2-0.1:
+map            	all	0.6635
+recip_rank     	all	0.7410
+TREC Scores of test_res/LGSIM-test/LGSIM-l2-1:
+map            	all	0.6732
+recip_rank     	all	0.7651
+TREC Scores of test_res/LGSIM-test/LGSIM-l2-10:
+map            	all	0.6740
+recip_rank     	all	0.7588
+TREC Scores of test_res/LGSIM-test/LGSIM-l2-100:
+map            	all	0.6732
+recip_rank     	all	0.7591
+TREC Scores of test_res/LGSIM-test/LGSIM-l2-1000:
+map            	all	0.6731
+recip_rank     	all	0.7591

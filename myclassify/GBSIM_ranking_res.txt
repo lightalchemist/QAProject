@@ -1,0 +1,121 @@
+Classifier: GBSIM
+TREC Scores of test_res/GBSIM-dev/GBSIM-100-12:
+map            	all	0.6522
+recip_rank     	all	0.7416
+TREC Scores of test_res/GBSIM-dev/GBSIM-100-2:
+map            	all	0.7224
+recip_rank     	all	0.7581
+TREC Scores of test_res/GBSIM-dev/GBSIM-100-24:
+map            	all	0.6321
+recip_rank     	all	0.6972
+TREC Scores of test_res/GBSIM-dev/GBSIM-100-3:
+map            	all	0.7100
+recip_rank     	all	0.7675
+TREC Scores of test_res/GBSIM-dev/GBSIM-100-6:
+map            	all	0.6940
+recip_rank     	all	0.7547
+TREC Scores of test_res/GBSIM-dev/GBSIM-400-12:
+map            	all	0.6512
+recip_rank     	all	0.7344
+TREC Scores of test_res/GBSIM-dev/GBSIM-400-2:
+map            	all	0.7239
+recip_rank     	all	0.7693
+TREC Scores of test_res/GBSIM-dev/GBSIM-400-24:
+map            	all	0.6321
+recip_rank     	all	0.6972
+TREC Scores of test_res/GBSIM-dev/GBSIM-400-3:
+map            	all	0.6956
+recip_rank     	all	0.7787
+TREC Scores of test_res/GBSIM-dev/GBSIM-400-6:
+map            	all	0.6917
+recip_rank     	all	0.7516
+TREC Scores of test_res/GBSIM-dev/GBSIM-50-12:
+map            	all	0.6103
+recip_rank     	all	0.6837
+TREC Scores of test_res/GBSIM-dev/GBSIM-50-2:
+map            	all	0.7244
+recip_rank     	all	0.7616
+TREC Scores of test_res/GBSIM-dev/GBSIM-50-24:
+map            	all	0.5050
+recip_rank     	all	0.5960
+TREC Scores of test_res/GBSIM-dev/GBSIM-50-3:
+map            	all	0.7166
+recip_rank     	all	0.7584
+TREC Scores of test_res/GBSIM-dev/GBSIM-50-6:
+map            	all	0.6767
+recip_rank     	all	0.7450
+TREC Scores of test_res/GBSIM-dev/GBSIM-800-12:
+map            	all	0.6512
+recip_rank     	all	0.7344
+TREC Scores of test_res/GBSIM-dev/GBSIM-800-2:
+map            	all	0.7037
+recip_rank     	all	0.7743
+TREC Scores of test_res/GBSIM-dev/GBSIM-800-24:
+map            	all	0.6321
+recip_rank     	all	0.6972
+TREC Scores of test_res/GBSIM-dev/GBSIM-800-3:
+map            	all	0.6793
+recip_rank     	all	0.7499
+TREC Scores of test_res/GBSIM-dev/GBSIM-800-6:
+map            	all	0.6868
+recip_rank     	all	0.7702
+TREC Scores of test_res/GBSIM-test/GBSIM-100-12:
+map            	all	0.5909
+recip_rank     	all	0.6870
+TREC Scores of test_res/GBSIM-test/GBSIM-100-2:
+map            	all	0.6594
+recip_rank     	all	0.7189
+TREC Scores of test_res/GBSIM-test/GBSIM-100-24:
+map            	all	0.5935
+recip_rank     	all	0.6983
+TREC Scores of test_res/GBSIM-test/GBSIM-100-3:
+map            	all	0.6675
+recip_rank     	all	0.7456
+TREC Scores of test_res/GBSIM-test/GBSIM-100-6:
+map            	all	0.6126
+recip_rank     	all	0.6718
+TREC Scores of test_res/GBSIM-test/GBSIM-400-12:
+map            	all	0.5871
+recip_rank     	all	0.6801
+TREC Scores of test_res/GBSIM-test/GBSIM-400-2:
+map            	all	0.6611
+recip_rank     	all	0.7343
+TREC Scores of test_res/GBSIM-test/GBSIM-400-24:
+map            	all	0.5935
+recip_rank     	all	0.6983
+TREC Scores of test_res/GBSIM-test/GBSIM-400-3:
+map            	all	0.6189
+recip_rank     	all	0.7149
+TREC Scores of test_res/GBSIM-test/GBSIM-400-6:
+map            	all	0.5998
+recip_rank     	all	0.6787
+TREC Scores of test_res/GBSIM-test/GBSIM-50-12:
+map            	all	0.5404
+recip_rank     	all	0.6764
+TREC Scores of test_res/GBSIM-test/GBSIM-50-2:
+map            	all	0.6568
+recip_rank     	all	0.7447
+TREC Scores of test_res/GBSIM-test/GBSIM-50-24:
+map            	all	0.4461
+recip_rank     	all	0.5680
+TREC Scores of test_res/GBSIM-test/GBSIM-50-3:
+map            	all	0.6560
+recip_rank     	all	0.7236
+TREC Scores of test_res/GBSIM-test/GBSIM-50-6:
+map            	all	0.6329
+recip_rank     	all	0.7066
+TREC Scores of test_res/GBSIM-test/GBSIM-800-12:
+map            	all	0.5871
+recip_rank     	all	0.6801
+TREC Scores of test_res/GBSIM-test/GBSIM-800-2:
+map            	all	0.6463
+recip_rank     	all	0.7332
+TREC Scores of test_res/GBSIM-test/GBSIM-800-24:
+map            	all	0.5935
+recip_rank     	all	0.6983
+TREC Scores of test_res/GBSIM-test/GBSIM-800-3:
+map            	all	0.5887
+recip_rank     	all	0.6807
+TREC Scores of test_res/GBSIM-test/GBSIM-800-6:
+map            	all	0.6153
+recip_rank     	all	0.6950
