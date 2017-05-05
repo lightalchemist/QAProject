@@ -93,3 +93,9 @@ ENV/
 
 # Data for glove embeddings
 data/glove_embeddings/
+
+# Data of test results
+myclassify/test_res/
+
+#mac os
+.DS_Store
