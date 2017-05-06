@@ -1,0 +1,2881 @@
+Classifier: RPRF
+TREC Scores of test_res/RPRF-dev/RF-0.5-0.5-3-0-1:
+map            	all	0.6989
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-0.5-0.5-3-0-2:
+map            	all	0.6998
+recip_rank     	all	0.7806
+TREC Scores of test_res/RPRF-dev/RF-0.5-0.5-3-0.8-1:
+map            	all	0.6989
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-0.5-0.5-3-0.8-2:
+map            	all	0.6918
+recip_rank     	all	0.7438
+TREC Scores of test_res/RPRF-dev/RF-0.5-0.5-3-1.0-1:
+map            	all	0.6987
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-0.5-0.5-3-1.0-2:
+map            	all	0.6754
+recip_rank     	all	0.7236
+TREC Scores of test_res/RPRF-dev/RF-0.5-0.5-3-1.25-1:
+map            	all	0.6987
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-0.5-0.5-3-1.25-2:
+map            	all	0.6627
+recip_rank     	all	0.7085
+TREC Scores of test_res/RPRF-dev/RF-0.5-0.5-3-1.5-1:
+map            	all	0.6986
+recip_rank     	all	0.7746
+TREC Scores of test_res/RPRF-dev/RF-0.5-0.5-3-1.5-2:
+map            	all	0.6580
+recip_rank     	all	0.6942
+TREC Scores of test_res/RPRF-dev/RF-0.5-0.5-3-2.0-1:
+map            	all	0.6838
+recip_rank     	all	0.7438
+TREC Scores of test_res/RPRF-dev/RF-0.5-0.5-3-2.0-2:
+map            	all	0.6236
+recip_rank     	all	0.6538
+TREC Scores of test_res/RPRF-dev/RF-0.5-0.5-5-0-1:
+map            	all	0.6989
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-0.5-0.5-5-0-2:
+map            	all	0.6994
+recip_rank     	all	0.7806
+TREC Scores of test_res/RPRF-dev/RF-0.5-0.5-5-0.8-1:
+map            	all	0.6989
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-0.5-0.5-5-0.8-2:
+map            	all	0.6916
+recip_rank     	all	0.7438
+TREC Scores of test_res/RPRF-dev/RF-0.5-0.5-5-1.0-1:
+map            	all	0.6987
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-0.5-0.5-5-1.0-2:
+map            	all	0.6756
+recip_rank     	all	0.7216
+TREC Scores of test_res/RPRF-dev/RF-0.5-0.5-5-1.25-1:
+map            	all	0.6990
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-0.5-0.5-5-1.25-2:
+map            	all	0.6639
+recip_rank     	all	0.7098
+TREC Scores of test_res/RPRF-dev/RF-0.5-0.5-5-1.5-1:
+map            	all	0.6987
+recip_rank     	all	0.7746
+TREC Scores of test_res/RPRF-dev/RF-0.5-0.5-5-1.5-2:
+map            	all	0.6577
+recip_rank     	all	0.6941
+TREC Scores of test_res/RPRF-dev/RF-0.5-0.5-5-2.0-1:
+map            	all	0.6841
+recip_rank     	all	0.7438
+TREC Scores of test_res/RPRF-dev/RF-0.5-0.5-5-2.0-2:
+map            	all	0.6241
+recip_rank     	all	0.6542
+TREC Scores of test_res/RPRF-dev/RF-0.5-0.75-3-0-1:
+map            	all	0.6989
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-0.5-0.75-3-0-2:
+map            	all	0.6993
+recip_rank     	all	0.7806
+TREC Scores of test_res/RPRF-dev/RF-0.5-0.75-3-0.8-1:
+map            	all	0.6989
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-0.5-0.75-3-0.8-2:
+map            	all	0.6939
+recip_rank     	all	0.7424
+TREC Scores of test_res/RPRF-dev/RF-0.5-0.75-3-1.0-1:
+map            	all	0.6987
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-0.5-0.75-3-1.0-2:
+map            	all	0.6763
+recip_rank     	all	0.7176
+TREC Scores of test_res/RPRF-dev/RF-0.5-0.75-3-1.25-1:
+map            	all	0.6995
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-0.5-0.75-3-1.25-2:
+map            	all	0.6612
+recip_rank     	all	0.6978
+TREC Scores of test_res/RPRF-dev/RF-0.5-0.75-3-1.5-1:
+map            	all	0.7025
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-0.5-0.75-3-1.5-2:
+map            	all	0.6552
+recip_rank     	all	0.6951
+TREC Scores of test_res/RPRF-dev/RF-0.5-0.75-3-2.0-1:
+map            	all	0.6816
+recip_rank     	all	0.7239
+TREC Scores of test_res/RPRF-dev/RF-0.5-0.75-3-2.0-2:
+map            	all	0.6212
+recip_rank     	all	0.6520
+TREC Scores of test_res/RPRF-dev/RF-0.5-0.75-5-0-1:
+map            	all	0.6989
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-0.5-0.75-5-0-2:
+map            	all	0.6993
+recip_rank     	all	0.7806
+TREC Scores of test_res/RPRF-dev/RF-0.5-0.75-5-0.8-1:
+map            	all	0.6989
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-0.5-0.75-5-0.8-2:
+map            	all	0.6937
+recip_rank     	all	0.7424
+TREC Scores of test_res/RPRF-dev/RF-0.5-0.75-5-1.0-1:
+map            	all	0.6987
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-0.5-0.75-5-1.0-2:
+map            	all	0.6785
+recip_rank     	all	0.7192
+TREC Scores of test_res/RPRF-dev/RF-0.5-0.75-5-1.25-1:
+map            	all	0.6992
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-0.5-0.75-5-1.25-2:
+map            	all	0.6608
+recip_rank     	all	0.6971
+TREC Scores of test_res/RPRF-dev/RF-0.5-0.75-5-1.5-1:
+map            	all	0.7028
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-0.5-0.75-5-1.5-2:
+map            	all	0.6553
+recip_rank     	all	0.6953
+TREC Scores of test_res/RPRF-dev/RF-0.5-0.75-5-2.0-1:
+map            	all	0.6842
+recip_rank     	all	0.7346
+TREC Scores of test_res/RPRF-dev/RF-0.5-0.75-5-2.0-2:
+map            	all	0.6227
+recip_rank     	all	0.6537
+TREC Scores of test_res/RPRF-dev/RF-0.5-1.0-3-0-1:
+map            	all	0.6989
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-0.5-1.0-3-0-2:
+map            	all	0.6992
+recip_rank     	all	0.7811
+TREC Scores of test_res/RPRF-dev/RF-0.5-1.0-3-0.8-1:
+map            	all	0.6989
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-0.5-1.0-3-0.8-2:
+map            	all	0.6932
+recip_rank     	all	0.7408
+TREC Scores of test_res/RPRF-dev/RF-0.5-1.0-3-1.0-1:
+map            	all	0.6987
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-0.5-1.0-3-1.0-2:
+map            	all	0.6683
+recip_rank     	all	0.7037
+TREC Scores of test_res/RPRF-dev/RF-0.5-1.0-3-1.25-1:
+map            	all	0.6996
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-0.5-1.0-3-1.25-2:
+map            	all	0.6602
+recip_rank     	all	0.6981
+TREC Scores of test_res/RPRF-dev/RF-0.5-1.0-3-1.5-1:
+map            	all	0.7025
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-0.5-1.0-3-1.5-2:
+map            	all	0.6486
+recip_rank     	all	0.6881
+TREC Scores of test_res/RPRF-dev/RF-0.5-1.0-3-2.0-1:
+map            	all	0.6844
+recip_rank     	all	0.7311
+TREC Scores of test_res/RPRF-dev/RF-0.5-1.0-3-2.0-2:
+map            	all	0.6162
+recip_rank     	all	0.6479
+TREC Scores of test_res/RPRF-dev/RF-0.5-1.0-5-0-1:
+map            	all	0.6989
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-0.5-1.0-5-0-2:
+map            	all	0.6987
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-0.5-1.0-5-0.8-1:
+map            	all	0.6989
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-0.5-1.0-5-0.8-2:
+map            	all	0.6926
+recip_rank     	all	0.7415
+TREC Scores of test_res/RPRF-dev/RF-0.5-1.0-5-1.0-1:
+map            	all	0.6989
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-0.5-1.0-5-1.0-2:
+map            	all	0.6738
+recip_rank     	all	0.7113
+TREC Scores of test_res/RPRF-dev/RF-0.5-1.0-5-1.25-1:
+map            	all	0.6989
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-0.5-1.0-5-1.25-2:
+map            	all	0.6605
+recip_rank     	all	0.6988
+TREC Scores of test_res/RPRF-dev/RF-0.5-1.0-5-1.5-1:
+map            	all	0.7035
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-0.5-1.0-5-1.5-2:
+map            	all	0.6489
+recip_rank     	all	0.6888
+TREC Scores of test_res/RPRF-dev/RF-0.5-1.0-5-2.0-1:
+map            	all	0.6874
+recip_rank     	all	0.7346
+TREC Scores of test_res/RPRF-dev/RF-0.5-1.0-5-2.0-2:
+map            	all	0.6179
+recip_rank     	all	0.6507
+TREC Scores of test_res/RPRF-dev/RF-0.5-1.5-3-0-1:
+map            	all	0.6989
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-0.5-1.5-3-0-2:
+map            	all	0.6989
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-0.5-1.5-3-0.8-1:
+map            	all	0.6989
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-0.5-1.5-3-0.8-2:
+map            	all	0.6934
+recip_rank     	all	0.7423
+TREC Scores of test_res/RPRF-dev/RF-0.5-1.5-3-1.0-1:
+map            	all	0.6987
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-0.5-1.5-3-1.0-2:
+map            	all	0.6689
+recip_rank     	all	0.7052
+TREC Scores of test_res/RPRF-dev/RF-0.5-1.5-3-1.25-1:
+map            	all	0.6998
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-0.5-1.5-3-1.25-2:
+map            	all	0.6541
+recip_rank     	all	0.6909
+TREC Scores of test_res/RPRF-dev/RF-0.5-1.5-3-1.5-1:
+map            	all	0.7013
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-0.5-1.5-3-1.5-2:
+map            	all	0.6467
+recip_rank     	all	0.6869
+TREC Scores of test_res/RPRF-dev/RF-0.5-1.5-3-2.0-1:
+map            	all	0.6814
+recip_rank     	all	0.7311
+TREC Scores of test_res/RPRF-dev/RF-0.5-1.5-3-2.0-2:
+map            	all	0.6135
+recip_rank     	all	0.6482
+TREC Scores of test_res/RPRF-dev/RF-0.5-1.5-5-0-1:
+map            	all	0.6989
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-0.5-1.5-5-0-2:
+map            	all	0.6988
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-0.5-1.5-5-0.8-1:
+map            	all	0.6989
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-0.5-1.5-5-0.8-2:
+map            	all	0.6873
+recip_rank     	all	0.7322
+TREC Scores of test_res/RPRF-dev/RF-0.5-1.5-5-1.0-1:
+map            	all	0.6989
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-0.5-1.5-5-1.0-2:
+map            	all	0.6701
+recip_rank     	all	0.7070
+TREC Scores of test_res/RPRF-dev/RF-0.5-1.5-5-1.25-1:
+map            	all	0.6990
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-0.5-1.5-5-1.25-2:
+map            	all	0.6532
+recip_rank     	all	0.6895
+TREC Scores of test_res/RPRF-dev/RF-0.5-1.5-5-1.5-1:
+map            	all	0.7018
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-0.5-1.5-5-1.5-2:
+map            	all	0.6461
+recip_rank     	all	0.6862
+TREC Scores of test_res/RPRF-dev/RF-0.5-1.5-5-2.0-1:
+map            	all	0.6870
+recip_rank     	all	0.7323
+TREC Scores of test_res/RPRF-dev/RF-0.5-1.5-5-2.0-2:
+map            	all	0.6138
+recip_rank     	all	0.6480
+TREC Scores of test_res/RPRF-dev/RF-0.5-2.0-3-0-1:
+map            	all	0.6989
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-0.5-2.0-3-0-2:
+map            	all	0.6989
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-0.5-2.0-3-0.8-1:
+map            	all	0.6989
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-0.5-2.0-3-0.8-2:
+map            	all	0.6895
+recip_rank     	all	0.7351
+TREC Scores of test_res/RPRF-dev/RF-0.5-2.0-3-1.0-1:
+map            	all	0.6987
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-0.5-2.0-3-1.0-2:
+map            	all	0.6691
+recip_rank     	all	0.7051
+TREC Scores of test_res/RPRF-dev/RF-0.5-2.0-3-1.25-1:
+map            	all	0.6998
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-0.5-2.0-3-1.25-2:
+map            	all	0.6537
+recip_rank     	all	0.6902
+TREC Scores of test_res/RPRF-dev/RF-0.5-2.0-3-1.5-1:
+map            	all	0.7014
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-0.5-2.0-3-1.5-2:
+map            	all	0.6461
+recip_rank     	all	0.6866
+TREC Scores of test_res/RPRF-dev/RF-0.5-2.0-3-2.0-1:
+map            	all	0.6835
+recip_rank     	all	0.7287
+TREC Scores of test_res/RPRF-dev/RF-0.5-2.0-3-2.0-2:
+map            	all	0.6112
+recip_rank     	all	0.6458
+TREC Scores of test_res/RPRF-dev/RF-0.5-2.0-5-0-1:
+map            	all	0.6989
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-0.5-2.0-5-0-2:
+map            	all	0.6989
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-0.5-2.0-5-0.8-1:
+map            	all	0.6989
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-0.5-2.0-5-0.8-2:
+map            	all	0.6873
+recip_rank     	all	0.7322
+TREC Scores of test_res/RPRF-dev/RF-0.5-2.0-5-1.0-1:
+map            	all	0.6989
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-0.5-2.0-5-1.0-2:
+map            	all	0.6710
+recip_rank     	all	0.7070
+TREC Scores of test_res/RPRF-dev/RF-0.5-2.0-5-1.25-1:
+map            	all	0.6989
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-0.5-2.0-5-1.25-2:
+map            	all	0.6528
+recip_rank     	all	0.6898
+TREC Scores of test_res/RPRF-dev/RF-0.5-2.0-5-1.5-1:
+map            	all	0.7017
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-0.5-2.0-5-1.5-2:
+map            	all	0.6431
+recip_rank     	all	0.6841
+TREC Scores of test_res/RPRF-dev/RF-0.5-2.0-5-2.0-1:
+map            	all	0.6871
+recip_rank     	all	0.7323
+TREC Scores of test_res/RPRF-dev/RF-0.5-2.0-5-2.0-2:
+map            	all	0.6110
+recip_rank     	all	0.6456
+TREC Scores of test_res/RPRF-dev/RF-1.0-0.5-3-0-1:
+map            	all	0.6989
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-1.0-0.5-3-0-2:
+map            	all	0.7005
+recip_rank     	all	0.7804
+TREC Scores of test_res/RPRF-dev/RF-1.0-0.5-3-0.8-1:
+map            	all	0.6989
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-1.0-0.5-3-0.8-2:
+map            	all	0.6901
+recip_rank     	all	0.7434
+TREC Scores of test_res/RPRF-dev/RF-1.0-0.5-3-1.0-1:
+map            	all	0.6977
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-1.0-0.5-3-1.0-2:
+map            	all	0.6746
+recip_rank     	all	0.7203
+TREC Scores of test_res/RPRF-dev/RF-1.0-0.5-3-1.25-1:
+map            	all	0.6970
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-1.0-0.5-3-1.25-2:
+map            	all	0.6730
+recip_rank     	all	0.7198
+TREC Scores of test_res/RPRF-dev/RF-1.0-0.5-3-1.5-1:
+map            	all	0.6982
+recip_rank     	all	0.7746
+TREC Scores of test_res/RPRF-dev/RF-1.0-0.5-3-1.5-2:
+map            	all	0.6576
+recip_rank     	all	0.7029
+TREC Scores of test_res/RPRF-dev/RF-1.0-0.5-3-2.0-1:
+map            	all	0.6819
+recip_rank     	all	0.7479
+TREC Scores of test_res/RPRF-dev/RF-1.0-0.5-3-2.0-2:
+map            	all	0.6330
+recip_rank     	all	0.6636
+TREC Scores of test_res/RPRF-dev/RF-1.0-0.5-5-0-1:
+map            	all	0.6989
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-1.0-0.5-5-0-2:
+map            	all	0.6999
+recip_rank     	all	0.7793
+TREC Scores of test_res/RPRF-dev/RF-1.0-0.5-5-0.8-1:
+map            	all	0.6991
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-1.0-0.5-5-0.8-2:
+map            	all	0.6903
+recip_rank     	all	0.7504
+TREC Scores of test_res/RPRF-dev/RF-1.0-0.5-5-1.0-1:
+map            	all	0.6981
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-1.0-0.5-5-1.0-2:
+map            	all	0.6757
+recip_rank     	all	0.7230
+TREC Scores of test_res/RPRF-dev/RF-1.0-0.5-5-1.25-1:
+map            	all	0.6972
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-1.0-0.5-5-1.25-2:
+map            	all	0.6719
+recip_rank     	all	0.7185
+TREC Scores of test_res/RPRF-dev/RF-1.0-0.5-5-1.5-1:
+map            	all	0.6977
+recip_rank     	all	0.7675
+TREC Scores of test_res/RPRF-dev/RF-1.0-0.5-5-1.5-2:
+map            	all	0.6566
+recip_rank     	all	0.7017
+TREC Scores of test_res/RPRF-dev/RF-1.0-0.5-5-2.0-1:
+map            	all	0.6817
+recip_rank     	all	0.7478
+TREC Scores of test_res/RPRF-dev/RF-1.0-0.5-5-2.0-2:
+map            	all	0.6331
+recip_rank     	all	0.6628
+TREC Scores of test_res/RPRF-dev/RF-1.0-0.75-3-0-1:
+map            	all	0.6989
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-1.0-0.75-3-0-2:
+map            	all	0.7034
+recip_rank     	all	0.7868
+TREC Scores of test_res/RPRF-dev/RF-1.0-0.75-3-0.8-1:
+map            	all	0.6987
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-1.0-0.75-3-0.8-2:
+map            	all	0.6951
+recip_rank     	all	0.7526
+TREC Scores of test_res/RPRF-dev/RF-1.0-0.75-3-1.0-1:
+map            	all	0.6999
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-1.0-0.75-3-1.0-2:
+map            	all	0.6797
+recip_rank     	all	0.7286
+TREC Scores of test_res/RPRF-dev/RF-1.0-0.75-3-1.25-1:
+map            	all	0.6988
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-1.0-0.75-3-1.25-2:
+map            	all	0.6693
+recip_rank     	all	0.7137
+TREC Scores of test_res/RPRF-dev/RF-1.0-0.75-3-1.5-1:
+map            	all	0.6999
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-1.0-0.75-3-1.5-2:
+map            	all	0.6636
+recip_rank     	all	0.7090
+TREC Scores of test_res/RPRF-dev/RF-1.0-0.75-3-2.0-1:
+map            	all	0.6779
+recip_rank     	all	0.7422
+TREC Scores of test_res/RPRF-dev/RF-1.0-0.75-3-2.0-2:
+map            	all	0.6338
+recip_rank     	all	0.6695
+TREC Scores of test_res/RPRF-dev/RF-1.0-0.75-5-0-1:
+map            	all	0.6989
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-1.0-0.75-5-0-2:
+map            	all	0.7039
+recip_rank     	all	0.7862
+TREC Scores of test_res/RPRF-dev/RF-1.0-0.75-5-0.8-1:
+map            	all	0.6989
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-1.0-0.75-5-0.8-2:
+map            	all	0.6962
+recip_rank     	all	0.7585
+TREC Scores of test_res/RPRF-dev/RF-1.0-0.75-5-1.0-1:
+map            	all	0.6994
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-1.0-0.75-5-1.0-2:
+map            	all	0.6813
+recip_rank     	all	0.7291
+TREC Scores of test_res/RPRF-dev/RF-1.0-0.75-5-1.25-1:
+map            	all	0.6990
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-1.0-0.75-5-1.25-2:
+map            	all	0.6724
+recip_rank     	all	0.7164
+TREC Scores of test_res/RPRF-dev/RF-1.0-0.75-5-1.5-1:
+map            	all	0.7011
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-1.0-0.75-5-1.5-2:
+map            	all	0.6605
+recip_rank     	all	0.7001
+TREC Scores of test_res/RPRF-dev/RF-1.0-0.75-5-2.0-1:
+map            	all	0.6795
+recip_rank     	all	0.7426
+TREC Scores of test_res/RPRF-dev/RF-1.0-0.75-5-2.0-2:
+map            	all	0.6348
+recip_rank     	all	0.6688
+TREC Scores of test_res/RPRF-dev/RF-1.0-1.0-3-0-1:
+map            	all	0.6989
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-1.0-1.0-3-0-2:
+map            	all	0.7020
+recip_rank     	all	0.7864
+TREC Scores of test_res/RPRF-dev/RF-1.0-1.0-3-0.8-1:
+map            	all	0.6988
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-1.0-1.0-3-0.8-2:
+map            	all	0.6923
+recip_rank     	all	0.7505
+TREC Scores of test_res/RPRF-dev/RF-1.0-1.0-3-1.0-1:
+map            	all	0.6996
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-1.0-1.0-3-1.0-2:
+map            	all	0.6802
+recip_rank     	all	0.7278
+TREC Scores of test_res/RPRF-dev/RF-1.0-1.0-3-1.25-1:
+map            	all	0.7002
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-1.0-1.0-3-1.25-2:
+map            	all	0.6674
+recip_rank     	all	0.7064
+TREC Scores of test_res/RPRF-dev/RF-1.0-1.0-3-1.5-1:
+map            	all	0.7024
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-1.0-1.0-3-1.5-2:
+map            	all	0.6630
+recip_rank     	all	0.7024
+TREC Scores of test_res/RPRF-dev/RF-1.0-1.0-3-2.0-1:
+map            	all	0.6829
+recip_rank     	all	0.7423
+TREC Scores of test_res/RPRF-dev/RF-1.0-1.0-3-2.0-2:
+map            	all	0.6305
+recip_rank     	all	0.6688
+TREC Scores of test_res/RPRF-dev/RF-1.0-1.0-5-0-1:
+map            	all	0.6989
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-1.0-1.0-5-0-2:
+map            	all	0.7027
+recip_rank     	all	0.7866
+TREC Scores of test_res/RPRF-dev/RF-1.0-1.0-5-0.8-1:
+map            	all	0.6987
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-1.0-1.0-5-0.8-2:
+map            	all	0.6928
+recip_rank     	all	0.7499
+TREC Scores of test_res/RPRF-dev/RF-1.0-1.0-5-1.0-1:
+map            	all	0.6993
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-1.0-1.0-5-1.0-2:
+map            	all	0.6768
+recip_rank     	all	0.7224
+TREC Scores of test_res/RPRF-dev/RF-1.0-1.0-5-1.25-1:
+map            	all	0.7001
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-1.0-1.0-5-1.25-2:
+map            	all	0.6681
+recip_rank     	all	0.7065
+TREC Scores of test_res/RPRF-dev/RF-1.0-1.0-5-1.5-1:
+map            	all	0.7032
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-1.0-1.0-5-1.5-2:
+map            	all	0.6627
+recip_rank     	all	0.7012
+TREC Scores of test_res/RPRF-dev/RF-1.0-1.0-5-2.0-1:
+map            	all	0.6839
+recip_rank     	all	0.7430
+TREC Scores of test_res/RPRF-dev/RF-1.0-1.0-5-2.0-2:
+map            	all	0.6320
+recip_rank     	all	0.6690
+TREC Scores of test_res/RPRF-dev/RF-1.0-1.5-3-0-1:
+map            	all	0.6989
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-1.0-1.5-3-0-2:
+map            	all	0.6996
+recip_rank     	all	0.7793
+TREC Scores of test_res/RPRF-dev/RF-1.0-1.5-3-0.8-1:
+map            	all	0.6988
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-1.0-1.5-3-0.8-2:
+map            	all	0.6841
+recip_rank     	all	0.7349
+TREC Scores of test_res/RPRF-dev/RF-1.0-1.5-3-1.0-1:
+map            	all	0.6996
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-1.0-1.5-3-1.0-2:
+map            	all	0.6701
+recip_rank     	all	0.7036
+TREC Scores of test_res/RPRF-dev/RF-1.0-1.5-3-1.25-1:
+map            	all	0.6998
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-1.0-1.5-3-1.25-2:
+map            	all	0.6606
+recip_rank     	all	0.6936
+TREC Scores of test_res/RPRF-dev/RF-1.0-1.5-3-1.5-1:
+map            	all	0.7020
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-1.0-1.5-3-1.5-2:
+map            	all	0.6549
+recip_rank     	all	0.6888
+TREC Scores of test_res/RPRF-dev/RF-1.0-1.5-3-2.0-1:
+map            	all	0.6784
+recip_rank     	all	0.7358
+TREC Scores of test_res/RPRF-dev/RF-1.0-1.5-3-2.0-2:
+map            	all	0.6257
+recip_rank     	all	0.6614
+TREC Scores of test_res/RPRF-dev/RF-1.0-1.5-5-0-1:
+map            	all	0.6989
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-1.0-1.5-5-0-2:
+map            	all	0.7015
+recip_rank     	all	0.7871
+TREC Scores of test_res/RPRF-dev/RF-1.0-1.5-5-0.8-1:
+map            	all	0.6987
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-1.0-1.5-5-0.8-2:
+map            	all	0.6891
+recip_rank     	all	0.7454
+TREC Scores of test_res/RPRF-dev/RF-1.0-1.5-5-1.0-1:
+map            	all	0.6993
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-1.0-1.5-5-1.0-2:
+map            	all	0.6697
+recip_rank     	all	0.7113
+TREC Scores of test_res/RPRF-dev/RF-1.0-1.5-5-1.25-1:
+map            	all	0.6993
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-1.0-1.5-5-1.25-2:
+map            	all	0.6662
+recip_rank     	all	0.7107
+TREC Scores of test_res/RPRF-dev/RF-1.0-1.5-5-1.5-1:
+map            	all	0.7041
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-1.0-1.5-5-1.5-2:
+map            	all	0.6559
+recip_rank     	all	0.6952
+TREC Scores of test_res/RPRF-dev/RF-1.0-1.5-5-2.0-1:
+map            	all	0.6774
+recip_rank     	all	0.7323
+TREC Scores of test_res/RPRF-dev/RF-1.0-1.5-5-2.0-2:
+map            	all	0.6244
+recip_rank     	all	0.6662
+TREC Scores of test_res/RPRF-dev/RF-1.0-2.0-3-0-1:
+map            	all	0.6989
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-1.0-2.0-3-0-2:
+map            	all	0.6990
+recip_rank     	all	0.7795
+TREC Scores of test_res/RPRF-dev/RF-1.0-2.0-3-0.8-1:
+map            	all	0.6988
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-1.0-2.0-3-0.8-2:
+map            	all	0.6845
+recip_rank     	all	0.7352
+TREC Scores of test_res/RPRF-dev/RF-1.0-2.0-3-1.0-1:
+map            	all	0.6994
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-1.0-2.0-3-1.0-2:
+map            	all	0.6710
+recip_rank     	all	0.7043
+TREC Scores of test_res/RPRF-dev/RF-1.0-2.0-3-1.25-1:
+map            	all	0.6998
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-1.0-2.0-3-1.25-2:
+map            	all	0.6621
+recip_rank     	all	0.6961
+TREC Scores of test_res/RPRF-dev/RF-1.0-2.0-3-1.5-1:
+map            	all	0.7024
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-1.0-2.0-3-1.5-2:
+map            	all	0.6547
+recip_rank     	all	0.6888
+TREC Scores of test_res/RPRF-dev/RF-1.0-2.0-3-2.0-1:
+map            	all	0.6789
+recip_rank     	all	0.7418
+TREC Scores of test_res/RPRF-dev/RF-1.0-2.0-3-2.0-2:
+map            	all	0.6219
+recip_rank     	all	0.6576
+TREC Scores of test_res/RPRF-dev/RF-1.0-2.0-5-0-1:
+map            	all	0.6989
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-1.0-2.0-5-0-2:
+map            	all	0.6997
+recip_rank     	all	0.7799
+TREC Scores of test_res/RPRF-dev/RF-1.0-2.0-5-0.8-1:
+map            	all	0.6987
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-1.0-2.0-5-0.8-2:
+map            	all	0.6885
+recip_rank     	all	0.7461
+TREC Scores of test_res/RPRF-dev/RF-1.0-2.0-5-1.0-1:
+map            	all	0.6990
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-1.0-2.0-5-1.0-2:
+map            	all	0.6684
+recip_rank     	all	0.7035
+TREC Scores of test_res/RPRF-dev/RF-1.0-2.0-5-1.25-1:
+map            	all	0.6993
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-1.0-2.0-5-1.25-2:
+map            	all	0.6637
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPRF-dev/RF-1.0-2.0-5-1.5-1:
+map            	all	0.7032
+recip_rank     	all	0.7819
+TREC Scores of test_res/RPRF-dev/RF-1.0-2.0-5-1.5-2:
+map            	all	0.6527
+recip_rank     	all	0.6869
+TREC Scores of test_res/RPRF-dev/RF-1.0-2.0-5-2.0-1:
+map            	all	0.6794
+recip_rank     	all	0.7346
+TREC Scores of test_res/RPRF-dev/RF-1.0-2.0-5-2.0-2:
+map            	all	0.6233
+recip_rank     	all	0.6592
+TREC Scores of test_res/RPRF-dev/RF-1.5-0.5-3-0-1:
+map            	all	0.7060
+recip_rank     	all	0.7901
+TREC Scores of test_res/RPRF-dev/RF-1.5-0.5-3-0-2:
+map            	all	0.7087
+recip_rank     	all	0.7854
+TREC Scores of test_res/RPRF-dev/RF-1.5-0.5-3-0.8-1:
+map            	all	0.7032
+recip_rank     	all	0.7901
+TREC Scores of test_res/RPRF-dev/RF-1.5-0.5-3-0.8-2:
+map            	all	0.6988
+recip_rank     	all	0.7514
+TREC Scores of test_res/RPRF-dev/RF-1.5-0.5-3-1.0-1:
+map            	all	0.7043
+recip_rank     	all	0.7901
+TREC Scores of test_res/RPRF-dev/RF-1.5-0.5-3-1.0-2:
+map            	all	0.6896
+recip_rank     	all	0.7420
+TREC Scores of test_res/RPRF-dev/RF-1.5-0.5-3-1.25-1:
+map            	all	0.7012
+recip_rank     	all	0.7901
+TREC Scores of test_res/RPRF-dev/RF-1.5-0.5-3-1.25-2:
+map            	all	0.6757
+recip_rank     	all	0.7292
+TREC Scores of test_res/RPRF-dev/RF-1.5-0.5-3-1.5-1:
+map            	all	0.7055
+recip_rank     	all	0.7830
+TREC Scores of test_res/RPRF-dev/RF-1.5-0.5-3-1.5-2:
+map            	all	0.6682
+recip_rank     	all	0.7163
+TREC Scores of test_res/RPRF-dev/RF-1.5-0.5-3-2.0-1:
+map            	all	0.6911
+recip_rank     	all	0.7633
+TREC Scores of test_res/RPRF-dev/RF-1.5-0.5-3-2.0-2:
+map            	all	0.6419
+recip_rank     	all	0.6733
+TREC Scores of test_res/RPRF-dev/RF-1.5-0.5-5-0-1:
+map            	all	0.7060
+recip_rank     	all	0.7901
+TREC Scores of test_res/RPRF-dev/RF-1.5-0.5-5-0-2:
+map            	all	0.7082
+recip_rank     	all	0.7842
+TREC Scores of test_res/RPRF-dev/RF-1.5-0.5-5-0.8-1:
+map            	all	0.7034
+recip_rank     	all	0.7901
+TREC Scores of test_res/RPRF-dev/RF-1.5-0.5-5-0.8-2:
+map            	all	0.7004
+recip_rank     	all	0.7644
+TREC Scores of test_res/RPRF-dev/RF-1.5-0.5-5-1.0-1:
+map            	all	0.7037
+recip_rank     	all	0.7901
+TREC Scores of test_res/RPRF-dev/RF-1.5-0.5-5-1.0-2:
+map            	all	0.6891
+recip_rank     	all	0.7434
+TREC Scores of test_res/RPRF-dev/RF-1.5-0.5-5-1.25-1:
+map            	all	0.7011
+recip_rank     	all	0.7901
+TREC Scores of test_res/RPRF-dev/RF-1.5-0.5-5-1.25-2:
+map            	all	0.6754
+recip_rank     	all	0.7293
+TREC Scores of test_res/RPRF-dev/RF-1.5-0.5-5-1.5-1:
+map            	all	0.7063
+recip_rank     	all	0.7830
+TREC Scores of test_res/RPRF-dev/RF-1.5-0.5-5-1.5-2:
+map            	all	0.6695
+recip_rank     	all	0.7164
+TREC Scores of test_res/RPRF-dev/RF-1.5-0.5-5-2.0-1:
+map            	all	0.6907
+recip_rank     	all	0.7631
+TREC Scores of test_res/RPRF-dev/RF-1.5-0.5-5-2.0-2:
+map            	all	0.6436
+recip_rank     	all	0.6743
+TREC Scores of test_res/RPRF-dev/RF-1.5-0.75-3-0-1:
+map            	all	0.7060
+recip_rank     	all	0.7889
+TREC Scores of test_res/RPRF-dev/RF-1.5-0.75-3-0-2:
+map            	all	0.7150
+recip_rank     	all	0.7995
+TREC Scores of test_res/RPRF-dev/RF-1.5-0.75-3-0.8-1:
+map            	all	0.7070
+recip_rank     	all	0.7889
+TREC Scores of test_res/RPRF-dev/RF-1.5-0.75-3-0.8-2:
+map            	all	0.7044
+recip_rank     	all	0.7637
+TREC Scores of test_res/RPRF-dev/RF-1.5-0.75-3-1.0-1:
+map            	all	0.7058
+recip_rank     	all	0.7889
+TREC Scores of test_res/RPRF-dev/RF-1.5-0.75-3-1.0-2:
+map            	all	0.6900
+recip_rank     	all	0.7432
+TREC Scores of test_res/RPRF-dev/RF-1.5-0.75-3-1.25-1:
+map            	all	0.7043
+recip_rank     	all	0.7889
+TREC Scores of test_res/RPRF-dev/RF-1.5-0.75-3-1.25-2:
+map            	all	0.6827
+recip_rank     	all	0.7301
+TREC Scores of test_res/RPRF-dev/RF-1.5-0.75-3-1.5-1:
+map            	all	0.7055
+recip_rank     	all	0.7889
+TREC Scores of test_res/RPRF-dev/RF-1.5-0.75-3-1.5-2:
+map            	all	0.6763
+recip_rank     	all	0.7255
+TREC Scores of test_res/RPRF-dev/RF-1.5-0.75-3-2.0-1:
+map            	all	0.6877
+recip_rank     	all	0.7602
+TREC Scores of test_res/RPRF-dev/RF-1.5-0.75-3-2.0-2:
+map            	all	0.6511
+recip_rank     	all	0.6942
+TREC Scores of test_res/RPRF-dev/RF-1.5-0.75-5-0-1:
+map            	all	0.7060
+recip_rank     	all	0.7889
+TREC Scores of test_res/RPRF-dev/RF-1.5-0.75-5-0-2:
+map            	all	0.7127
+recip_rank     	all	0.8006
+TREC Scores of test_res/RPRF-dev/RF-1.5-0.75-5-0.8-1:
+map            	all	0.7065
+recip_rank     	all	0.7889
+TREC Scores of test_res/RPRF-dev/RF-1.5-0.75-5-0.8-2:
+map            	all	0.7030
+recip_rank     	all	0.7725
+TREC Scores of test_res/RPRF-dev/RF-1.5-0.75-5-1.0-1:
+map            	all	0.7055
+recip_rank     	all	0.7889
+TREC Scores of test_res/RPRF-dev/RF-1.5-0.75-5-1.0-2:
+map            	all	0.6879
+recip_rank     	all	0.7425
+TREC Scores of test_res/RPRF-dev/RF-1.5-0.75-5-1.25-1:
+map            	all	0.7041
+recip_rank     	all	0.7889
+TREC Scores of test_res/RPRF-dev/RF-1.5-0.75-5-1.25-2:
+map            	all	0.6797
+recip_rank     	all	0.7276
+TREC Scores of test_res/RPRF-dev/RF-1.5-0.75-5-1.5-1:
+map            	all	0.7043
+recip_rank     	all	0.7889
+TREC Scores of test_res/RPRF-dev/RF-1.5-0.75-5-1.5-2:
+map            	all	0.6751
+recip_rank     	all	0.7262
+TREC Scores of test_res/RPRF-dev/RF-1.5-0.75-5-2.0-1:
+map            	all	0.6888
+recip_rank     	all	0.7609
+TREC Scores of test_res/RPRF-dev/RF-1.5-0.75-5-2.0-2:
+map            	all	0.6447
+recip_rank     	all	0.6860
+TREC Scores of test_res/RPRF-dev/RF-1.5-1.0-3-0-1:
+map            	all	0.7060
+recip_rank     	all	0.7889
+TREC Scores of test_res/RPRF-dev/RF-1.5-1.0-3-0-2:
+map            	all	0.7048
+recip_rank     	all	0.7880
+TREC Scores of test_res/RPRF-dev/RF-1.5-1.0-3-0.8-1:
+map            	all	0.7070
+recip_rank     	all	0.7889
+TREC Scores of test_res/RPRF-dev/RF-1.5-1.0-3-0.8-2:
+map            	all	0.6889
+recip_rank     	all	0.7448
+TREC Scores of test_res/RPRF-dev/RF-1.5-1.0-3-1.0-1:
+map            	all	0.7070
+recip_rank     	all	0.7889
+TREC Scores of test_res/RPRF-dev/RF-1.5-1.0-3-1.0-2:
+map            	all	0.6790
+recip_rank     	all	0.7253
+TREC Scores of test_res/RPRF-dev/RF-1.5-1.0-3-1.25-1:
+map            	all	0.7056
+recip_rank     	all	0.7889
+TREC Scores of test_res/RPRF-dev/RF-1.5-1.0-3-1.25-2:
+map            	all	0.6725
+recip_rank     	all	0.7124
+TREC Scores of test_res/RPRF-dev/RF-1.5-1.0-3-1.5-1:
+map            	all	0.7096
+recip_rank     	all	0.7889
+TREC Scores of test_res/RPRF-dev/RF-1.5-1.0-3-1.5-2:
+map            	all	0.6700
+recip_rank     	all	0.7141
+TREC Scores of test_res/RPRF-dev/RF-1.5-1.0-3-2.0-1:
+map            	all	0.6863
+recip_rank     	all	0.7561
+TREC Scores of test_res/RPRF-dev/RF-1.5-1.0-3-2.0-2:
+map            	all	0.6366
+recip_rank     	all	0.6740
+TREC Scores of test_res/RPRF-dev/RF-1.5-1.0-5-0-1:
+map            	all	0.7060
+recip_rank     	all	0.7889
+TREC Scores of test_res/RPRF-dev/RF-1.5-1.0-5-0-2:
+map            	all	0.7022
+recip_rank     	all	0.7863
+TREC Scores of test_res/RPRF-dev/RF-1.5-1.0-5-0.8-1:
+map            	all	0.7064
+recip_rank     	all	0.7889
+TREC Scores of test_res/RPRF-dev/RF-1.5-1.0-5-0.8-2:
+map            	all	0.6874
+recip_rank     	all	0.7487
+TREC Scores of test_res/RPRF-dev/RF-1.5-1.0-5-1.0-1:
+map            	all	0.7062
+recip_rank     	all	0.7889
+TREC Scores of test_res/RPRF-dev/RF-1.5-1.0-5-1.0-2:
+map            	all	0.6750
+recip_rank     	all	0.7242
+TREC Scores of test_res/RPRF-dev/RF-1.5-1.0-5-1.25-1:
+map            	all	0.7057
+recip_rank     	all	0.7889
+TREC Scores of test_res/RPRF-dev/RF-1.5-1.0-5-1.25-2:
+map            	all	0.6665
+recip_rank     	all	0.7075
+TREC Scores of test_res/RPRF-dev/RF-1.5-1.0-5-1.5-1:
+map            	all	0.7098
+recip_rank     	all	0.7889
+TREC Scores of test_res/RPRF-dev/RF-1.5-1.0-5-1.5-2:
+map            	all	0.6610
+recip_rank     	all	0.7025
+TREC Scores of test_res/RPRF-dev/RF-1.5-1.0-5-2.0-1:
+map            	all	0.6872
+recip_rank     	all	0.7576
+TREC Scores of test_res/RPRF-dev/RF-1.5-1.0-5-2.0-2:
+map            	all	0.6325
+recip_rank     	all	0.6725
+TREC Scores of test_res/RPRF-dev/RF-1.5-1.5-3-0-1:
+map            	all	0.6989
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-1.5-1.5-3-0-2:
+map            	all	0.6996
+recip_rank     	all	0.7788
+TREC Scores of test_res/RPRF-dev/RF-1.5-1.5-3-0.8-1:
+map            	all	0.6996
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-1.5-1.5-3-0.8-2:
+map            	all	0.6828
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPRF-dev/RF-1.5-1.5-3-1.0-1:
+map            	all	0.6997
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-1.5-1.5-3-1.0-2:
+map            	all	0.6720
+recip_rank     	all	0.7082
+TREC Scores of test_res/RPRF-dev/RF-1.5-1.5-3-1.25-1:
+map            	all	0.6999
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-1.5-1.5-3-1.25-2:
+map            	all	0.6689
+recip_rank     	all	0.7001
+TREC Scores of test_res/RPRF-dev/RF-1.5-1.5-3-1.5-1:
+map            	all	0.7012
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-1.5-1.5-3-1.5-2:
+map            	all	0.6570
+recip_rank     	all	0.6877
+TREC Scores of test_res/RPRF-dev/RF-1.5-1.5-3-2.0-1:
+map            	all	0.6853
+recip_rank     	all	0.7505
+TREC Scores of test_res/RPRF-dev/RF-1.5-1.5-3-2.0-2:
+map            	all	0.6289
+recip_rank     	all	0.6647
+TREC Scores of test_res/RPRF-dev/RF-1.5-1.5-5-0-1:
+map            	all	0.6989
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-1.5-1.5-5-0-2:
+map            	all	0.7004
+recip_rank     	all	0.7865
+TREC Scores of test_res/RPRF-dev/RF-1.5-1.5-5-0.8-1:
+map            	all	0.6993
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-1.5-1.5-5-0.8-2:
+map            	all	0.6893
+recip_rank     	all	0.7578
+TREC Scores of test_res/RPRF-dev/RF-1.5-1.5-5-1.0-1:
+map            	all	0.6993
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-1.5-1.5-5-1.0-2:
+map            	all	0.6698
+recip_rank     	all	0.7139
+TREC Scores of test_res/RPRF-dev/RF-1.5-1.5-5-1.25-1:
+map            	all	0.6996
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-1.5-1.5-5-1.25-2:
+map            	all	0.6663
+recip_rank     	all	0.7066
+TREC Scores of test_res/RPRF-dev/RF-1.5-1.5-5-1.5-1:
+map            	all	0.7032
+recip_rank     	all	0.7819
+TREC Scores of test_res/RPRF-dev/RF-1.5-1.5-5-1.5-2:
+map            	all	0.6565
+recip_rank     	all	0.6957
+TREC Scores of test_res/RPRF-dev/RF-1.5-1.5-5-2.0-1:
+map            	all	0.6865
+recip_rank     	all	0.7573
+TREC Scores of test_res/RPRF-dev/RF-1.5-1.5-5-2.0-2:
+map            	all	0.6256
+recip_rank     	all	0.6680
+TREC Scores of test_res/RPRF-dev/RF-1.5-2.0-3-0-1:
+map            	all	0.6989
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-1.5-2.0-3-0-2:
+map            	all	0.6968
+recip_rank     	all	0.7788
+TREC Scores of test_res/RPRF-dev/RF-1.5-2.0-3-0.8-1:
+map            	all	0.6996
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-1.5-2.0-3-0.8-2:
+map            	all	0.6807
+recip_rank     	all	0.7325
+TREC Scores of test_res/RPRF-dev/RF-1.5-2.0-3-1.0-1:
+map            	all	0.6998
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-1.5-2.0-3-1.0-2:
+map            	all	0.6694
+recip_rank     	all	0.7065
+TREC Scores of test_res/RPRF-dev/RF-1.5-2.0-3-1.25-1:
+map            	all	0.6987
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-1.5-2.0-3-1.25-2:
+map            	all	0.6612
+recip_rank     	all	0.6941
+TREC Scores of test_res/RPRF-dev/RF-1.5-2.0-3-1.5-1:
+map            	all	0.7006
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-1.5-2.0-3-1.5-2:
+map            	all	0.6562
+recip_rank     	all	0.6898
+TREC Scores of test_res/RPRF-dev/RF-1.5-2.0-3-2.0-1:
+map            	all	0.6776
+recip_rank     	all	0.7410
+TREC Scores of test_res/RPRF-dev/RF-1.5-2.0-3-2.0-2:
+map            	all	0.6270
+recip_rank     	all	0.6646
+TREC Scores of test_res/RPRF-dev/RF-1.5-2.0-5-0-1:
+map            	all	0.6989
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-1.5-2.0-5-0-2:
+map            	all	0.7004
+recip_rank     	all	0.7866
+TREC Scores of test_res/RPRF-dev/RF-1.5-2.0-5-0.8-1:
+map            	all	0.6993
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-1.5-2.0-5-0.8-2:
+map            	all	0.6883
+recip_rank     	all	0.7519
+TREC Scores of test_res/RPRF-dev/RF-1.5-2.0-5-1.0-1:
+map            	all	0.6994
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-1.5-2.0-5-1.0-2:
+map            	all	0.6709
+recip_rank     	all	0.7158
+TREC Scores of test_res/RPRF-dev/RF-1.5-2.0-5-1.25-1:
+map            	all	0.7002
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-1.5-2.0-5-1.25-2:
+map            	all	0.6612
+recip_rank     	all	0.7019
+TREC Scores of test_res/RPRF-dev/RF-1.5-2.0-5-1.5-1:
+map            	all	0.7034
+recip_rank     	all	0.7823
+TREC Scores of test_res/RPRF-dev/RF-1.5-2.0-5-1.5-2:
+map            	all	0.6568
+recip_rank     	all	0.6981
+TREC Scores of test_res/RPRF-dev/RF-1.5-2.0-5-2.0-1:
+map            	all	0.6769
+recip_rank     	all	0.7430
+TREC Scores of test_res/RPRF-dev/RF-1.5-2.0-5-2.0-2:
+map            	all	0.6254
+recip_rank     	all	0.6682
+TREC Scores of test_res/RPRF-dev/RF-2.0-0.5-3-0-1:
+map            	all	0.7016
+recip_rank     	all	0.7751
+TREC Scores of test_res/RPRF-dev/RF-2.0-0.5-3-0-2:
+map            	all	0.7024
+recip_rank     	all	0.7782
+TREC Scores of test_res/RPRF-dev/RF-2.0-0.5-3-0.8-1:
+map            	all	0.6984
+recip_rank     	all	0.7751
+TREC Scores of test_res/RPRF-dev/RF-2.0-0.5-3-0.8-2:
+map            	all	0.7003
+recip_rank     	all	0.7547
+TREC Scores of test_res/RPRF-dev/RF-2.0-0.5-3-1.0-1:
+map            	all	0.6983
+recip_rank     	all	0.7751
+TREC Scores of test_res/RPRF-dev/RF-2.0-0.5-3-1.0-2:
+map            	all	0.6912
+recip_rank     	all	0.7369
+TREC Scores of test_res/RPRF-dev/RF-2.0-0.5-3-1.25-1:
+map            	all	0.6981
+recip_rank     	all	0.7751
+TREC Scores of test_res/RPRF-dev/RF-2.0-0.5-3-1.25-2:
+map            	all	0.6767
+recip_rank     	all	0.7251
+TREC Scores of test_res/RPRF-dev/RF-2.0-0.5-3-1.5-1:
+map            	all	0.7025
+recip_rank     	all	0.7680
+TREC Scores of test_res/RPRF-dev/RF-2.0-0.5-3-1.5-2:
+map            	all	0.6747
+recip_rank     	all	0.7219
+TREC Scores of test_res/RPRF-dev/RF-2.0-0.5-3-2.0-1:
+map            	all	0.6873
+recip_rank     	all	0.7481
+TREC Scores of test_res/RPRF-dev/RF-2.0-0.5-3-2.0-2:
+map            	all	0.6448
+recip_rank     	all	0.6741
+TREC Scores of test_res/RPRF-dev/RF-2.0-0.5-5-0-1:
+map            	all	0.7020
+recip_rank     	all	0.7794
+TREC Scores of test_res/RPRF-dev/RF-2.0-0.5-5-0-2:
+map            	all	0.7029
+recip_rank     	all	0.7793
+TREC Scores of test_res/RPRF-dev/RF-2.0-0.5-5-0.8-1:
+map            	all	0.6982
+recip_rank     	all	0.7794
+TREC Scores of test_res/RPRF-dev/RF-2.0-0.5-5-0.8-2:
+map            	all	0.7016
+recip_rank     	all	0.7630
+TREC Scores of test_res/RPRF-dev/RF-2.0-0.5-5-1.0-1:
+map            	all	0.6986
+recip_rank     	all	0.7794
+TREC Scores of test_res/RPRF-dev/RF-2.0-0.5-5-1.0-2:
+map            	all	0.6917
+recip_rank     	all	0.7476
+TREC Scores of test_res/RPRF-dev/RF-2.0-0.5-5-1.25-1:
+map            	all	0.6991
+recip_rank     	all	0.7794
+TREC Scores of test_res/RPRF-dev/RF-2.0-0.5-5-1.25-2:
+map            	all	0.6789
+recip_rank     	all	0.7313
+TREC Scores of test_res/RPRF-dev/RF-2.0-0.5-5-1.5-1:
+map            	all	0.7040
+recip_rank     	all	0.7794
+TREC Scores of test_res/RPRF-dev/RF-2.0-0.5-5-1.5-2:
+map            	all	0.6749
+recip_rank     	all	0.7230
+TREC Scores of test_res/RPRF-dev/RF-2.0-0.5-5-2.0-1:
+map            	all	0.6879
+recip_rank     	all	0.7524
+TREC Scores of test_res/RPRF-dev/RF-2.0-0.5-5-2.0-2:
+map            	all	0.6438
+recip_rank     	all	0.6764
+TREC Scores of test_res/RPRF-dev/RF-2.0-0.75-3-0-1:
+map            	all	0.7056
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-2.0-0.75-3-0-2:
+map            	all	0.7108
+recip_rank     	all	0.7913
+TREC Scores of test_res/RPRF-dev/RF-2.0-0.75-3-0.8-1:
+map            	all	0.7050
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-2.0-0.75-3-0.8-2:
+map            	all	0.7018
+recip_rank     	all	0.7609
+TREC Scores of test_res/RPRF-dev/RF-2.0-0.75-3-1.0-1:
+map            	all	0.7032
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-2.0-0.75-3-1.0-2:
+map            	all	0.6819
+recip_rank     	all	0.7363
+TREC Scores of test_res/RPRF-dev/RF-2.0-0.75-3-1.25-1:
+map            	all	0.7023
+recip_rank     	all	0.7818
+TREC Scores of test_res/RPRF-dev/RF-2.0-0.75-3-1.25-2:
+map            	all	0.6786
+recip_rank     	all	0.7311
+TREC Scores of test_res/RPRF-dev/RF-2.0-0.75-3-1.5-1:
+map            	all	0.7038
+recip_rank     	all	0.7817
+TREC Scores of test_res/RPRF-dev/RF-2.0-0.75-3-1.5-2:
+map            	all	0.6770
+recip_rank     	all	0.7186
+TREC Scores of test_res/RPRF-dev/RF-2.0-0.75-3-2.0-1:
+map            	all	0.6890
+recip_rank     	all	0.7550
+TREC Scores of test_res/RPRF-dev/RF-2.0-0.75-3-2.0-2:
+map            	all	0.6515
+recip_rank     	all	0.6858
+TREC Scores of test_res/RPRF-dev/RF-2.0-0.75-5-0-1:
+map            	all	0.7071
+recip_rank     	all	0.7889
+TREC Scores of test_res/RPRF-dev/RF-2.0-0.75-5-0-2:
+map            	all	0.7093
+recip_rank     	all	0.7842
+TREC Scores of test_res/RPRF-dev/RF-2.0-0.75-5-0.8-1:
+map            	all	0.7059
+recip_rank     	all	0.7889
+TREC Scores of test_res/RPRF-dev/RF-2.0-0.75-5-0.8-2:
+map            	all	0.6998
+recip_rank     	all	0.7584
+TREC Scores of test_res/RPRF-dev/RF-2.0-0.75-5-1.0-1:
+map            	all	0.7049
+recip_rank     	all	0.7889
+TREC Scores of test_res/RPRF-dev/RF-2.0-0.75-5-1.0-2:
+map            	all	0.6789
+recip_rank     	all	0.7287
+TREC Scores of test_res/RPRF-dev/RF-2.0-0.75-5-1.25-1:
+map            	all	0.7034
+recip_rank     	all	0.7889
+TREC Scores of test_res/RPRF-dev/RF-2.0-0.75-5-1.25-2:
+map            	all	0.6747
+recip_rank     	all	0.7222
+TREC Scores of test_res/RPRF-dev/RF-2.0-0.75-5-1.5-1:
+map            	all	0.7061
+recip_rank     	all	0.7889
+TREC Scores of test_res/RPRF-dev/RF-2.0-0.75-5-1.5-2:
+map            	all	0.6735
+recip_rank     	all	0.7110
+TREC Scores of test_res/RPRF-dev/RF-2.0-0.75-5-2.0-1:
+map            	all	0.6910
+recip_rank     	all	0.7632
+TREC Scores of test_res/RPRF-dev/RF-2.0-0.75-5-2.0-2:
+map            	all	0.6476
+recip_rank     	all	0.6792
+TREC Scores of test_res/RPRF-dev/RF-2.0-1.0-3-0-1:
+map            	all	0.7063
+recip_rank     	all	0.7882
+TREC Scores of test_res/RPRF-dev/RF-2.0-1.0-3-0-2:
+map            	all	0.7099
+recip_rank     	all	0.7811
+TREC Scores of test_res/RPRF-dev/RF-2.0-1.0-3-0.8-1:
+map            	all	0.7070
+recip_rank     	all	0.7882
+TREC Scores of test_res/RPRF-dev/RF-2.0-1.0-3-0.8-2:
+map            	all	0.6909
+recip_rank     	all	0.7388
+TREC Scores of test_res/RPRF-dev/RF-2.0-1.0-3-1.0-1:
+map            	all	0.7060
+recip_rank     	all	0.7882
+TREC Scores of test_res/RPRF-dev/RF-2.0-1.0-3-1.0-2:
+map            	all	0.6817
+recip_rank     	all	0.7247
+TREC Scores of test_res/RPRF-dev/RF-2.0-1.0-3-1.25-1:
+map            	all	0.7049
+recip_rank     	all	0.7882
+TREC Scores of test_res/RPRF-dev/RF-2.0-1.0-3-1.25-2:
+map            	all	0.6768
+recip_rank     	all	0.7081
+TREC Scores of test_res/RPRF-dev/RF-2.0-1.0-3-1.5-1:
+map            	all	0.7036
+recip_rank     	all	0.7882
+TREC Scores of test_res/RPRF-dev/RF-2.0-1.0-3-1.5-2:
+map            	all	0.6718
+recip_rank     	all	0.7059
+TREC Scores of test_res/RPRF-dev/RF-2.0-1.0-3-2.0-1:
+map            	all	0.6861
+recip_rank     	all	0.7549
+TREC Scores of test_res/RPRF-dev/RF-2.0-1.0-3-2.0-2:
+map            	all	0.6499
+recip_rank     	all	0.6793
+TREC Scores of test_res/RPRF-dev/RF-2.0-1.0-5-0-1:
+map            	all	0.7066
+recip_rank     	all	0.7889
+TREC Scores of test_res/RPRF-dev/RF-2.0-1.0-5-0-2:
+map            	all	0.7119
+recip_rank     	all	0.7866
+TREC Scores of test_res/RPRF-dev/RF-2.0-1.0-5-0.8-1:
+map            	all	0.7068
+recip_rank     	all	0.7889
+TREC Scores of test_res/RPRF-dev/RF-2.0-1.0-5-0.8-2:
+map            	all	0.6953
+recip_rank     	all	0.7520
+TREC Scores of test_res/RPRF-dev/RF-2.0-1.0-5-1.0-1:
+map            	all	0.7062
+recip_rank     	all	0.7889
+TREC Scores of test_res/RPRF-dev/RF-2.0-1.0-5-1.0-2:
+map            	all	0.6816
+recip_rank     	all	0.7272
+TREC Scores of test_res/RPRF-dev/RF-2.0-1.0-5-1.25-1:
+map            	all	0.7047
+recip_rank     	all	0.7889
+TREC Scores of test_res/RPRF-dev/RF-2.0-1.0-5-1.25-2:
+map            	all	0.6771
+recip_rank     	all	0.7149
+TREC Scores of test_res/RPRF-dev/RF-2.0-1.0-5-1.5-1:
+map            	all	0.7042
+recip_rank     	all	0.7889
+TREC Scores of test_res/RPRF-dev/RF-2.0-1.0-5-1.5-2:
+map            	all	0.6689
+recip_rank     	all	0.7063
+TREC Scores of test_res/RPRF-dev/RF-2.0-1.0-5-2.0-1:
+map            	all	0.6888
+recip_rank     	all	0.7648
+TREC Scores of test_res/RPRF-dev/RF-2.0-1.0-5-2.0-2:
+map            	all	0.6469
+recip_rank     	all	0.6813
+TREC Scores of test_res/RPRF-dev/RF-2.0-1.5-3-0-1:
+map            	all	0.7061
+recip_rank     	all	0.7882
+TREC Scores of test_res/RPRF-dev/RF-2.0-1.5-3-0-2:
+map            	all	0.7029
+recip_rank     	all	0.7743
+TREC Scores of test_res/RPRF-dev/RF-2.0-1.5-3-0.8-1:
+map            	all	0.7070
+recip_rank     	all	0.7882
+TREC Scores of test_res/RPRF-dev/RF-2.0-1.5-3-0.8-2:
+map            	all	0.6825
+recip_rank     	all	0.7264
+TREC Scores of test_res/RPRF-dev/RF-2.0-1.5-3-1.0-1:
+map            	all	0.7069
+recip_rank     	all	0.7882
+TREC Scores of test_res/RPRF-dev/RF-2.0-1.5-3-1.0-2:
+map            	all	0.6730
+recip_rank     	all	0.7060
+TREC Scores of test_res/RPRF-dev/RF-2.0-1.5-3-1.25-1:
+map            	all	0.7051
+recip_rank     	all	0.7882
+TREC Scores of test_res/RPRF-dev/RF-2.0-1.5-3-1.25-2:
+map            	all	0.6683
+recip_rank     	all	0.6937
+TREC Scores of test_res/RPRF-dev/RF-2.0-1.5-3-1.5-1:
+map            	all	0.7056
+recip_rank     	all	0.7882
+TREC Scores of test_res/RPRF-dev/RF-2.0-1.5-3-1.5-2:
+map            	all	0.6594
+recip_rank     	all	0.6859
+TREC Scores of test_res/RPRF-dev/RF-2.0-1.5-3-2.0-1:
+map            	all	0.6848
+recip_rank     	all	0.7557
+TREC Scores of test_res/RPRF-dev/RF-2.0-1.5-3-2.0-2:
+map            	all	0.6316
+recip_rank     	all	0.6637
+TREC Scores of test_res/RPRF-dev/RF-2.0-1.5-5-0-1:
+map            	all	0.7088
+recip_rank     	all	0.7961
+TREC Scores of test_res/RPRF-dev/RF-2.0-1.5-5-0-2:
+map            	all	0.7021
+recip_rank     	all	0.7942
+TREC Scores of test_res/RPRF-dev/RF-2.0-1.5-5-0.8-1:
+map            	all	0.7088
+recip_rank     	all	0.7961
+TREC Scores of test_res/RPRF-dev/RF-2.0-1.5-5-0.8-2:
+map            	all	0.6889
+recip_rank     	all	0.7641
+TREC Scores of test_res/RPRF-dev/RF-2.0-1.5-5-1.0-1:
+map            	all	0.7087
+recip_rank     	all	0.7961
+TREC Scores of test_res/RPRF-dev/RF-2.0-1.5-5-1.0-2:
+map            	all	0.6708
+recip_rank     	all	0.7217
+TREC Scores of test_res/RPRF-dev/RF-2.0-1.5-5-1.25-1:
+map            	all	0.7078
+recip_rank     	all	0.7961
+TREC Scores of test_res/RPRF-dev/RF-2.0-1.5-5-1.25-2:
+map            	all	0.6690
+recip_rank     	all	0.7180
+TREC Scores of test_res/RPRF-dev/RF-2.0-1.5-5-1.5-1:
+map            	all	0.7105
+recip_rank     	all	0.7961
+TREC Scores of test_res/RPRF-dev/RF-2.0-1.5-5-1.5-2:
+map            	all	0.6571
+recip_rank     	all	0.7032
+TREC Scores of test_res/RPRF-dev/RF-2.0-1.5-5-2.0-1:
+map            	all	0.6898
+recip_rank     	all	0.7715
+TREC Scores of test_res/RPRF-dev/RF-2.0-1.5-5-2.0-2:
+map            	all	0.6310
+recip_rank     	all	0.6819
+TREC Scores of test_res/RPRF-dev/RF-2.0-2.0-3-0-1:
+map            	all	0.7061
+recip_rank     	all	0.7882
+TREC Scores of test_res/RPRF-dev/RF-2.0-2.0-3-0-2:
+map            	all	0.6983
+recip_rank     	all	0.7726
+TREC Scores of test_res/RPRF-dev/RF-2.0-2.0-3-0.8-1:
+map            	all	0.7070
+recip_rank     	all	0.7882
+TREC Scores of test_res/RPRF-dev/RF-2.0-2.0-3-0.8-2:
+map            	all	0.6806
+recip_rank     	all	0.7247
+TREC Scores of test_res/RPRF-dev/RF-2.0-2.0-3-1.0-1:
+map            	all	0.7062
+recip_rank     	all	0.7882
+TREC Scores of test_res/RPRF-dev/RF-2.0-2.0-3-1.0-2:
+map            	all	0.6700
+recip_rank     	all	0.7047
+TREC Scores of test_res/RPRF-dev/RF-2.0-2.0-3-1.25-1:
+map            	all	0.7051
+recip_rank     	all	0.7882
+TREC Scores of test_res/RPRF-dev/RF-2.0-2.0-3-1.25-2:
+map            	all	0.6612
+recip_rank     	all	0.6877
+TREC Scores of test_res/RPRF-dev/RF-2.0-2.0-3-1.5-1:
+map            	all	0.7062
+recip_rank     	all	0.7882
+TREC Scores of test_res/RPRF-dev/RF-2.0-2.0-3-1.5-2:
+map            	all	0.6584
+recip_rank     	all	0.6847
+TREC Scores of test_res/RPRF-dev/RF-2.0-2.0-3-2.0-1:
+map            	all	0.6826
+recip_rank     	all	0.7467
+TREC Scores of test_res/RPRF-dev/RF-2.0-2.0-3-2.0-2:
+map            	all	0.6299
+recip_rank     	all	0.6619
+TREC Scores of test_res/RPRF-dev/RF-2.0-2.0-5-0-1:
+map            	all	0.7078
+recip_rank     	all	0.7961
+TREC Scores of test_res/RPRF-dev/RF-2.0-2.0-5-0-2:
+map            	all	0.6992
+recip_rank     	all	0.7871
+TREC Scores of test_res/RPRF-dev/RF-2.0-2.0-5-0.8-1:
+map            	all	0.7079
+recip_rank     	all	0.7961
+TREC Scores of test_res/RPRF-dev/RF-2.0-2.0-5-0.8-2:
+map            	all	0.6847
+recip_rank     	all	0.7506
+TREC Scores of test_res/RPRF-dev/RF-2.0-2.0-5-1.0-1:
+map            	all	0.7077
+recip_rank     	all	0.7961
+TREC Scores of test_res/RPRF-dev/RF-2.0-2.0-5-1.0-2:
+map            	all	0.6657
+recip_rank     	all	0.7122
+TREC Scores of test_res/RPRF-dev/RF-2.0-2.0-5-1.25-1:
+map            	all	0.7078
+recip_rank     	all	0.7961
+TREC Scores of test_res/RPRF-dev/RF-2.0-2.0-5-1.25-2:
+map            	all	0.6609
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPRF-dev/RF-2.0-2.0-5-1.5-1:
+map            	all	0.7098
+recip_rank     	all	0.7965
+TREC Scores of test_res/RPRF-dev/RF-2.0-2.0-5-1.5-2:
+map            	all	0.6550
+recip_rank     	all	0.6970
+TREC Scores of test_res/RPRF-dev/RF-2.0-2.0-5-2.0-1:
+map            	all	0.6852
+recip_rank     	all	0.7584
+TREC Scores of test_res/RPRF-dev/RF-2.0-2.0-5-2.0-2:
+map            	all	0.6263
+recip_rank     	all	0.6705
+TREC Scores of test_res/RPRF-test/RF-0.5-0.5-3-0-1:
+map            	all	0.6200
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPRF-test/RF-0.5-0.5-3-0-2:
+map            	all	0.6187
+recip_rank     	all	0.6998
+TREC Scores of test_res/RPRF-test/RF-0.5-0.5-3-0.8-1:
+map            	all	0.6200
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPRF-test/RF-0.5-0.5-3-0.8-2:
+map            	all	0.6248
+recip_rank     	all	0.7031
+TREC Scores of test_res/RPRF-test/RF-0.5-0.5-3-1.0-1:
+map            	all	0.6202
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPRF-test/RF-0.5-0.5-3-1.0-2:
+map            	all	0.6167
+recip_rank     	all	0.6788
+TREC Scores of test_res/RPRF-test/RF-0.5-0.5-3-1.25-1:
+map            	all	0.6296
+recip_rank     	all	0.7148
+TREC Scores of test_res/RPRF-test/RF-0.5-0.5-3-1.25-2:
+map            	all	0.6131
+recip_rank     	all	0.6707
+TREC Scores of test_res/RPRF-test/RF-0.5-0.5-3-1.5-1:
+map            	all	0.6409
+recip_rank     	all	0.7200
+TREC Scores of test_res/RPRF-test/RF-0.5-0.5-3-1.5-2:
+map            	all	0.5946
+recip_rank     	all	0.6518
+TREC Scores of test_res/RPRF-test/RF-0.5-0.5-3-2.0-1:
+map            	all	0.6418
+recip_rank     	all	0.7051
+TREC Scores of test_res/RPRF-test/RF-0.5-0.5-3-2.0-2:
+map            	all	0.5706
+recip_rank     	all	0.6261
+TREC Scores of test_res/RPRF-test/RF-0.5-0.5-5-0-1:
+map            	all	0.6200
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPRF-test/RF-0.5-0.5-5-0-2:
+map            	all	0.6186
+recip_rank     	all	0.6998
+TREC Scores of test_res/RPRF-test/RF-0.5-0.5-5-0.8-1:
+map            	all	0.6200
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPRF-test/RF-0.5-0.5-5-0.8-2:
+map            	all	0.6251
+recip_rank     	all	0.7013
+TREC Scores of test_res/RPRF-test/RF-0.5-0.5-5-1.0-1:
+map            	all	0.6203
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPRF-test/RF-0.5-0.5-5-1.0-2:
+map            	all	0.6169
+recip_rank     	all	0.6834
+TREC Scores of test_res/RPRF-test/RF-0.5-0.5-5-1.25-1:
+map            	all	0.6287
+recip_rank     	all	0.7148
+TREC Scores of test_res/RPRF-test/RF-0.5-0.5-5-1.25-2:
+map            	all	0.6135
+recip_rank     	all	0.6707
+TREC Scores of test_res/RPRF-test/RF-0.5-0.5-5-1.5-1:
+map            	all	0.6398
+recip_rank     	all	0.7130
+TREC Scores of test_res/RPRF-test/RF-0.5-0.5-5-1.5-2:
+map            	all	0.5947
+recip_rank     	all	0.6518
+TREC Scores of test_res/RPRF-test/RF-0.5-0.5-5-2.0-1:
+map            	all	0.6430
+recip_rank     	all	0.7051
+TREC Scores of test_res/RPRF-test/RF-0.5-0.5-5-2.0-2:
+map            	all	0.5700
+recip_rank     	all	0.6254
+TREC Scores of test_res/RPRF-test/RF-0.5-0.75-3-0-1:
+map            	all	0.6200
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPRF-test/RF-0.5-0.75-3-0-2:
+map            	all	0.6202
+recip_rank     	all	0.6990
+TREC Scores of test_res/RPRF-test/RF-0.5-0.75-3-0.8-1:
+map            	all	0.6200
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPRF-test/RF-0.5-0.75-3-0.8-2:
+map            	all	0.6271
+recip_rank     	all	0.6879
+TREC Scores of test_res/RPRF-test/RF-0.5-0.75-3-1.0-1:
+map            	all	0.6200
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPRF-test/RF-0.5-0.75-3-1.0-2:
+map            	all	0.6197
+recip_rank     	all	0.6843
+TREC Scores of test_res/RPRF-test/RF-0.5-0.75-3-1.25-1:
+map            	all	0.6250
+recip_rank     	all	0.7078
+TREC Scores of test_res/RPRF-test/RF-0.5-0.75-3-1.25-2:
+map            	all	0.6048
+recip_rank     	all	0.6593
+TREC Scores of test_res/RPRF-test/RF-0.5-0.75-3-1.5-1:
+map            	all	0.6451
+recip_rank     	all	0.7165
+TREC Scores of test_res/RPRF-test/RF-0.5-0.75-3-1.5-2:
+map            	all	0.5905
+recip_rank     	all	0.6430
+TREC Scores of test_res/RPRF-test/RF-0.5-0.75-3-2.0-1:
+map            	all	0.6343
+recip_rank     	all	0.6959
+TREC Scores of test_res/RPRF-test/RF-0.5-0.75-3-2.0-2:
+map            	all	0.5674
+recip_rank     	all	0.6203
+TREC Scores of test_res/RPRF-test/RF-0.5-0.75-5-0-1:
+map            	all	0.6200
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPRF-test/RF-0.5-0.75-5-0-2:
+map            	all	0.6199
+recip_rank     	all	0.6990
+TREC Scores of test_res/RPRF-test/RF-0.5-0.75-5-0.8-1:
+map            	all	0.6200
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPRF-test/RF-0.5-0.75-5-0.8-2:
+map            	all	0.6262
+recip_rank     	all	0.6936
+TREC Scores of test_res/RPRF-test/RF-0.5-0.75-5-1.0-1:
+map            	all	0.6198
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPRF-test/RF-0.5-0.75-5-1.0-2:
+map            	all	0.6187
+recip_rank     	all	0.6844
+TREC Scores of test_res/RPRF-test/RF-0.5-0.75-5-1.25-1:
+map            	all	0.6225
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPRF-test/RF-0.5-0.75-5-1.25-2:
+map            	all	0.6056
+recip_rank     	all	0.6663
+TREC Scores of test_res/RPRF-test/RF-0.5-0.75-5-1.5-1:
+map            	all	0.6447
+recip_rank     	all	0.7089
+TREC Scores of test_res/RPRF-test/RF-0.5-0.75-5-1.5-2:
+map            	all	0.5897
+recip_rank     	all	0.6435
+TREC Scores of test_res/RPRF-test/RF-0.5-0.75-5-2.0-1:
+map            	all	0.6351
+recip_rank     	all	0.6960
+TREC Scores of test_res/RPRF-test/RF-0.5-0.75-5-2.0-2:
+map            	all	0.5656
+recip_rank     	all	0.6191
+TREC Scores of test_res/RPRF-test/RF-0.5-1.0-3-0-1:
+map            	all	0.6200
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPRF-test/RF-0.5-1.0-3-0-2:
+map            	all	0.6200
+recip_rank     	all	0.6990
+TREC Scores of test_res/RPRF-test/RF-0.5-1.0-3-0.8-1:
+map            	all	0.6200
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPRF-test/RF-0.5-1.0-3-0.8-2:
+map            	all	0.6284
+recip_rank     	all	0.6976
+TREC Scores of test_res/RPRF-test/RF-0.5-1.0-3-1.0-1:
+map            	all	0.6199
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPRF-test/RF-0.5-1.0-3-1.0-2:
+map            	all	0.6126
+recip_rank     	all	0.6750
+TREC Scores of test_res/RPRF-test/RF-0.5-1.0-3-1.25-1:
+map            	all	0.6237
+recip_rank     	all	0.7078
+TREC Scores of test_res/RPRF-test/RF-0.5-1.0-3-1.25-2:
+map            	all	0.6016
+recip_rank     	all	0.6627
+TREC Scores of test_res/RPRF-test/RF-0.5-1.0-3-1.5-1:
+map            	all	0.6445
+recip_rank     	all	0.7095
+TREC Scores of test_res/RPRF-test/RF-0.5-1.0-3-1.5-2:
+map            	all	0.5883
+recip_rank     	all	0.6416
+TREC Scores of test_res/RPRF-test/RF-0.5-1.0-3-2.0-1:
+map            	all	0.6362
+recip_rank     	all	0.6985
+TREC Scores of test_res/RPRF-test/RF-0.5-1.0-3-2.0-2:
+map            	all	0.5613
+recip_rank     	all	0.6140
+TREC Scores of test_res/RPRF-test/RF-0.5-1.0-5-0-1:
+map            	all	0.6200
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPRF-test/RF-0.5-1.0-5-0-2:
+map            	all	0.6201
+recip_rank     	all	0.6990
+TREC Scores of test_res/RPRF-test/RF-0.5-1.0-5-0.8-1:
+map            	all	0.6200
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPRF-test/RF-0.5-1.0-5-0.8-2:
+map            	all	0.6278
+recip_rank     	all	0.6963
+TREC Scores of test_res/RPRF-test/RF-0.5-1.0-5-1.0-1:
+map            	all	0.6199
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPRF-test/RF-0.5-1.0-5-1.0-2:
+map            	all	0.6127
+recip_rank     	all	0.6763
+TREC Scores of test_res/RPRF-test/RF-0.5-1.0-5-1.25-1:
+map            	all	0.6225
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPRF-test/RF-0.5-1.0-5-1.25-2:
+map            	all	0.6021
+recip_rank     	all	0.6643
+TREC Scores of test_res/RPRF-test/RF-0.5-1.0-5-1.5-1:
+map            	all	0.6436
+recip_rank     	all	0.7142
+TREC Scores of test_res/RPRF-test/RF-0.5-1.0-5-1.5-2:
+map            	all	0.5871
+recip_rank     	all	0.6411
+TREC Scores of test_res/RPRF-test/RF-0.5-1.0-5-2.0-1:
+map            	all	0.6331
+recip_rank     	all	0.6917
+TREC Scores of test_res/RPRF-test/RF-0.5-1.0-5-2.0-2:
+map            	all	0.5598
+recip_rank     	all	0.6133
+TREC Scores of test_res/RPRF-test/RF-0.5-1.5-3-0-1:
+map            	all	0.6200
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPRF-test/RF-0.5-1.5-3-0-2:
+map            	all	0.6203
+recip_rank     	all	0.6990
+TREC Scores of test_res/RPRF-test/RF-0.5-1.5-3-0.8-1:
+map            	all	0.6200
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPRF-test/RF-0.5-1.5-3-0.8-2:
+map            	all	0.6301
+recip_rank     	all	0.7001
+TREC Scores of test_res/RPRF-test/RF-0.5-1.5-3-1.0-1:
+map            	all	0.6200
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPRF-test/RF-0.5-1.5-3-1.0-2:
+map            	all	0.6085
+recip_rank     	all	0.6655
+TREC Scores of test_res/RPRF-test/RF-0.5-1.5-3-1.25-1:
+map            	all	0.6229
+recip_rank     	all	0.7009
+TREC Scores of test_res/RPRF-test/RF-0.5-1.5-3-1.25-2:
+map            	all	0.5928
+recip_rank     	all	0.6477
+TREC Scores of test_res/RPRF-test/RF-0.5-1.5-3-1.5-1:
+map            	all	0.6435
+recip_rank     	all	0.7142
+TREC Scores of test_res/RPRF-test/RF-0.5-1.5-3-1.5-2:
+map            	all	0.5845
+recip_rank     	all	0.6404
+TREC Scores of test_res/RPRF-test/RF-0.5-1.5-3-2.0-1:
+map            	all	0.6223
+recip_rank     	all	0.6857
+TREC Scores of test_res/RPRF-test/RF-0.5-1.5-3-2.0-2:
+map            	all	0.5505
+recip_rank     	all	0.5987
+TREC Scores of test_res/RPRF-test/RF-0.5-1.5-5-0-1:
+map            	all	0.6200
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPRF-test/RF-0.5-1.5-5-0-2:
+map            	all	0.6208
+recip_rank     	all	0.6990
+TREC Scores of test_res/RPRF-test/RF-0.5-1.5-5-0.8-1:
+map            	all	0.6200
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPRF-test/RF-0.5-1.5-5-0.8-2:
+map            	all	0.6301
+recip_rank     	all	0.6988
+TREC Scores of test_res/RPRF-test/RF-0.5-1.5-5-1.0-1:
+map            	all	0.6200
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPRF-test/RF-0.5-1.5-5-1.0-2:
+map            	all	0.6097
+recip_rank     	all	0.6743
+TREC Scores of test_res/RPRF-test/RF-0.5-1.5-5-1.25-1:
+map            	all	0.6222
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPRF-test/RF-0.5-1.5-5-1.25-2:
+map            	all	0.5909
+recip_rank     	all	0.6475
+TREC Scores of test_res/RPRF-test/RF-0.5-1.5-5-1.5-1:
+map            	all	0.6421
+recip_rank     	all	0.7077
+TREC Scores of test_res/RPRF-test/RF-0.5-1.5-5-1.5-2:
+map            	all	0.5843
+recip_rank     	all	0.6404
+TREC Scores of test_res/RPRF-test/RF-0.5-1.5-5-2.0-1:
+map            	all	0.6258
+recip_rank     	all	0.6839
+TREC Scores of test_res/RPRF-test/RF-0.5-1.5-5-2.0-2:
+map            	all	0.5509
+recip_rank     	all	0.5995
+TREC Scores of test_res/RPRF-test/RF-0.5-2.0-3-0-1:
+map            	all	0.6200
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPRF-test/RF-0.5-2.0-3-0-2:
+map            	all	0.6205
+recip_rank     	all	0.6987
+TREC Scores of test_res/RPRF-test/RF-0.5-2.0-3-0.8-1:
+map            	all	0.6200
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPRF-test/RF-0.5-2.0-3-0.8-2:
+map            	all	0.6296
+recip_rank     	all	0.6977
+TREC Scores of test_res/RPRF-test/RF-0.5-2.0-3-1.0-1:
+map            	all	0.6200
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPRF-test/RF-0.5-2.0-3-1.0-2:
+map            	all	0.6080
+recip_rank     	all	0.6648
+TREC Scores of test_res/RPRF-test/RF-0.5-2.0-3-1.25-1:
+map            	all	0.6229
+recip_rank     	all	0.7009
+TREC Scores of test_res/RPRF-test/RF-0.5-2.0-3-1.25-2:
+map            	all	0.5886
+recip_rank     	all	0.6444
+TREC Scores of test_res/RPRF-test/RF-0.5-2.0-3-1.5-1:
+map            	all	0.6430
+recip_rank     	all	0.7142
+TREC Scores of test_res/RPRF-test/RF-0.5-2.0-3-1.5-2:
+map            	all	0.5848
+recip_rank     	all	0.6402
+TREC Scores of test_res/RPRF-test/RF-0.5-2.0-3-2.0-1:
+map            	all	0.6215
+recip_rank     	all	0.6891
+TREC Scores of test_res/RPRF-test/RF-0.5-2.0-3-2.0-2:
+map            	all	0.5516
+recip_rank     	all	0.5985
+TREC Scores of test_res/RPRF-test/RF-0.5-2.0-5-0-1:
+map            	all	0.6200
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPRF-test/RF-0.5-2.0-5-0-2:
+map            	all	0.6209
+recip_rank     	all	0.6990
+TREC Scores of test_res/RPRF-test/RF-0.5-2.0-5-0.8-1:
+map            	all	0.6200
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPRF-test/RF-0.5-2.0-5-0.8-2:
+map            	all	0.6287
+recip_rank     	all	0.6964
+TREC Scores of test_res/RPRF-test/RF-0.5-2.0-5-1.0-1:
+map            	all	0.6200
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPRF-test/RF-0.5-2.0-5-1.0-2:
+map            	all	0.6094
+recip_rank     	all	0.6675
+TREC Scores of test_res/RPRF-test/RF-0.5-2.0-5-1.25-1:
+map            	all	0.6222
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPRF-test/RF-0.5-2.0-5-1.25-2:
+map            	all	0.5862
+recip_rank     	all	0.6424
+TREC Scores of test_res/RPRF-test/RF-0.5-2.0-5-1.5-1:
+map            	all	0.6419
+recip_rank     	all	0.7077
+TREC Scores of test_res/RPRF-test/RF-0.5-2.0-5-1.5-2:
+map            	all	0.5826
+recip_rank     	all	0.6388
+TREC Scores of test_res/RPRF-test/RF-0.5-2.0-5-2.0-1:
+map            	all	0.6245
+recip_rank     	all	0.6930
+TREC Scores of test_res/RPRF-test/RF-0.5-2.0-5-2.0-2:
+map            	all	0.5504
+recip_rank     	all	0.5990
+TREC Scores of test_res/RPRF-test/RF-1.0-0.5-3-0-1:
+map            	all	0.6200
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPRF-test/RF-1.0-0.5-3-0-2:
+map            	all	0.6194
+recip_rank     	all	0.7165
+TREC Scores of test_res/RPRF-test/RF-1.0-0.5-3-0.8-1:
+map            	all	0.6206
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPRF-test/RF-1.0-0.5-3-0.8-2:
+map            	all	0.6138
+recip_rank     	all	0.6789
+TREC Scores of test_res/RPRF-test/RF-1.0-0.5-3-1.0-1:
+map            	all	0.6214
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPRF-test/RF-1.0-0.5-3-1.0-2:
+map            	all	0.6081
+recip_rank     	all	0.6694
+TREC Scores of test_res/RPRF-test/RF-1.0-0.5-3-1.25-1:
+map            	all	0.6330
+recip_rank     	all	0.7148
+TREC Scores of test_res/RPRF-test/RF-1.0-0.5-3-1.25-2:
+map            	all	0.5948
+recip_rank     	all	0.6381
+TREC Scores of test_res/RPRF-test/RF-1.0-0.5-3-1.5-1:
+map            	all	0.6361
+recip_rank     	all	0.7120
+TREC Scores of test_res/RPRF-test/RF-1.0-0.5-3-1.5-2:
+map            	all	0.5962
+recip_rank     	all	0.6419
+TREC Scores of test_res/RPRF-test/RF-1.0-0.5-3-2.0-1:
+map            	all	0.6379
+recip_rank     	all	0.7012
+TREC Scores of test_res/RPRF-test/RF-1.0-0.5-3-2.0-2:
+map            	all	0.5901
+recip_rank     	all	0.6334
+TREC Scores of test_res/RPRF-test/RF-1.0-0.5-5-0-1:
+map            	all	0.6200
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPRF-test/RF-1.0-0.5-5-0-2:
+map            	all	0.6199
+recip_rank     	all	0.7143
+TREC Scores of test_res/RPRF-test/RF-1.0-0.5-5-0.8-1:
+map            	all	0.6206
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPRF-test/RF-1.0-0.5-5-0.8-2:
+map            	all	0.6137
+recip_rank     	all	0.6733
+TREC Scores of test_res/RPRF-test/RF-1.0-0.5-5-1.0-1:
+map            	all	0.6205
+recip_rank     	all	0.6974
+TREC Scores of test_res/RPRF-test/RF-1.0-0.5-5-1.0-2:
+map            	all	0.6096
+recip_rank     	all	0.6671
+TREC Scores of test_res/RPRF-test/RF-1.0-0.5-5-1.25-1:
+map            	all	0.6325
+recip_rank     	all	0.7148
+TREC Scores of test_res/RPRF-test/RF-1.0-0.5-5-1.25-2:
+map            	all	0.6001
+recip_rank     	all	0.6540
+TREC Scores of test_res/RPRF-test/RF-1.0-0.5-5-1.5-1:
+map            	all	0.6357
+recip_rank     	all	0.7120
+TREC Scores of test_res/RPRF-test/RF-1.0-0.5-5-1.5-2:
+map            	all	0.5975
+recip_rank     	all	0.6443
+TREC Scores of test_res/RPRF-test/RF-1.0-0.5-5-2.0-1:
+map            	all	0.6381
+recip_rank     	all	0.7015
+TREC Scores of test_res/RPRF-test/RF-1.0-0.5-5-2.0-2:
+map            	all	0.5908
+recip_rank     	all	0.6311
+TREC Scores of test_res/RPRF-test/RF-1.0-0.75-3-0-1:
+map            	all	0.6200
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPRF-test/RF-1.0-0.75-3-0-2:
+map            	all	0.6200
+recip_rank     	all	0.7036
+TREC Scores of test_res/RPRF-test/RF-1.0-0.75-3-0.8-1:
+map            	all	0.6205
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPRF-test/RF-1.0-0.75-3-0.8-2:
+map            	all	0.6219
+recip_rank     	all	0.6845
+TREC Scores of test_res/RPRF-test/RF-1.0-0.75-3-1.0-1:
+map            	all	0.6207
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPRF-test/RF-1.0-0.75-3-1.0-2:
+map            	all	0.6154
+recip_rank     	all	0.6728
+TREC Scores of test_res/RPRF-test/RF-1.0-0.75-3-1.25-1:
+map            	all	0.6295
+recip_rank     	all	0.7078
+TREC Scores of test_res/RPRF-test/RF-1.0-0.75-3-1.25-2:
+map            	all	0.6144
+recip_rank     	all	0.6728
+TREC Scores of test_res/RPRF-test/RF-1.0-0.75-3-1.5-1:
+map            	all	0.6443
+recip_rank     	all	0.7243
+TREC Scores of test_res/RPRF-test/RF-1.0-0.75-3-1.5-2:
+map            	all	0.5984
+recip_rank     	all	0.6519
+TREC Scores of test_res/RPRF-test/RF-1.0-0.75-3-2.0-1:
+map            	all	0.6392
+recip_rank     	all	0.7010
+TREC Scores of test_res/RPRF-test/RF-1.0-0.75-3-2.0-2:
+map            	all	0.5885
+recip_rank     	all	0.6373
+TREC Scores of test_res/RPRF-test/RF-1.0-0.75-5-0-1:
+map            	all	0.6200
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPRF-test/RF-1.0-0.75-5-0-2:
+map            	all	0.6196
+recip_rank     	all	0.7028
+TREC Scores of test_res/RPRF-test/RF-1.0-0.75-5-0.8-1:
+map            	all	0.6203
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPRF-test/RF-1.0-0.75-5-0.8-2:
+map            	all	0.6195
+recip_rank     	all	0.6813
+TREC Scores of test_res/RPRF-test/RF-1.0-0.75-5-1.0-1:
+map            	all	0.6207
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPRF-test/RF-1.0-0.75-5-1.0-2:
+map            	all	0.6165
+recip_rank     	all	0.6777
+TREC Scores of test_res/RPRF-test/RF-1.0-0.75-5-1.25-1:
+map            	all	0.6265
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPRF-test/RF-1.0-0.75-5-1.25-2:
+map            	all	0.6119
+recip_rank     	all	0.6698
+TREC Scores of test_res/RPRF-test/RF-1.0-0.75-5-1.5-1:
+map            	all	0.6411
+recip_rank     	all	0.7173
+TREC Scores of test_res/RPRF-test/RF-1.0-0.75-5-1.5-2:
+map            	all	0.5977
+recip_rank     	all	0.6517
+TREC Scores of test_res/RPRF-test/RF-1.0-0.75-5-2.0-1:
+map            	all	0.6403
+recip_rank     	all	0.7023
+TREC Scores of test_res/RPRF-test/RF-1.0-0.75-5-2.0-2:
+map            	all	0.5887
+recip_rank     	all	0.6429
+TREC Scores of test_res/RPRF-test/RF-1.0-1.0-3-0-1:
+map            	all	0.6200
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPRF-test/RF-1.0-1.0-3-0-2:
+map            	all	0.6211
+recip_rank     	all	0.7057
+TREC Scores of test_res/RPRF-test/RF-1.0-1.0-3-0.8-1:
+map            	all	0.6203
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPRF-test/RF-1.0-1.0-3-0.8-2:
+map            	all	0.6272
+recip_rank     	all	0.6971
+TREC Scores of test_res/RPRF-test/RF-1.0-1.0-3-1.0-1:
+map            	all	0.6210
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPRF-test/RF-1.0-1.0-3-1.0-2:
+map            	all	0.6186
+recip_rank     	all	0.6819
+TREC Scores of test_res/RPRF-test/RF-1.0-1.0-3-1.25-1:
+map            	all	0.6257
+recip_rank     	all	0.7009
+TREC Scores of test_res/RPRF-test/RF-1.0-1.0-3-1.25-2:
+map            	all	0.6129
+recip_rank     	all	0.6826
+TREC Scores of test_res/RPRF-test/RF-1.0-1.0-3-1.5-1:
+map            	all	0.6464
+recip_rank     	all	0.7246
+TREC Scores of test_res/RPRF-test/RF-1.0-1.0-3-1.5-2:
+map            	all	0.6023
+recip_rank     	all	0.6636
+TREC Scores of test_res/RPRF-test/RF-1.0-1.0-3-2.0-1:
+map            	all	0.6343
+recip_rank     	all	0.6935
+TREC Scores of test_res/RPRF-test/RF-1.0-1.0-3-2.0-2:
+map            	all	0.5793
+recip_rank     	all	0.6415
+TREC Scores of test_res/RPRF-test/RF-1.0-1.0-5-0-1:
+map            	all	0.6200
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPRF-test/RF-1.0-1.0-5-0-2:
+map            	all	0.6187
+recip_rank     	all	0.6987
+TREC Scores of test_res/RPRF-test/RF-1.0-1.0-5-0.8-1:
+map            	all	0.6204
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPRF-test/RF-1.0-1.0-5-0.8-2:
+map            	all	0.6230
+recip_rank     	all	0.6889
+TREC Scores of test_res/RPRF-test/RF-1.0-1.0-5-1.0-1:
+map            	all	0.6207
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPRF-test/RF-1.0-1.0-5-1.0-2:
+map            	all	0.6154
+recip_rank     	all	0.6811
+TREC Scores of test_res/RPRF-test/RF-1.0-1.0-5-1.25-1:
+map            	all	0.6247
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPRF-test/RF-1.0-1.0-5-1.25-2:
+map            	all	0.6054
+recip_rank     	all	0.6621
+TREC Scores of test_res/RPRF-test/RF-1.0-1.0-5-1.5-1:
+map            	all	0.6432
+recip_rank     	all	0.7165
+TREC Scores of test_res/RPRF-test/RF-1.0-1.0-5-1.5-2:
+map            	all	0.6032
+recip_rank     	all	0.6592
+TREC Scores of test_res/RPRF-test/RF-1.0-1.0-5-2.0-1:
+map            	all	0.6351
+recip_rank     	all	0.6943
+TREC Scores of test_res/RPRF-test/RF-1.0-1.0-5-2.0-2:
+map            	all	0.5763
+recip_rank     	all	0.6322
+TREC Scores of test_res/RPRF-test/RF-1.0-1.5-3-0-1:
+map            	all	0.6200
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPRF-test/RF-1.0-1.5-3-0-2:
+map            	all	0.6225
+recip_rank     	all	0.7143
+TREC Scores of test_res/RPRF-test/RF-1.0-1.5-3-0.8-1:
+map            	all	0.6204
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPRF-test/RF-1.0-1.5-3-0.8-2:
+map            	all	0.6299
+recip_rank     	all	0.7058
+TREC Scores of test_res/RPRF-test/RF-1.0-1.5-3-1.0-1:
+map            	all	0.6210
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPRF-test/RF-1.0-1.5-3-1.0-2:
+map            	all	0.6180
+recip_rank     	all	0.6940
+TREC Scores of test_res/RPRF-test/RF-1.0-1.5-3-1.25-1:
+map            	all	0.6246
+recip_rank     	all	0.7009
+TREC Scores of test_res/RPRF-test/RF-1.0-1.5-3-1.25-2:
+map            	all	0.6129
+recip_rank     	all	0.6897
+TREC Scores of test_res/RPRF-test/RF-1.0-1.5-3-1.5-1:
+map            	all	0.6432
+recip_rank     	all	0.7231
+TREC Scores of test_res/RPRF-test/RF-1.0-1.5-3-1.5-2:
+map            	all	0.5971
+recip_rank     	all	0.6636
+TREC Scores of test_res/RPRF-test/RF-1.0-1.5-3-2.0-1:
+map            	all	0.6365
+recip_rank     	all	0.6966
+TREC Scores of test_res/RPRF-test/RF-1.0-1.5-3-2.0-2:
+map            	all	0.5756
+recip_rank     	all	0.6372
+TREC Scores of test_res/RPRF-test/RF-1.0-1.5-5-0-1:
+map            	all	0.6200
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPRF-test/RF-1.0-1.5-5-0-2:
+map            	all	0.6260
+recip_rank     	all	0.7149
+TREC Scores of test_res/RPRF-test/RF-1.0-1.5-5-0.8-1:
+map            	all	0.6204
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPRF-test/RF-1.0-1.5-5-0.8-2:
+map            	all	0.6318
+recip_rank     	all	0.7100
+TREC Scores of test_res/RPRF-test/RF-1.0-1.5-5-1.0-1:
+map            	all	0.6205
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPRF-test/RF-1.0-1.5-5-1.0-2:
+map            	all	0.6198
+recip_rank     	all	0.6958
+TREC Scores of test_res/RPRF-test/RF-1.0-1.5-5-1.25-1:
+map            	all	0.6234
+recip_rank     	all	0.6974
+TREC Scores of test_res/RPRF-test/RF-1.0-1.5-5-1.25-2:
+map            	all	0.6126
+recip_rank     	all	0.6783
+TREC Scores of test_res/RPRF-test/RF-1.0-1.5-5-1.5-1:
+map            	all	0.6403
+recip_rank     	all	0.7077
+TREC Scores of test_res/RPRF-test/RF-1.0-1.5-5-1.5-2:
+map            	all	0.5972
+recip_rank     	all	0.6648
+TREC Scores of test_res/RPRF-test/RF-1.0-1.5-5-2.0-1:
+map            	all	0.6371
+recip_rank     	all	0.7061
+TREC Scores of test_res/RPRF-test/RF-1.0-1.5-5-2.0-2:
+map            	all	0.5761
+recip_rank     	all	0.6383
+TREC Scores of test_res/RPRF-test/RF-1.0-2.0-3-0-1:
+map            	all	0.6200
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPRF-test/RF-1.0-2.0-3-0-2:
+map            	all	0.6219
+recip_rank     	all	0.7126
+TREC Scores of test_res/RPRF-test/RF-1.0-2.0-3-0.8-1:
+map            	all	0.6204
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPRF-test/RF-1.0-2.0-3-0.8-2:
+map            	all	0.6328
+recip_rank     	all	0.7093
+TREC Scores of test_res/RPRF-test/RF-1.0-2.0-3-1.0-1:
+map            	all	0.6210
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPRF-test/RF-1.0-2.0-3-1.0-2:
+map            	all	0.6166
+recip_rank     	all	0.6924
+TREC Scores of test_res/RPRF-test/RF-1.0-2.0-3-1.25-1:
+map            	all	0.6242
+recip_rank     	all	0.7009
+TREC Scores of test_res/RPRF-test/RF-1.0-2.0-3-1.25-2:
+map            	all	0.6095
+recip_rank     	all	0.6864
+TREC Scores of test_res/RPRF-test/RF-1.0-2.0-3-1.5-1:
+map            	all	0.6418
+recip_rank     	all	0.7162
+TREC Scores of test_res/RPRF-test/RF-1.0-2.0-3-1.5-2:
+map            	all	0.5945
+recip_rank     	all	0.6585
+TREC Scores of test_res/RPRF-test/RF-1.0-2.0-3-2.0-1:
+map            	all	0.6312
+recip_rank     	all	0.6908
+TREC Scores of test_res/RPRF-test/RF-1.0-2.0-3-2.0-2:
+map            	all	0.5617
+recip_rank     	all	0.6228
+TREC Scores of test_res/RPRF-test/RF-1.0-2.0-5-0-1:
+map            	all	0.6200
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPRF-test/RF-1.0-2.0-5-0-2:
+map            	all	0.6232
+recip_rank     	all	0.7057
+TREC Scores of test_res/RPRF-test/RF-1.0-2.0-5-0.8-1:
+map            	all	0.6204
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPRF-test/RF-1.0-2.0-5-0.8-2:
+map            	all	0.6281
+recip_rank     	all	0.7007
+TREC Scores of test_res/RPRF-test/RF-1.0-2.0-5-1.0-1:
+map            	all	0.6203
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPRF-test/RF-1.0-2.0-5-1.0-2:
+map            	all	0.6199
+recip_rank     	all	0.6882
+TREC Scores of test_res/RPRF-test/RF-1.0-2.0-5-1.25-1:
+map            	all	0.6231
+recip_rank     	all	0.6974
+TREC Scores of test_res/RPRF-test/RF-1.0-2.0-5-1.25-2:
+map            	all	0.6027
+recip_rank     	all	0.6644
+TREC Scores of test_res/RPRF-test/RF-1.0-2.0-5-1.5-1:
+map            	all	0.6391
+recip_rank     	all	0.7058
+TREC Scores of test_res/RPRF-test/RF-1.0-2.0-5-1.5-2:
+map            	all	0.5913
+recip_rank     	all	0.6543
+TREC Scores of test_res/RPRF-test/RF-1.0-2.0-5-2.0-1:
+map            	all	0.6341
+recip_rank     	all	0.7018
+TREC Scores of test_res/RPRF-test/RF-1.0-2.0-5-2.0-2:
+map            	all	0.5653
+recip_rank     	all	0.6204
+TREC Scores of test_res/RPRF-test/RF-1.5-0.5-3-0-1:
+map            	all	0.6116
+recip_rank     	all	0.6953
+TREC Scores of test_res/RPRF-test/RF-1.5-0.5-3-0-2:
+map            	all	0.6172
+recip_rank     	all	0.7146
+TREC Scores of test_res/RPRF-test/RF-1.5-0.5-3-0.8-1:
+map            	all	0.6132
+recip_rank     	all	0.6872
+TREC Scores of test_res/RPRF-test/RF-1.5-0.5-3-0.8-2:
+map            	all	0.6064
+recip_rank     	all	0.6850
+TREC Scores of test_res/RPRF-test/RF-1.5-0.5-3-1.0-1:
+map            	all	0.6150
+recip_rank     	all	0.6880
+TREC Scores of test_res/RPRF-test/RF-1.5-0.5-3-1.0-2:
+map            	all	0.5998
+recip_rank     	all	0.6705
+TREC Scores of test_res/RPRF-test/RF-1.5-0.5-3-1.25-1:
+map            	all	0.6236
+recip_rank     	all	0.7040
+TREC Scores of test_res/RPRF-test/RF-1.5-0.5-3-1.25-2:
+map            	all	0.5895
+recip_rank     	all	0.6537
+TREC Scores of test_res/RPRF-test/RF-1.5-0.5-3-1.5-1:
+map            	all	0.6264
+recip_rank     	all	0.7018
+TREC Scores of test_res/RPRF-test/RF-1.5-0.5-3-1.5-2:
+map            	all	0.5862
+recip_rank     	all	0.6375
+TREC Scores of test_res/RPRF-test/RF-1.5-0.5-3-2.0-1:
+map            	all	0.6298
+recip_rank     	all	0.6973
+TREC Scores of test_res/RPRF-test/RF-1.5-0.5-3-2.0-2:
+map            	all	0.5822
+recip_rank     	all	0.6353
+TREC Scores of test_res/RPRF-test/RF-1.5-0.5-5-0-1:
+map            	all	0.6119
+recip_rank     	all	0.6953
+TREC Scores of test_res/RPRF-test/RF-1.5-0.5-5-0-2:
+map            	all	0.6171
+recip_rank     	all	0.7143
+TREC Scores of test_res/RPRF-test/RF-1.5-0.5-5-0.8-1:
+map            	all	0.6126
+recip_rank     	all	0.6883
+TREC Scores of test_res/RPRF-test/RF-1.5-0.5-5-0.8-2:
+map            	all	0.6049
+recip_rank     	all	0.6843
+TREC Scores of test_res/RPRF-test/RF-1.5-0.5-5-1.0-1:
+map            	all	0.6151
+recip_rank     	all	0.6868
+TREC Scores of test_res/RPRF-test/RF-1.5-0.5-5-1.0-2:
+map            	all	0.5990
+recip_rank     	all	0.6677
+TREC Scores of test_res/RPRF-test/RF-1.5-0.5-5-1.25-1:
+map            	all	0.6235
+recip_rank     	all	0.7040
+TREC Scores of test_res/RPRF-test/RF-1.5-0.5-5-1.25-2:
+map            	all	0.5900
+recip_rank     	all	0.6534
+TREC Scores of test_res/RPRF-test/RF-1.5-0.5-5-1.5-1:
+map            	all	0.6261
+recip_rank     	all	0.7018
+TREC Scores of test_res/RPRF-test/RF-1.5-0.5-5-1.5-2:
+map            	all	0.5880
+recip_rank     	all	0.6441
+TREC Scores of test_res/RPRF-test/RF-1.5-0.5-5-2.0-1:
+map            	all	0.6305
+recip_rank     	all	0.6982
+TREC Scores of test_res/RPRF-test/RF-1.5-0.5-5-2.0-2:
+map            	all	0.5860
+recip_rank     	all	0.6396
+TREC Scores of test_res/RPRF-test/RF-1.5-0.75-3-0-1:
+map            	all	0.6106
+recip_rank     	all	0.6835
+TREC Scores of test_res/RPRF-test/RF-1.5-0.75-3-0-2:
+map            	all	0.6261
+recip_rank     	all	0.7258
+TREC Scores of test_res/RPRF-test/RF-1.5-0.75-3-0.8-1:
+map            	all	0.6101
+recip_rank     	all	0.6766
+TREC Scores of test_res/RPRF-test/RF-1.5-0.75-3-0.8-2:
+map            	all	0.6163
+recip_rank     	all	0.6823
+TREC Scores of test_res/RPRF-test/RF-1.5-0.75-3-1.0-1:
+map            	all	0.6116
+recip_rank     	all	0.6766
+TREC Scores of test_res/RPRF-test/RF-1.5-0.75-3-1.0-2:
+map            	all	0.6123
+recip_rank     	all	0.6708
+TREC Scores of test_res/RPRF-test/RF-1.5-0.75-3-1.25-1:
+map            	all	0.6189
+recip_rank     	all	0.6853
+TREC Scores of test_res/RPRF-test/RF-1.5-0.75-3-1.25-2:
+map            	all	0.6112
+recip_rank     	all	0.6677
+TREC Scores of test_res/RPRF-test/RF-1.5-0.75-3-1.5-1:
+map            	all	0.6288
+recip_rank     	all	0.6930
+TREC Scores of test_res/RPRF-test/RF-1.5-0.75-3-1.5-2:
+map            	all	0.5956
+recip_rank     	all	0.6495
+TREC Scores of test_res/RPRF-test/RF-1.5-0.75-3-2.0-1:
+map            	all	0.6294
+recip_rank     	all	0.6853
+TREC Scores of test_res/RPRF-test/RF-1.5-0.75-3-2.0-2:
+map            	all	0.5930
+recip_rank     	all	0.6501
+TREC Scores of test_res/RPRF-test/RF-1.5-0.75-5-0-1:
+map            	all	0.6103
+recip_rank     	all	0.6835
+TREC Scores of test_res/RPRF-test/RF-1.5-0.75-5-0-2:
+map            	all	0.6231
+recip_rank     	all	0.7120
+TREC Scores of test_res/RPRF-test/RF-1.5-0.75-5-0.8-1:
+map            	all	0.6096
+recip_rank     	all	0.6766
+TREC Scores of test_res/RPRF-test/RF-1.5-0.75-5-0.8-2:
+map            	all	0.6110
+recip_rank     	all	0.6729
+TREC Scores of test_res/RPRF-test/RF-1.5-0.75-5-1.0-1:
+map            	all	0.6106
+recip_rank     	all	0.6766
+TREC Scores of test_res/RPRF-test/RF-1.5-0.75-5-1.0-2:
+map            	all	0.6059
+recip_rank     	all	0.6620
+TREC Scores of test_res/RPRF-test/RF-1.5-0.75-5-1.25-1:
+map            	all	0.6172
+recip_rank     	all	0.6835
+TREC Scores of test_res/RPRF-test/RF-1.5-0.75-5-1.25-2:
+map            	all	0.6062
+recip_rank     	all	0.6607
+TREC Scores of test_res/RPRF-test/RF-1.5-0.75-5-1.5-1:
+map            	all	0.6260
+recip_rank     	all	0.6861
+TREC Scores of test_res/RPRF-test/RF-1.5-0.75-5-1.5-2:
+map            	all	0.5921
+recip_rank     	all	0.6401
+TREC Scores of test_res/RPRF-test/RF-1.5-0.75-5-2.0-1:
+map            	all	0.6300
+recip_rank     	all	0.6818
+TREC Scores of test_res/RPRF-test/RF-1.5-0.75-5-2.0-2:
+map            	all	0.5883
+recip_rank     	all	0.6389
+TREC Scores of test_res/RPRF-test/RF-1.5-1.0-3-0-1:
+map            	all	0.6142
+recip_rank     	all	0.6847
+TREC Scores of test_res/RPRF-test/RF-1.5-1.0-3-0-2:
+map            	all	0.6301
+recip_rank     	all	0.7336
+TREC Scores of test_res/RPRF-test/RF-1.5-1.0-3-0.8-1:
+map            	all	0.6150
+recip_rank     	all	0.6847
+TREC Scores of test_res/RPRF-test/RF-1.5-1.0-3-0.8-2:
+map            	all	0.6219
+recip_rank     	all	0.6886
+TREC Scores of test_res/RPRF-test/RF-1.5-1.0-3-1.0-1:
+map            	all	0.6170
+recip_rank     	all	0.6847
+TREC Scores of test_res/RPRF-test/RF-1.5-1.0-3-1.0-2:
+map            	all	0.6167
+recip_rank     	all	0.6794
+TREC Scores of test_res/RPRF-test/RF-1.5-1.0-3-1.25-1:
+map            	all	0.6200
+recip_rank     	all	0.6870
+TREC Scores of test_res/RPRF-test/RF-1.5-1.0-3-1.25-2:
+map            	all	0.6054
+recip_rank     	all	0.6618
+TREC Scores of test_res/RPRF-test/RF-1.5-1.0-3-1.5-1:
+map            	all	0.6372
+recip_rank     	all	0.7101
+TREC Scores of test_res/RPRF-test/RF-1.5-1.0-3-1.5-2:
+map            	all	0.5956
+recip_rank     	all	0.6549
+TREC Scores of test_res/RPRF-test/RF-1.5-1.0-3-2.0-1:
+map            	all	0.6282
+recip_rank     	all	0.6887
+TREC Scores of test_res/RPRF-test/RF-1.5-1.0-3-2.0-2:
+map            	all	0.5850
+recip_rank     	all	0.6445
+TREC Scores of test_res/RPRF-test/RF-1.5-1.0-5-0-1:
+map            	all	0.6144
+recip_rank     	all	0.6847
+TREC Scores of test_res/RPRF-test/RF-1.5-1.0-5-0-2:
+map            	all	0.6270
+recip_rank     	all	0.7319
+TREC Scores of test_res/RPRF-test/RF-1.5-1.0-5-0.8-1:
+map            	all	0.6151
+recip_rank     	all	0.6847
+TREC Scores of test_res/RPRF-test/RF-1.5-1.0-5-0.8-2:
+map            	all	0.6215
+recip_rank     	all	0.6931
+TREC Scores of test_res/RPRF-test/RF-1.5-1.0-5-1.0-1:
+map            	all	0.6159
+recip_rank     	all	0.6847
+TREC Scores of test_res/RPRF-test/RF-1.5-1.0-5-1.0-2:
+map            	all	0.6134
+recip_rank     	all	0.6818
+TREC Scores of test_res/RPRF-test/RF-1.5-1.0-5-1.25-1:
+map            	all	0.6203
+recip_rank     	all	0.6835
+TREC Scores of test_res/RPRF-test/RF-1.5-1.0-5-1.25-2:
+map            	all	0.6077
+recip_rank     	all	0.6743
+TREC Scores of test_res/RPRF-test/RF-1.5-1.0-5-1.5-1:
+map            	all	0.6344
+recip_rank     	all	0.7003
+TREC Scores of test_res/RPRF-test/RF-1.5-1.0-5-1.5-2:
+map            	all	0.6065
+recip_rank     	all	0.6674
+TREC Scores of test_res/RPRF-test/RF-1.5-1.0-5-2.0-1:
+map            	all	0.6279
+recip_rank     	all	0.6768
+TREC Scores of test_res/RPRF-test/RF-1.5-1.0-5-2.0-2:
+map            	all	0.5844
+recip_rank     	all	0.6438
+TREC Scores of test_res/RPRF-test/RF-1.5-1.5-3-0-1:
+map            	all	0.6142
+recip_rank     	all	0.6823
+TREC Scores of test_res/RPRF-test/RF-1.5-1.5-3-0-2:
+map            	all	0.6276
+recip_rank     	all	0.7281
+TREC Scores of test_res/RPRF-test/RF-1.5-1.5-3-0.8-1:
+map            	all	0.6151
+recip_rank     	all	0.6823
+TREC Scores of test_res/RPRF-test/RF-1.5-1.5-3-0.8-2:
+map            	all	0.6237
+recip_rank     	all	0.6857
+TREC Scores of test_res/RPRF-test/RF-1.5-1.5-3-1.0-1:
+map            	all	0.6160
+recip_rank     	all	0.6823
+TREC Scores of test_res/RPRF-test/RF-1.5-1.5-3-1.0-2:
+map            	all	0.6182
+recip_rank     	all	0.6826
+TREC Scores of test_res/RPRF-test/RF-1.5-1.5-3-1.25-1:
+map            	all	0.6205
+recip_rank     	all	0.6847
+TREC Scores of test_res/RPRF-test/RF-1.5-1.5-3-1.25-2:
+map            	all	0.6117
+recip_rank     	all	0.6814
+TREC Scores of test_res/RPRF-test/RF-1.5-1.5-3-1.5-1:
+map            	all	0.6383
+recip_rank     	all	0.7067
+TREC Scores of test_res/RPRF-test/RF-1.5-1.5-3-1.5-2:
+map            	all	0.5949
+recip_rank     	all	0.6582
+TREC Scores of test_res/RPRF-test/RF-1.5-1.5-3-2.0-1:
+map            	all	0.6302
+recip_rank     	all	0.6754
+TREC Scores of test_res/RPRF-test/RF-1.5-1.5-3-2.0-2:
+map            	all	0.5812
+recip_rank     	all	0.6400
+TREC Scores of test_res/RPRF-test/RF-1.5-1.5-5-0-1:
+map            	all	0.6146
+recip_rank     	all	0.6823
+TREC Scores of test_res/RPRF-test/RF-1.5-1.5-5-0-2:
+map            	all	0.6290
+recip_rank     	all	0.7374
+TREC Scores of test_res/RPRF-test/RF-1.5-1.5-5-0.8-1:
+map            	all	0.6152
+recip_rank     	all	0.6823
+TREC Scores of test_res/RPRF-test/RF-1.5-1.5-5-0.8-2:
+map            	all	0.6240
+recip_rank     	all	0.7015
+TREC Scores of test_res/RPRF-test/RF-1.5-1.5-5-1.0-1:
+map            	all	0.6165
+recip_rank     	all	0.6823
+TREC Scores of test_res/RPRF-test/RF-1.5-1.5-5-1.0-2:
+map            	all	0.6102
+recip_rank     	all	0.6866
+TREC Scores of test_res/RPRF-test/RF-1.5-1.5-5-1.25-1:
+map            	all	0.6199
+recip_rank     	all	0.6812
+TREC Scores of test_res/RPRF-test/RF-1.5-1.5-5-1.25-2:
+map            	all	0.6118
+recip_rank     	all	0.6823
+TREC Scores of test_res/RPRF-test/RF-1.5-1.5-5-1.5-1:
+map            	all	0.6328
+recip_rank     	all	0.6961
+TREC Scores of test_res/RPRF-test/RF-1.5-1.5-5-1.5-2:
+map            	all	0.6008
+recip_rank     	all	0.6657
+TREC Scores of test_res/RPRF-test/RF-1.5-1.5-5-2.0-1:
+map            	all	0.6296
+recip_rank     	all	0.6795
+TREC Scores of test_res/RPRF-test/RF-1.5-1.5-5-2.0-2:
+map            	all	0.5774
+recip_rank     	all	0.6463
+TREC Scores of test_res/RPRF-test/RF-1.5-2.0-3-0-1:
+map            	all	0.6134
+recip_rank     	all	0.6800
+TREC Scores of test_res/RPRF-test/RF-1.5-2.0-3-0-2:
+map            	all	0.6256
+recip_rank     	all	0.7147
+TREC Scores of test_res/RPRF-test/RF-1.5-2.0-3-0.8-1:
+map            	all	0.6144
+recip_rank     	all	0.6800
+TREC Scores of test_res/RPRF-test/RF-1.5-2.0-3-0.8-2:
+map            	all	0.6249
+recip_rank     	all	0.6861
+TREC Scores of test_res/RPRF-test/RF-1.5-2.0-3-1.0-1:
+map            	all	0.6152
+recip_rank     	all	0.6800
+TREC Scores of test_res/RPRF-test/RF-1.5-2.0-3-1.0-2:
+map            	all	0.6169
+recip_rank     	all	0.6832
+TREC Scores of test_res/RPRF-test/RF-1.5-2.0-3-1.25-1:
+map            	all	0.6197
+recip_rank     	all	0.6823
+TREC Scores of test_res/RPRF-test/RF-1.5-2.0-3-1.25-2:
+map            	all	0.6126
+recip_rank     	all	0.6808
+TREC Scores of test_res/RPRF-test/RF-1.5-2.0-3-1.5-1:
+map            	all	0.6352
+recip_rank     	all	0.7043
+TREC Scores of test_res/RPRF-test/RF-1.5-2.0-3-1.5-2:
+map            	all	0.5942
+recip_rank     	all	0.6554
+TREC Scores of test_res/RPRF-test/RF-1.5-2.0-3-2.0-1:
+map            	all	0.6221
+recip_rank     	all	0.6666
+TREC Scores of test_res/RPRF-test/RF-1.5-2.0-3-2.0-2:
+map            	all	0.5792
+recip_rank     	all	0.6371
+TREC Scores of test_res/RPRF-test/RF-1.5-2.0-5-0-1:
+map            	all	0.6169
+recip_rank     	all	0.6893
+TREC Scores of test_res/RPRF-test/RF-1.5-2.0-5-0-2:
+map            	all	0.6289
+recip_rank     	all	0.7390
+TREC Scores of test_res/RPRF-test/RF-1.5-2.0-5-0.8-1:
+map            	all	0.6172
+recip_rank     	all	0.6893
+TREC Scores of test_res/RPRF-test/RF-1.5-2.0-5-0.8-2:
+map            	all	0.6256
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPRF-test/RF-1.5-2.0-5-1.0-1:
+map            	all	0.6188
+recip_rank     	all	0.6893
+TREC Scores of test_res/RPRF-test/RF-1.5-2.0-5-1.0-2:
+map            	all	0.6117
+recip_rank     	all	0.6883
+TREC Scores of test_res/RPRF-test/RF-1.5-2.0-5-1.25-1:
+map            	all	0.6215
+recip_rank     	all	0.6881
+TREC Scores of test_res/RPRF-test/RF-1.5-2.0-5-1.25-2:
+map            	all	0.6156
+recip_rank     	all	0.6859
+TREC Scores of test_res/RPRF-test/RF-1.5-2.0-5-1.5-1:
+map            	all	0.6309
+recip_rank     	all	0.6880
+TREC Scores of test_res/RPRF-test/RF-1.5-2.0-5-1.5-2:
+map            	all	0.5938
+recip_rank     	all	0.6614
+TREC Scores of test_res/RPRF-test/RF-1.5-2.0-5-2.0-1:
+map            	all	0.6266
+recip_rank     	all	0.6795
+TREC Scores of test_res/RPRF-test/RF-1.5-2.0-5-2.0-2:
+map            	all	0.5745
+recip_rank     	all	0.6425
+TREC Scores of test_res/RPRF-test/RF-2.0-0.5-3-0-1:
+map            	all	0.6094
+recip_rank     	all	0.7065
+TREC Scores of test_res/RPRF-test/RF-2.0-0.5-3-0-2:
+map            	all	0.6017
+recip_rank     	all	0.6977
+TREC Scores of test_res/RPRF-test/RF-2.0-0.5-3-0.8-1:
+map            	all	0.6100
+recip_rank     	all	0.6894
+TREC Scores of test_res/RPRF-test/RF-2.0-0.5-3-0.8-2:
+map            	all	0.5963
+recip_rank     	all	0.6811
+TREC Scores of test_res/RPRF-test/RF-2.0-0.5-3-1.0-1:
+map            	all	0.6142
+recip_rank     	all	0.6963
+TREC Scores of test_res/RPRF-test/RF-2.0-0.5-3-1.0-2:
+map            	all	0.5930
+recip_rank     	all	0.6664
+TREC Scores of test_res/RPRF-test/RF-2.0-0.5-3-1.25-1:
+map            	all	0.6194
+recip_rank     	all	0.7050
+TREC Scores of test_res/RPRF-test/RF-2.0-0.5-3-1.25-2:
+map            	all	0.5823
+recip_rank     	all	0.6539
+TREC Scores of test_res/RPRF-test/RF-2.0-0.5-3-1.5-1:
+map            	all	0.6191
+recip_rank     	all	0.6933
+TREC Scores of test_res/RPRF-test/RF-2.0-0.5-3-1.5-2:
+map            	all	0.5806
+recip_rank     	all	0.6515
+TREC Scores of test_res/RPRF-test/RF-2.0-0.5-3-2.0-1:
+map            	all	0.6187
+recip_rank     	all	0.6891
+TREC Scores of test_res/RPRF-test/RF-2.0-0.5-3-2.0-2:
+map            	all	0.5779
+recip_rank     	all	0.6345
+TREC Scores of test_res/RPRF-test/RF-2.0-0.5-5-0-1:
+map            	all	0.6032
+recip_rank     	all	0.6973
+TREC Scores of test_res/RPRF-test/RF-2.0-0.5-5-0-2:
+map            	all	0.5987
+recip_rank     	all	0.6930
+TREC Scores of test_res/RPRF-test/RF-2.0-0.5-5-0.8-1:
+map            	all	0.6122
+recip_rank     	all	0.6952
+TREC Scores of test_res/RPRF-test/RF-2.0-0.5-5-0.8-2:
+map            	all	0.5942
+recip_rank     	all	0.6788
+TREC Scores of test_res/RPRF-test/RF-2.0-0.5-5-1.0-1:
+map            	all	0.6164
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPRF-test/RF-2.0-0.5-5-1.0-2:
+map            	all	0.5901
+recip_rank     	all	0.6640
+TREC Scores of test_res/RPRF-test/RF-2.0-0.5-5-1.25-1:
+map            	all	0.6201
+recip_rank     	all	0.7053
+TREC Scores of test_res/RPRF-test/RF-2.0-0.5-5-1.25-2:
+map            	all	0.5789
+recip_rank     	all	0.6494
+TREC Scores of test_res/RPRF-test/RF-2.0-0.5-5-1.5-1:
+map            	all	0.6184
+recip_rank     	all	0.6933
+TREC Scores of test_res/RPRF-test/RF-2.0-0.5-5-1.5-2:
+map            	all	0.5774
+recip_rank     	all	0.6482
+TREC Scores of test_res/RPRF-test/RF-2.0-0.5-5-2.0-1:
+map            	all	0.6226
+recip_rank     	all	0.6975
+TREC Scores of test_res/RPRF-test/RF-2.0-0.5-5-2.0-2:
+map            	all	0.5755
+recip_rank     	all	0.6413
+TREC Scores of test_res/RPRF-test/RF-2.0-0.75-3-0-1:
+map            	all	0.6125
+recip_rank     	all	0.7036
+TREC Scores of test_res/RPRF-test/RF-2.0-0.75-3-0-2:
+map            	all	0.6224
+recip_rank     	all	0.7222
+TREC Scores of test_res/RPRF-test/RF-2.0-0.75-3-0.8-1:
+map            	all	0.6120
+recip_rank     	all	0.6944
+TREC Scores of test_res/RPRF-test/RF-2.0-0.75-3-0.8-2:
+map            	all	0.6094
+recip_rank     	all	0.6941
+TREC Scores of test_res/RPRF-test/RF-2.0-0.75-3-1.0-1:
+map            	all	0.6151
+recip_rank     	all	0.6944
+TREC Scores of test_res/RPRF-test/RF-2.0-0.75-3-1.0-2:
+map            	all	0.6042
+recip_rank     	all	0.6797
+TREC Scores of test_res/RPRF-test/RF-2.0-0.75-3-1.25-1:
+map            	all	0.6222
+recip_rank     	all	0.7100
+TREC Scores of test_res/RPRF-test/RF-2.0-0.75-3-1.25-2:
+map            	all	0.6016
+recip_rank     	all	0.6687
+TREC Scores of test_res/RPRF-test/RF-2.0-0.75-3-1.5-1:
+map            	all	0.6296
+recip_rank     	all	0.7108
+TREC Scores of test_res/RPRF-test/RF-2.0-0.75-3-1.5-2:
+map            	all	0.5927
+recip_rank     	all	0.6543
+TREC Scores of test_res/RPRF-test/RF-2.0-0.75-3-2.0-1:
+map            	all	0.6258
+recip_rank     	all	0.7001
+TREC Scores of test_res/RPRF-test/RF-2.0-0.75-3-2.0-2:
+map            	all	0.5857
+recip_rank     	all	0.6498
+TREC Scores of test_res/RPRF-test/RF-2.0-0.75-5-0-1:
+map            	all	0.6087
+recip_rank     	all	0.6944
+TREC Scores of test_res/RPRF-test/RF-2.0-0.75-5-0-2:
+map            	all	0.6108
+recip_rank     	all	0.6933
+TREC Scores of test_res/RPRF-test/RF-2.0-0.75-5-0.8-1:
+map            	all	0.6076
+recip_rank     	all	0.6851
+TREC Scores of test_res/RPRF-test/RF-2.0-0.75-5-0.8-2:
+map            	all	0.5985
+recip_rank     	all	0.6604
+TREC Scores of test_res/RPRF-test/RF-2.0-0.75-5-1.0-1:
+map            	all	0.6101
+recip_rank     	all	0.6851
+TREC Scores of test_res/RPRF-test/RF-2.0-0.75-5-1.0-2:
+map            	all	0.5929
+recip_rank     	all	0.6439
+TREC Scores of test_res/RPRF-test/RF-2.0-0.75-5-1.25-1:
+map            	all	0.6172
+recip_rank     	all	0.6985
+TREC Scores of test_res/RPRF-test/RF-2.0-0.75-5-1.25-2:
+map            	all	0.5931
+recip_rank     	all	0.6489
+TREC Scores of test_res/RPRF-test/RF-2.0-0.75-5-1.5-1:
+map            	all	0.6227
+recip_rank     	all	0.6946
+TREC Scores of test_res/RPRF-test/RF-2.0-0.75-5-1.5-2:
+map            	all	0.5853
+recip_rank     	all	0.6350
+TREC Scores of test_res/RPRF-test/RF-2.0-0.75-5-2.0-1:
+map            	all	0.6224
+recip_rank     	all	0.6861
+TREC Scores of test_res/RPRF-test/RF-2.0-0.75-5-2.0-2:
+map            	all	0.5756
+recip_rank     	all	0.6207
+TREC Scores of test_res/RPRF-test/RF-2.0-1.0-3-0-1:
+map            	all	0.6136
+recip_rank     	all	0.7009
+TREC Scores of test_res/RPRF-test/RF-2.0-1.0-3-0-2:
+map            	all	0.6312
+recip_rank     	all	0.7502
+TREC Scores of test_res/RPRF-test/RF-2.0-1.0-3-0.8-1:
+map            	all	0.6138
+recip_rank     	all	0.6939
+TREC Scores of test_res/RPRF-test/RF-2.0-1.0-3-0.8-2:
+map            	all	0.6143
+recip_rank     	all	0.7001
+TREC Scores of test_res/RPRF-test/RF-2.0-1.0-3-1.0-1:
+map            	all	0.6151
+recip_rank     	all	0.6939
+TREC Scores of test_res/RPRF-test/RF-2.0-1.0-3-1.0-2:
+map            	all	0.6107
+recip_rank     	all	0.6892
+TREC Scores of test_res/RPRF-test/RF-2.0-1.0-3-1.25-1:
+map            	all	0.6216
+recip_rank     	all	0.7030
+TREC Scores of test_res/RPRF-test/RF-2.0-1.0-3-1.25-2:
+map            	all	0.6026
+recip_rank     	all	0.6802
+TREC Scores of test_res/RPRF-test/RF-2.0-1.0-3-1.5-1:
+map            	all	0.6314
+recip_rank     	all	0.7124
+TREC Scores of test_res/RPRF-test/RF-2.0-1.0-3-1.5-2:
+map            	all	0.5907
+recip_rank     	all	0.6629
+TREC Scores of test_res/RPRF-test/RF-2.0-1.0-3-2.0-1:
+map            	all	0.6277
+recip_rank     	all	0.7007
+TREC Scores of test_res/RPRF-test/RF-2.0-1.0-3-2.0-2:
+map            	all	0.5891
+recip_rank     	all	0.6658
+TREC Scores of test_res/RPRF-test/RF-2.0-1.0-5-0-1:
+map            	all	0.6112
+recip_rank     	all	0.6941
+TREC Scores of test_res/RPRF-test/RF-2.0-1.0-5-0-2:
+map            	all	0.6251
+recip_rank     	all	0.7218
+TREC Scores of test_res/RPRF-test/RF-2.0-1.0-5-0.8-1:
+map            	all	0.6105
+recip_rank     	all	0.6872
+TREC Scores of test_res/RPRF-test/RF-2.0-1.0-5-0.8-2:
+map            	all	0.6082
+recip_rank     	all	0.6748
+TREC Scores of test_res/RPRF-test/RF-2.0-1.0-5-1.0-1:
+map            	all	0.6120
+recip_rank     	all	0.6872
+TREC Scores of test_res/RPRF-test/RF-2.0-1.0-5-1.0-2:
+map            	all	0.6027
+recip_rank     	all	0.6685
+TREC Scores of test_res/RPRF-test/RF-2.0-1.0-5-1.25-1:
+map            	all	0.6161
+recip_rank     	all	0.6858
+TREC Scores of test_res/RPRF-test/RF-2.0-1.0-5-1.25-2:
+map            	all	0.5971
+recip_rank     	all	0.6602
+TREC Scores of test_res/RPRF-test/RF-2.0-1.0-5-1.5-1:
+map            	all	0.6261
+recip_rank     	all	0.6962
+TREC Scores of test_res/RPRF-test/RF-2.0-1.0-5-1.5-2:
+map            	all	0.5894
+recip_rank     	all	0.6470
+TREC Scores of test_res/RPRF-test/RF-2.0-1.0-5-2.0-1:
+map            	all	0.6187
+recip_rank     	all	0.6813
+TREC Scores of test_res/RPRF-test/RF-2.0-1.0-5-2.0-2:
+map            	all	0.5814
+recip_rank     	all	0.6366
+TREC Scores of test_res/RPRF-test/RF-2.0-1.5-3-0-1:
+map            	all	0.6129
+recip_rank     	all	0.7009
+TREC Scores of test_res/RPRF-test/RF-2.0-1.5-3-0-2:
+map            	all	0.6294
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPRF-test/RF-2.0-1.5-3-0.8-1:
+map            	all	0.6123
+recip_rank     	all	0.6939
+TREC Scores of test_res/RPRF-test/RF-2.0-1.5-3-0.8-2:
+map            	all	0.6183
+recip_rank     	all	0.6835
+TREC Scores of test_res/RPRF-test/RF-2.0-1.5-3-1.0-1:
+map            	all	0.6142
+recip_rank     	all	0.6939
+TREC Scores of test_res/RPRF-test/RF-2.0-1.5-3-1.0-2:
+map            	all	0.6123
+recip_rank     	all	0.6767
+TREC Scores of test_res/RPRF-test/RF-2.0-1.5-3-1.25-1:
+map            	all	0.6179
+recip_rank     	all	0.6962
+TREC Scores of test_res/RPRF-test/RF-2.0-1.5-3-1.25-2:
+map            	all	0.6042
+recip_rank     	all	0.6686
+TREC Scores of test_res/RPRF-test/RF-2.0-1.5-3-1.5-1:
+map            	all	0.6310
+recip_rank     	all	0.7180
+TREC Scores of test_res/RPRF-test/RF-2.0-1.5-3-1.5-2:
+map            	all	0.5921
+recip_rank     	all	0.6650
+TREC Scores of test_res/RPRF-test/RF-2.0-1.5-3-2.0-1:
+map            	all	0.6286
+recip_rank     	all	0.7019
+TREC Scores of test_res/RPRF-test/RF-2.0-1.5-3-2.0-2:
+map            	all	0.5805
+recip_rank     	all	0.6481
+TREC Scores of test_res/RPRF-test/RF-2.0-1.5-5-0-1:
+map            	all	0.6126
+recip_rank     	all	0.6941
+TREC Scores of test_res/RPRF-test/RF-2.0-1.5-5-0-2:
+map            	all	0.6225
+recip_rank     	all	0.7141
+TREC Scores of test_res/RPRF-test/RF-2.0-1.5-5-0.8-1:
+map            	all	0.6123
+recip_rank     	all	0.6872
+TREC Scores of test_res/RPRF-test/RF-2.0-1.5-5-0.8-2:
+map            	all	0.6101
+recip_rank     	all	0.6675
+TREC Scores of test_res/RPRF-test/RF-2.0-1.5-5-1.0-1:
+map            	all	0.6133
+recip_rank     	all	0.6872
+TREC Scores of test_res/RPRF-test/RF-2.0-1.5-5-1.0-2:
+map            	all	0.5991
+recip_rank     	all	0.6579
+TREC Scores of test_res/RPRF-test/RF-2.0-1.5-5-1.25-1:
+map            	all	0.6169
+recip_rank     	all	0.6858
+TREC Scores of test_res/RPRF-test/RF-2.0-1.5-5-1.25-2:
+map            	all	0.5980
+recip_rank     	all	0.6529
+TREC Scores of test_res/RPRF-test/RF-2.0-1.5-5-1.5-1:
+map            	all	0.6274
+recip_rank     	all	0.7002
+TREC Scores of test_res/RPRF-test/RF-2.0-1.5-5-1.5-2:
+map            	all	0.5907
+recip_rank     	all	0.6436
+TREC Scores of test_res/RPRF-test/RF-2.0-1.5-5-2.0-1:
+map            	all	0.6238
+recip_rank     	all	0.6836
+TREC Scores of test_res/RPRF-test/RF-2.0-1.5-5-2.0-2:
+map            	all	0.5723
+recip_rank     	all	0.6222
+TREC Scores of test_res/RPRF-test/RF-2.0-2.0-3-0-1:
+map            	all	0.6149
+recip_rank     	all	0.7020
+TREC Scores of test_res/RPRF-test/RF-2.0-2.0-3-0-2:
+map            	all	0.6335
+recip_rank     	all	0.7384
+TREC Scores of test_res/RPRF-test/RF-2.0-2.0-3-0.8-1:
+map            	all	0.6157
+recip_rank     	all	0.7020
+TREC Scores of test_res/RPRF-test/RF-2.0-2.0-3-0.8-2:
+map            	all	0.6231
+recip_rank     	all	0.6894
+TREC Scores of test_res/RPRF-test/RF-2.0-2.0-3-1.0-1:
+map            	all	0.6167
+recip_rank     	all	0.7020
+TREC Scores of test_res/RPRF-test/RF-2.0-2.0-3-1.0-2:
+map            	all	0.6150
+recip_rank     	all	0.6826
+TREC Scores of test_res/RPRF-test/RF-2.0-2.0-3-1.25-1:
+map            	all	0.6204
+recip_rank     	all	0.7043
+TREC Scores of test_res/RPRF-test/RF-2.0-2.0-3-1.25-2:
+map            	all	0.6159
+recip_rank     	all	0.6954
+TREC Scores of test_res/RPRF-test/RF-2.0-2.0-3-1.5-1:
+map            	all	0.6338
+recip_rank     	all	0.7263
+TREC Scores of test_res/RPRF-test/RF-2.0-2.0-3-1.5-2:
+map            	all	0.5943
+recip_rank     	all	0.6681
+TREC Scores of test_res/RPRF-test/RF-2.0-2.0-3-2.0-1:
+map            	all	0.6315
+recip_rank     	all	0.7031
+TREC Scores of test_res/RPRF-test/RF-2.0-2.0-3-2.0-2:
+map            	all	0.5885
+recip_rank     	all	0.6538
+TREC Scores of test_res/RPRF-test/RF-2.0-2.0-5-0-1:
+map            	all	0.6161
+recip_rank     	all	0.7022
+TREC Scores of test_res/RPRF-test/RF-2.0-2.0-5-0-2:
+map            	all	0.6310
+recip_rank     	all	0.7288
+TREC Scores of test_res/RPRF-test/RF-2.0-2.0-5-0.8-1:
+map            	all	0.6160
+recip_rank     	all	0.6953
+TREC Scores of test_res/RPRF-test/RF-2.0-2.0-5-0.8-2:
+map            	all	0.6172
+recip_rank     	all	0.6807
+TREC Scores of test_res/RPRF-test/RF-2.0-2.0-5-1.0-1:
+map            	all	0.6167
+recip_rank     	all	0.6953
+TREC Scores of test_res/RPRF-test/RF-2.0-2.0-5-1.0-2:
+map            	all	0.6074
+recip_rank     	all	0.6745
+TREC Scores of test_res/RPRF-test/RF-2.0-2.0-5-1.25-1:
+map            	all	0.6198
+recip_rank     	all	0.6951
+TREC Scores of test_res/RPRF-test/RF-2.0-2.0-5-1.25-2:
+map            	all	0.6071
+recip_rank     	all	0.6692
+TREC Scores of test_res/RPRF-test/RF-2.0-2.0-5-1.5-1:
+map            	all	0.6277
+recip_rank     	all	0.7009
+TREC Scores of test_res/RPRF-test/RF-2.0-2.0-5-1.5-2:
+map            	all	0.6016
+recip_rank     	all	0.6610
+TREC Scores of test_res/RPRF-test/RF-2.0-2.0-5-2.0-1:
+map            	all	0.6315
+recip_rank     	all	0.6958
+TREC Scores of test_res/RPRF-test/RF-2.0-2.0-5-2.0-2:
+map            	all	0.5786
+recip_rank     	all	0.6339

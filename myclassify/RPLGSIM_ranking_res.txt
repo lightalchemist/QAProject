@@ -1,0 +1,2881 @@
+Classifier: RPLGSIM
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-0.5-3-0-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-0.5-3-0-2:
+map            	all	0.7329
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-0.5-3-0.8-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-0.5-3-0.8-2:
+map            	all	0.7230
+recip_rank     	all	0.7660
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-0.5-3-1.0-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-0.5-3-1.0-2:
+map            	all	0.7101
+recip_rank     	all	0.7597
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-0.5-3-1.25-1:
+map            	all	0.7331
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-0.5-3-1.25-2:
+map            	all	0.6940
+recip_rank     	all	0.7373
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-0.5-3-1.5-1:
+map            	all	0.7376
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-0.5-3-1.5-2:
+map            	all	0.6826
+recip_rank     	all	0.7203
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-0.5-3-2.0-1:
+map            	all	0.7165
+recip_rank     	all	0.7629
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-0.5-3-2.0-2:
+map            	all	0.6439
+recip_rank     	all	0.6706
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-0.5-5-0-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-0.5-5-0-2:
+map            	all	0.7329
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-0.5-5-0.8-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-0.5-5-0.8-2:
+map            	all	0.7234
+recip_rank     	all	0.7662
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-0.5-5-1.0-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-0.5-5-1.0-2:
+map            	all	0.7105
+recip_rank     	all	0.7573
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-0.5-5-1.25-1:
+map            	all	0.7331
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-0.5-5-1.25-2:
+map            	all	0.6945
+recip_rank     	all	0.7383
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-0.5-5-1.5-1:
+map            	all	0.7377
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-0.5-5-1.5-2:
+map            	all	0.6827
+recip_rank     	all	0.7192
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-0.5-5-2.0-1:
+map            	all	0.7173
+recip_rank     	all	0.7629
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-0.5-5-2.0-2:
+map            	all	0.6443
+recip_rank     	all	0.6707
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-0.75-3-0-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-0.75-3-0-2:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-0.75-3-0.8-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-0.75-3-0.8-2:
+map            	all	0.7245
+recip_rank     	all	0.7668
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-0.75-3-1.0-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-0.75-3-1.0-2:
+map            	all	0.7087
+recip_rank     	all	0.7510
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-0.75-3-1.25-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-0.75-3-1.25-2:
+map            	all	0.6896
+recip_rank     	all	0.7267
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-0.75-3-1.5-1:
+map            	all	0.7399
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-0.75-3-1.5-2:
+map            	all	0.6739
+recip_rank     	all	0.7112
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-0.75-3-2.0-1:
+map            	all	0.7153
+recip_rank     	all	0.7571
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-0.75-3-2.0-2:
+map            	all	0.6460
+recip_rank     	all	0.6765
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-0.75-5-0-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-0.75-5-0-2:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-0.75-5-0.8-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-0.75-5-0.8-2:
+map            	all	0.7245
+recip_rank     	all	0.7667
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-0.75-5-1.0-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-0.75-5-1.0-2:
+map            	all	0.7102
+recip_rank     	all	0.7509
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-0.75-5-1.25-1:
+map            	all	0.7331
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-0.75-5-1.25-2:
+map            	all	0.6893
+recip_rank     	all	0.7268
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-0.75-5-1.5-1:
+map            	all	0.7400
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-0.75-5-1.5-2:
+map            	all	0.6740
+recip_rank     	all	0.7124
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-0.75-5-2.0-1:
+map            	all	0.7155
+recip_rank     	all	0.7571
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-0.75-5-2.0-2:
+map            	all	0.6457
+recip_rank     	all	0.6765
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-1.0-3-0-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-1.0-3-0-2:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-1.0-3-0.8-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-1.0-3-0.8-2:
+map            	all	0.7235
+recip_rank     	all	0.7643
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-1.0-3-1.0-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-1.0-3-1.0-2:
+map            	all	0.7053
+recip_rank     	all	0.7437
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-1.0-3-1.25-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-1.0-3-1.25-2:
+map            	all	0.6891
+recip_rank     	all	0.7274
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-1.0-3-1.5-1:
+map            	all	0.7397
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-1.0-3-1.5-2:
+map            	all	0.6731
+recip_rank     	all	0.7104
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-1.0-3-2.0-1:
+map            	all	0.7142
+recip_rank     	all	0.7571
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-1.0-3-2.0-2:
+map            	all	0.6419
+recip_rank     	all	0.6725
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-1.0-5-0-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-1.0-5-0-2:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-1.0-5-0.8-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-1.0-5-0.8-2:
+map            	all	0.7223
+recip_rank     	all	0.7642
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-1.0-5-1.0-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-1.0-5-1.0-2:
+map            	all	0.7054
+recip_rank     	all	0.7413
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-1.0-5-1.25-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-1.0-5-1.25-2:
+map            	all	0.6937
+recip_rank     	all	0.7362
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-1.0-5-1.5-1:
+map            	all	0.7365
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-1.0-5-1.5-2:
+map            	all	0.6724
+recip_rank     	all	0.7099
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-1.0-5-2.0-1:
+map            	all	0.7163
+recip_rank     	all	0.7571
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-1.0-5-2.0-2:
+map            	all	0.6423
+recip_rank     	all	0.6737
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-1.5-3-0-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-1.5-3-0-2:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-1.5-3-0.8-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-1.5-3-0.8-2:
+map            	all	0.7239
+recip_rank     	all	0.7640
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-1.5-3-1.0-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-1.5-3-1.0-2:
+map            	all	0.7077
+recip_rank     	all	0.7497
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-1.5-3-1.25-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-1.5-3-1.25-2:
+map            	all	0.6845
+recip_rank     	all	0.7225
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-1.5-3-1.5-1:
+map            	all	0.7366
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-1.5-3-1.5-2:
+map            	all	0.6701
+recip_rank     	all	0.7082
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-1.5-3-2.0-1:
+map            	all	0.7138
+recip_rank     	all	0.7571
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-1.5-3-2.0-2:
+map            	all	0.6385
+recip_rank     	all	0.6698
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-1.5-5-0-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-1.5-5-0-2:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-1.5-5-0.8-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-1.5-5-0.8-2:
+map            	all	0.7173
+recip_rank     	all	0.7544
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-1.5-5-1.0-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-1.5-5-1.0-2:
+map            	all	0.7056
+recip_rank     	all	0.7413
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-1.5-5-1.25-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-1.5-5-1.25-2:
+map            	all	0.6879
+recip_rank     	all	0.7289
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-1.5-5-1.5-1:
+map            	all	0.7346
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-1.5-5-1.5-2:
+map            	all	0.6679
+recip_rank     	all	0.7070
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-1.5-5-2.0-1:
+map            	all	0.7131
+recip_rank     	all	0.7499
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-1.5-5-2.0-2:
+map            	all	0.6405
+recip_rank     	all	0.6722
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-2.0-3-0-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-2.0-3-0-2:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-2.0-3-0.8-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-2.0-3-0.8-2:
+map            	all	0.7201
+recip_rank     	all	0.7640
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-2.0-3-1.0-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-2.0-3-1.0-2:
+map            	all	0.6979
+recip_rank     	all	0.7352
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-2.0-3-1.25-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-2.0-3-1.25-2:
+map            	all	0.6850
+recip_rank     	all	0.7225
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-2.0-3-1.5-1:
+map            	all	0.7354
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-2.0-3-1.5-2:
+map            	all	0.6677
+recip_rank     	all	0.7055
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-2.0-3-2.0-1:
+map            	all	0.7142
+recip_rank     	all	0.7547
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-2.0-3-2.0-2:
+map            	all	0.6361
+recip_rank     	all	0.6674
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-2.0-5-0-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-2.0-5-0-2:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-2.0-5-0.8-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-2.0-5-0.8-2:
+map            	all	0.7170
+recip_rank     	all	0.7544
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-2.0-5-1.0-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-2.0-5-1.0-2:
+map            	all	0.6989
+recip_rank     	all	0.7334
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-2.0-5-1.25-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-2.0-5-1.25-2:
+map            	all	0.6873
+recip_rank     	all	0.7268
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-2.0-5-1.5-1:
+map            	all	0.7345
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-2.0-5-1.5-2:
+map            	all	0.6661
+recip_rank     	all	0.7055
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-2.0-5-2.0-1:
+map            	all	0.7157
+recip_rank     	all	0.7571
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-0.5-2.0-5-2.0-2:
+map            	all	0.6381
+recip_rank     	all	0.6698
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-0.5-3-0-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-0.5-3-0-2:
+map            	all	0.7310
+recip_rank     	all	0.8024
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-0.5-3-0.8-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-0.5-3-0.8-2:
+map            	all	0.7192
+recip_rank     	all	0.7754
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-0.5-3-1.0-1:
+map            	all	0.7319
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-0.5-3-1.0-2:
+map            	all	0.7093
+recip_rank     	all	0.7602
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-0.5-3-1.25-1:
+map            	all	0.7343
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-0.5-3-1.25-2:
+map            	all	0.7043
+recip_rank     	all	0.7566
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-0.5-3-1.5-1:
+map            	all	0.7370
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-0.5-3-1.5-2:
+map            	all	0.6845
+recip_rank     	all	0.7242
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-0.5-3-2.0-1:
+map            	all	0.7182
+recip_rank     	all	0.7727
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-0.5-3-2.0-2:
+map            	all	0.6546
+recip_rank     	all	0.6884
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-0.5-5-0-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-0.5-5-0-2:
+map            	all	0.7308
+recip_rank     	all	0.8024
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-0.5-5-0.8-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-0.5-5-0.8-2:
+map            	all	0.7201
+recip_rank     	all	0.7825
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-0.5-5-1.0-1:
+map            	all	0.7319
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-0.5-5-1.0-2:
+map            	all	0.7103
+recip_rank     	all	0.7610
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-0.5-5-1.25-1:
+map            	all	0.7344
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-0.5-5-1.25-2:
+map            	all	0.7046
+recip_rank     	all	0.7566
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-0.5-5-1.5-1:
+map            	all	0.7378
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-0.5-5-1.5-2:
+map            	all	0.6846
+recip_rank     	all	0.7297
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-0.5-5-2.0-1:
+map            	all	0.7184
+recip_rank     	all	0.7727
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-0.5-5-2.0-2:
+map            	all	0.6547
+recip_rank     	all	0.6883
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-0.75-3-0-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-0.75-3-0-2:
+map            	all	0.7321
+recip_rank     	all	0.8024
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-0.75-3-0.8-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-0.75-3-0.8-2:
+map            	all	0.7206
+recip_rank     	all	0.7700
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-0.75-3-1.0-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-0.75-3-1.0-2:
+map            	all	0.7090
+recip_rank     	all	0.7559
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-0.75-3-1.25-1:
+map            	all	0.7339
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-0.75-3-1.25-2:
+map            	all	0.6955
+recip_rank     	all	0.7408
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-0.75-3-1.5-1:
+map            	all	0.7371
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-0.75-3-1.5-2:
+map            	all	0.6842
+recip_rank     	all	0.7283
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-0.75-3-2.0-1:
+map            	all	0.7156
+recip_rank     	all	0.7708
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-0.75-3-2.0-2:
+map            	all	0.6460
+recip_rank     	all	0.6796
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-0.75-5-0-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-0.75-5-0-2:
+map            	all	0.7322
+recip_rank     	all	0.8024
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-0.75-5-0.8-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-0.75-5-0.8-2:
+map            	all	0.7210
+recip_rank     	all	0.7699
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-0.75-5-1.0-1:
+map            	all	0.7331
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-0.75-5-1.0-2:
+map            	all	0.7099
+recip_rank     	all	0.7552
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-0.75-5-1.25-1:
+map            	all	0.7339
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-0.75-5-1.25-2:
+map            	all	0.6975
+recip_rank     	all	0.7431
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-0.75-5-1.5-1:
+map            	all	0.7377
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-0.75-5-1.5-2:
+map            	all	0.6841
+recip_rank     	all	0.7281
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-0.75-5-2.0-1:
+map            	all	0.7178
+recip_rank     	all	0.7706
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-0.75-5-2.0-2:
+map            	all	0.6470
+recip_rank     	all	0.6804
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-1.0-3-0-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-1.0-3-0-2:
+map            	all	0.7321
+recip_rank     	all	0.8024
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-1.0-3-0.8-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-1.0-3-0.8-2:
+map            	all	0.7174
+recip_rank     	all	0.7675
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-1.0-3-1.0-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-1.0-3-1.0-2:
+map            	all	0.7090
+recip_rank     	all	0.7518
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-1.0-3-1.25-1:
+map            	all	0.7338
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-1.0-3-1.25-2:
+map            	all	0.6946
+recip_rank     	all	0.7359
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-1.0-3-1.5-1:
+map            	all	0.7395
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-1.0-3-1.5-2:
+map            	all	0.6832
+recip_rank     	all	0.7219
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-1.0-3-2.0-1:
+map            	all	0.7186
+recip_rank     	all	0.7686
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-1.0-3-2.0-2:
+map            	all	0.6508
+recip_rank     	all	0.6890
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-1.0-5-0-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-1.0-5-0-2:
+map            	all	0.7330
+recip_rank     	all	0.8024
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-1.0-5-0.8-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-1.0-5-0.8-2:
+map            	all	0.7198
+recip_rank     	all	0.7669
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-1.0-5-1.0-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-1.0-5-1.0-2:
+map            	all	0.7103
+recip_rank     	all	0.7540
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-1.0-5-1.25-1:
+map            	all	0.7338
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-1.0-5-1.25-2:
+map            	all	0.6977
+recip_rank     	all	0.7405
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-1.0-5-1.5-1:
+map            	all	0.7395
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-1.0-5-1.5-2:
+map            	all	0.6835
+recip_rank     	all	0.7209
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-1.0-5-2.0-1:
+map            	all	0.7185
+recip_rank     	all	0.7623
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-1.0-5-2.0-2:
+map            	all	0.6522
+recip_rank     	all	0.6893
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-1.5-3-0-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-1.5-3-0-2:
+map            	all	0.7329
+recip_rank     	all	0.8031
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-1.5-3-0.8-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-1.5-3-0.8-2:
+map            	all	0.7164
+recip_rank     	all	0.7662
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-1.5-3-1.0-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-1.5-3-1.0-2:
+map            	all	0.6994
+recip_rank     	all	0.7381
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-1.5-3-1.25-1:
+map            	all	0.7325
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-1.5-3-1.25-2:
+map            	all	0.6922
+recip_rank     	all	0.7344
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-1.5-3-1.5-1:
+map            	all	0.7362
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-1.5-3-1.5-2:
+map            	all	0.6778
+recip_rank     	all	0.7166
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-1.5-3-2.0-1:
+map            	all	0.7191
+recip_rank     	all	0.7698
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-1.5-3-2.0-2:
+map            	all	0.6495
+recip_rank     	all	0.6870
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-1.5-5-0-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-1.5-5-0-2:
+map            	all	0.7345
+recip_rank     	all	0.8024
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-1.5-5-0.8-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-1.5-5-0.8-2:
+map            	all	0.7189
+recip_rank     	all	0.7608
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-1.5-5-1.0-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-1.5-5-1.0-2:
+map            	all	0.7029
+recip_rank     	all	0.7420
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-1.5-5-1.25-1:
+map            	all	0.7328
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-1.5-5-1.25-2:
+map            	all	0.6915
+recip_rank     	all	0.7322
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-1.5-5-1.5-1:
+map            	all	0.7340
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-1.5-5-1.5-2:
+map            	all	0.6776
+recip_rank     	all	0.7133
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-1.5-5-2.0-1:
+map            	all	0.7153
+recip_rank     	all	0.7551
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-1.5-5-2.0-2:
+map            	all	0.6498
+recip_rank     	all	0.6861
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-2.0-3-0-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-2.0-3-0-2:
+map            	all	0.7332
+recip_rank     	all	0.8031
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-2.0-3-0.8-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-2.0-3-0.8-2:
+map            	all	0.7206
+recip_rank     	all	0.7736
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-2.0-3-1.0-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-2.0-3-1.0-2:
+map            	all	0.6995
+recip_rank     	all	0.7380
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-2.0-3-1.25-1:
+map            	all	0.7324
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-2.0-3-1.25-2:
+map            	all	0.6933
+recip_rank     	all	0.7342
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-2.0-3-1.5-1:
+map            	all	0.7353
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-2.0-3-1.5-2:
+map            	all	0.6783
+recip_rank     	all	0.7189
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-2.0-3-2.0-1:
+map            	all	0.7125
+recip_rank     	all	0.7614
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-2.0-3-2.0-2:
+map            	all	0.6479
+recip_rank     	all	0.6858
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-2.0-5-0-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-2.0-5-0-2:
+map            	all	0.7346
+recip_rank     	all	0.8024
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-2.0-5-0.8-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-2.0-5-0.8-2:
+map            	all	0.7193
+recip_rank     	all	0.7610
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-2.0-5-1.0-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-2.0-5-1.0-2:
+map            	all	0.7054
+recip_rank     	all	0.7444
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-2.0-5-1.25-1:
+map            	all	0.7328
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-2.0-5-1.25-2:
+map            	all	0.6924
+recip_rank     	all	0.7322
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-2.0-5-1.5-1:
+map            	all	0.7340
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-2.0-5-1.5-2:
+map            	all	0.6761
+recip_rank     	all	0.7121
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-2.0-5-2.0-1:
+map            	all	0.7108
+recip_rank     	all	0.7504
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.0-2.0-5-2.0-2:
+map            	all	0.6497
+recip_rank     	all	0.6863
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-0.5-3-0-1:
+map            	all	0.7311
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-0.5-3-0-2:
+map            	all	0.7331
+recip_rank     	all	0.8090
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-0.5-3-0.8-1:
+map            	all	0.7284
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-0.5-3-0.8-2:
+map            	all	0.7217
+recip_rank     	all	0.7842
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-0.5-3-1.0-1:
+map            	all	0.7298
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-0.5-3-1.0-2:
+map            	all	0.7186
+recip_rank     	all	0.7792
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-0.5-3-1.25-1:
+map            	all	0.7331
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-0.5-3-1.25-2:
+map            	all	0.7034
+recip_rank     	all	0.7644
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-0.5-3-1.5-1:
+map            	all	0.7349
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-0.5-3-1.5-2:
+map            	all	0.6883
+recip_rank     	all	0.7435
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-0.5-3-2.0-1:
+map            	all	0.7164
+recip_rank     	all	0.7823
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-0.5-3-2.0-2:
+map            	all	0.6629
+recip_rank     	all	0.7057
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-0.5-5-0-1:
+map            	all	0.7314
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-0.5-5-0-2:
+map            	all	0.7323
+recip_rank     	all	0.8071
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-0.5-5-0.8-1:
+map            	all	0.7287
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-0.5-5-0.8-2:
+map            	all	0.7240
+recip_rank     	all	0.7965
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-0.5-5-1.0-1:
+map            	all	0.7301
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-0.5-5-1.0-2:
+map            	all	0.7186
+recip_rank     	all	0.7778
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-0.5-5-1.25-1:
+map            	all	0.7334
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-0.5-5-1.25-2:
+map            	all	0.7037
+recip_rank     	all	0.7617
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-0.5-5-1.5-1:
+map            	all	0.7347
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-0.5-5-1.5-2:
+map            	all	0.6882
+recip_rank     	all	0.7413
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-0.5-5-2.0-1:
+map            	all	0.7176
+recip_rank     	all	0.7823
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-0.5-5-2.0-2:
+map            	all	0.6624
+recip_rank     	all	0.7031
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-0.75-3-0-1:
+map            	all	0.7316
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-0.75-3-0-2:
+map            	all	0.7339
+recip_rank     	all	0.8043
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-0.75-3-0.8-1:
+map            	all	0.7316
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-0.75-3-0.8-2:
+map            	all	0.7212
+recip_rank     	all	0.7786
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-0.75-3-1.0-1:
+map            	all	0.7312
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-0.75-3-1.0-2:
+map            	all	0.7080
+recip_rank     	all	0.7583
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-0.75-3-1.25-1:
+map            	all	0.7334
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-0.75-3-1.25-2:
+map            	all	0.7016
+recip_rank     	all	0.7520
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-0.75-3-1.5-1:
+map            	all	0.7355
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-0.75-3-1.5-2:
+map            	all	0.6890
+recip_rank     	all	0.7318
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-0.75-3-2.0-1:
+map            	all	0.7157
+recip_rank     	all	0.7799
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-0.75-3-2.0-2:
+map            	all	0.6688
+recip_rank     	all	0.7129
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-0.75-5-0-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-0.75-5-0-2:
+map            	all	0.7324
+recip_rank     	all	0.8031
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-0.75-5-0.8-1:
+map            	all	0.7331
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-0.75-5-0.8-2:
+map            	all	0.7217
+recip_rank     	all	0.7852
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-0.75-5-1.0-1:
+map            	all	0.7320
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-0.75-5-1.0-2:
+map            	all	0.7095
+recip_rank     	all	0.7590
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-0.75-5-1.25-1:
+map            	all	0.7324
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-0.75-5-1.25-2:
+map            	all	0.6980
+recip_rank     	all	0.7418
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-0.75-5-1.5-1:
+map            	all	0.7384
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-0.75-5-1.5-2:
+map            	all	0.6892
+recip_rank     	all	0.7313
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-0.75-5-2.0-1:
+map            	all	0.7188
+recip_rank     	all	0.7781
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-0.75-5-2.0-2:
+map            	all	0.6572
+recip_rank     	all	0.6991
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-1.0-3-0-1:
+map            	all	0.7323
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-1.0-3-0-2:
+map            	all	0.7330
+recip_rank     	all	0.8043
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-1.0-3-0.8-1:
+map            	all	0.7323
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-1.0-3-0.8-2:
+map            	all	0.7183
+recip_rank     	all	0.7769
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-1.0-3-1.0-1:
+map            	all	0.7321
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-1.0-3-1.0-2:
+map            	all	0.7069
+recip_rank     	all	0.7560
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-1.0-3-1.25-1:
+map            	all	0.7324
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-1.0-3-1.25-2:
+map            	all	0.6987
+recip_rank     	all	0.7432
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-1.0-3-1.5-1:
+map            	all	0.7349
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-1.0-3-1.5-2:
+map            	all	0.6855
+recip_rank     	all	0.7270
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-1.0-3-2.0-1:
+map            	all	0.7158
+recip_rank     	all	0.7730
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-1.0-3-2.0-2:
+map            	all	0.6543
+recip_rank     	all	0.6945
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-1.0-5-0-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-1.0-5-0-2:
+map            	all	0.7338
+recip_rank     	all	0.8043
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-1.0-5-0.8-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-1.0-5-0.8-2:
+map            	all	0.7226
+recip_rank     	all	0.7825
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-1.0-5-1.0-1:
+map            	all	0.7328
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-1.0-5-1.0-2:
+map            	all	0.7057
+recip_rank     	all	0.7536
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-1.0-5-1.25-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-1.0-5-1.25-2:
+map            	all	0.7053
+recip_rank     	all	0.7548
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-1.0-5-1.5-1:
+map            	all	0.7389
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-1.0-5-1.5-2:
+map            	all	0.6799
+recip_rank     	all	0.7158
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-1.0-5-2.0-1:
+map            	all	0.7178
+recip_rank     	all	0.7745
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-1.0-5-2.0-2:
+map            	all	0.6556
+recip_rank     	all	0.6936
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-1.5-3-0-1:
+map            	all	0.7323
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-1.5-3-0-2:
+map            	all	0.7323
+recip_rank     	all	0.8043
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-1.5-3-0.8-1:
+map            	all	0.7323
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-1.5-3-0.8-2:
+map            	all	0.7185
+recip_rank     	all	0.7739
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-1.5-3-1.0-1:
+map            	all	0.7320
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-1.5-3-1.0-2:
+map            	all	0.7043
+recip_rank     	all	0.7525
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-1.5-3-1.25-1:
+map            	all	0.7333
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-1.5-3-1.25-2:
+map            	all	0.6952
+recip_rank     	all	0.7381
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-1.5-3-1.5-1:
+map            	all	0.7332
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-1.5-3-1.5-2:
+map            	all	0.6802
+recip_rank     	all	0.7185
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-1.5-3-2.0-1:
+map            	all	0.7189
+recip_rank     	all	0.7757
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-1.5-3-2.0-2:
+map            	all	0.6551
+recip_rank     	all	0.6943
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-1.5-5-0-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-1.5-5-0-2:
+map            	all	0.7331
+recip_rank     	all	0.8043
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-1.5-5-0.8-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-1.5-5-0.8-2:
+map            	all	0.7211
+recip_rank     	all	0.7775
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-1.5-5-1.0-1:
+map            	all	0.7331
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-1.5-5-1.0-2:
+map            	all	0.7038
+recip_rank     	all	0.7490
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-1.5-5-1.25-1:
+map            	all	0.7340
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-1.5-5-1.25-2:
+map            	all	0.6926
+recip_rank     	all	0.7357
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-1.5-5-1.5-1:
+map            	all	0.7342
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-1.5-5-1.5-2:
+map            	all	0.6783
+recip_rank     	all	0.7167
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-1.5-5-2.0-1:
+map            	all	0.7182
+recip_rank     	all	0.7721
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-1.5-5-2.0-2:
+map            	all	0.6522
+recip_rank     	all	0.6897
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-2.0-3-0-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-2.0-3-0-2:
+map            	all	0.7324
+recip_rank     	all	0.8043
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-2.0-3-0.8-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-2.0-3-0.8-2:
+map            	all	0.7185
+recip_rank     	all	0.7737
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-2.0-3-1.0-1:
+map            	all	0.7327
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-2.0-3-1.0-2:
+map            	all	0.7010
+recip_rank     	all	0.7468
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-2.0-3-1.25-1:
+map            	all	0.7340
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-2.0-3-1.25-2:
+map            	all	0.6950
+recip_rank     	all	0.7381
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-2.0-3-1.5-1:
+map            	all	0.7338
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-2.0-3-1.5-2:
+map            	all	0.6812
+recip_rank     	all	0.7197
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-2.0-3-2.0-1:
+map            	all	0.7121
+recip_rank     	all	0.7667
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-2.0-3-2.0-2:
+map            	all	0.6548
+recip_rank     	all	0.6944
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-2.0-5-0-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-2.0-5-0-2:
+map            	all	0.7335
+recip_rank     	all	0.8043
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-2.0-5-0.8-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-2.0-5-0.8-2:
+map            	all	0.7147
+recip_rank     	all	0.7625
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-2.0-5-1.0-1:
+map            	all	0.7330
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-2.0-5-1.0-2:
+map            	all	0.7039
+recip_rank     	all	0.7488
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-2.0-5-1.25-1:
+map            	all	0.7333
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-2.0-5-1.25-2:
+map            	all	0.6935
+recip_rank     	all	0.7356
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-2.0-5-1.5-1:
+map            	all	0.7339
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-2.0-5-1.5-2:
+map            	all	0.6782
+recip_rank     	all	0.7167
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-2.0-5-2.0-1:
+map            	all	0.7114
+recip_rank     	all	0.7643
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-1.5-2.0-5-2.0-2:
+map            	all	0.6510
+recip_rank     	all	0.6897
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-0.5-3-0-1:
+map            	all	0.7389
+recip_rank     	all	0.8162
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-0.5-3-0-2:
+map            	all	0.7300
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-0.5-3-0.8-1:
+map            	all	0.7338
+recip_rank     	all	0.8090
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-0.5-3-0.8-2:
+map            	all	0.7225
+recip_rank     	all	0.7925
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-0.5-3-1.0-1:
+map            	all	0.7371
+recip_rank     	all	0.8090
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-0.5-3-1.0-2:
+map            	all	0.7139
+recip_rank     	all	0.7746
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-0.5-3-1.25-1:
+map            	all	0.7379
+recip_rank     	all	0.8090
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-0.5-3-1.25-2:
+map            	all	0.6990
+recip_rank     	all	0.7575
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-0.5-3-1.5-1:
+map            	all	0.7380
+recip_rank     	all	0.8090
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-0.5-3-1.5-2:
+map            	all	0.6837
+recip_rank     	all	0.7452
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-0.5-3-2.0-1:
+map            	all	0.7210
+recip_rank     	all	0.7894
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-0.5-3-2.0-2:
+map            	all	0.6604
+recip_rank     	all	0.7036
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-0.5-5-0-1:
+map            	all	0.7387
+recip_rank     	all	0.8162
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-0.5-5-0-2:
+map            	all	0.7348
+recip_rank     	all	0.8083
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-0.5-5-0.8-1:
+map            	all	0.7336
+recip_rank     	all	0.8090
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-0.5-5-0.8-2:
+map            	all	0.7275
+recip_rank     	all	0.7989
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-0.5-5-1.0-1:
+map            	all	0.7368
+recip_rank     	all	0.8090
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-0.5-5-1.0-2:
+map            	all	0.7182
+recip_rank     	all	0.7811
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-0.5-5-1.25-1:
+map            	all	0.7378
+recip_rank     	all	0.8090
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-0.5-5-1.25-2:
+map            	all	0.7052
+recip_rank     	all	0.7671
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-0.5-5-1.5-1:
+map            	all	0.7379
+recip_rank     	all	0.8090
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-0.5-5-1.5-2:
+map            	all	0.6877
+recip_rank     	all	0.7508
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-0.5-5-2.0-1:
+map            	all	0.7216
+recip_rank     	all	0.7894
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-0.5-5-2.0-2:
+map            	all	0.6652
+recip_rank     	all	0.7112
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-0.75-3-0-1:
+map            	all	0.7363
+recip_rank     	all	0.8090
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-0.75-3-0-2:
+map            	all	0.7377
+recip_rank     	all	0.8095
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-0.75-3-0.8-1:
+map            	all	0.7317
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-0.75-3-0.8-2:
+map            	all	0.7259
+recip_rank     	all	0.7940
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-0.75-3-1.0-1:
+map            	all	0.7316
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-0.75-3-1.0-2:
+map            	all	0.7184
+recip_rank     	all	0.7795
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-0.75-3-1.25-1:
+map            	all	0.7348
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-0.75-3-1.25-2:
+map            	all	0.7057
+recip_rank     	all	0.7601
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-0.75-3-1.5-1:
+map            	all	0.7359
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-0.75-3-1.5-2:
+map            	all	0.6942
+recip_rank     	all	0.7416
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-0.75-3-2.0-1:
+map            	all	0.7164
+recip_rank     	all	0.7823
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-0.75-3-2.0-2:
+map            	all	0.6793
+recip_rank     	all	0.7249
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-0.75-5-0-1:
+map            	all	0.7366
+recip_rank     	all	0.8090
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-0.75-5-0-2:
+map            	all	0.7367
+recip_rank     	all	0.8071
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-0.75-5-0.8-1:
+map            	all	0.7322
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-0.75-5-0.8-2:
+map            	all	0.7262
+recip_rank     	all	0.8000
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-0.75-5-1.0-1:
+map            	all	0.7318
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-0.75-5-1.0-2:
+map            	all	0.7162
+recip_rank     	all	0.7719
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-0.75-5-1.25-1:
+map            	all	0.7350
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-0.75-5-1.25-2:
+map            	all	0.7055
+recip_rank     	all	0.7571
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-0.75-5-1.5-1:
+map            	all	0.7373
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-0.75-5-1.5-2:
+map            	all	0.6924
+recip_rank     	all	0.7375
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-0.75-5-2.0-1:
+map            	all	0.7183
+recip_rank     	all	0.7900
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-0.75-5-2.0-2:
+map            	all	0.6719
+recip_rank     	all	0.7177
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-1.0-3-0-1:
+map            	all	0.7364
+recip_rank     	all	0.8090
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-1.0-3-0-2:
+map            	all	0.7390
+recip_rank     	all	0.8114
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-1.0-3-0.8-1:
+map            	all	0.7329
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-1.0-3-0.8-2:
+map            	all	0.7206
+recip_rank     	all	0.7876
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-1.0-3-1.0-1:
+map            	all	0.7331
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-1.0-3-1.0-2:
+map            	all	0.7145
+recip_rank     	all	0.7757
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-1.0-3-1.25-1:
+map            	all	0.7315
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-1.0-3-1.25-2:
+map            	all	0.7042
+recip_rank     	all	0.7512
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-1.0-3-1.5-1:
+map            	all	0.7341
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-1.0-3-1.5-2:
+map            	all	0.6926
+recip_rank     	all	0.7381
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-1.0-3-2.0-1:
+map            	all	0.7174
+recip_rank     	all	0.7823
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-1.0-3-2.0-2:
+map            	all	0.6715
+recip_rank     	all	0.7203
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-1.0-5-0-1:
+map            	all	0.7335
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-1.0-5-0-2:
+map            	all	0.7366
+recip_rank     	all	0.8079
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-1.0-5-0.8-1:
+map            	all	0.7336
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-1.0-5-0.8-2:
+map            	all	0.7245
+recip_rank     	all	0.7917
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-1.0-5-1.0-1:
+map            	all	0.7337
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-1.0-5-1.0-2:
+map            	all	0.7089
+recip_rank     	all	0.7642
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-1.0-5-1.25-1:
+map            	all	0.7332
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-1.0-5-1.25-2:
+map            	all	0.7072
+recip_rank     	all	0.7584
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-1.0-5-1.5-1:
+map            	all	0.7364
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-1.0-5-1.5-2:
+map            	all	0.6889
+recip_rank     	all	0.7311
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-1.0-5-2.0-1:
+map            	all	0.7185
+recip_rank     	all	0.7840
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-1.0-5-2.0-2:
+map            	all	0.6683
+recip_rank     	all	0.7149
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-1.5-3-0-1:
+map            	all	0.7332
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-1.5-3-0-2:
+map            	all	0.7332
+recip_rank     	all	0.8043
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-1.5-3-0.8-1:
+map            	all	0.7332
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-1.5-3-0.8-2:
+map            	all	0.7186
+recip_rank     	all	0.7793
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-1.5-3-1.0-1:
+map            	all	0.7344
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-1.5-3-1.0-2:
+map            	all	0.7095
+recip_rank     	all	0.7627
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-1.5-3-1.25-1:
+map            	all	0.7314
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-1.5-3-1.25-2:
+map            	all	0.7031
+recip_rank     	all	0.7502
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-1.5-3-1.5-1:
+map            	all	0.7334
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-1.5-3-1.5-2:
+map            	all	0.6814
+recip_rank     	all	0.7195
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-1.5-3-2.0-1:
+map            	all	0.7166
+recip_rank     	all	0.7825
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-1.5-3-2.0-2:
+map            	all	0.6573
+recip_rank     	all	0.6967
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-1.5-5-0-1:
+map            	all	0.7335
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-1.5-5-0-2:
+map            	all	0.7377
+recip_rank     	all	0.8114
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-1.5-5-0.8-1:
+map            	all	0.7335
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-1.5-5-0.8-2:
+map            	all	0.7198
+recip_rank     	all	0.7805
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-1.5-5-1.0-1:
+map            	all	0.7340
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-1.5-5-1.0-2:
+map            	all	0.7016
+recip_rank     	all	0.7481
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-1.5-5-1.25-1:
+map            	all	0.7334
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-1.5-5-1.25-2:
+map            	all	0.6997
+recip_rank     	all	0.7478
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-1.5-5-1.5-1:
+map            	all	0.7345
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-1.5-5-1.5-2:
+map            	all	0.6773
+recip_rank     	all	0.7161
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-1.5-5-2.0-1:
+map            	all	0.7169
+recip_rank     	all	0.7817
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-1.5-5-2.0-2:
+map            	all	0.6560
+recip_rank     	all	0.6943
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-2.0-3-0-1:
+map            	all	0.7328
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-2.0-3-0-2:
+map            	all	0.7331
+recip_rank     	all	0.8043
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-2.0-3-0.8-1:
+map            	all	0.7328
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-2.0-3-0.8-2:
+map            	all	0.7185
+recip_rank     	all	0.7766
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-2.0-3-1.0-1:
+map            	all	0.7334
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-2.0-3-1.0-2:
+map            	all	0.7036
+recip_rank     	all	0.7527
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-2.0-3-1.25-1:
+map            	all	0.7321
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-2.0-3-1.25-2:
+map            	all	0.6978
+recip_rank     	all	0.7384
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-2.0-3-1.5-1:
+map            	all	0.7341
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-2.0-3-1.5-2:
+map            	all	0.6819
+recip_rank     	all	0.7211
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-2.0-3-2.0-1:
+map            	all	0.7119
+recip_rank     	all	0.7738
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-2.0-3-2.0-2:
+map            	all	0.6568
+recip_rank     	all	0.6960
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-2.0-5-0-1:
+map            	all	0.7339
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-2.0-5-0-2:
+map            	all	0.7372
+recip_rank     	all	0.8114
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-2.0-5-0.8-1:
+map            	all	0.7339
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-2.0-5-0.8-2:
+map            	all	0.7179
+recip_rank     	all	0.7733
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-2.0-5-1.0-1:
+map            	all	0.7342
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-2.0-5-1.0-2:
+map            	all	0.6983
+recip_rank     	all	0.7401
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-2.0-5-1.25-1:
+map            	all	0.7328
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-2.0-5-1.25-2:
+map            	all	0.6952
+recip_rank     	all	0.7383
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-2.0-5-1.5-1:
+map            	all	0.7341
+recip_rank     	all	0.8019
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-2.0-5-1.5-2:
+map            	all	0.6780
+recip_rank     	all	0.7170
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-2.0-5-2.0-1:
+map            	all	0.7102
+recip_rank     	all	0.7667
+TREC Scores of test_res/RPLGSIM-dev/LGSIM-2.0-2.0-5-2.0-2:
+map            	all	0.6538
+recip_rank     	all	0.6921
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-0.5-3-0-1:
+map            	all	0.6635
+recip_rank     	all	0.7410
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-0.5-3-0-2:
+map            	all	0.6606
+recip_rank     	all	0.7341
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-0.5-3-0.8-1:
+map            	all	0.6633
+recip_rank     	all	0.7410
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-0.5-3-0.8-2:
+map            	all	0.6533
+recip_rank     	all	0.7108
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-0.5-3-1.0-1:
+map            	all	0.6631
+recip_rank     	all	0.7410
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-0.5-3-1.0-2:
+map            	all	0.6521
+recip_rank     	all	0.7092
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-0.5-3-1.25-1:
+map            	all	0.6698
+recip_rank     	all	0.7503
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-0.5-3-1.25-2:
+map            	all	0.6316
+recip_rank     	all	0.6800
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-0.5-3-1.5-1:
+map            	all	0.6743
+recip_rank     	all	0.7352
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-0.5-3-1.5-2:
+map            	all	0.6226
+recip_rank     	all	0.6679
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-0.5-3-2.0-1:
+map            	all	0.6702
+recip_rank     	all	0.7329
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-0.5-3-2.0-2:
+map            	all	0.5887
+recip_rank     	all	0.6309
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-0.5-5-0-1:
+map            	all	0.6635
+recip_rank     	all	0.7410
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-0.5-5-0-2:
+map            	all	0.6608
+recip_rank     	all	0.7341
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-0.5-5-0.8-1:
+map            	all	0.6634
+recip_rank     	all	0.7410
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-0.5-5-0.8-2:
+map            	all	0.6549
+recip_rank     	all	0.7097
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-0.5-5-1.0-1:
+map            	all	0.6633
+recip_rank     	all	0.7410
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-0.5-5-1.0-2:
+map            	all	0.6521
+recip_rank     	all	0.7138
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-0.5-5-1.25-1:
+map            	all	0.6695
+recip_rank     	all	0.7479
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-0.5-5-1.25-2:
+map            	all	0.6323
+recip_rank     	all	0.6800
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-0.5-5-1.5-1:
+map            	all	0.6727
+recip_rank     	all	0.7352
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-0.5-5-1.5-2:
+map            	all	0.6231
+recip_rank     	all	0.6679
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-0.5-5-2.0-1:
+map            	all	0.6703
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-0.5-5-2.0-2:
+map            	all	0.5889
+recip_rank     	all	0.6308
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-0.75-3-0-1:
+map            	all	0.6635
+recip_rank     	all	0.7410
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-0.75-3-0-2:
+map            	all	0.6656
+recip_rank     	all	0.7479
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-0.75-3-0.8-1:
+map            	all	0.6634
+recip_rank     	all	0.7410
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-0.75-3-0.8-2:
+map            	all	0.6612
+recip_rank     	all	0.7196
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-0.75-3-1.0-1:
+map            	all	0.6633
+recip_rank     	all	0.7410
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-0.75-3-1.0-2:
+map            	all	0.6567
+recip_rank     	all	0.7289
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-0.75-3-1.25-1:
+map            	all	0.6658
+recip_rank     	all	0.7410
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-0.75-3-1.25-2:
+map            	all	0.6401
+recip_rank     	all	0.7061
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-0.75-3-1.5-1:
+map            	all	0.6774
+recip_rank     	all	0.7445
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-0.75-3-1.5-2:
+map            	all	0.6209
+recip_rank     	all	0.6736
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-0.75-3-2.0-1:
+map            	all	0.6653
+recip_rank     	all	0.7259
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-0.75-3-2.0-2:
+map            	all	0.5890
+recip_rank     	all	0.6394
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-0.75-5-0-1:
+map            	all	0.6635
+recip_rank     	all	0.7410
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-0.75-5-0-2:
+map            	all	0.6654
+recip_rank     	all	0.7479
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-0.75-5-0.8-1:
+map            	all	0.6635
+recip_rank     	all	0.7410
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-0.75-5-0.8-2:
+map            	all	0.6624
+recip_rank     	all	0.7277
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-0.75-5-1.0-1:
+map            	all	0.6633
+recip_rank     	all	0.7410
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-0.75-5-1.0-2:
+map            	all	0.6563
+recip_rank     	all	0.7289
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-0.75-5-1.25-1:
+map            	all	0.6647
+recip_rank     	all	0.7410
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-0.75-5-1.25-2:
+map            	all	0.6409
+recip_rank     	all	0.7130
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-0.75-5-1.5-1:
+map            	all	0.6781
+recip_rank     	all	0.7461
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-0.75-5-1.5-2:
+map            	all	0.6183
+recip_rank     	all	0.6718
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-0.75-5-2.0-1:
+map            	all	0.6657
+recip_rank     	all	0.7258
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-0.75-5-2.0-2:
+map            	all	0.5886
+recip_rank     	all	0.6402
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-1.0-3-0-1:
+map            	all	0.6635
+recip_rank     	all	0.7410
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-1.0-3-0-2:
+map            	all	0.6665
+recip_rank     	all	0.7479
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-1.0-3-0.8-1:
+map            	all	0.6635
+recip_rank     	all	0.7410
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-1.0-3-0.8-2:
+map            	all	0.6646
+recip_rank     	all	0.7281
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-1.0-3-1.0-1:
+map            	all	0.6633
+recip_rank     	all	0.7410
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-1.0-3-1.0-2:
+map            	all	0.6498
+recip_rank     	all	0.7196
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-1.0-3-1.25-1:
+map            	all	0.6652
+recip_rank     	all	0.7410
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-1.0-3-1.25-2:
+map            	all	0.6381
+recip_rank     	all	0.7088
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-1.0-3-1.5-1:
+map            	all	0.6774
+recip_rank     	all	0.7468
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-1.0-3-1.5-2:
+map            	all	0.6122
+recip_rank     	all	0.6664
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-1.0-3-2.0-1:
+map            	all	0.6668
+recip_rank     	all	0.7283
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-1.0-3-2.0-2:
+map            	all	0.5881
+recip_rank     	all	0.6380
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-1.0-5-0-1:
+map            	all	0.6635
+recip_rank     	all	0.7410
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-1.0-5-0-2:
+map            	all	0.6664
+recip_rank     	all	0.7479
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-1.0-5-0.8-1:
+map            	all	0.6635
+recip_rank     	all	0.7410
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-1.0-5-0.8-2:
+map            	all	0.6673
+recip_rank     	all	0.7305
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-1.0-5-1.0-1:
+map            	all	0.6634
+recip_rank     	all	0.7410
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-1.0-5-1.0-2:
+map            	all	0.6506
+recip_rank     	all	0.7219
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-1.0-5-1.25-1:
+map            	all	0.6645
+recip_rank     	all	0.7410
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-1.0-5-1.25-2:
+map            	all	0.6334
+recip_rank     	all	0.7019
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-1.0-5-1.5-1:
+map            	all	0.6782
+recip_rank     	all	0.7468
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-1.0-5-1.5-2:
+map            	all	0.6109
+recip_rank     	all	0.6658
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-1.0-5-2.0-1:
+map            	all	0.6663
+recip_rank     	all	0.7262
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-1.0-5-2.0-2:
+map            	all	0.5873
+recip_rank     	all	0.6384
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-1.5-3-0-1:
+map            	all	0.6635
+recip_rank     	all	0.7410
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-1.5-3-0-2:
+map            	all	0.6636
+recip_rank     	all	0.7410
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-1.5-3-0.8-1:
+map            	all	0.6635
+recip_rank     	all	0.7410
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-1.5-3-0.8-2:
+map            	all	0.6640
+recip_rank     	all	0.7238
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-1.5-3-1.0-1:
+map            	all	0.6634
+recip_rank     	all	0.7410
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-1.5-3-1.0-2:
+map            	all	0.6427
+recip_rank     	all	0.7032
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-1.5-3-1.25-1:
+map            	all	0.6646
+recip_rank     	all	0.7410
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-1.5-3-1.25-2:
+map            	all	0.6255
+recip_rank     	all	0.6835
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-1.5-3-1.5-1:
+map            	all	0.6783
+recip_rank     	all	0.7461
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-1.5-3-1.5-2:
+map            	all	0.6076
+recip_rank     	all	0.6629
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-1.5-3-2.0-1:
+map            	all	0.6612
+recip_rank     	all	0.7214
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-1.5-3-2.0-2:
+map            	all	0.5749
+recip_rank     	all	0.6166
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-1.5-5-0-1:
+map            	all	0.6635
+recip_rank     	all	0.7410
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-1.5-5-0-2:
+map            	all	0.6668
+recip_rank     	all	0.7479
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-1.5-5-0.8-1:
+map            	all	0.6635
+recip_rank     	all	0.7410
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-1.5-5-0.8-2:
+map            	all	0.6686
+recip_rank     	all	0.7328
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-1.5-5-1.0-1:
+map            	all	0.6634
+recip_rank     	all	0.7410
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-1.5-5-1.0-2:
+map            	all	0.6478
+recip_rank     	all	0.7187
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-1.5-5-1.25-1:
+map            	all	0.6647
+recip_rank     	all	0.7410
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-1.5-5-1.25-2:
+map            	all	0.6222
+recip_rank     	all	0.6839
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-1.5-5-1.5-1:
+map            	all	0.6763
+recip_rank     	all	0.7410
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-1.5-5-1.5-2:
+map            	all	0.6142
+recip_rank     	all	0.6688
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-1.5-5-2.0-1:
+map            	all	0.6643
+recip_rank     	all	0.7299
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-1.5-5-2.0-2:
+map            	all	0.5754
+recip_rank     	all	0.6219
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-2.0-3-0-1:
+map            	all	0.6635
+recip_rank     	all	0.7410
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-2.0-3-0-2:
+map            	all	0.6636
+recip_rank     	all	0.7410
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-2.0-3-0.8-1:
+map            	all	0.6635
+recip_rank     	all	0.7410
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-2.0-3-0.8-2:
+map            	all	0.6627
+recip_rank     	all	0.7226
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-2.0-3-1.0-1:
+map            	all	0.6634
+recip_rank     	all	0.7410
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-2.0-3-1.0-2:
+map            	all	0.6400
+recip_rank     	all	0.7002
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-2.0-3-1.25-1:
+map            	all	0.6648
+recip_rank     	all	0.7410
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-2.0-3-1.25-2:
+map            	all	0.6207
+recip_rank     	all	0.6802
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-2.0-3-1.5-1:
+map            	all	0.6765
+recip_rank     	all	0.7398
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-2.0-3-1.5-2:
+map            	all	0.6145
+recip_rank     	all	0.6698
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-2.0-3-2.0-1:
+map            	all	0.6604
+recip_rank     	all	0.7209
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-2.0-3-2.0-2:
+map            	all	0.5749
+recip_rank     	all	0.6166
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-2.0-5-0-1:
+map            	all	0.6635
+recip_rank     	all	0.7410
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-2.0-5-0-2:
+map            	all	0.6667
+recip_rank     	all	0.7479
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-2.0-5-0.8-1:
+map            	all	0.6635
+recip_rank     	all	0.7410
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-2.0-5-0.8-2:
+map            	all	0.6663
+recip_rank     	all	0.7305
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-2.0-5-1.0-1:
+map            	all	0.6634
+recip_rank     	all	0.7410
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-2.0-5-1.0-2:
+map            	all	0.6456
+recip_rank     	all	0.7103
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-2.0-5-1.25-1:
+map            	all	0.6647
+recip_rank     	all	0.7410
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-2.0-5-1.25-2:
+map            	all	0.6172
+recip_rank     	all	0.6765
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-2.0-5-1.5-1:
+map            	all	0.6762
+recip_rank     	all	0.7410
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-2.0-5-1.5-2:
+map            	all	0.6125
+recip_rank     	all	0.6664
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-2.0-5-2.0-1:
+map            	all	0.6610
+recip_rank     	all	0.7263
+TREC Scores of test_res/RPLGSIM-test/LGSIM-0.5-2.0-5-2.0-2:
+map            	all	0.5741
+recip_rank     	all	0.6212
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-0.5-3-0-1:
+map            	all	0.6616
+recip_rank     	all	0.7410
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-0.5-3-0-2:
+map            	all	0.6586
+recip_rank     	all	0.7317
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-0.5-3-0.8-1:
+map            	all	0.6619
+recip_rank     	all	0.7410
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-0.5-3-0.8-2:
+map            	all	0.6533
+recip_rank     	all	0.7163
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-0.5-3-1.0-1:
+map            	all	0.6632
+recip_rank     	all	0.7387
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-0.5-3-1.0-2:
+map            	all	0.6468
+recip_rank     	all	0.7091
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-0.5-3-1.25-1:
+map            	all	0.6697
+recip_rank     	all	0.7479
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-0.5-3-1.25-2:
+map            	all	0.6287
+recip_rank     	all	0.6746
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-0.5-3-1.5-1:
+map            	all	0.6708
+recip_rank     	all	0.7350
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-0.5-3-1.5-2:
+map            	all	0.6288
+recip_rank     	all	0.6735
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-0.5-3-2.0-1:
+map            	all	0.6646
+recip_rank     	all	0.7309
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-0.5-3-2.0-2:
+map            	all	0.6160
+recip_rank     	all	0.6572
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-0.5-5-0-1:
+map            	all	0.6616
+recip_rank     	all	0.7410
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-0.5-5-0-2:
+map            	all	0.6586
+recip_rank     	all	0.7317
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-0.5-5-0.8-1:
+map            	all	0.6617
+recip_rank     	all	0.7410
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-0.5-5-0.8-2:
+map            	all	0.6526
+recip_rank     	all	0.7129
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-0.5-5-1.0-1:
+map            	all	0.6629
+recip_rank     	all	0.7410
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-0.5-5-1.0-2:
+map            	all	0.6468
+recip_rank     	all	0.7084
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-0.5-5-1.25-1:
+map            	all	0.6696
+recip_rank     	all	0.7479
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-0.5-5-1.25-2:
+map            	all	0.6328
+recip_rank     	all	0.6927
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-0.5-5-1.5-1:
+map            	all	0.6699
+recip_rank     	all	0.7350
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-0.5-5-1.5-2:
+map            	all	0.6294
+recip_rank     	all	0.6781
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-0.5-5-2.0-1:
+map            	all	0.6646
+recip_rank     	all	0.7317
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-0.5-5-2.0-2:
+map            	all	0.6157
+recip_rank     	all	0.6571
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-0.75-3-0-1:
+map            	all	0.6654
+recip_rank     	all	0.7479
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-0.75-3-0-2:
+map            	all	0.6671
+recip_rank     	all	0.7445
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-0.75-3-0.8-1:
+map            	all	0.6652
+recip_rank     	all	0.7479
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-0.75-3-0.8-2:
+map            	all	0.6625
+recip_rank     	all	0.7221
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-0.75-3-1.0-1:
+map            	all	0.6668
+recip_rank     	all	0.7479
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-0.75-3-1.0-2:
+map            	all	0.6559
+recip_rank     	all	0.7142
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-0.75-3-1.25-1:
+map            	all	0.6701
+recip_rank     	all	0.7503
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-0.75-3-1.25-2:
+map            	all	0.6516
+recip_rank     	all	0.7184
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-0.75-3-1.5-1:
+map            	all	0.6773
+recip_rank     	all	0.7479
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-0.75-3-1.5-2:
+map            	all	0.6267
+recip_rank     	all	0.6801
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-0.75-3-2.0-1:
+map            	all	0.6741
+recip_rank     	all	0.7412
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-0.75-3-2.0-2:
+map            	all	0.6154
+recip_rank     	all	0.6631
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-0.75-5-0-1:
+map            	all	0.6653
+recip_rank     	all	0.7479
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-0.75-5-0-2:
+map            	all	0.6654
+recip_rank     	all	0.7433
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-0.75-5-0.8-1:
+map            	all	0.6651
+recip_rank     	all	0.7479
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-0.75-5-0.8-2:
+map            	all	0.6583
+recip_rank     	all	0.7186
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-0.75-5-1.0-1:
+map            	all	0.6661
+recip_rank     	all	0.7479
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-0.75-5-1.0-2:
+map            	all	0.6549
+recip_rank     	all	0.7190
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-0.75-5-1.25-1:
+map            	all	0.6692
+recip_rank     	all	0.7479
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-0.75-5-1.25-2:
+map            	all	0.6442
+recip_rank     	all	0.7146
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-0.75-5-1.5-1:
+map            	all	0.6755
+recip_rank     	all	0.7456
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-0.75-5-1.5-2:
+map            	all	0.6233
+recip_rank     	all	0.6789
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-0.75-5-2.0-1:
+map            	all	0.6729
+recip_rank     	all	0.7414
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-0.75-5-2.0-2:
+map            	all	0.6141
+recip_rank     	all	0.6684
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-1.0-3-0-1:
+map            	all	0.6655
+recip_rank     	all	0.7479
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-1.0-3-0-2:
+map            	all	0.6655
+recip_rank     	all	0.7468
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-1.0-3-0.8-1:
+map            	all	0.6654
+recip_rank     	all	0.7479
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-1.0-3-0.8-2:
+map            	all	0.6628
+recip_rank     	all	0.7269
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-1.0-3-1.0-1:
+map            	all	0.6665
+recip_rank     	all	0.7479
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-1.0-3-1.0-2:
+map            	all	0.6563
+recip_rank     	all	0.7189
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-1.0-3-1.25-1:
+map            	all	0.6697
+recip_rank     	all	0.7479
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-1.0-3-1.25-2:
+map            	all	0.6483
+recip_rank     	all	0.7235
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-1.0-3-1.5-1:
+map            	all	0.6768
+recip_rank     	all	0.7479
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-1.0-3-1.5-2:
+map            	all	0.6265
+recip_rank     	all	0.6888
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-1.0-3-2.0-1:
+map            	all	0.6769
+recip_rank     	all	0.7438
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-1.0-3-2.0-2:
+map            	all	0.6044
+recip_rank     	all	0.6641
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-1.0-5-0-1:
+map            	all	0.6655
+recip_rank     	all	0.7479
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-1.0-5-0-2:
+map            	all	0.6664
+recip_rank     	all	0.7503
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-1.0-5-0.8-1:
+map            	all	0.6655
+recip_rank     	all	0.7479
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-1.0-5-0.8-2:
+map            	all	0.6622
+recip_rank     	all	0.7304
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-1.0-5-1.0-1:
+map            	all	0.6661
+recip_rank     	all	0.7479
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-1.0-5-1.0-2:
+map            	all	0.6548
+recip_rank     	all	0.7266
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-1.0-5-1.25-1:
+map            	all	0.6695
+recip_rank     	all	0.7479
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-1.0-5-1.25-2:
+map            	all	0.6432
+recip_rank     	all	0.7115
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-1.0-5-1.5-1:
+map            	all	0.6752
+recip_rank     	all	0.7445
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-1.0-5-1.5-2:
+map            	all	0.6303
+recip_rank     	all	0.6939
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-1.0-5-2.0-1:
+map            	all	0.6697
+recip_rank     	all	0.7292
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-1.0-5-2.0-2:
+map            	all	0.6019
+recip_rank     	all	0.6624
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-1.5-3-0-1:
+map            	all	0.6635
+recip_rank     	all	0.7410
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-1.5-3-0-2:
+map            	all	0.6656
+recip_rank     	all	0.7461
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-1.5-3-0.8-1:
+map            	all	0.6634
+recip_rank     	all	0.7410
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-1.5-3-0.8-2:
+map            	all	0.6641
+recip_rank     	all	0.7277
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-1.5-3-1.0-1:
+map            	all	0.6641
+recip_rank     	all	0.7410
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-1.5-3-1.0-2:
+map            	all	0.6550
+recip_rank     	all	0.7286
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-1.5-3-1.25-1:
+map            	all	0.6666
+recip_rank     	all	0.7410
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-1.5-3-1.25-2:
+map            	all	0.6456
+recip_rank     	all	0.7206
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-1.5-3-1.5-1:
+map            	all	0.6733
+recip_rank     	all	0.7392
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-1.5-3-1.5-2:
+map            	all	0.6224
+recip_rank     	all	0.6864
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-1.5-3-2.0-1:
+map            	all	0.6789
+recip_rank     	all	0.7446
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-1.5-3-2.0-2:
+map            	all	0.5988
+recip_rank     	all	0.6501
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-1.5-5-0-1:
+map            	all	0.6658
+recip_rank     	all	0.7479
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-1.5-5-0-2:
+map            	all	0.6677
+recip_rank     	all	0.7572
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-1.5-5-0.8-1:
+map            	all	0.6658
+recip_rank     	all	0.7479
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-1.5-5-0.8-2:
+map            	all	0.6649
+recip_rank     	all	0.7398
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-1.5-5-1.0-1:
+map            	all	0.6658
+recip_rank     	all	0.7479
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-1.5-5-1.0-2:
+map            	all	0.6534
+recip_rank     	all	0.7361
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-1.5-5-1.25-1:
+map            	all	0.6687
+recip_rank     	all	0.7479
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-1.5-5-1.25-2:
+map            	all	0.6417
+recip_rank     	all	0.7138
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-1.5-5-1.5-1:
+map            	all	0.6746
+recip_rank     	all	0.7445
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-1.5-5-1.5-2:
+map            	all	0.6255
+recip_rank     	all	0.6938
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-1.5-5-2.0-1:
+map            	all	0.6749
+recip_rank     	all	0.7446
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-1.5-5-2.0-2:
+map            	all	0.5969
+recip_rank     	all	0.6569
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-2.0-3-0-1:
+map            	all	0.6635
+recip_rank     	all	0.7410
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-2.0-3-0-2:
+map            	all	0.6639
+recip_rank     	all	0.7392
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-2.0-3-0.8-1:
+map            	all	0.6634
+recip_rank     	all	0.7410
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-2.0-3-0.8-2:
+map            	all	0.6641
+recip_rank     	all	0.7210
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-2.0-3-1.0-1:
+map            	all	0.6640
+recip_rank     	all	0.7410
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-2.0-3-1.0-2:
+map            	all	0.6519
+recip_rank     	all	0.7197
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-2.0-3-1.25-1:
+map            	all	0.6664
+recip_rank     	all	0.7410
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-2.0-3-1.25-2:
+map            	all	0.6389
+recip_rank     	all	0.7050
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-2.0-3-1.5-1:
+map            	all	0.6732
+recip_rank     	all	0.7398
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-2.0-3-1.5-2:
+map            	all	0.6176
+recip_rank     	all	0.6713
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-2.0-3-2.0-1:
+map            	all	0.6668
+recip_rank     	all	0.7307
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-2.0-3-2.0-2:
+map            	all	0.5876
+recip_rank     	all	0.6342
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-2.0-5-0-1:
+map            	all	0.6658
+recip_rank     	all	0.7479
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-2.0-5-0-2:
+map            	all	0.6677
+recip_rank     	all	0.7572
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-2.0-5-0.8-1:
+map            	all	0.6658
+recip_rank     	all	0.7479
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-2.0-5-0.8-2:
+map            	all	0.6642
+recip_rank     	all	0.7397
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-2.0-5-1.0-1:
+map            	all	0.6657
+recip_rank     	all	0.7479
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-2.0-5-1.0-2:
+map            	all	0.6577
+recip_rank     	all	0.7396
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-2.0-5-1.25-1:
+map            	all	0.6685
+recip_rank     	all	0.7479
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-2.0-5-1.25-2:
+map            	all	0.6331
+recip_rank     	all	0.7050
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-2.0-5-1.5-1:
+map            	all	0.6726
+recip_rank     	all	0.7456
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-2.0-5-1.5-2:
+map            	all	0.6203
+recip_rank     	all	0.6891
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-2.0-5-2.0-1:
+map            	all	0.6705
+recip_rank     	all	0.7388
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.0-2.0-5-2.0-2:
+map            	all	0.5943
+recip_rank     	all	0.6553
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-0.5-3-0-1:
+map            	all	0.6598
+recip_rank     	all	0.7479
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-0.5-3-0-2:
+map            	all	0.6620
+recip_rank     	all	0.7435
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-0.5-3-0.8-1:
+map            	all	0.6620
+recip_rank     	all	0.7479
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-0.5-3-0.8-2:
+map            	all	0.6548
+recip_rank     	all	0.7263
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-0.5-3-1.0-1:
+map            	all	0.6629
+recip_rank     	all	0.7456
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-0.5-3-1.0-2:
+map            	all	0.6479
+recip_rank     	all	0.7151
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-0.5-3-1.25-1:
+map            	all	0.6687
+recip_rank     	all	0.7549
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-0.5-3-1.25-2:
+map            	all	0.6336
+recip_rank     	all	0.6945
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-0.5-3-1.5-1:
+map            	all	0.6675
+recip_rank     	all	0.7419
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-0.5-3-1.5-2:
+map            	all	0.6272
+recip_rank     	all	0.6733
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-0.5-3-2.0-1:
+map            	all	0.6649
+recip_rank     	all	0.7458
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-0.5-3-2.0-2:
+map            	all	0.6165
+recip_rank     	all	0.6607
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-0.5-5-0-1:
+map            	all	0.6601
+recip_rank     	all	0.7479
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-0.5-5-0-2:
+map            	all	0.6619
+recip_rank     	all	0.7509
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-0.5-5-0.8-1:
+map            	all	0.6622
+recip_rank     	all	0.7479
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-0.5-5-0.8-2:
+map            	all	0.6543
+recip_rank     	all	0.7336
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-0.5-5-1.0-1:
+map            	all	0.6633
+recip_rank     	all	0.7479
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-0.5-5-1.0-2:
+map            	all	0.6500
+recip_rank     	all	0.7272
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-0.5-5-1.25-1:
+map            	all	0.6688
+recip_rank     	all	0.7549
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-0.5-5-1.25-2:
+map            	all	0.6343
+recip_rank     	all	0.7031
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-0.5-5-1.5-1:
+map            	all	0.6677
+recip_rank     	all	0.7419
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-0.5-5-1.5-2:
+map            	all	0.6283
+recip_rank     	all	0.6876
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-0.5-5-2.0-1:
+map            	all	0.6662
+recip_rank     	all	0.7476
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-0.5-5-2.0-2:
+map            	all	0.6218
+recip_rank     	all	0.6762
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-0.75-3-0-1:
+map            	all	0.6659
+recip_rank     	all	0.7549
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-0.75-3-0-2:
+map            	all	0.6640
+recip_rank     	all	0.7473
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-0.75-3-0.8-1:
+map            	all	0.6676
+recip_rank     	all	0.7549
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-0.75-3-0.8-2:
+map            	all	0.6537
+recip_rank     	all	0.7203
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-0.75-3-1.0-1:
+map            	all	0.6692
+recip_rank     	all	0.7549
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-0.75-3-1.0-2:
+map            	all	0.6515
+recip_rank     	all	0.7184
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-0.75-3-1.25-1:
+map            	all	0.6715
+recip_rank     	all	0.7572
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-0.75-3-1.25-2:
+map            	all	0.6443
+recip_rank     	all	0.7125
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-0.75-3-1.5-1:
+map            	all	0.6749
+recip_rank     	all	0.7526
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-0.75-3-1.5-2:
+map            	all	0.6174
+recip_rank     	all	0.6649
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-0.75-3-2.0-1:
+map            	all	0.6715
+recip_rank     	all	0.7520
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-0.75-3-2.0-2:
+map            	all	0.6170
+recip_rank     	all	0.6755
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-0.75-5-0-1:
+map            	all	0.6685
+recip_rank     	all	0.7618
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-0.75-5-0-2:
+map            	all	0.6646
+recip_rank     	all	0.7473
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-0.75-5-0.8-1:
+map            	all	0.6693
+recip_rank     	all	0.7618
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-0.75-5-0.8-2:
+map            	all	0.6549
+recip_rank     	all	0.7249
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-0.75-5-1.0-1:
+map            	all	0.6714
+recip_rank     	all	0.7618
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-0.75-5-1.0-2:
+map            	all	0.6483
+recip_rank     	all	0.7094
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-0.75-5-1.25-1:
+map            	all	0.6729
+recip_rank     	all	0.7618
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-0.75-5-1.25-2:
+map            	all	0.6454
+recip_rank     	all	0.7189
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-0.75-5-1.5-1:
+map            	all	0.6770
+recip_rank     	all	0.7595
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-0.75-5-1.5-2:
+map            	all	0.6212
+recip_rank     	all	0.6798
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-0.75-5-2.0-1:
+map            	all	0.6755
+recip_rank     	all	0.7556
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-0.75-5-2.0-2:
+map            	all	0.6181
+recip_rank     	all	0.6776
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-1.0-3-0-1:
+map            	all	0.6678
+recip_rank     	all	0.7549
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-1.0-3-0-2:
+map            	all	0.6713
+recip_rank     	all	0.7618
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-1.0-3-0.8-1:
+map            	all	0.6683
+recip_rank     	all	0.7479
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-1.0-3-0.8-2:
+map            	all	0.6633
+recip_rank     	all	0.7398
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-1.0-3-1.0-1:
+map            	all	0.6701
+recip_rank     	all	0.7479
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-1.0-3-1.0-2:
+map            	all	0.6568
+recip_rank     	all	0.7333
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-1.0-3-1.25-1:
+map            	all	0.6714
+recip_rank     	all	0.7479
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-1.0-3-1.25-2:
+map            	all	0.6447
+recip_rank     	all	0.7208
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-1.0-3-1.5-1:
+map            	all	0.6776
+recip_rank     	all	0.7456
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-1.0-3-1.5-2:
+map            	all	0.6343
+recip_rank     	all	0.7131
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-1.0-3-2.0-1:
+map            	all	0.6772
+recip_rank     	all	0.7439
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-1.0-3-2.0-2:
+map            	all	0.6125
+recip_rank     	all	0.6831
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-1.0-5-0-1:
+map            	all	0.6714
+recip_rank     	all	0.7688
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-1.0-5-0-2:
+map            	all	0.6672
+recip_rank     	all	0.7526
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-1.0-5-0.8-1:
+map            	all	0.6720
+recip_rank     	all	0.7688
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-1.0-5-0.8-2:
+map            	all	0.6591
+recip_rank     	all	0.7292
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-1.0-5-1.0-1:
+map            	all	0.6723
+recip_rank     	all	0.7618
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-1.0-5-1.0-2:
+map            	all	0.6516
+recip_rank     	all	0.7216
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-1.0-5-1.25-1:
+map            	all	0.6753
+recip_rank     	all	0.7618
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-1.0-5-1.25-2:
+map            	all	0.6415
+recip_rank     	all	0.7170
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-1.0-5-1.5-1:
+map            	all	0.6791
+recip_rank     	all	0.7584
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-1.0-5-1.5-2:
+map            	all	0.6298
+recip_rank     	all	0.6944
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-1.0-5-2.0-1:
+map            	all	0.6764
+recip_rank     	all	0.7456
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-1.0-5-2.0-2:
+map            	all	0.6093
+recip_rank     	all	0.6691
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-1.5-3-0-1:
+map            	all	0.6684
+recip_rank     	all	0.7584
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-1.5-3-0-2:
+map            	all	0.6689
+recip_rank     	all	0.7549
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-1.5-3-0.8-1:
+map            	all	0.6690
+recip_rank     	all	0.7584
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-1.5-3-0.8-2:
+map            	all	0.6627
+recip_rank     	all	0.7273
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-1.5-3-1.0-1:
+map            	all	0.6696
+recip_rank     	all	0.7514
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-1.5-3-1.0-2:
+map            	all	0.6578
+recip_rank     	all	0.7280
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-1.5-3-1.25-1:
+map            	all	0.6720
+recip_rank     	all	0.7537
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-1.5-3-1.25-2:
+map            	all	0.6485
+recip_rank     	all	0.7321
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-1.5-3-1.5-1:
+map            	all	0.6759
+recip_rank     	all	0.7479
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-1.5-3-1.5-2:
+map            	all	0.6281
+recip_rank     	all	0.7087
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-1.5-3-2.0-1:
+map            	all	0.6737
+recip_rank     	all	0.7404
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-1.5-3-2.0-2:
+map            	all	0.6068
+recip_rank     	all	0.6703
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-1.5-5-0-1:
+map            	all	0.6724
+recip_rank     	all	0.7688
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-1.5-5-0-2:
+map            	all	0.6709
+recip_rank     	all	0.7618
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-1.5-5-0.8-1:
+map            	all	0.6725
+recip_rank     	all	0.7688
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-1.5-5-0.8-2:
+map            	all	0.6609
+recip_rank     	all	0.7306
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-1.5-5-1.0-1:
+map            	all	0.6734
+recip_rank     	all	0.7688
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-1.5-5-1.0-2:
+map            	all	0.6469
+recip_rank     	all	0.7247
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-1.5-5-1.25-1:
+map            	all	0.6766
+recip_rank     	all	0.7618
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-1.5-5-1.25-2:
+map            	all	0.6459
+recip_rank     	all	0.7232
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-1.5-5-1.5-1:
+map            	all	0.6772
+recip_rank     	all	0.7549
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-1.5-5-1.5-2:
+map            	all	0.6279
+recip_rank     	all	0.6942
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-1.5-5-2.0-1:
+map            	all	0.6818
+recip_rank     	all	0.7537
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-1.5-5-2.0-2:
+map            	all	0.6013
+recip_rank     	all	0.6672
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-2.0-3-0-1:
+map            	all	0.6684
+recip_rank     	all	0.7584
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-2.0-3-0-2:
+map            	all	0.6690
+recip_rank     	all	0.7549
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-2.0-3-0.8-1:
+map            	all	0.6688
+recip_rank     	all	0.7584
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-2.0-3-0.8-2:
+map            	all	0.6636
+recip_rank     	all	0.7275
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-2.0-3-1.0-1:
+map            	all	0.6692
+recip_rank     	all	0.7514
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-2.0-3-1.0-2:
+map            	all	0.6548
+recip_rank     	all	0.7283
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-2.0-3-1.25-1:
+map            	all	0.6714
+recip_rank     	all	0.7537
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-2.0-3-1.25-2:
+map            	all	0.6428
+recip_rank     	all	0.7239
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-2.0-3-1.5-1:
+map            	all	0.6745
+recip_rank     	all	0.7503
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-2.0-3-1.5-2:
+map            	all	0.6272
+recip_rank     	all	0.7024
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-2.0-3-2.0-1:
+map            	all	0.6671
+recip_rank     	all	0.7337
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-2.0-3-2.0-2:
+map            	all	0.6065
+recip_rank     	all	0.6697
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-2.0-5-0-1:
+map            	all	0.6726
+recip_rank     	all	0.7688
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-2.0-5-0-2:
+map            	all	0.6698
+recip_rank     	all	0.7623
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-2.0-5-0.8-1:
+map            	all	0.6726
+recip_rank     	all	0.7688
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-2.0-5-0.8-2:
+map            	all	0.6602
+recip_rank     	all	0.7291
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-2.0-5-1.0-1:
+map            	all	0.6733
+recip_rank     	all	0.7688
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-2.0-5-1.0-2:
+map            	all	0.6475
+recip_rank     	all	0.7264
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-2.0-5-1.25-1:
+map            	all	0.6758
+recip_rank     	all	0.7618
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-2.0-5-1.25-2:
+map            	all	0.6404
+recip_rank     	all	0.7169
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-2.0-5-1.5-1:
+map            	all	0.6776
+recip_rank     	all	0.7572
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-2.0-5-1.5-2:
+map            	all	0.6238
+recip_rank     	all	0.6914
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-2.0-5-2.0-1:
+map            	all	0.6763
+recip_rank     	all	0.7468
+TREC Scores of test_res/RPLGSIM-test/LGSIM-1.5-2.0-5-2.0-2:
+map            	all	0.5971
+recip_rank     	all	0.6638
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-0.5-3-0-1:
+map            	all	0.6622
+recip_rank     	all	0.7723
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-0.5-3-0-2:
+map            	all	0.6610
+recip_rank     	all	0.7397
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-0.5-3-0.8-1:
+map            	all	0.6670
+recip_rank     	all	0.7653
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-0.5-3-0.8-2:
+map            	all	0.6517
+recip_rank     	all	0.7231
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-0.5-3-1.0-1:
+map            	all	0.6674
+recip_rank     	all	0.7653
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-0.5-3-1.0-2:
+map            	all	0.6484
+recip_rank     	all	0.7174
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-0.5-3-1.25-1:
+map            	all	0.6739
+recip_rank     	all	0.7746
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-0.5-3-1.25-2:
+map            	all	0.6313
+recip_rank     	all	0.6937
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-0.5-3-1.5-1:
+map            	all	0.6709
+recip_rank     	all	0.7593
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-0.5-3-1.5-2:
+map            	all	0.6211
+recip_rank     	all	0.6790
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-0.5-3-2.0-1:
+map            	all	0.6679
+recip_rank     	all	0.7625
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-0.5-3-2.0-2:
+map            	all	0.6180
+recip_rank     	all	0.6627
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-0.5-5-0-1:
+map            	all	0.6634
+recip_rank     	all	0.7723
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-0.5-5-0-2:
+map            	all	0.6621
+recip_rank     	all	0.7466
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-0.5-5-0.8-1:
+map            	all	0.6683
+recip_rank     	all	0.7723
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-0.5-5-0.8-2:
+map            	all	0.6527
+recip_rank     	all	0.7292
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-0.5-5-1.0-1:
+map            	all	0.6700
+recip_rank     	all	0.7815
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-0.5-5-1.0-2:
+map            	all	0.6491
+recip_rank     	all	0.7243
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-0.5-5-1.25-1:
+map            	all	0.6749
+recip_rank     	all	0.7723
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-0.5-5-1.25-2:
+map            	all	0.6321
+recip_rank     	all	0.6983
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-0.5-5-1.5-1:
+map            	all	0.6714
+recip_rank     	all	0.7593
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-0.5-5-1.5-2:
+map            	all	0.6226
+recip_rank     	all	0.6860
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-0.5-5-2.0-1:
+map            	all	0.6812
+recip_rank     	all	0.7729
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-0.5-5-2.0-2:
+map            	all	0.6199
+recip_rank     	all	0.6787
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-0.75-3-0-1:
+map            	all	0.6695
+recip_rank     	all	0.7746
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-0.75-3-0-2:
+map            	all	0.6720
+recip_rank     	all	0.7496
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-0.75-3-0.8-1:
+map            	all	0.6733
+recip_rank     	all	0.7746
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-0.75-3-0.8-2:
+map            	all	0.6629
+recip_rank     	all	0.7358
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-0.75-3-1.0-1:
+map            	all	0.6735
+recip_rank     	all	0.7746
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-0.75-3-1.0-2:
+map            	all	0.6568
+recip_rank     	all	0.7229
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-0.75-3-1.25-1:
+map            	all	0.6783
+recip_rank     	all	0.7815
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-0.75-3-1.25-2:
+map            	all	0.6407
+recip_rank     	all	0.7010
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-0.75-3-1.5-1:
+map            	all	0.6808
+recip_rank     	all	0.7723
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-0.75-3-1.5-2:
+map            	all	0.6301
+recip_rank     	all	0.6809
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-0.75-3-2.0-1:
+map            	all	0.6749
+recip_rank     	all	0.7642
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-0.75-3-2.0-2:
+map            	all	0.6230
+recip_rank     	all	0.6765
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-0.75-5-0-1:
+map            	all	0.6729
+recip_rank     	all	0.7815
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-0.75-5-0-2:
+map            	all	0.6702
+recip_rank     	all	0.7506
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-0.75-5-0.8-1:
+map            	all	0.6762
+recip_rank     	all	0.7815
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-0.75-5-0.8-2:
+map            	all	0.6583
+recip_rank     	all	0.7370
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-0.75-5-1.0-1:
+map            	all	0.6771
+recip_rank     	all	0.7815
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-0.75-5-1.0-2:
+map            	all	0.6518
+recip_rank     	all	0.7217
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-0.75-5-1.25-1:
+map            	all	0.6818
+recip_rank     	all	0.7885
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-0.75-5-1.25-2:
+map            	all	0.6385
+recip_rank     	all	0.7090
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-0.75-5-1.5-1:
+map            	all	0.6840
+recip_rank     	all	0.7792
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-0.75-5-1.5-2:
+map            	all	0.6290
+recip_rank     	all	0.6900
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-0.75-5-2.0-1:
+map            	all	0.6724
+recip_rank     	all	0.7611
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-0.75-5-2.0-2:
+map            	all	0.6190
+recip_rank     	all	0.6757
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-1.0-3-0-1:
+map            	all	0.6692
+recip_rank     	all	0.7723
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-1.0-3-0-2:
+map            	all	0.6719
+recip_rank     	all	0.7548
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-1.0-3-0.8-1:
+map            	all	0.6721
+recip_rank     	all	0.7723
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-1.0-3-0.8-2:
+map            	all	0.6617
+recip_rank     	all	0.7343
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-1.0-3-1.0-1:
+map            	all	0.6731
+recip_rank     	all	0.7723
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-1.0-3-1.0-2:
+map            	all	0.6571
+recip_rank     	all	0.7265
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-1.0-3-1.25-1:
+map            	all	0.6743
+recip_rank     	all	0.7746
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-1.0-3-1.25-2:
+map            	all	0.6432
+recip_rank     	all	0.7135
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-1.0-3-1.5-1:
+map            	all	0.6802
+recip_rank     	all	0.7723
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-1.0-3-1.5-2:
+map            	all	0.6298
+recip_rank     	all	0.6894
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-1.0-3-2.0-1:
+map            	all	0.6734
+recip_rank     	all	0.7537
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-1.0-3-2.0-2:
+map            	all	0.6213
+recip_rank     	all	0.6829
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-1.0-5-0-1:
+map            	all	0.6697
+recip_rank     	all	0.7723
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-1.0-5-0-2:
+map            	all	0.6626
+recip_rank     	all	0.7410
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-1.0-5-0.8-1:
+map            	all	0.6711
+recip_rank     	all	0.7723
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-1.0-5-0.8-2:
+map            	all	0.6518
+recip_rank     	all	0.7156
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-1.0-5-1.0-1:
+map            	all	0.6731
+recip_rank     	all	0.7723
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-1.0-5-1.0-2:
+map            	all	0.6452
+recip_rank     	all	0.7130
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-1.0-5-1.25-1:
+map            	all	0.6757
+recip_rank     	all	0.7746
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-1.0-5-1.25-2:
+map            	all	0.6319
+recip_rank     	all	0.6987
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-1.0-5-1.5-1:
+map            	all	0.6811
+recip_rank     	all	0.7792
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-1.0-5-1.5-2:
+map            	all	0.6233
+recip_rank     	all	0.6832
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-1.0-5-2.0-1:
+map            	all	0.6740
+recip_rank     	all	0.7503
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-1.0-5-2.0-2:
+map            	all	0.6089
+recip_rank     	all	0.6632
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-1.5-3-0-1:
+map            	all	0.6668
+recip_rank     	all	0.7665
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-1.5-3-0-2:
+map            	all	0.6680
+recip_rank     	all	0.7561
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-1.5-3-0.8-1:
+map            	all	0.6691
+recip_rank     	all	0.7665
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-1.5-3-0.8-2:
+map            	all	0.6575
+recip_rank     	all	0.7225
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-1.5-3-1.0-1:
+map            	all	0.6710
+recip_rank     	all	0.7665
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-1.5-3-1.0-2:
+map            	all	0.6524
+recip_rank     	all	0.7217
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-1.5-3-1.25-1:
+map            	all	0.6714
+recip_rank     	all	0.7688
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-1.5-3-1.25-2:
+map            	all	0.6400
+recip_rank     	all	0.7145
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-1.5-3-1.5-1:
+map            	all	0.6735
+recip_rank     	all	0.7653
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-1.5-3-1.5-2:
+map            	all	0.6242
+recip_rank     	all	0.7018
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-1.5-3-2.0-1:
+map            	all	0.6747
+recip_rank     	all	0.7572
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-1.5-3-2.0-2:
+map            	all	0.6067
+recip_rank     	all	0.6749
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-1.5-5-0-1:
+map            	all	0.6698
+recip_rank     	all	0.7746
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-1.5-5-0-2:
+map            	all	0.6656
+recip_rank     	all	0.7456
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-1.5-5-0.8-1:
+map            	all	0.6709
+recip_rank     	all	0.7723
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-1.5-5-0.8-2:
+map            	all	0.6519
+recip_rank     	all	0.7132
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-1.5-5-1.0-1:
+map            	all	0.6717
+recip_rank     	all	0.7723
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-1.5-5-1.0-2:
+map            	all	0.6391
+recip_rank     	all	0.7063
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-1.5-5-1.25-1:
+map            	all	0.6743
+recip_rank     	all	0.7723
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-1.5-5-1.25-2:
+map            	all	0.6348
+recip_rank     	all	0.7049
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-1.5-5-1.5-1:
+map            	all	0.6751
+recip_rank     	all	0.7723
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-1.5-5-1.5-2:
+map            	all	0.6210
+recip_rank     	all	0.6838
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-1.5-5-2.0-1:
+map            	all	0.6774
+recip_rank     	all	0.7567
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-1.5-5-2.0-2:
+map            	all	0.6015
+recip_rank     	all	0.6560
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-2.0-3-0-1:
+map            	all	0.6670
+recip_rank     	all	0.7665
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-2.0-3-0-2:
+map            	all	0.6731
+recip_rank     	all	0.7699
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-2.0-3-0.8-1:
+map            	all	0.6689
+recip_rank     	all	0.7665
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-2.0-3-0.8-2:
+map            	all	0.6646
+recip_rank     	all	0.7379
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-2.0-3-1.0-1:
+map            	all	0.6700
+recip_rank     	all	0.7665
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-2.0-3-1.0-2:
+map            	all	0.6545
+recip_rank     	all	0.7341
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-2.0-3-1.25-1:
+map            	all	0.6706
+recip_rank     	all	0.7688
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-2.0-3-1.25-2:
+map            	all	0.6497
+recip_rank     	all	0.7392
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-2.0-3-1.5-1:
+map            	all	0.6733
+recip_rank     	all	0.7653
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-2.0-3-1.5-2:
+map            	all	0.6315
+recip_rank     	all	0.7228
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-2.0-3-2.0-1:
+map            	all	0.6742
+recip_rank     	all	0.7510
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-2.0-3-2.0-2:
+map            	all	0.6146
+recip_rank     	all	0.6894
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-2.0-5-0-1:
+map            	all	0.6715
+recip_rank     	all	0.7757
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-2.0-5-0-2:
+map            	all	0.6683
+recip_rank     	all	0.7526
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-2.0-5-0.8-1:
+map            	all	0.6724
+recip_rank     	all	0.7757
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-2.0-5-0.8-2:
+map            	all	0.6519
+recip_rank     	all	0.7175
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-2.0-5-1.0-1:
+map            	all	0.6726
+recip_rank     	all	0.7734
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-2.0-5-1.0-2:
+map            	all	0.6427
+recip_rank     	all	0.7167
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-2.0-5-1.25-1:
+map            	all	0.6752
+recip_rank     	all	0.7734
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-2.0-5-1.25-2:
+map            	all	0.6361
+recip_rank     	all	0.7096
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-2.0-5-1.5-1:
+map            	all	0.6762
+recip_rank     	all	0.7688
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-2.0-5-1.5-2:
+map            	all	0.6306
+recip_rank     	all	0.6966
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-2.0-5-2.0-1:
+map            	all	0.6795
+recip_rank     	all	0.7579
+TREC Scores of test_res/RPLGSIM-test/LGSIM-2.0-2.0-5-2.0-2:
+map            	all	0.6008
+recip_rank     	all	0.6588

@@ -1,0 +1,2881 @@
+Classifier: RPNB
+TREC Scores of test_res/RPNB-dev/NB-0.5-0.5-3-0-1:
+map            	all	0.5378
+recip_rank     	all	0.6031
+TREC Scores of test_res/RPNB-dev/NB-0.5-0.5-3-0-2:
+map            	all	0.5394
+recip_rank     	all	0.6000
+TREC Scores of test_res/RPNB-dev/NB-0.5-0.5-3-0.8-1:
+map            	all	0.5374
+recip_rank     	all	0.6031
+TREC Scores of test_res/RPNB-dev/NB-0.5-0.5-3-0.8-2:
+map            	all	0.5451
+recip_rank     	all	0.5851
+TREC Scores of test_res/RPNB-dev/NB-0.5-0.5-3-1.0-1:
+map            	all	0.5371
+recip_rank     	all	0.6031
+TREC Scores of test_res/RPNB-dev/NB-0.5-0.5-3-1.0-2:
+map            	all	0.5513
+recip_rank     	all	0.5956
+TREC Scores of test_res/RPNB-dev/NB-0.5-0.5-3-1.25-1:
+map            	all	0.5382
+recip_rank     	all	0.6035
+TREC Scores of test_res/RPNB-dev/NB-0.5-0.5-3-1.25-2:
+map            	all	0.5410
+recip_rank     	all	0.5820
+TREC Scores of test_res/RPNB-dev/NB-0.5-0.5-3-1.5-1:
+map            	all	0.5543
+recip_rank     	all	0.6167
+TREC Scores of test_res/RPNB-dev/NB-0.5-0.5-3-1.5-2:
+map            	all	0.5316
+recip_rank     	all	0.5579
+TREC Scores of test_res/RPNB-dev/NB-0.5-0.5-3-2.0-1:
+map            	all	0.5725
+recip_rank     	all	0.6320
+TREC Scores of test_res/RPNB-dev/NB-0.5-0.5-3-2.0-2:
+map            	all	0.5184
+recip_rank     	all	0.5388
+TREC Scores of test_res/RPNB-dev/NB-0.5-0.5-5-0-1:
+map            	all	0.5378
+recip_rank     	all	0.6031
+TREC Scores of test_res/RPNB-dev/NB-0.5-0.5-5-0-2:
+map            	all	0.5386
+recip_rank     	all	0.5978
+TREC Scores of test_res/RPNB-dev/NB-0.5-0.5-5-0.8-1:
+map            	all	0.5374
+recip_rank     	all	0.6031
+TREC Scores of test_res/RPNB-dev/NB-0.5-0.5-5-0.8-2:
+map            	all	0.5440
+recip_rank     	all	0.5822
+TREC Scores of test_res/RPNB-dev/NB-0.5-0.5-5-1.0-1:
+map            	all	0.5372
+recip_rank     	all	0.6031
+TREC Scores of test_res/RPNB-dev/NB-0.5-0.5-5-1.0-2:
+map            	all	0.5501
+recip_rank     	all	0.5915
+TREC Scores of test_res/RPNB-dev/NB-0.5-0.5-5-1.25-1:
+map            	all	0.5382
+recip_rank     	all	0.6035
+TREC Scores of test_res/RPNB-dev/NB-0.5-0.5-5-1.25-2:
+map            	all	0.5420
+recip_rank     	all	0.5816
+TREC Scores of test_res/RPNB-dev/NB-0.5-0.5-5-1.5-1:
+map            	all	0.5539
+recip_rank     	all	0.6166
+TREC Scores of test_res/RPNB-dev/NB-0.5-0.5-5-1.5-2:
+map            	all	0.5310
+recip_rank     	all	0.5558
+TREC Scores of test_res/RPNB-dev/NB-0.5-0.5-5-2.0-1:
+map            	all	0.5730
+recip_rank     	all	0.6317
+TREC Scores of test_res/RPNB-dev/NB-0.5-0.5-5-2.0-2:
+map            	all	0.5177
+recip_rank     	all	0.5366
+TREC Scores of test_res/RPNB-dev/NB-0.5-0.75-3-0-1:
+map            	all	0.5378
+recip_rank     	all	0.6031
+TREC Scores of test_res/RPNB-dev/NB-0.5-0.75-3-0-2:
+map            	all	0.5426
+recip_rank     	all	0.6072
+TREC Scores of test_res/RPNB-dev/NB-0.5-0.75-3-0.8-1:
+map            	all	0.5378
+recip_rank     	all	0.6031
+TREC Scores of test_res/RPNB-dev/NB-0.5-0.75-3-0.8-2:
+map            	all	0.5489
+recip_rank     	all	0.5935
+TREC Scores of test_res/RPNB-dev/NB-0.5-0.75-3-1.0-1:
+map            	all	0.5374
+recip_rank     	all	0.6031
+TREC Scores of test_res/RPNB-dev/NB-0.5-0.75-3-1.0-2:
+map            	all	0.5409
+recip_rank     	all	0.5859
+TREC Scores of test_res/RPNB-dev/NB-0.5-0.75-3-1.25-1:
+map            	all	0.5404
+recip_rank     	all	0.6039
+TREC Scores of test_res/RPNB-dev/NB-0.5-0.75-3-1.25-2:
+map            	all	0.5392
+recip_rank     	all	0.5775
+TREC Scores of test_res/RPNB-dev/NB-0.5-0.75-3-1.5-1:
+map            	all	0.5582
+recip_rank     	all	0.6195
+TREC Scores of test_res/RPNB-dev/NB-0.5-0.75-3-1.5-2:
+map            	all	0.5308
+recip_rank     	all	0.5683
+TREC Scores of test_res/RPNB-dev/NB-0.5-0.75-3-2.0-1:
+map            	all	0.5713
+recip_rank     	all	0.6204
+TREC Scores of test_res/RPNB-dev/NB-0.5-0.75-3-2.0-2:
+map            	all	0.5195
+recip_rank     	all	0.5460
+TREC Scores of test_res/RPNB-dev/NB-0.5-0.75-5-0-1:
+map            	all	0.5378
+recip_rank     	all	0.6031
+TREC Scores of test_res/RPNB-dev/NB-0.5-0.75-5-0-2:
+map            	all	0.5415
+recip_rank     	all	0.6026
+TREC Scores of test_res/RPNB-dev/NB-0.5-0.75-5-0.8-1:
+map            	all	0.5378
+recip_rank     	all	0.6031
+TREC Scores of test_res/RPNB-dev/NB-0.5-0.75-5-0.8-2:
+map            	all	0.5476
+recip_rank     	all	0.5904
+TREC Scores of test_res/RPNB-dev/NB-0.5-0.75-5-1.0-1:
+map            	all	0.5378
+recip_rank     	all	0.6033
+TREC Scores of test_res/RPNB-dev/NB-0.5-0.75-5-1.0-2:
+map            	all	0.5409
+recip_rank     	all	0.5841
+TREC Scores of test_res/RPNB-dev/NB-0.5-0.75-5-1.25-1:
+map            	all	0.5408
+recip_rank     	all	0.6039
+TREC Scores of test_res/RPNB-dev/NB-0.5-0.75-5-1.25-2:
+map            	all	0.5378
+recip_rank     	all	0.5753
+TREC Scores of test_res/RPNB-dev/NB-0.5-0.75-5-1.5-1:
+map            	all	0.5580
+recip_rank     	all	0.6194
+TREC Scores of test_res/RPNB-dev/NB-0.5-0.75-5-1.5-2:
+map            	all	0.5301
+recip_rank     	all	0.5657
+TREC Scores of test_res/RPNB-dev/NB-0.5-0.75-5-2.0-1:
+map            	all	0.5723
+recip_rank     	all	0.6264
+TREC Scores of test_res/RPNB-dev/NB-0.5-0.75-5-2.0-2:
+map            	all	0.5191
+recip_rank     	all	0.5451
+TREC Scores of test_res/RPNB-dev/NB-0.5-1.0-3-0-1:
+map            	all	0.5378
+recip_rank     	all	0.6031
+TREC Scores of test_res/RPNB-dev/NB-0.5-1.0-3-0-2:
+map            	all	0.5401
+recip_rank     	all	0.5989
+TREC Scores of test_res/RPNB-dev/NB-0.5-1.0-3-0.8-1:
+map            	all	0.5378
+recip_rank     	all	0.6031
+TREC Scores of test_res/RPNB-dev/NB-0.5-1.0-3-0.8-2:
+map            	all	0.5434
+recip_rank     	all	0.5811
+TREC Scores of test_res/RPNB-dev/NB-0.5-1.0-3-1.0-1:
+map            	all	0.5378
+recip_rank     	all	0.6031
+TREC Scores of test_res/RPNB-dev/NB-0.5-1.0-3-1.0-2:
+map            	all	0.5385
+recip_rank     	all	0.5766
+TREC Scores of test_res/RPNB-dev/NB-0.5-1.0-3-1.25-1:
+map            	all	0.5402
+recip_rank     	all	0.6035
+TREC Scores of test_res/RPNB-dev/NB-0.5-1.0-3-1.25-2:
+map            	all	0.5313
+recip_rank     	all	0.5650
+TREC Scores of test_res/RPNB-dev/NB-0.5-1.0-3-1.5-1:
+map            	all	0.5583
+recip_rank     	all	0.6195
+TREC Scores of test_res/RPNB-dev/NB-0.5-1.0-3-1.5-2:
+map            	all	0.5276
+recip_rank     	all	0.5631
+TREC Scores of test_res/RPNB-dev/NB-0.5-1.0-3-2.0-1:
+map            	all	0.5731
+recip_rank     	all	0.6276
+TREC Scores of test_res/RPNB-dev/NB-0.5-1.0-3-2.0-2:
+map            	all	0.5139
+recip_rank     	all	0.5386
+TREC Scores of test_res/RPNB-dev/NB-0.5-1.0-5-0-1:
+map            	all	0.5378
+recip_rank     	all	0.6031
+TREC Scores of test_res/RPNB-dev/NB-0.5-1.0-5-0-2:
+map            	all	0.5400
+recip_rank     	all	0.5998
+TREC Scores of test_res/RPNB-dev/NB-0.5-1.0-5-0.8-1:
+map            	all	0.5378
+recip_rank     	all	0.6031
+TREC Scores of test_res/RPNB-dev/NB-0.5-1.0-5-0.8-2:
+map            	all	0.5432
+recip_rank     	all	0.5818
+TREC Scores of test_res/RPNB-dev/NB-0.5-1.0-5-1.0-1:
+map            	all	0.5380
+recip_rank     	all	0.6033
+TREC Scores of test_res/RPNB-dev/NB-0.5-1.0-5-1.0-2:
+map            	all	0.5368
+recip_rank     	all	0.5741
+TREC Scores of test_res/RPNB-dev/NB-0.5-1.0-5-1.25-1:
+map            	all	0.5415
+recip_rank     	all	0.6039
+TREC Scores of test_res/RPNB-dev/NB-0.5-1.0-5-1.25-2:
+map            	all	0.5315
+recip_rank     	all	0.5659
+TREC Scores of test_res/RPNB-dev/NB-0.5-1.0-5-1.5-1:
+map            	all	0.5582
+recip_rank     	all	0.6195
+TREC Scores of test_res/RPNB-dev/NB-0.5-1.0-5-1.5-2:
+map            	all	0.5273
+recip_rank     	all	0.5636
+TREC Scores of test_res/RPNB-dev/NB-0.5-1.0-5-2.0-1:
+map            	all	0.5736
+recip_rank     	all	0.6264
+TREC Scores of test_res/RPNB-dev/NB-0.5-1.0-5-2.0-2:
+map            	all	0.5156
+recip_rank     	all	0.5407
+TREC Scores of test_res/RPNB-dev/NB-0.5-1.5-3-0-1:
+map            	all	0.5378
+recip_rank     	all	0.6031
+TREC Scores of test_res/RPNB-dev/NB-0.5-1.5-3-0-2:
+map            	all	0.5390
+recip_rank     	all	0.5982
+TREC Scores of test_res/RPNB-dev/NB-0.5-1.5-3-0.8-1:
+map            	all	0.5378
+recip_rank     	all	0.6031
+TREC Scores of test_res/RPNB-dev/NB-0.5-1.5-3-0.8-2:
+map            	all	0.5433
+recip_rank     	all	0.5803
+TREC Scores of test_res/RPNB-dev/NB-0.5-1.5-3-1.0-1:
+map            	all	0.5378
+recip_rank     	all	0.6031
+TREC Scores of test_res/RPNB-dev/NB-0.5-1.5-3-1.0-2:
+map            	all	0.5379
+recip_rank     	all	0.5730
+TREC Scores of test_res/RPNB-dev/NB-0.5-1.5-3-1.25-1:
+map            	all	0.5399
+recip_rank     	all	0.6033
+TREC Scores of test_res/RPNB-dev/NB-0.5-1.5-3-1.25-2:
+map            	all	0.5314
+recip_rank     	all	0.5649
+TREC Scores of test_res/RPNB-dev/NB-0.5-1.5-3-1.5-1:
+map            	all	0.5571
+recip_rank     	all	0.6195
+TREC Scores of test_res/RPNB-dev/NB-0.5-1.5-3-1.5-2:
+map            	all	0.5256
+recip_rank     	all	0.5604
+TREC Scores of test_res/RPNB-dev/NB-0.5-1.5-3-2.0-1:
+map            	all	0.5656
+recip_rank     	all	0.6179
+TREC Scores of test_res/RPNB-dev/NB-0.5-1.5-3-2.0-2:
+map            	all	0.5185
+recip_rank     	all	0.5453
+TREC Scores of test_res/RPNB-dev/NB-0.5-1.5-5-0-1:
+map            	all	0.5378
+recip_rank     	all	0.6031
+TREC Scores of test_res/RPNB-dev/NB-0.5-1.5-5-0-2:
+map            	all	0.5392
+recip_rank     	all	0.5991
+TREC Scores of test_res/RPNB-dev/NB-0.5-1.5-5-0.8-1:
+map            	all	0.5378
+recip_rank     	all	0.6031
+TREC Scores of test_res/RPNB-dev/NB-0.5-1.5-5-0.8-2:
+map            	all	0.5437
+recip_rank     	all	0.5827
+TREC Scores of test_res/RPNB-dev/NB-0.5-1.5-5-1.0-1:
+map            	all	0.5378
+recip_rank     	all	0.6031
+TREC Scores of test_res/RPNB-dev/NB-0.5-1.5-5-1.0-2:
+map            	all	0.5374
+recip_rank     	all	0.5732
+TREC Scores of test_res/RPNB-dev/NB-0.5-1.5-5-1.25-1:
+map            	all	0.5425
+recip_rank     	all	0.6039
+TREC Scores of test_res/RPNB-dev/NB-0.5-1.5-5-1.25-2:
+map            	all	0.5302
+recip_rank     	all	0.5659
+TREC Scores of test_res/RPNB-dev/NB-0.5-1.5-5-1.5-1:
+map            	all	0.5569
+recip_rank     	all	0.6197
+TREC Scores of test_res/RPNB-dev/NB-0.5-1.5-5-1.5-2:
+map            	all	0.5263
+recip_rank     	all	0.5633
+TREC Scores of test_res/RPNB-dev/NB-0.5-1.5-5-2.0-1:
+map            	all	0.5706
+recip_rank     	all	0.6203
+TREC Scores of test_res/RPNB-dev/NB-0.5-1.5-5-2.0-2:
+map            	all	0.5180
+recip_rank     	all	0.5462
+TREC Scores of test_res/RPNB-dev/NB-0.5-2.0-3-0-1:
+map            	all	0.5378
+recip_rank     	all	0.6031
+TREC Scores of test_res/RPNB-dev/NB-0.5-2.0-3-0-2:
+map            	all	0.5388
+recip_rank     	all	0.5984
+TREC Scores of test_res/RPNB-dev/NB-0.5-2.0-3-0.8-1:
+map            	all	0.5378
+recip_rank     	all	0.6031
+TREC Scores of test_res/RPNB-dev/NB-0.5-2.0-3-0.8-2:
+map            	all	0.5435
+recip_rank     	all	0.5805
+TREC Scores of test_res/RPNB-dev/NB-0.5-2.0-3-1.0-1:
+map            	all	0.5378
+recip_rank     	all	0.6031
+TREC Scores of test_res/RPNB-dev/NB-0.5-2.0-3-1.0-2:
+map            	all	0.5329
+recip_rank     	all	0.5660
+TREC Scores of test_res/RPNB-dev/NB-0.5-2.0-3-1.25-1:
+map            	all	0.5403
+recip_rank     	all	0.6033
+TREC Scores of test_res/RPNB-dev/NB-0.5-2.0-3-1.25-2:
+map            	all	0.5322
+recip_rank     	all	0.5656
+TREC Scores of test_res/RPNB-dev/NB-0.5-2.0-3-1.5-1:
+map            	all	0.5562
+recip_rank     	all	0.6195
+TREC Scores of test_res/RPNB-dev/NB-0.5-2.0-3-1.5-2:
+map            	all	0.5240
+recip_rank     	all	0.5586
+TREC Scores of test_res/RPNB-dev/NB-0.5-2.0-3-2.0-1:
+map            	all	0.5672
+recip_rank     	all	0.6179
+TREC Scores of test_res/RPNB-dev/NB-0.5-2.0-3-2.0-2:
+map            	all	0.5161
+recip_rank     	all	0.5431
+TREC Scores of test_res/RPNB-dev/NB-0.5-2.0-5-0-1:
+map            	all	0.5378
+recip_rank     	all	0.6031
+TREC Scores of test_res/RPNB-dev/NB-0.5-2.0-5-0-2:
+map            	all	0.5388
+recip_rank     	all	0.5991
+TREC Scores of test_res/RPNB-dev/NB-0.5-2.0-5-0.8-1:
+map            	all	0.5378
+recip_rank     	all	0.6031
+TREC Scores of test_res/RPNB-dev/NB-0.5-2.0-5-0.8-2:
+map            	all	0.5434
+recip_rank     	all	0.5823
+TREC Scores of test_res/RPNB-dev/NB-0.5-2.0-5-1.0-1:
+map            	all	0.5378
+recip_rank     	all	0.6031
+TREC Scores of test_res/RPNB-dev/NB-0.5-2.0-5-1.0-2:
+map            	all	0.5305
+recip_rank     	all	0.5637
+TREC Scores of test_res/RPNB-dev/NB-0.5-2.0-5-1.25-1:
+map            	all	0.5430
+recip_rank     	all	0.6039
+TREC Scores of test_res/RPNB-dev/NB-0.5-2.0-5-1.25-2:
+map            	all	0.5309
+recip_rank     	all	0.5665
+TREC Scores of test_res/RPNB-dev/NB-0.5-2.0-5-1.5-1:
+map            	all	0.5553
+recip_rank     	all	0.6197
+TREC Scores of test_res/RPNB-dev/NB-0.5-2.0-5-1.5-2:
+map            	all	0.5199
+recip_rank     	all	0.5569
+TREC Scores of test_res/RPNB-dev/NB-0.5-2.0-5-2.0-1:
+map            	all	0.5705
+recip_rank     	all	0.6203
+TREC Scores of test_res/RPNB-dev/NB-0.5-2.0-5-2.0-2:
+map            	all	0.5152
+recip_rank     	all	0.5439
+TREC Scores of test_res/RPNB-dev/NB-1.0-0.5-3-0-1:
+map            	all	0.5325
+recip_rank     	all	0.5901
+TREC Scores of test_res/RPNB-dev/NB-1.0-0.5-3-0-2:
+map            	all	0.5458
+recip_rank     	all	0.6035
+TREC Scores of test_res/RPNB-dev/NB-1.0-0.5-3-0.8-1:
+map            	all	0.5356
+recip_rank     	all	0.5971
+TREC Scores of test_res/RPNB-dev/NB-1.0-0.5-3-0.8-2:
+map            	all	0.5502
+recip_rank     	all	0.5968
+TREC Scores of test_res/RPNB-dev/NB-1.0-0.5-3-1.0-1:
+map            	all	0.5355
+recip_rank     	all	0.5947
+TREC Scores of test_res/RPNB-dev/NB-1.0-0.5-3-1.0-2:
+map            	all	0.5554
+recip_rank     	all	0.6079
+TREC Scores of test_res/RPNB-dev/NB-1.0-0.5-3-1.25-1:
+map            	all	0.5394
+recip_rank     	all	0.5965
+TREC Scores of test_res/RPNB-dev/NB-1.0-0.5-3-1.25-2:
+map            	all	0.5486
+recip_rank     	all	0.5956
+TREC Scores of test_res/RPNB-dev/NB-1.0-0.5-3-1.5-1:
+map            	all	0.5532
+recip_rank     	all	0.6201
+TREC Scores of test_res/RPNB-dev/NB-1.0-0.5-3-1.5-2:
+map            	all	0.5409
+recip_rank     	all	0.5755
+TREC Scores of test_res/RPNB-dev/NB-1.0-0.5-3-2.0-1:
+map            	all	0.5692
+recip_rank     	all	0.6169
+TREC Scores of test_res/RPNB-dev/NB-1.0-0.5-3-2.0-2:
+map            	all	0.5384
+recip_rank     	all	0.5649
+TREC Scores of test_res/RPNB-dev/NB-1.0-0.5-5-0-1:
+map            	all	0.5291
+recip_rank     	all	0.5853
+TREC Scores of test_res/RPNB-dev/NB-1.0-0.5-5-0-2:
+map            	all	0.5478
+recip_rank     	all	0.6107
+TREC Scores of test_res/RPNB-dev/NB-1.0-0.5-5-0.8-1:
+map            	all	0.5318
+recip_rank     	all	0.5923
+TREC Scores of test_res/RPNB-dev/NB-1.0-0.5-5-0.8-2:
+map            	all	0.5522
+recip_rank     	all	0.6052
+TREC Scores of test_res/RPNB-dev/NB-1.0-0.5-5-1.0-1:
+map            	all	0.5321
+recip_rank     	all	0.5923
+TREC Scores of test_res/RPNB-dev/NB-1.0-0.5-5-1.0-2:
+map            	all	0.5563
+recip_rank     	all	0.6158
+TREC Scores of test_res/RPNB-dev/NB-1.0-0.5-5-1.25-1:
+map            	all	0.5354
+recip_rank     	all	0.5917
+TREC Scores of test_res/RPNB-dev/NB-1.0-0.5-5-1.25-2:
+map            	all	0.5510
+recip_rank     	all	0.6024
+TREC Scores of test_res/RPNB-dev/NB-1.0-0.5-5-1.5-1:
+map            	all	0.5490
+recip_rank     	all	0.6153
+TREC Scores of test_res/RPNB-dev/NB-1.0-0.5-5-1.5-2:
+map            	all	0.5419
+recip_rank     	all	0.5811
+TREC Scores of test_res/RPNB-dev/NB-1.0-0.5-5-2.0-1:
+map            	all	0.5666
+recip_rank     	all	0.6119
+TREC Scores of test_res/RPNB-dev/NB-1.0-0.5-5-2.0-2:
+map            	all	0.5392
+recip_rank     	all	0.5724
+TREC Scores of test_res/RPNB-dev/NB-1.0-0.75-3-0-1:
+map            	all	0.5303
+recip_rank     	all	0.5826
+TREC Scores of test_res/RPNB-dev/NB-1.0-0.75-3-0-2:
+map            	all	0.5538
+recip_rank     	all	0.6171
+TREC Scores of test_res/RPNB-dev/NB-1.0-0.75-3-0.8-1:
+map            	all	0.5314
+recip_rank     	all	0.5899
+TREC Scores of test_res/RPNB-dev/NB-1.0-0.75-3-0.8-2:
+map            	all	0.5548
+recip_rank     	all	0.6040
+TREC Scores of test_res/RPNB-dev/NB-1.0-0.75-3-1.0-1:
+map            	all	0.5315
+recip_rank     	all	0.5899
+TREC Scores of test_res/RPNB-dev/NB-1.0-0.75-3-1.0-2:
+map            	all	0.5543
+recip_rank     	all	0.6100
+TREC Scores of test_res/RPNB-dev/NB-1.0-0.75-3-1.25-1:
+map            	all	0.5355
+recip_rank     	all	0.5915
+TREC Scores of test_res/RPNB-dev/NB-1.0-0.75-3-1.25-2:
+map            	all	0.5523
+recip_rank     	all	0.5923
+TREC Scores of test_res/RPNB-dev/NB-1.0-0.75-3-1.5-1:
+map            	all	0.5499
+recip_rank     	all	0.6060
+TREC Scores of test_res/RPNB-dev/NB-1.0-0.75-3-1.5-2:
+map            	all	0.5474
+recip_rank     	all	0.5844
+TREC Scores of test_res/RPNB-dev/NB-1.0-0.75-3-2.0-1:
+map            	all	0.5623
+recip_rank     	all	0.6080
+TREC Scores of test_res/RPNB-dev/NB-1.0-0.75-3-2.0-2:
+map            	all	0.5274
+recip_rank     	all	0.5527
+TREC Scores of test_res/RPNB-dev/NB-1.0-0.75-5-0-1:
+map            	all	0.5296
+recip_rank     	all	0.5822
+TREC Scores of test_res/RPNB-dev/NB-1.0-0.75-5-0-2:
+map            	all	0.5525
+recip_rank     	all	0.6176
+TREC Scores of test_res/RPNB-dev/NB-1.0-0.75-5-0.8-1:
+map            	all	0.5305
+recip_rank     	all	0.5896
+TREC Scores of test_res/RPNB-dev/NB-1.0-0.75-5-0.8-2:
+map            	all	0.5540
+recip_rank     	all	0.6075
+TREC Scores of test_res/RPNB-dev/NB-1.0-0.75-5-1.0-1:
+map            	all	0.5310
+recip_rank     	all	0.5896
+TREC Scores of test_res/RPNB-dev/NB-1.0-0.75-5-1.0-2:
+map            	all	0.5521
+recip_rank     	all	0.6088
+TREC Scores of test_res/RPNB-dev/NB-1.0-0.75-5-1.25-1:
+map            	all	0.5364
+recip_rank     	all	0.5914
+TREC Scores of test_res/RPNB-dev/NB-1.0-0.75-5-1.25-2:
+map            	all	0.5504
+recip_rank     	all	0.5923
+TREC Scores of test_res/RPNB-dev/NB-1.0-0.75-5-1.5-1:
+map            	all	0.5504
+recip_rank     	all	0.6053
+TREC Scores of test_res/RPNB-dev/NB-1.0-0.75-5-1.5-2:
+map            	all	0.5467
+recip_rank     	all	0.5833
+TREC Scores of test_res/RPNB-dev/NB-1.0-0.75-5-2.0-1:
+map            	all	0.5626
+recip_rank     	all	0.6083
+TREC Scores of test_res/RPNB-dev/NB-1.0-0.75-5-2.0-2:
+map            	all	0.5255
+recip_rank     	all	0.5529
+TREC Scores of test_res/RPNB-dev/NB-1.0-1.0-3-0-1:
+map            	all	0.5312
+recip_rank     	all	0.5832
+TREC Scores of test_res/RPNB-dev/NB-1.0-1.0-3-0-2:
+map            	all	0.5497
+recip_rank     	all	0.6099
+TREC Scores of test_res/RPNB-dev/NB-1.0-1.0-3-0.8-1:
+map            	all	0.5324
+recip_rank     	all	0.5905
+TREC Scores of test_res/RPNB-dev/NB-1.0-1.0-3-0.8-2:
+map            	all	0.5502
+recip_rank     	all	0.5950
+TREC Scores of test_res/RPNB-dev/NB-1.0-1.0-3-1.0-1:
+map            	all	0.5344
+recip_rank     	all	0.5905
+TREC Scores of test_res/RPNB-dev/NB-1.0-1.0-3-1.0-2:
+map            	all	0.5519
+recip_rank     	all	0.6017
+TREC Scores of test_res/RPNB-dev/NB-1.0-1.0-3-1.25-1:
+map            	all	0.5370
+recip_rank     	all	0.5919
+TREC Scores of test_res/RPNB-dev/NB-1.0-1.0-3-1.25-2:
+map            	all	0.5446
+recip_rank     	all	0.5835
+TREC Scores of test_res/RPNB-dev/NB-1.0-1.0-3-1.5-1:
+map            	all	0.5516
+recip_rank     	all	0.6066
+TREC Scores of test_res/RPNB-dev/NB-1.0-1.0-3-1.5-2:
+map            	all	0.5463
+recip_rank     	all	0.5770
+TREC Scores of test_res/RPNB-dev/NB-1.0-1.0-3-2.0-1:
+map            	all	0.5635
+recip_rank     	all	0.6034
+TREC Scores of test_res/RPNB-dev/NB-1.0-1.0-3-2.0-2:
+map            	all	0.5291
+recip_rank     	all	0.5511
+TREC Scores of test_res/RPNB-dev/NB-1.0-1.0-5-0-1:
+map            	all	0.5316
+recip_rank     	all	0.5851
+TREC Scores of test_res/RPNB-dev/NB-1.0-1.0-5-0-2:
+map            	all	0.5484
+recip_rank     	all	0.6053
+TREC Scores of test_res/RPNB-dev/NB-1.0-1.0-5-0.8-1:
+map            	all	0.5325
+recip_rank     	all	0.5924
+TREC Scores of test_res/RPNB-dev/NB-1.0-1.0-5-0.8-2:
+map            	all	0.5474
+recip_rank     	all	0.5898
+TREC Scores of test_res/RPNB-dev/NB-1.0-1.0-5-1.0-1:
+map            	all	0.5350
+recip_rank     	all	0.5924
+TREC Scores of test_res/RPNB-dev/NB-1.0-1.0-5-1.0-2:
+map            	all	0.5448
+recip_rank     	all	0.5897
+TREC Scores of test_res/RPNB-dev/NB-1.0-1.0-5-1.25-1:
+map            	all	0.5390
+recip_rank     	all	0.5936
+TREC Scores of test_res/RPNB-dev/NB-1.0-1.0-5-1.25-2:
+map            	all	0.5401
+recip_rank     	all	0.5770
+TREC Scores of test_res/RPNB-dev/NB-1.0-1.0-5-1.5-1:
+map            	all	0.5531
+recip_rank     	all	0.6086
+TREC Scores of test_res/RPNB-dev/NB-1.0-1.0-5-1.5-2:
+map            	all	0.5399
+recip_rank     	all	0.5697
+TREC Scores of test_res/RPNB-dev/NB-1.0-1.0-5-2.0-1:
+map            	all	0.5621
+recip_rank     	all	0.5974
+TREC Scores of test_res/RPNB-dev/NB-1.0-1.0-5-2.0-2:
+map            	all	0.5276
+recip_rank     	all	0.5486
+TREC Scores of test_res/RPNB-dev/NB-1.0-1.5-3-0-1:
+map            	all	0.5319
+recip_rank     	all	0.5868
+TREC Scores of test_res/RPNB-dev/NB-1.0-1.5-3-0-2:
+map            	all	0.5426
+recip_rank     	all	0.5977
+TREC Scores of test_res/RPNB-dev/NB-1.0-1.5-3-0.8-1:
+map            	all	0.5329
+recip_rank     	all	0.5939
+TREC Scores of test_res/RPNB-dev/NB-1.0-1.5-3-0.8-2:
+map            	all	0.5455
+recip_rank     	all	0.5847
+TREC Scores of test_res/RPNB-dev/NB-1.0-1.5-3-1.0-1:
+map            	all	0.5351
+recip_rank     	all	0.5942
+TREC Scores of test_res/RPNB-dev/NB-1.0-1.5-3-1.0-2:
+map            	all	0.5372
+recip_rank     	all	0.5746
+TREC Scores of test_res/RPNB-dev/NB-1.0-1.5-3-1.25-1:
+map            	all	0.5367
+recip_rank     	all	0.5923
+TREC Scores of test_res/RPNB-dev/NB-1.0-1.5-3-1.25-2:
+map            	all	0.5388
+recip_rank     	all	0.5751
+TREC Scores of test_res/RPNB-dev/NB-1.0-1.5-3-1.5-1:
+map            	all	0.5505
+recip_rank     	all	0.6092
+TREC Scores of test_res/RPNB-dev/NB-1.0-1.5-3-1.5-2:
+map            	all	0.5364
+recip_rank     	all	0.5703
+TREC Scores of test_res/RPNB-dev/NB-1.0-1.5-3-2.0-1:
+map            	all	0.5646
+recip_rank     	all	0.6085
+TREC Scores of test_res/RPNB-dev/NB-1.0-1.5-3-2.0-2:
+map            	all	0.5236
+recip_rank     	all	0.5463
+TREC Scores of test_res/RPNB-dev/NB-1.0-1.5-5-0-1:
+map            	all	0.5316
+recip_rank     	all	0.5839
+TREC Scores of test_res/RPNB-dev/NB-1.0-1.5-5-0-2:
+map            	all	0.5416
+recip_rank     	all	0.5946
+TREC Scores of test_res/RPNB-dev/NB-1.0-1.5-5-0.8-1:
+map            	all	0.5328
+recip_rank     	all	0.5912
+TREC Scores of test_res/RPNB-dev/NB-1.0-1.5-5-0.8-2:
+map            	all	0.5386
+recip_rank     	all	0.5837
+TREC Scores of test_res/RPNB-dev/NB-1.0-1.5-5-1.0-1:
+map            	all	0.5349
+recip_rank     	all	0.5912
+TREC Scores of test_res/RPNB-dev/NB-1.0-1.5-5-1.0-2:
+map            	all	0.5337
+recip_rank     	all	0.5808
+TREC Scores of test_res/RPNB-dev/NB-1.0-1.5-5-1.25-1:
+map            	all	0.5392
+recip_rank     	all	0.5931
+TREC Scores of test_res/RPNB-dev/NB-1.0-1.5-5-1.25-2:
+map            	all	0.5368
+recip_rank     	all	0.5788
+TREC Scores of test_res/RPNB-dev/NB-1.0-1.5-5-1.5-1:
+map            	all	0.5531
+recip_rank     	all	0.6082
+TREC Scores of test_res/RPNB-dev/NB-1.0-1.5-5-1.5-2:
+map            	all	0.5315
+recip_rank     	all	0.5668
+TREC Scores of test_res/RPNB-dev/NB-1.0-1.5-5-2.0-1:
+map            	all	0.5613
+recip_rank     	all	0.5974
+TREC Scores of test_res/RPNB-dev/NB-1.0-1.5-5-2.0-2:
+map            	all	0.5205
+recip_rank     	all	0.5444
+TREC Scores of test_res/RPNB-dev/NB-1.0-2.0-3-0-1:
+map            	all	0.5319
+recip_rank     	all	0.5863
+TREC Scores of test_res/RPNB-dev/NB-1.0-2.0-3-0-2:
+map            	all	0.5399
+recip_rank     	all	0.5946
+TREC Scores of test_res/RPNB-dev/NB-1.0-2.0-3-0.8-1:
+map            	all	0.5329
+recip_rank     	all	0.5934
+TREC Scores of test_res/RPNB-dev/NB-1.0-2.0-3-0.8-2:
+map            	all	0.5440
+recip_rank     	all	0.5820
+TREC Scores of test_res/RPNB-dev/NB-1.0-2.0-3-1.0-1:
+map            	all	0.5350
+recip_rank     	all	0.5936
+TREC Scores of test_res/RPNB-dev/NB-1.0-2.0-3-1.0-2:
+map            	all	0.5330
+recip_rank     	all	0.5655
+TREC Scores of test_res/RPNB-dev/NB-1.0-2.0-3-1.25-1:
+map            	all	0.5361
+recip_rank     	all	0.5915
+TREC Scores of test_res/RPNB-dev/NB-1.0-2.0-3-1.25-2:
+map            	all	0.5366
+recip_rank     	all	0.5695
+TREC Scores of test_res/RPNB-dev/NB-1.0-2.0-3-1.5-1:
+map            	all	0.5501
+recip_rank     	all	0.6092
+TREC Scores of test_res/RPNB-dev/NB-1.0-2.0-3-1.5-2:
+map            	all	0.5338
+recip_rank     	all	0.5654
+TREC Scores of test_res/RPNB-dev/NB-1.0-2.0-3-2.0-1:
+map            	all	0.5566
+recip_rank     	all	0.6002
+TREC Scores of test_res/RPNB-dev/NB-1.0-2.0-3-2.0-2:
+map            	all	0.5189
+recip_rank     	all	0.5424
+TREC Scores of test_res/RPNB-dev/NB-1.0-2.0-5-0-1:
+map            	all	0.5351
+recip_rank     	all	0.5910
+TREC Scores of test_res/RPNB-dev/NB-1.0-2.0-5-0-2:
+map            	all	0.5401
+recip_rank     	all	0.5946
+TREC Scores of test_res/RPNB-dev/NB-1.0-2.0-5-0.8-1:
+map            	all	0.5364
+recip_rank     	all	0.5984
+TREC Scores of test_res/RPNB-dev/NB-1.0-2.0-5-0.8-2:
+map            	all	0.5434
+recip_rank     	all	0.5838
+TREC Scores of test_res/RPNB-dev/NB-1.0-2.0-5-1.0-1:
+map            	all	0.5384
+recip_rank     	all	0.5984
+TREC Scores of test_res/RPNB-dev/NB-1.0-2.0-5-1.0-2:
+map            	all	0.5336
+recip_rank     	all	0.5762
+TREC Scores of test_res/RPNB-dev/NB-1.0-2.0-5-1.25-1:
+map            	all	0.5428
+recip_rank     	all	0.6002
+TREC Scores of test_res/RPNB-dev/NB-1.0-2.0-5-1.25-2:
+map            	all	0.5358
+recip_rank     	all	0.5776
+TREC Scores of test_res/RPNB-dev/NB-1.0-2.0-5-1.5-1:
+map            	all	0.5537
+recip_rank     	all	0.6149
+TREC Scores of test_res/RPNB-dev/NB-1.0-2.0-5-1.5-2:
+map            	all	0.5316
+recip_rank     	all	0.5661
+TREC Scores of test_res/RPNB-dev/NB-1.0-2.0-5-2.0-1:
+map            	all	0.5601
+recip_rank     	all	0.5998
+TREC Scores of test_res/RPNB-dev/NB-1.0-2.0-5-2.0-2:
+map            	all	0.5163
+recip_rank     	all	0.5420
+TREC Scores of test_res/RPNB-dev/NB-1.5-0.5-3-0-1:
+map            	all	0.5324
+recip_rank     	all	0.5929
+TREC Scores of test_res/RPNB-dev/NB-1.5-0.5-3-0-2:
+map            	all	0.5598
+recip_rank     	all	0.6079
+TREC Scores of test_res/RPNB-dev/NB-1.5-0.5-3-0.8-1:
+map            	all	0.5331
+recip_rank     	all	0.5976
+TREC Scores of test_res/RPNB-dev/NB-1.5-0.5-3-0.8-2:
+map            	all	0.5582
+recip_rank     	all	0.6039
+TREC Scores of test_res/RPNB-dev/NB-1.5-0.5-3-1.0-1:
+map            	all	0.5369
+recip_rank     	all	0.5978
+TREC Scores of test_res/RPNB-dev/NB-1.5-0.5-3-1.0-2:
+map            	all	0.5622
+recip_rank     	all	0.6106
+TREC Scores of test_res/RPNB-dev/NB-1.5-0.5-3-1.25-1:
+map            	all	0.5412
+recip_rank     	all	0.6058
+TREC Scores of test_res/RPNB-dev/NB-1.5-0.5-3-1.25-2:
+map            	all	0.5608
+recip_rank     	all	0.5989
+TREC Scores of test_res/RPNB-dev/NB-1.5-0.5-3-1.5-1:
+map            	all	0.5513
+recip_rank     	all	0.6158
+TREC Scores of test_res/RPNB-dev/NB-1.5-0.5-3-1.5-2:
+map            	all	0.5567
+recip_rank     	all	0.5836
+TREC Scores of test_res/RPNB-dev/NB-1.5-0.5-3-2.0-1:
+map            	all	0.5642
+recip_rank     	all	0.6193
+TREC Scores of test_res/RPNB-dev/NB-1.5-0.5-3-2.0-2:
+map            	all	0.5504
+recip_rank     	all	0.5668
+TREC Scores of test_res/RPNB-dev/NB-1.5-0.5-5-0-1:
+map            	all	0.5277
+recip_rank     	all	0.5842
+TREC Scores of test_res/RPNB-dev/NB-1.5-0.5-5-0-2:
+map            	all	0.5588
+recip_rank     	all	0.6074
+TREC Scores of test_res/RPNB-dev/NB-1.5-0.5-5-0.8-1:
+map            	all	0.5283
+recip_rank     	all	0.5888
+TREC Scores of test_res/RPNB-dev/NB-1.5-0.5-5-0.8-2:
+map            	all	0.5583
+recip_rank     	all	0.6033
+TREC Scores of test_res/RPNB-dev/NB-1.5-0.5-5-1.0-1:
+map            	all	0.5321
+recip_rank     	all	0.5891
+TREC Scores of test_res/RPNB-dev/NB-1.5-0.5-5-1.0-2:
+map            	all	0.5619
+recip_rank     	all	0.6104
+TREC Scores of test_res/RPNB-dev/NB-1.5-0.5-5-1.25-1:
+map            	all	0.5367
+recip_rank     	all	0.5971
+TREC Scores of test_res/RPNB-dev/NB-1.5-0.5-5-1.25-2:
+map            	all	0.5614
+recip_rank     	all	0.5986
+TREC Scores of test_res/RPNB-dev/NB-1.5-0.5-5-1.5-1:
+map            	all	0.5480
+recip_rank     	all	0.6135
+TREC Scores of test_res/RPNB-dev/NB-1.5-0.5-5-1.5-2:
+map            	all	0.5562
+recip_rank     	all	0.5856
+TREC Scores of test_res/RPNB-dev/NB-1.5-0.5-5-2.0-1:
+map            	all	0.5607
+recip_rank     	all	0.6105
+TREC Scores of test_res/RPNB-dev/NB-1.5-0.5-5-2.0-2:
+map            	all	0.5495
+recip_rank     	all	0.5669
+TREC Scores of test_res/RPNB-dev/NB-1.5-0.75-3-0-1:
+map            	all	0.5324
+recip_rank     	all	0.5922
+TREC Scores of test_res/RPNB-dev/NB-1.5-0.75-3-0-2:
+map            	all	0.5551
+recip_rank     	all	0.6104
+TREC Scores of test_res/RPNB-dev/NB-1.5-0.75-3-0.8-1:
+map            	all	0.5335
+recip_rank     	all	0.5996
+TREC Scores of test_res/RPNB-dev/NB-1.5-0.75-3-0.8-2:
+map            	all	0.5580
+recip_rank     	all	0.6135
+TREC Scores of test_res/RPNB-dev/NB-1.5-0.75-3-1.0-1:
+map            	all	0.5352
+recip_rank     	all	0.5995
+TREC Scores of test_res/RPNB-dev/NB-1.5-0.75-3-1.0-2:
+map            	all	0.5625
+recip_rank     	all	0.6155
+TREC Scores of test_res/RPNB-dev/NB-1.5-0.75-3-1.25-1:
+map            	all	0.5393
+recip_rank     	all	0.6005
+TREC Scores of test_res/RPNB-dev/NB-1.5-0.75-3-1.25-2:
+map            	all	0.5541
+recip_rank     	all	0.5859
+TREC Scores of test_res/RPNB-dev/NB-1.5-0.75-3-1.5-1:
+map            	all	0.5501
+recip_rank     	all	0.6144
+TREC Scores of test_res/RPNB-dev/NB-1.5-0.75-3-1.5-2:
+map            	all	0.5520
+recip_rank     	all	0.5811
+TREC Scores of test_res/RPNB-dev/NB-1.5-0.75-3-2.0-1:
+map            	all	0.5602
+recip_rank     	all	0.6154
+TREC Scores of test_res/RPNB-dev/NB-1.5-0.75-3-2.0-2:
+map            	all	0.5446
+recip_rank     	all	0.5684
+TREC Scores of test_res/RPNB-dev/NB-1.5-0.75-5-0-1:
+map            	all	0.5283
+recip_rank     	all	0.5759
+TREC Scores of test_res/RPNB-dev/NB-1.5-0.75-5-0-2:
+map            	all	0.5536
+recip_rank     	all	0.6156
+TREC Scores of test_res/RPNB-dev/NB-1.5-0.75-5-0.8-1:
+map            	all	0.5296
+recip_rank     	all	0.5833
+TREC Scores of test_res/RPNB-dev/NB-1.5-0.75-5-0.8-2:
+map            	all	0.5544
+recip_rank     	all	0.6180
+TREC Scores of test_res/RPNB-dev/NB-1.5-0.75-5-1.0-1:
+map            	all	0.5317
+recip_rank     	all	0.5840
+TREC Scores of test_res/RPNB-dev/NB-1.5-0.75-5-1.0-2:
+map            	all	0.5541
+recip_rank     	all	0.6122
+TREC Scores of test_res/RPNB-dev/NB-1.5-0.75-5-1.25-1:
+map            	all	0.5347
+recip_rank     	all	0.5840
+TREC Scores of test_res/RPNB-dev/NB-1.5-0.75-5-1.25-2:
+map            	all	0.5541
+recip_rank     	all	0.6005
+TREC Scores of test_res/RPNB-dev/NB-1.5-0.75-5-1.5-1:
+map            	all	0.5480
+recip_rank     	all	0.6056
+TREC Scores of test_res/RPNB-dev/NB-1.5-0.75-5-1.5-2:
+map            	all	0.5509
+recip_rank     	all	0.5895
+TREC Scores of test_res/RPNB-dev/NB-1.5-0.75-5-2.0-1:
+map            	all	0.5583
+recip_rank     	all	0.6088
+TREC Scores of test_res/RPNB-dev/NB-1.5-0.75-5-2.0-2:
+map            	all	0.5385
+recip_rank     	all	0.5697
+TREC Scores of test_res/RPNB-dev/NB-1.5-1.0-3-0-1:
+map            	all	0.5353
+recip_rank     	all	0.5942
+TREC Scores of test_res/RPNB-dev/NB-1.5-1.0-3-0-2:
+map            	all	0.5528
+recip_rank     	all	0.6052
+TREC Scores of test_res/RPNB-dev/NB-1.5-1.0-3-0.8-1:
+map            	all	0.5369
+recip_rank     	all	0.6015
+TREC Scores of test_res/RPNB-dev/NB-1.5-1.0-3-0.8-2:
+map            	all	0.5587
+recip_rank     	all	0.6105
+TREC Scores of test_res/RPNB-dev/NB-1.5-1.0-3-1.0-1:
+map            	all	0.5379
+recip_rank     	all	0.6019
+TREC Scores of test_res/RPNB-dev/NB-1.5-1.0-3-1.0-2:
+map            	all	0.5538
+recip_rank     	all	0.5967
+TREC Scores of test_res/RPNB-dev/NB-1.5-1.0-3-1.25-1:
+map            	all	0.5422
+recip_rank     	all	0.6024
+TREC Scores of test_res/RPNB-dev/NB-1.5-1.0-3-1.25-2:
+map            	all	0.5524
+recip_rank     	all	0.5856
+TREC Scores of test_res/RPNB-dev/NB-1.5-1.0-3-1.5-1:
+map            	all	0.5497
+recip_rank     	all	0.6094
+TREC Scores of test_res/RPNB-dev/NB-1.5-1.0-3-1.5-2:
+map            	all	0.5502
+recip_rank     	all	0.5807
+TREC Scores of test_res/RPNB-dev/NB-1.5-1.0-3-2.0-1:
+map            	all	0.5600
+recip_rank     	all	0.6065
+TREC Scores of test_res/RPNB-dev/NB-1.5-1.0-3-2.0-2:
+map            	all	0.5300
+recip_rank     	all	0.5529
+TREC Scores of test_res/RPNB-dev/NB-1.5-1.0-5-0-1:
+map            	all	0.5293
+recip_rank     	all	0.5774
+TREC Scores of test_res/RPNB-dev/NB-1.5-1.0-5-0-2:
+map            	all	0.5539
+recip_rank     	all	0.6162
+TREC Scores of test_res/RPNB-dev/NB-1.5-1.0-5-0.8-1:
+map            	all	0.5309
+recip_rank     	all	0.5847
+TREC Scores of test_res/RPNB-dev/NB-1.5-1.0-5-0.8-2:
+map            	all	0.5567
+recip_rank     	all	0.6201
+TREC Scores of test_res/RPNB-dev/NB-1.5-1.0-5-1.0-1:
+map            	all	0.5332
+recip_rank     	all	0.5858
+TREC Scores of test_res/RPNB-dev/NB-1.5-1.0-5-1.0-2:
+map            	all	0.5531
+recip_rank     	all	0.6080
+TREC Scores of test_res/RPNB-dev/NB-1.5-1.0-5-1.25-1:
+map            	all	0.5363
+recip_rank     	all	0.5858
+TREC Scores of test_res/RPNB-dev/NB-1.5-1.0-5-1.25-2:
+map            	all	0.5475
+recip_rank     	all	0.5892
+TREC Scores of test_res/RPNB-dev/NB-1.5-1.0-5-1.5-1:
+map            	all	0.5449
+recip_rank     	all	0.6009
+TREC Scores of test_res/RPNB-dev/NB-1.5-1.0-5-1.5-2:
+map            	all	0.5463
+recip_rank     	all	0.5864
+TREC Scores of test_res/RPNB-dev/NB-1.5-1.0-5-2.0-1:
+map            	all	0.5512
+recip_rank     	all	0.5968
+TREC Scores of test_res/RPNB-dev/NB-1.5-1.0-5-2.0-2:
+map            	all	0.5301
+recip_rank     	all	0.5608
+TREC Scores of test_res/RPNB-dev/NB-1.5-1.5-3-0-1:
+map            	all	0.5346
+recip_rank     	all	0.5929
+TREC Scores of test_res/RPNB-dev/NB-1.5-1.5-3-0-2:
+map            	all	0.5503
+recip_rank     	all	0.6006
+TREC Scores of test_res/RPNB-dev/NB-1.5-1.5-3-0.8-1:
+map            	all	0.5366
+recip_rank     	all	0.6003
+TREC Scores of test_res/RPNB-dev/NB-1.5-1.5-3-0.8-2:
+map            	all	0.5518
+recip_rank     	all	0.5919
+TREC Scores of test_res/RPNB-dev/NB-1.5-1.5-3-1.0-1:
+map            	all	0.5371
+recip_rank     	all	0.6003
+TREC Scores of test_res/RPNB-dev/NB-1.5-1.5-3-1.0-2:
+map            	all	0.5419
+recip_rank     	all	0.5751
+TREC Scores of test_res/RPNB-dev/NB-1.5-1.5-3-1.25-1:
+map            	all	0.5391
+recip_rank     	all	0.5941
+TREC Scores of test_res/RPNB-dev/NB-1.5-1.5-3-1.25-2:
+map            	all	0.5427
+recip_rank     	all	0.5665
+TREC Scores of test_res/RPNB-dev/NB-1.5-1.5-3-1.5-1:
+map            	all	0.5504
+recip_rank     	all	0.6058
+TREC Scores of test_res/RPNB-dev/NB-1.5-1.5-3-1.5-2:
+map            	all	0.5428
+recip_rank     	all	0.5669
+TREC Scores of test_res/RPNB-dev/NB-1.5-1.5-3-2.0-1:
+map            	all	0.5571
+recip_rank     	all	0.5988
+TREC Scores of test_res/RPNB-dev/NB-1.5-1.5-3-2.0-2:
+map            	all	0.5299
+recip_rank     	all	0.5454
+TREC Scores of test_res/RPNB-dev/NB-1.5-1.5-5-0-1:
+map            	all	0.5262
+recip_rank     	all	0.5766
+TREC Scores of test_res/RPNB-dev/NB-1.5-1.5-5-0-2:
+map            	all	0.5486
+recip_rank     	all	0.6081
+TREC Scores of test_res/RPNB-dev/NB-1.5-1.5-5-0.8-1:
+map            	all	0.5289
+recip_rank     	all	0.5840
+TREC Scores of test_res/RPNB-dev/NB-1.5-1.5-5-0.8-2:
+map            	all	0.5426
+recip_rank     	all	0.5964
+TREC Scores of test_res/RPNB-dev/NB-1.5-1.5-5-1.0-1:
+map            	all	0.5300
+recip_rank     	all	0.5843
+TREC Scores of test_res/RPNB-dev/NB-1.5-1.5-5-1.0-2:
+map            	all	0.5383
+recip_rank     	all	0.5835
+TREC Scores of test_res/RPNB-dev/NB-1.5-1.5-5-1.25-1:
+map            	all	0.5340
+recip_rank     	all	0.5852
+TREC Scores of test_res/RPNB-dev/NB-1.5-1.5-5-1.25-2:
+map            	all	0.5378
+recip_rank     	all	0.5739
+TREC Scores of test_res/RPNB-dev/NB-1.5-1.5-5-1.5-1:
+map            	all	0.5452
+recip_rank     	all	0.6003
+TREC Scores of test_res/RPNB-dev/NB-1.5-1.5-5-1.5-2:
+map            	all	0.5397
+recip_rank     	all	0.5672
+TREC Scores of test_res/RPNB-dev/NB-1.5-1.5-5-2.0-1:
+map            	all	0.5487
+recip_rank     	all	0.5902
+TREC Scores of test_res/RPNB-dev/NB-1.5-1.5-5-2.0-2:
+map            	all	0.5283
+recip_rank     	all	0.5532
+TREC Scores of test_res/RPNB-dev/NB-1.5-2.0-3-0-1:
+map            	all	0.5347
+recip_rank     	all	0.5863
+TREC Scores of test_res/RPNB-dev/NB-1.5-2.0-3-0-2:
+map            	all	0.5493
+recip_rank     	all	0.5996
+TREC Scores of test_res/RPNB-dev/NB-1.5-2.0-3-0.8-1:
+map            	all	0.5367
+recip_rank     	all	0.5937
+TREC Scores of test_res/RPNB-dev/NB-1.5-2.0-3-0.8-2:
+map            	all	0.5509
+recip_rank     	all	0.5904
+TREC Scores of test_res/RPNB-dev/NB-1.5-2.0-3-1.0-1:
+map            	all	0.5372
+recip_rank     	all	0.5937
+TREC Scores of test_res/RPNB-dev/NB-1.5-2.0-3-1.0-2:
+map            	all	0.5402
+recip_rank     	all	0.5762
+TREC Scores of test_res/RPNB-dev/NB-1.5-2.0-3-1.25-1:
+map            	all	0.5385
+recip_rank     	all	0.5920
+TREC Scores of test_res/RPNB-dev/NB-1.5-2.0-3-1.25-2:
+map            	all	0.5417
+recip_rank     	all	0.5655
+TREC Scores of test_res/RPNB-dev/NB-1.5-2.0-3-1.5-1:
+map            	all	0.5506
+recip_rank     	all	0.6064
+TREC Scores of test_res/RPNB-dev/NB-1.5-2.0-3-1.5-2:
+map            	all	0.5431
+recip_rank     	all	0.5666
+TREC Scores of test_res/RPNB-dev/NB-1.5-2.0-3-2.0-1:
+map            	all	0.5487
+recip_rank     	all	0.5898
+TREC Scores of test_res/RPNB-dev/NB-1.5-2.0-3-2.0-2:
+map            	all	0.5288
+recip_rank     	all	0.5443
+TREC Scores of test_res/RPNB-dev/NB-1.5-2.0-5-0-1:
+map            	all	0.5264
+recip_rank     	all	0.5774
+TREC Scores of test_res/RPNB-dev/NB-1.5-2.0-5-0-2:
+map            	all	0.5465
+recip_rank     	all	0.6050
+TREC Scores of test_res/RPNB-dev/NB-1.5-2.0-5-0.8-1:
+map            	all	0.5292
+recip_rank     	all	0.5847
+TREC Scores of test_res/RPNB-dev/NB-1.5-2.0-5-0.8-2:
+map            	all	0.5400
+recip_rank     	all	0.5899
+TREC Scores of test_res/RPNB-dev/NB-1.5-2.0-5-1.0-1:
+map            	all	0.5303
+recip_rank     	all	0.5850
+TREC Scores of test_res/RPNB-dev/NB-1.5-2.0-5-1.0-2:
+map            	all	0.5360
+recip_rank     	all	0.5823
+TREC Scores of test_res/RPNB-dev/NB-1.5-2.0-5-1.25-1:
+map            	all	0.5337
+recip_rank     	all	0.5859
+TREC Scores of test_res/RPNB-dev/NB-1.5-2.0-5-1.25-2:
+map            	all	0.5380
+recip_rank     	all	0.5792
+TREC Scores of test_res/RPNB-dev/NB-1.5-2.0-5-1.5-1:
+map            	all	0.5418
+recip_rank     	all	0.5938
+TREC Scores of test_res/RPNB-dev/NB-1.5-2.0-5-1.5-2:
+map            	all	0.5371
+recip_rank     	all	0.5639
+TREC Scores of test_res/RPNB-dev/NB-1.5-2.0-5-2.0-1:
+map            	all	0.5419
+recip_rank     	all	0.5837
+TREC Scores of test_res/RPNB-dev/NB-1.5-2.0-5-2.0-2:
+map            	all	0.5230
+recip_rank     	all	0.5475
+TREC Scores of test_res/RPNB-dev/NB-2.0-0.5-3-0-1:
+map            	all	0.5348
+recip_rank     	all	0.5900
+TREC Scores of test_res/RPNB-dev/NB-2.0-0.5-3-0-2:
+map            	all	0.5641
+recip_rank     	all	0.6139
+TREC Scores of test_res/RPNB-dev/NB-2.0-0.5-3-0.8-1:
+map            	all	0.5374
+recip_rank     	all	0.5948
+TREC Scores of test_res/RPNB-dev/NB-2.0-0.5-3-0.8-2:
+map            	all	0.5656
+recip_rank     	all	0.6072
+TREC Scores of test_res/RPNB-dev/NB-2.0-0.5-3-1.0-1:
+map            	all	0.5389
+recip_rank     	all	0.5952
+TREC Scores of test_res/RPNB-dev/NB-2.0-0.5-3-1.0-2:
+map            	all	0.5713
+recip_rank     	all	0.6164
+TREC Scores of test_res/RPNB-dev/NB-2.0-0.5-3-1.25-1:
+map            	all	0.5414
+recip_rank     	all	0.5956
+TREC Scores of test_res/RPNB-dev/NB-2.0-0.5-3-1.25-2:
+map            	all	0.5671
+recip_rank     	all	0.6069
+TREC Scores of test_res/RPNB-dev/NB-2.0-0.5-3-1.5-1:
+map            	all	0.5530
+recip_rank     	all	0.6046
+TREC Scores of test_res/RPNB-dev/NB-2.0-0.5-3-1.5-2:
+map            	all	0.5642
+recip_rank     	all	0.5941
+TREC Scores of test_res/RPNB-dev/NB-2.0-0.5-3-2.0-1:
+map            	all	0.5623
+recip_rank     	all	0.6054
+TREC Scores of test_res/RPNB-dev/NB-2.0-0.5-3-2.0-2:
+map            	all	0.5566
+recip_rank     	all	0.5743
+TREC Scores of test_res/RPNB-dev/NB-2.0-0.5-5-0-1:
+map            	all	0.5314
+recip_rank     	all	0.5877
+TREC Scores of test_res/RPNB-dev/NB-2.0-0.5-5-0-2:
+map            	all	0.5635
+recip_rank     	all	0.6206
+TREC Scores of test_res/RPNB-dev/NB-2.0-0.5-5-0.8-1:
+map            	all	0.5338
+recip_rank     	all	0.5926
+TREC Scores of test_res/RPNB-dev/NB-2.0-0.5-5-0.8-2:
+map            	all	0.5647
+recip_rank     	all	0.6092
+TREC Scores of test_res/RPNB-dev/NB-2.0-0.5-5-1.0-1:
+map            	all	0.5352
+recip_rank     	all	0.5929
+TREC Scores of test_res/RPNB-dev/NB-2.0-0.5-5-1.0-2:
+map            	all	0.5704
+recip_rank     	all	0.6184
+TREC Scores of test_res/RPNB-dev/NB-2.0-0.5-5-1.25-1:
+map            	all	0.5390
+recip_rank     	all	0.5934
+TREC Scores of test_res/RPNB-dev/NB-2.0-0.5-5-1.25-2:
+map            	all	0.5677
+recip_rank     	all	0.6066
+TREC Scores of test_res/RPNB-dev/NB-2.0-0.5-5-1.5-1:
+map            	all	0.5503
+recip_rank     	all	0.6095
+TREC Scores of test_res/RPNB-dev/NB-2.0-0.5-5-1.5-2:
+map            	all	0.5638
+recip_rank     	all	0.5939
+TREC Scores of test_res/RPNB-dev/NB-2.0-0.5-5-2.0-1:
+map            	all	0.5588
+recip_rank     	all	0.6031
+TREC Scores of test_res/RPNB-dev/NB-2.0-0.5-5-2.0-2:
+map            	all	0.5554
+recip_rank     	all	0.5754
+TREC Scores of test_res/RPNB-dev/NB-2.0-0.75-3-0-1:
+map            	all	0.5301
+recip_rank     	all	0.5974
+TREC Scores of test_res/RPNB-dev/NB-2.0-0.75-3-0-2:
+map            	all	0.5596
+recip_rank     	all	0.6082
+TREC Scores of test_res/RPNB-dev/NB-2.0-0.75-3-0.8-1:
+map            	all	0.5323
+recip_rank     	all	0.6047
+TREC Scores of test_res/RPNB-dev/NB-2.0-0.75-3-0.8-2:
+map            	all	0.5593
+recip_rank     	all	0.6124
+TREC Scores of test_res/RPNB-dev/NB-2.0-0.75-3-1.0-1:
+map            	all	0.5334
+recip_rank     	all	0.6055
+TREC Scores of test_res/RPNB-dev/NB-2.0-0.75-3-1.0-2:
+map            	all	0.5659
+recip_rank     	all	0.6156
+TREC Scores of test_res/RPNB-dev/NB-2.0-0.75-3-1.25-1:
+map            	all	0.5361
+recip_rank     	all	0.6030
+TREC Scores of test_res/RPNB-dev/NB-2.0-0.75-3-1.25-2:
+map            	all	0.5652
+recip_rank     	all	0.6035
+TREC Scores of test_res/RPNB-dev/NB-2.0-0.75-3-1.5-1:
+map            	all	0.5456
+recip_rank     	all	0.6126
+TREC Scores of test_res/RPNB-dev/NB-2.0-0.75-3-1.5-2:
+map            	all	0.5564
+recip_rank     	all	0.5809
+TREC Scores of test_res/RPNB-dev/NB-2.0-0.75-3-2.0-1:
+map            	all	0.5565
+recip_rank     	all	0.6163
+TREC Scores of test_res/RPNB-dev/NB-2.0-0.75-3-2.0-2:
+map            	all	0.5521
+recip_rank     	all	0.5713
+TREC Scores of test_res/RPNB-dev/NB-2.0-0.75-5-0-1:
+map            	all	0.5316
+recip_rank     	all	0.5994
+TREC Scores of test_res/RPNB-dev/NB-2.0-0.75-5-0-2:
+map            	all	0.5583
+recip_rank     	all	0.6051
+TREC Scores of test_res/RPNB-dev/NB-2.0-0.75-5-0.8-1:
+map            	all	0.5336
+recip_rank     	all	0.6074
+TREC Scores of test_res/RPNB-dev/NB-2.0-0.75-5-0.8-2:
+map            	all	0.5589
+recip_rank     	all	0.6093
+TREC Scores of test_res/RPNB-dev/NB-2.0-0.75-5-1.0-1:
+map            	all	0.5341
+recip_rank     	all	0.6075
+TREC Scores of test_res/RPNB-dev/NB-2.0-0.75-5-1.0-2:
+map            	all	0.5580
+recip_rank     	all	0.6046
+TREC Scores of test_res/RPNB-dev/NB-2.0-0.75-5-1.25-1:
+map            	all	0.5350
+recip_rank     	all	0.5977
+TREC Scores of test_res/RPNB-dev/NB-2.0-0.75-5-1.25-2:
+map            	all	0.5629
+recip_rank     	all	0.5987
+TREC Scores of test_res/RPNB-dev/NB-2.0-0.75-5-1.5-1:
+map            	all	0.5479
+recip_rank     	all	0.6219
+TREC Scores of test_res/RPNB-dev/NB-2.0-0.75-5-1.5-2:
+map            	all	0.5589
+recip_rank     	all	0.5887
+TREC Scores of test_res/RPNB-dev/NB-2.0-0.75-5-2.0-1:
+map            	all	0.5572
+recip_rank     	all	0.6150
+TREC Scores of test_res/RPNB-dev/NB-2.0-0.75-5-2.0-2:
+map            	all	0.5508
+recip_rank     	all	0.5695
+TREC Scores of test_res/RPNB-dev/NB-2.0-1.0-3-0-1:
+map            	all	0.5295
+recip_rank     	all	0.5807
+TREC Scores of test_res/RPNB-dev/NB-2.0-1.0-3-0-2:
+map            	all	0.5564
+recip_rank     	all	0.6028
+TREC Scores of test_res/RPNB-dev/NB-2.0-1.0-3-0.8-1:
+map            	all	0.5327
+recip_rank     	all	0.5955
+TREC Scores of test_res/RPNB-dev/NB-2.0-1.0-3-0.8-2:
+map            	all	0.5552
+recip_rank     	all	0.6071
+TREC Scores of test_res/RPNB-dev/NB-2.0-1.0-3-1.0-1:
+map            	all	0.5342
+recip_rank     	all	0.5958
+TREC Scores of test_res/RPNB-dev/NB-2.0-1.0-3-1.0-2:
+map            	all	0.5550
+recip_rank     	all	0.6006
+TREC Scores of test_res/RPNB-dev/NB-2.0-1.0-3-1.25-1:
+map            	all	0.5337
+recip_rank     	all	0.5962
+TREC Scores of test_res/RPNB-dev/NB-2.0-1.0-3-1.25-2:
+map            	all	0.5556
+recip_rank     	all	0.5837
+TREC Scores of test_res/RPNB-dev/NB-2.0-1.0-3-1.5-1:
+map            	all	0.5460
+recip_rank     	all	0.6103
+TREC Scores of test_res/RPNB-dev/NB-2.0-1.0-3-1.5-2:
+map            	all	0.5557
+recip_rank     	all	0.5830
+TREC Scores of test_res/RPNB-dev/NB-2.0-1.0-3-2.0-1:
+map            	all	0.5538
+recip_rank     	all	0.6073
+TREC Scores of test_res/RPNB-dev/NB-2.0-1.0-3-2.0-2:
+map            	all	0.5433
+recip_rank     	all	0.5613
+TREC Scores of test_res/RPNB-dev/NB-2.0-1.0-5-0-1:
+map            	all	0.5284
+recip_rank     	all	0.5890
+TREC Scores of test_res/RPNB-dev/NB-2.0-1.0-5-0-2:
+map            	all	0.5556
+recip_rank     	all	0.6090
+TREC Scores of test_res/RPNB-dev/NB-2.0-1.0-5-0.8-1:
+map            	all	0.5293
+recip_rank     	all	0.5898
+TREC Scores of test_res/RPNB-dev/NB-2.0-1.0-5-0.8-2:
+map            	all	0.5525
+recip_rank     	all	0.6093
+TREC Scores of test_res/RPNB-dev/NB-2.0-1.0-5-1.0-1:
+map            	all	0.5304
+recip_rank     	all	0.5903
+TREC Scores of test_res/RPNB-dev/NB-2.0-1.0-5-1.0-2:
+map            	all	0.5501
+recip_rank     	all	0.6013
+TREC Scores of test_res/RPNB-dev/NB-2.0-1.0-5-1.25-1:
+map            	all	0.5300
+recip_rank     	all	0.5900
+TREC Scores of test_res/RPNB-dev/NB-2.0-1.0-5-1.25-2:
+map            	all	0.5519
+recip_rank     	all	0.5887
+TREC Scores of test_res/RPNB-dev/NB-2.0-1.0-5-1.5-1:
+map            	all	0.5437
+recip_rank     	all	0.6053
+TREC Scores of test_res/RPNB-dev/NB-2.0-1.0-5-1.5-2:
+map            	all	0.5481
+recip_rank     	all	0.5802
+TREC Scores of test_res/RPNB-dev/NB-2.0-1.0-5-2.0-1:
+map            	all	0.5506
+recip_rank     	all	0.6084
+TREC Scores of test_res/RPNB-dev/NB-2.0-1.0-5-2.0-2:
+map            	all	0.5403
+recip_rank     	all	0.5648
+TREC Scores of test_res/RPNB-dev/NB-2.0-1.5-3-0-1:
+map            	all	0.5301
+recip_rank     	all	0.5794
+TREC Scores of test_res/RPNB-dev/NB-2.0-1.5-3-0-2:
+map            	all	0.5512
+recip_rank     	all	0.6029
+TREC Scores of test_res/RPNB-dev/NB-2.0-1.5-3-0.8-1:
+map            	all	0.5333
+recip_rank     	all	0.5963
+TREC Scores of test_res/RPNB-dev/NB-2.0-1.5-3-0.8-2:
+map            	all	0.5466
+recip_rank     	all	0.5958
+TREC Scores of test_res/RPNB-dev/NB-2.0-1.5-3-1.0-1:
+map            	all	0.5337
+recip_rank     	all	0.5967
+TREC Scores of test_res/RPNB-dev/NB-2.0-1.5-3-1.0-2:
+map            	all	0.5473
+recip_rank     	all	0.5924
+TREC Scores of test_res/RPNB-dev/NB-2.0-1.5-3-1.25-1:
+map            	all	0.5354
+recip_rank     	all	0.5974
+TREC Scores of test_res/RPNB-dev/NB-2.0-1.5-3-1.25-2:
+map            	all	0.5433
+recip_rank     	all	0.5726
+TREC Scores of test_res/RPNB-dev/NB-2.0-1.5-3-1.5-1:
+map            	all	0.5495
+recip_rank     	all	0.6116
+TREC Scores of test_res/RPNB-dev/NB-2.0-1.5-3-1.5-2:
+map            	all	0.5403
+recip_rank     	all	0.5684
+TREC Scores of test_res/RPNB-dev/NB-2.0-1.5-3-2.0-1:
+map            	all	0.5457
+recip_rank     	all	0.5858
+TREC Scores of test_res/RPNB-dev/NB-2.0-1.5-3-2.0-2:
+map            	all	0.5286
+recip_rank     	all	0.5496
+TREC Scores of test_res/RPNB-dev/NB-2.0-1.5-5-0-1:
+map            	all	0.5317
+recip_rank     	all	0.5926
+TREC Scores of test_res/RPNB-dev/NB-2.0-1.5-5-0-2:
+map            	all	0.5500
+recip_rank     	all	0.6059
+TREC Scores of test_res/RPNB-dev/NB-2.0-1.5-5-0.8-1:
+map            	all	0.5315
+recip_rank     	all	0.5930
+TREC Scores of test_res/RPNB-dev/NB-2.0-1.5-5-0.8-2:
+map            	all	0.5390
+recip_rank     	all	0.5882
+TREC Scores of test_res/RPNB-dev/NB-2.0-1.5-5-1.0-1:
+map            	all	0.5338
+recip_rank     	all	0.5938
+TREC Scores of test_res/RPNB-dev/NB-2.0-1.5-5-1.0-2:
+map            	all	0.5346
+recip_rank     	all	0.5781
+TREC Scores of test_res/RPNB-dev/NB-2.0-1.5-5-1.25-1:
+map            	all	0.5356
+recip_rank     	all	0.5936
+TREC Scores of test_res/RPNB-dev/NB-2.0-1.5-5-1.25-2:
+map            	all	0.5416
+recip_rank     	all	0.5776
+TREC Scores of test_res/RPNB-dev/NB-2.0-1.5-5-1.5-1:
+map            	all	0.5509
+recip_rank     	all	0.6090
+TREC Scores of test_res/RPNB-dev/NB-2.0-1.5-5-1.5-2:
+map            	all	0.5325
+recip_rank     	all	0.5599
+TREC Scores of test_res/RPNB-dev/NB-2.0-1.5-5-2.0-1:
+map            	all	0.5477
+recip_rank     	all	0.6049
+TREC Scores of test_res/RPNB-dev/NB-2.0-1.5-5-2.0-2:
+map            	all	0.5288
+recip_rank     	all	0.5535
+TREC Scores of test_res/RPNB-dev/NB-2.0-2.0-3-0-1:
+map            	all	0.5334
+recip_rank     	all	0.5862
+TREC Scores of test_res/RPNB-dev/NB-2.0-2.0-3-0-2:
+map            	all	0.5503
+recip_rank     	all	0.5947
+TREC Scores of test_res/RPNB-dev/NB-2.0-2.0-3-0.8-1:
+map            	all	0.5361
+recip_rank     	all	0.6031
+TREC Scores of test_res/RPNB-dev/NB-2.0-2.0-3-0.8-2:
+map            	all	0.5464
+recip_rank     	all	0.5867
+TREC Scores of test_res/RPNB-dev/NB-2.0-2.0-3-1.0-1:
+map            	all	0.5351
+recip_rank     	all	0.5961
+TREC Scores of test_res/RPNB-dev/NB-2.0-2.0-3-1.0-2:
+map            	all	0.5397
+recip_rank     	all	0.5673
+TREC Scores of test_res/RPNB-dev/NB-2.0-2.0-3-1.25-1:
+map            	all	0.5350
+recip_rank     	all	0.5967
+TREC Scores of test_res/RPNB-dev/NB-2.0-2.0-3-1.25-2:
+map            	all	0.5420
+recip_rank     	all	0.5615
+TREC Scores of test_res/RPNB-dev/NB-2.0-2.0-3-1.5-1:
+map            	all	0.5480
+recip_rank     	all	0.6112
+TREC Scores of test_res/RPNB-dev/NB-2.0-2.0-3-1.5-2:
+map            	all	0.5419
+recip_rank     	all	0.5617
+TREC Scores of test_res/RPNB-dev/NB-2.0-2.0-3-2.0-1:
+map            	all	0.5439
+recip_rank     	all	0.5842
+TREC Scores of test_res/RPNB-dev/NB-2.0-2.0-3-2.0-2:
+map            	all	0.5289
+recip_rank     	all	0.5416
+TREC Scores of test_res/RPNB-dev/NB-2.0-2.0-5-0-1:
+map            	all	0.5296
+recip_rank     	all	0.5852
+TREC Scores of test_res/RPNB-dev/NB-2.0-2.0-5-0-2:
+map            	all	0.5444
+recip_rank     	all	0.5982
+TREC Scores of test_res/RPNB-dev/NB-2.0-2.0-5-0.8-1:
+map            	all	0.5323
+recip_rank     	all	0.5926
+TREC Scores of test_res/RPNB-dev/NB-2.0-2.0-5-0.8-2:
+map            	all	0.5355
+recip_rank     	all	0.5804
+TREC Scores of test_res/RPNB-dev/NB-2.0-2.0-5-1.0-1:
+map            	all	0.5349
+recip_rank     	all	0.5934
+TREC Scores of test_res/RPNB-dev/NB-2.0-2.0-5-1.0-2:
+map            	all	0.5322
+recip_rank     	all	0.5702
+TREC Scores of test_res/RPNB-dev/NB-2.0-2.0-5-1.25-1:
+map            	all	0.5351
+recip_rank     	all	0.5860
+TREC Scores of test_res/RPNB-dev/NB-2.0-2.0-5-1.25-2:
+map            	all	0.5354
+recip_rank     	all	0.5627
+TREC Scores of test_res/RPNB-dev/NB-2.0-2.0-5-1.5-1:
+map            	all	0.5450
+recip_rank     	all	0.6014
+TREC Scores of test_res/RPNB-dev/NB-2.0-2.0-5-1.5-2:
+map            	all	0.5290
+recip_rank     	all	0.5515
+TREC Scores of test_res/RPNB-dev/NB-2.0-2.0-5-2.0-1:
+map            	all	0.5408
+recip_rank     	all	0.5890
+TREC Scores of test_res/RPNB-dev/NB-2.0-2.0-5-2.0-2:
+map            	all	0.5224
+recip_rank     	all	0.5441
+TREC Scores of test_res/RPNB-test/NB-0.5-0.5-3-0-1:
+map            	all	0.5506
+recip_rank     	all	0.6272
+TREC Scores of test_res/RPNB-test/NB-0.5-0.5-3-0-2:
+map            	all	0.5437
+recip_rank     	all	0.6117
+TREC Scores of test_res/RPNB-test/NB-0.5-0.5-3-0.8-1:
+map            	all	0.5505
+recip_rank     	all	0.6272
+TREC Scores of test_res/RPNB-test/NB-0.5-0.5-3-0.8-2:
+map            	all	0.5620
+recip_rank     	all	0.6381
+TREC Scores of test_res/RPNB-test/NB-0.5-0.5-3-1.0-1:
+map            	all	0.5510
+recip_rank     	all	0.6272
+TREC Scores of test_res/RPNB-test/NB-0.5-0.5-3-1.0-2:
+map            	all	0.5608
+recip_rank     	all	0.6230
+TREC Scores of test_res/RPNB-test/NB-0.5-0.5-3-1.25-1:
+map            	all	0.5631
+recip_rank     	all	0.6399
+TREC Scores of test_res/RPNB-test/NB-0.5-0.5-3-1.25-2:
+map            	all	0.5565
+recip_rank     	all	0.6103
+TREC Scores of test_res/RPNB-test/NB-0.5-0.5-3-1.5-1:
+map            	all	0.5662
+recip_rank     	all	0.6430
+TREC Scores of test_res/RPNB-test/NB-0.5-0.5-3-1.5-2:
+map            	all	0.5406
+recip_rank     	all	0.5936
+TREC Scores of test_res/RPNB-test/NB-0.5-0.5-3-2.0-1:
+map            	all	0.5748
+recip_rank     	all	0.6435
+TREC Scores of test_res/RPNB-test/NB-0.5-0.5-3-2.0-2:
+map            	all	0.5089
+recip_rank     	all	0.5585
+TREC Scores of test_res/RPNB-test/NB-0.5-0.5-5-0-1:
+map            	all	0.5506
+recip_rank     	all	0.6272
+TREC Scores of test_res/RPNB-test/NB-0.5-0.5-5-0-2:
+map            	all	0.5436
+recip_rank     	all	0.6180
+TREC Scores of test_res/RPNB-test/NB-0.5-0.5-5-0.8-1:
+map            	all	0.5505
+recip_rank     	all	0.6272
+TREC Scores of test_res/RPNB-test/NB-0.5-0.5-5-0.8-2:
+map            	all	0.5622
+recip_rank     	all	0.6406
+TREC Scores of test_res/RPNB-test/NB-0.5-0.5-5-1.0-1:
+map            	all	0.5510
+recip_rank     	all	0.6272
+TREC Scores of test_res/RPNB-test/NB-0.5-0.5-5-1.0-2:
+map            	all	0.5605
+recip_rank     	all	0.6293
+TREC Scores of test_res/RPNB-test/NB-0.5-0.5-5-1.25-1:
+map            	all	0.5617
+recip_rank     	all	0.6307
+TREC Scores of test_res/RPNB-test/NB-0.5-0.5-5-1.25-2:
+map            	all	0.5575
+recip_rank     	all	0.6174
+TREC Scores of test_res/RPNB-test/NB-0.5-0.5-5-1.5-1:
+map            	all	0.5708
+recip_rank     	all	0.6427
+TREC Scores of test_res/RPNB-test/NB-0.5-0.5-5-1.5-2:
+map            	all	0.5442
+recip_rank     	all	0.6029
+TREC Scores of test_res/RPNB-test/NB-0.5-0.5-5-2.0-1:
+map            	all	0.5747
+recip_rank     	all	0.6435
+TREC Scores of test_res/RPNB-test/NB-0.5-0.5-5-2.0-2:
+map            	all	0.5099
+recip_rank     	all	0.5648
+TREC Scores of test_res/RPNB-test/NB-0.5-0.75-3-0-1:
+map            	all	0.5506
+recip_rank     	all	0.6272
+TREC Scores of test_res/RPNB-test/NB-0.5-0.75-3-0-2:
+map            	all	0.5490
+recip_rank     	all	0.6285
+TREC Scores of test_res/RPNB-test/NB-0.5-0.75-3-0.8-1:
+map            	all	0.5505
+recip_rank     	all	0.6272
+TREC Scores of test_res/RPNB-test/NB-0.5-0.75-3-0.8-2:
+map            	all	0.5692
+recip_rank     	all	0.6479
+TREC Scores of test_res/RPNB-test/NB-0.5-0.75-3-1.0-1:
+map            	all	0.5515
+recip_rank     	all	0.6272
+TREC Scores of test_res/RPNB-test/NB-0.5-0.75-3-1.0-2:
+map            	all	0.5644
+recip_rank     	all	0.6345
+TREC Scores of test_res/RPNB-test/NB-0.5-0.75-3-1.25-1:
+map            	all	0.5612
+recip_rank     	all	0.6249
+TREC Scores of test_res/RPNB-test/NB-0.5-0.75-3-1.25-2:
+map            	all	0.5514
+recip_rank     	all	0.6100
+TREC Scores of test_res/RPNB-test/NB-0.5-0.75-3-1.5-1:
+map            	all	0.5683
+recip_rank     	all	0.6344
+TREC Scores of test_res/RPNB-test/NB-0.5-0.75-3-1.5-2:
+map            	all	0.5441
+recip_rank     	all	0.6003
+TREC Scores of test_res/RPNB-test/NB-0.5-0.75-3-2.0-1:
+map            	all	0.5786
+recip_rank     	all	0.6455
+TREC Scores of test_res/RPNB-test/NB-0.5-0.75-3-2.0-2:
+map            	all	0.5094
+recip_rank     	all	0.5667
+TREC Scores of test_res/RPNB-test/NB-0.5-0.75-5-0-1:
+map            	all	0.5506
+recip_rank     	all	0.6272
+TREC Scores of test_res/RPNB-test/NB-0.5-0.75-5-0-2:
+map            	all	0.5497
+recip_rank     	all	0.6336
+TREC Scores of test_res/RPNB-test/NB-0.5-0.75-5-0.8-1:
+map            	all	0.5506
+recip_rank     	all	0.6272
+TREC Scores of test_res/RPNB-test/NB-0.5-0.75-5-0.8-2:
+map            	all	0.5685
+recip_rank     	all	0.6448
+TREC Scores of test_res/RPNB-test/NB-0.5-0.75-5-1.0-1:
+map            	all	0.5515
+recip_rank     	all	0.6272
+TREC Scores of test_res/RPNB-test/NB-0.5-0.75-5-1.0-2:
+map            	all	0.5655
+recip_rank     	all	0.6392
+TREC Scores of test_res/RPNB-test/NB-0.5-0.75-5-1.25-1:
+map            	all	0.5594
+recip_rank     	all	0.6272
+TREC Scores of test_res/RPNB-test/NB-0.5-0.75-5-1.25-2:
+map            	all	0.5590
+recip_rank     	all	0.6278
+TREC Scores of test_res/RPNB-test/NB-0.5-0.75-5-1.5-1:
+map            	all	0.5766
+recip_rank     	all	0.6372
+TREC Scores of test_res/RPNB-test/NB-0.5-0.75-5-1.5-2:
+map            	all	0.5382
+recip_rank     	all	0.5996
+TREC Scores of test_res/RPNB-test/NB-0.5-0.75-5-2.0-1:
+map            	all	0.5792
+recip_rank     	all	0.6455
+TREC Scores of test_res/RPNB-test/NB-0.5-0.75-5-2.0-2:
+map            	all	0.5104
+recip_rank     	all	0.5716
+TREC Scores of test_res/RPNB-test/NB-0.5-1.0-3-0-1:
+map            	all	0.5506
+recip_rank     	all	0.6272
+TREC Scores of test_res/RPNB-test/NB-0.5-1.0-3-0-2:
+map            	all	0.5521
+recip_rank     	all	0.6317
+TREC Scores of test_res/RPNB-test/NB-0.5-1.0-3-0.8-1:
+map            	all	0.5506
+recip_rank     	all	0.6272
+TREC Scores of test_res/RPNB-test/NB-0.5-1.0-3-0.8-2:
+map            	all	0.5701
+recip_rank     	all	0.6476
+TREC Scores of test_res/RPNB-test/NB-0.5-1.0-3-1.0-1:
+map            	all	0.5515
+recip_rank     	all	0.6272
+TREC Scores of test_res/RPNB-test/NB-0.5-1.0-3-1.0-2:
+map            	all	0.5633
+recip_rank     	all	0.6339
+TREC Scores of test_res/RPNB-test/NB-0.5-1.0-3-1.25-1:
+map            	all	0.5632
+recip_rank     	all	0.6272
+TREC Scores of test_res/RPNB-test/NB-0.5-1.0-3-1.25-2:
+map            	all	0.5527
+recip_rank     	all	0.6140
+TREC Scores of test_res/RPNB-test/NB-0.5-1.0-3-1.5-1:
+map            	all	0.5694
+recip_rank     	all	0.6275
+TREC Scores of test_res/RPNB-test/NB-0.5-1.0-3-1.5-2:
+map            	all	0.5376
+recip_rank     	all	0.5931
+TREC Scores of test_res/RPNB-test/NB-0.5-1.0-3-2.0-1:
+map            	all	0.5829
+recip_rank     	all	0.6511
+TREC Scores of test_res/RPNB-test/NB-0.5-1.0-3-2.0-2:
+map            	all	0.5072
+recip_rank     	all	0.5651
+TREC Scores of test_res/RPNB-test/NB-0.5-1.0-5-0-1:
+map            	all	0.5506
+recip_rank     	all	0.6272
+TREC Scores of test_res/RPNB-test/NB-0.5-1.0-5-0-2:
+map            	all	0.5514
+recip_rank     	all	0.6330
+TREC Scores of test_res/RPNB-test/NB-0.5-1.0-5-0.8-1:
+map            	all	0.5506
+recip_rank     	all	0.6272
+TREC Scores of test_res/RPNB-test/NB-0.5-1.0-5-0.8-2:
+map            	all	0.5682
+recip_rank     	all	0.6425
+TREC Scores of test_res/RPNB-test/NB-0.5-1.0-5-1.0-1:
+map            	all	0.5512
+recip_rank     	all	0.6272
+TREC Scores of test_res/RPNB-test/NB-0.5-1.0-5-1.0-2:
+map            	all	0.5633
+recip_rank     	all	0.6352
+TREC Scores of test_res/RPNB-test/NB-0.5-1.0-5-1.25-1:
+map            	all	0.5600
+recip_rank     	all	0.6272
+TREC Scores of test_res/RPNB-test/NB-0.5-1.0-5-1.25-2:
+map            	all	0.5412
+recip_rank     	all	0.6021
+TREC Scores of test_res/RPNB-test/NB-0.5-1.0-5-1.5-1:
+map            	all	0.5782
+recip_rank     	all	0.6379
+TREC Scores of test_res/RPNB-test/NB-0.5-1.0-5-1.5-2:
+map            	all	0.5362
+recip_rank     	all	0.5938
+TREC Scores of test_res/RPNB-test/NB-0.5-1.0-5-2.0-1:
+map            	all	0.5779
+recip_rank     	all	0.6445
+TREC Scores of test_res/RPNB-test/NB-0.5-1.0-5-2.0-2:
+map            	all	0.5058
+recip_rank     	all	0.5653
+TREC Scores of test_res/RPNB-test/NB-0.5-1.5-3-0-1:
+map            	all	0.5506
+recip_rank     	all	0.6272
+TREC Scores of test_res/RPNB-test/NB-0.5-1.5-3-0-2:
+map            	all	0.5521
+recip_rank     	all	0.6357
+TREC Scores of test_res/RPNB-test/NB-0.5-1.5-3-0.8-1:
+map            	all	0.5506
+recip_rank     	all	0.6272
+TREC Scores of test_res/RPNB-test/NB-0.5-1.5-3-0.8-2:
+map            	all	0.5702
+recip_rank     	all	0.6482
+TREC Scores of test_res/RPNB-test/NB-0.5-1.5-3-1.0-1:
+map            	all	0.5521
+recip_rank     	all	0.6272
+TREC Scores of test_res/RPNB-test/NB-0.5-1.5-3-1.0-2:
+map            	all	0.5576
+recip_rank     	all	0.6312
+TREC Scores of test_res/RPNB-test/NB-0.5-1.5-3-1.25-1:
+map            	all	0.5622
+recip_rank     	all	0.6272
+TREC Scores of test_res/RPNB-test/NB-0.5-1.5-3-1.25-2:
+map            	all	0.5480
+recip_rank     	all	0.6134
+TREC Scores of test_res/RPNB-test/NB-0.5-1.5-3-1.5-1:
+map            	all	0.5680
+recip_rank     	all	0.6268
+TREC Scores of test_res/RPNB-test/NB-0.5-1.5-3-1.5-2:
+map            	all	0.5372
+recip_rank     	all	0.5983
+TREC Scores of test_res/RPNB-test/NB-0.5-1.5-3-2.0-1:
+map            	all	0.5707
+recip_rank     	all	0.6447
+TREC Scores of test_res/RPNB-test/NB-0.5-1.5-3-2.0-2:
+map            	all	0.4965
+recip_rank     	all	0.5530
+TREC Scores of test_res/RPNB-test/NB-0.5-1.5-5-0-1:
+map            	all	0.5506
+recip_rank     	all	0.6272
+TREC Scores of test_res/RPNB-test/NB-0.5-1.5-5-0-2:
+map            	all	0.5593
+recip_rank     	all	0.6413
+TREC Scores of test_res/RPNB-test/NB-0.5-1.5-5-0.8-1:
+map            	all	0.5506
+recip_rank     	all	0.6272
+TREC Scores of test_res/RPNB-test/NB-0.5-1.5-5-0.8-2:
+map            	all	0.5711
+recip_rank     	all	0.6461
+TREC Scores of test_res/RPNB-test/NB-0.5-1.5-5-1.0-1:
+map            	all	0.5505
+recip_rank     	all	0.6272
+TREC Scores of test_res/RPNB-test/NB-0.5-1.5-5-1.0-2:
+map            	all	0.5561
+recip_rank     	all	0.6299
+TREC Scores of test_res/RPNB-test/NB-0.5-1.5-5-1.25-1:
+map            	all	0.5587
+recip_rank     	all	0.6272
+TREC Scores of test_res/RPNB-test/NB-0.5-1.5-5-1.25-2:
+map            	all	0.5418
+recip_rank     	all	0.6016
+TREC Scores of test_res/RPNB-test/NB-0.5-1.5-5-1.5-1:
+map            	all	0.5742
+recip_rank     	all	0.6321
+TREC Scores of test_res/RPNB-test/NB-0.5-1.5-5-1.5-2:
+map            	all	0.5359
+recip_rank     	all	0.5981
+TREC Scores of test_res/RPNB-test/NB-0.5-1.5-5-2.0-1:
+map            	all	0.5743
+recip_rank     	all	0.6463
+TREC Scores of test_res/RPNB-test/NB-0.5-1.5-5-2.0-2:
+map            	all	0.4951
+recip_rank     	all	0.5509
+TREC Scores of test_res/RPNB-test/NB-0.5-2.0-3-0-1:
+map            	all	0.5506
+recip_rank     	all	0.6272
+TREC Scores of test_res/RPNB-test/NB-0.5-2.0-3-0-2:
+map            	all	0.5593
+recip_rank     	all	0.6426
+TREC Scores of test_res/RPNB-test/NB-0.5-2.0-3-0.8-1:
+map            	all	0.5506
+recip_rank     	all	0.6272
+TREC Scores of test_res/RPNB-test/NB-0.5-2.0-3-0.8-2:
+map            	all	0.5718
+recip_rank     	all	0.6484
+TREC Scores of test_res/RPNB-test/NB-0.5-2.0-3-1.0-1:
+map            	all	0.5521
+recip_rank     	all	0.6272
+TREC Scores of test_res/RPNB-test/NB-0.5-2.0-3-1.0-2:
+map            	all	0.5555
+recip_rank     	all	0.6220
+TREC Scores of test_res/RPNB-test/NB-0.5-2.0-3-1.25-1:
+map            	all	0.5621
+recip_rank     	all	0.6272
+TREC Scores of test_res/RPNB-test/NB-0.5-2.0-3-1.25-2:
+map            	all	0.5471
+recip_rank     	all	0.6144
+TREC Scores of test_res/RPNB-test/NB-0.5-2.0-3-1.5-1:
+map            	all	0.5681
+recip_rank     	all	0.6275
+TREC Scores of test_res/RPNB-test/NB-0.5-2.0-3-1.5-2:
+map            	all	0.5302
+recip_rank     	all	0.5924
+TREC Scores of test_res/RPNB-test/NB-0.5-2.0-3-2.0-1:
+map            	all	0.5688
+recip_rank     	all	0.6424
+TREC Scores of test_res/RPNB-test/NB-0.5-2.0-3-2.0-2:
+map            	all	0.4949
+recip_rank     	all	0.5519
+TREC Scores of test_res/RPNB-test/NB-0.5-2.0-5-0-1:
+map            	all	0.5506
+recip_rank     	all	0.6272
+TREC Scores of test_res/RPNB-test/NB-0.5-2.0-5-0-2:
+map            	all	0.5594
+recip_rank     	all	0.6413
+TREC Scores of test_res/RPNB-test/NB-0.5-2.0-5-0.8-1:
+map            	all	0.5506
+recip_rank     	all	0.6272
+TREC Scores of test_res/RPNB-test/NB-0.5-2.0-5-0.8-2:
+map            	all	0.5700
+recip_rank     	all	0.6463
+TREC Scores of test_res/RPNB-test/NB-0.5-2.0-5-1.0-1:
+map            	all	0.5505
+recip_rank     	all	0.6272
+TREC Scores of test_res/RPNB-test/NB-0.5-2.0-5-1.0-2:
+map            	all	0.5527
+recip_rank     	all	0.6253
+TREC Scores of test_res/RPNB-test/NB-0.5-2.0-5-1.25-1:
+map            	all	0.5582
+recip_rank     	all	0.6272
+TREC Scores of test_res/RPNB-test/NB-0.5-2.0-5-1.25-2:
+map            	all	0.5415
+recip_rank     	all	0.6022
+TREC Scores of test_res/RPNB-test/NB-0.5-2.0-5-1.5-1:
+map            	all	0.5725
+recip_rank     	all	0.6321
+TREC Scores of test_res/RPNB-test/NB-0.5-2.0-5-1.5-2:
+map            	all	0.5255
+recip_rank     	all	0.5864
+TREC Scores of test_res/RPNB-test/NB-0.5-2.0-5-2.0-1:
+map            	all	0.5617
+recip_rank     	all	0.6346
+TREC Scores of test_res/RPNB-test/NB-0.5-2.0-5-2.0-2:
+map            	all	0.4946
+recip_rank     	all	0.5501
+TREC Scores of test_res/RPNB-test/NB-1.0-0.5-3-0-1:
+map            	all	0.5399
+recip_rank     	all	0.6503
+TREC Scores of test_res/RPNB-test/NB-1.0-0.5-3-0-2:
+map            	all	0.5695
+recip_rank     	all	0.6619
+TREC Scores of test_res/RPNB-test/NB-1.0-0.5-3-0.8-1:
+map            	all	0.5513
+recip_rank     	all	0.6507
+TREC Scores of test_res/RPNB-test/NB-1.0-0.5-3-0.8-2:
+map            	all	0.5792
+recip_rank     	all	0.6582
+TREC Scores of test_res/RPNB-test/NB-1.0-0.5-3-1.0-1:
+map            	all	0.5526
+recip_rank     	all	0.6530
+TREC Scores of test_res/RPNB-test/NB-1.0-0.5-3-1.0-2:
+map            	all	0.5759
+recip_rank     	all	0.6510
+TREC Scores of test_res/RPNB-test/NB-1.0-0.5-3-1.25-1:
+map            	all	0.5634
+recip_rank     	all	0.6588
+TREC Scores of test_res/RPNB-test/NB-1.0-0.5-3-1.25-2:
+map            	all	0.5638
+recip_rank     	all	0.6329
+TREC Scores of test_res/RPNB-test/NB-1.0-0.5-3-1.5-1:
+map            	all	0.5632
+recip_rank     	all	0.6611
+TREC Scores of test_res/RPNB-test/NB-1.0-0.5-3-1.5-2:
+map            	all	0.5652
+recip_rank     	all	0.6273
+TREC Scores of test_res/RPNB-test/NB-1.0-0.5-3-2.0-1:
+map            	all	0.5666
+recip_rank     	all	0.6546
+TREC Scores of test_res/RPNB-test/NB-1.0-0.5-3-2.0-2:
+map            	all	0.5604
+recip_rank     	all	0.6207
+TREC Scores of test_res/RPNB-test/NB-1.0-0.5-5-0-1:
+map            	all	0.5390
+recip_rank     	all	0.6483
+TREC Scores of test_res/RPNB-test/NB-1.0-0.5-5-0-2:
+map            	all	0.5642
+recip_rank     	all	0.6492
+TREC Scores of test_res/RPNB-test/NB-1.0-0.5-5-0.8-1:
+map            	all	0.5506
+recip_rank     	all	0.6509
+TREC Scores of test_res/RPNB-test/NB-1.0-0.5-5-0.8-2:
+map            	all	0.5795
+recip_rank     	all	0.6560
+TREC Scores of test_res/RPNB-test/NB-1.0-0.5-5-1.0-1:
+map            	all	0.5515
+recip_rank     	all	0.6486
+TREC Scores of test_res/RPNB-test/NB-1.0-0.5-5-1.0-2:
+map            	all	0.5772
+recip_rank     	all	0.6573
+TREC Scores of test_res/RPNB-test/NB-1.0-0.5-5-1.25-1:
+map            	all	0.5610
+recip_rank     	all	0.6567
+TREC Scores of test_res/RPNB-test/NB-1.0-0.5-5-1.25-2:
+map            	all	0.5658
+recip_rank     	all	0.6328
+TREC Scores of test_res/RPNB-test/NB-1.0-0.5-5-1.5-1:
+map            	all	0.5618
+recip_rank     	all	0.6591
+TREC Scores of test_res/RPNB-test/NB-1.0-0.5-5-1.5-2:
+map            	all	0.5628
+recip_rank     	all	0.6193
+TREC Scores of test_res/RPNB-test/NB-1.0-0.5-5-2.0-1:
+map            	all	0.5659
+recip_rank     	all	0.6527
+TREC Scores of test_res/RPNB-test/NB-1.0-0.5-5-2.0-2:
+map            	all	0.5597
+recip_rank     	all	0.6165
+TREC Scores of test_res/RPNB-test/NB-1.0-0.75-3-0-1:
+map            	all	0.5480
+recip_rank     	all	0.6411
+TREC Scores of test_res/RPNB-test/NB-1.0-0.75-3-0-2:
+map            	all	0.5749
+recip_rank     	all	0.6462
+TREC Scores of test_res/RPNB-test/NB-1.0-0.75-3-0.8-1:
+map            	all	0.5543
+recip_rank     	all	0.6388
+TREC Scores of test_res/RPNB-test/NB-1.0-0.75-3-0.8-2:
+map            	all	0.5848
+recip_rank     	all	0.6473
+TREC Scores of test_res/RPNB-test/NB-1.0-0.75-3-1.0-1:
+map            	all	0.5554
+recip_rank     	all	0.6296
+TREC Scores of test_res/RPNB-test/NB-1.0-0.75-3-1.0-2:
+map            	all	0.5818
+recip_rank     	all	0.6518
+TREC Scores of test_res/RPNB-test/NB-1.0-0.75-3-1.25-1:
+map            	all	0.5663
+recip_rank     	all	0.6391
+TREC Scores of test_res/RPNB-test/NB-1.0-0.75-3-1.25-2:
+map            	all	0.5808
+recip_rank     	all	0.6378
+TREC Scores of test_res/RPNB-test/NB-1.0-0.75-3-1.5-1:
+map            	all	0.5700
+recip_rank     	all	0.6567
+TREC Scores of test_res/RPNB-test/NB-1.0-0.75-3-1.5-2:
+map            	all	0.5737
+recip_rank     	all	0.6273
+TREC Scores of test_res/RPNB-test/NB-1.0-0.75-3-2.0-1:
+map            	all	0.5768
+recip_rank     	all	0.6508
+TREC Scores of test_res/RPNB-test/NB-1.0-0.75-3-2.0-2:
+map            	all	0.5479
+recip_rank     	all	0.5970
+TREC Scores of test_res/RPNB-test/NB-1.0-0.75-5-0-1:
+map            	all	0.5483
+recip_rank     	all	0.6401
+TREC Scores of test_res/RPNB-test/NB-1.0-0.75-5-0-2:
+map            	all	0.5712
+recip_rank     	all	0.6415
+TREC Scores of test_res/RPNB-test/NB-1.0-0.75-5-0.8-1:
+map            	all	0.5546
+recip_rank     	all	0.6401
+TREC Scores of test_res/RPNB-test/NB-1.0-0.75-5-0.8-2:
+map            	all	0.5826
+recip_rank     	all	0.6539
+TREC Scores of test_res/RPNB-test/NB-1.0-0.75-5-1.0-1:
+map            	all	0.5558
+recip_rank     	all	0.6401
+TREC Scores of test_res/RPNB-test/NB-1.0-0.75-5-1.0-2:
+map            	all	0.5788
+recip_rank     	all	0.6439
+TREC Scores of test_res/RPNB-test/NB-1.0-0.75-5-1.25-1:
+map            	all	0.5643
+recip_rank     	all	0.6311
+TREC Scores of test_res/RPNB-test/NB-1.0-0.75-5-1.25-2:
+map            	all	0.5782
+recip_rank     	all	0.6378
+TREC Scores of test_res/RPNB-test/NB-1.0-0.75-5-1.5-1:
+map            	all	0.5672
+recip_rank     	all	0.6357
+TREC Scores of test_res/RPNB-test/NB-1.0-0.75-5-1.5-2:
+map            	all	0.5707
+recip_rank     	all	0.6267
+TREC Scores of test_res/RPNB-test/NB-1.0-0.75-5-2.0-1:
+map            	all	0.5698
+recip_rank     	all	0.6404
+TREC Scores of test_res/RPNB-test/NB-1.0-0.75-5-2.0-2:
+map            	all	0.5469
+recip_rank     	all	0.6034
+TREC Scores of test_res/RPNB-test/NB-1.0-1.0-3-0-1:
+map            	all	0.5586
+recip_rank     	all	0.6556
+TREC Scores of test_res/RPNB-test/NB-1.0-1.0-3-0-2:
+map            	all	0.5703
+recip_rank     	all	0.6492
+TREC Scores of test_res/RPNB-test/NB-1.0-1.0-3-0.8-1:
+map            	all	0.5580
+recip_rank     	all	0.6486
+TREC Scores of test_res/RPNB-test/NB-1.0-1.0-3-0.8-2:
+map            	all	0.5870
+recip_rank     	all	0.6717
+TREC Scores of test_res/RPNB-test/NB-1.0-1.0-3-1.0-1:
+map            	all	0.5605
+recip_rank     	all	0.6417
+TREC Scores of test_res/RPNB-test/NB-1.0-1.0-3-1.0-2:
+map            	all	0.5866
+recip_rank     	all	0.6631
+TREC Scores of test_res/RPNB-test/NB-1.0-1.0-3-1.25-1:
+map            	all	0.5704
+recip_rank     	all	0.6489
+TREC Scores of test_res/RPNB-test/NB-1.0-1.0-3-1.25-2:
+map            	all	0.5837
+recip_rank     	all	0.6568
+TREC Scores of test_res/RPNB-test/NB-1.0-1.0-3-1.5-1:
+map            	all	0.5702
+recip_rank     	all	0.6507
+TREC Scores of test_res/RPNB-test/NB-1.0-1.0-3-1.5-2:
+map            	all	0.5760
+recip_rank     	all	0.6437
+TREC Scores of test_res/RPNB-test/NB-1.0-1.0-3-2.0-1:
+map            	all	0.5754
+recip_rank     	all	0.6583
+TREC Scores of test_res/RPNB-test/NB-1.0-1.0-3-2.0-2:
+map            	all	0.5411
+recip_rank     	all	0.6031
+TREC Scores of test_res/RPNB-test/NB-1.0-1.0-5-0-1:
+map            	all	0.5548
+recip_rank     	all	0.6475
+TREC Scores of test_res/RPNB-test/NB-1.0-1.0-5-0-2:
+map            	all	0.5686
+recip_rank     	all	0.6552
+TREC Scores of test_res/RPNB-test/NB-1.0-1.0-5-0.8-1:
+map            	all	0.5543
+recip_rank     	all	0.6405
+TREC Scores of test_res/RPNB-test/NB-1.0-1.0-5-0.8-2:
+map            	all	0.5775
+recip_rank     	all	0.6602
+TREC Scores of test_res/RPNB-test/NB-1.0-1.0-5-1.0-1:
+map            	all	0.5549
+recip_rank     	all	0.6336
+TREC Scores of test_res/RPNB-test/NB-1.0-1.0-5-1.0-2:
+map            	all	0.5784
+recip_rank     	all	0.6619
+TREC Scores of test_res/RPNB-test/NB-1.0-1.0-5-1.25-1:
+map            	all	0.5633
+recip_rank     	all	0.6315
+TREC Scores of test_res/RPNB-test/NB-1.0-1.0-5-1.25-2:
+map            	all	0.5780
+recip_rank     	all	0.6493
+TREC Scores of test_res/RPNB-test/NB-1.0-1.0-5-1.5-1:
+map            	all	0.5634
+recip_rank     	all	0.6271
+TREC Scores of test_res/RPNB-test/NB-1.0-1.0-5-1.5-2:
+map            	all	0.5770
+recip_rank     	all	0.6462
+TREC Scores of test_res/RPNB-test/NB-1.0-1.0-5-2.0-1:
+map            	all	0.5658
+recip_rank     	all	0.6365
+TREC Scores of test_res/RPNB-test/NB-1.0-1.0-5-2.0-2:
+map            	all	0.5374
+recip_rank     	all	0.6090
+TREC Scores of test_res/RPNB-test/NB-1.0-1.5-3-0-1:
+map            	all	0.5545
+recip_rank     	all	0.6521
+TREC Scores of test_res/RPNB-test/NB-1.0-1.5-3-0-2:
+map            	all	0.5679
+recip_rank     	all	0.6503
+TREC Scores of test_res/RPNB-test/NB-1.0-1.5-3-0.8-1:
+map            	all	0.5564
+recip_rank     	all	0.6405
+TREC Scores of test_res/RPNB-test/NB-1.0-1.5-3-0.8-2:
+map            	all	0.5884
+recip_rank     	all	0.6770
+TREC Scores of test_res/RPNB-test/NB-1.0-1.5-3-1.0-1:
+map            	all	0.5584
+recip_rank     	all	0.6405
+TREC Scores of test_res/RPNB-test/NB-1.0-1.5-3-1.0-2:
+map            	all	0.5867
+recip_rank     	all	0.6699
+TREC Scores of test_res/RPNB-test/NB-1.0-1.5-3-1.25-1:
+map            	all	0.5670
+recip_rank     	all	0.6385
+TREC Scores of test_res/RPNB-test/NB-1.0-1.5-3-1.25-2:
+map            	all	0.5745
+recip_rank     	all	0.6494
+TREC Scores of test_res/RPNB-test/NB-1.0-1.5-3-1.5-1:
+map            	all	0.5671
+recip_rank     	all	0.6368
+TREC Scores of test_res/RPNB-test/NB-1.0-1.5-3-1.5-2:
+map            	all	0.5613
+recip_rank     	all	0.6334
+TREC Scores of test_res/RPNB-test/NB-1.0-1.5-3-2.0-1:
+map            	all	0.5754
+recip_rank     	all	0.6577
+TREC Scores of test_res/RPNB-test/NB-1.0-1.5-3-2.0-2:
+map            	all	0.5345
+recip_rank     	all	0.6006
+TREC Scores of test_res/RPNB-test/NB-1.0-1.5-5-0-1:
+map            	all	0.5543
+recip_rank     	all	0.6463
+TREC Scores of test_res/RPNB-test/NB-1.0-1.5-5-0-2:
+map            	all	0.5679
+recip_rank     	all	0.6427
+TREC Scores of test_res/RPNB-test/NB-1.0-1.5-5-0.8-1:
+map            	all	0.5523
+recip_rank     	all	0.6324
+TREC Scores of test_res/RPNB-test/NB-1.0-1.5-5-0.8-2:
+map            	all	0.5792
+recip_rank     	all	0.6536
+TREC Scores of test_res/RPNB-test/NB-1.0-1.5-5-1.0-1:
+map            	all	0.5543
+recip_rank     	all	0.6324
+TREC Scores of test_res/RPNB-test/NB-1.0-1.5-5-1.0-2:
+map            	all	0.5765
+recip_rank     	all	0.6462
+TREC Scores of test_res/RPNB-test/NB-1.0-1.5-5-1.25-1:
+map            	all	0.5628
+recip_rank     	all	0.6327
+TREC Scores of test_res/RPNB-test/NB-1.0-1.5-5-1.25-2:
+map            	all	0.5724
+recip_rank     	all	0.6312
+TREC Scores of test_res/RPNB-test/NB-1.0-1.5-5-1.5-1:
+map            	all	0.5694
+recip_rank     	all	0.6340
+TREC Scores of test_res/RPNB-test/NB-1.0-1.5-5-1.5-2:
+map            	all	0.5552
+recip_rank     	all	0.6177
+TREC Scores of test_res/RPNB-test/NB-1.0-1.5-5-2.0-1:
+map            	all	0.5657
+recip_rank     	all	0.6364
+TREC Scores of test_res/RPNB-test/NB-1.0-1.5-5-2.0-2:
+map            	all	0.5305
+recip_rank     	all	0.5838
+TREC Scores of test_res/RPNB-test/NB-1.0-2.0-3-0-1:
+map            	all	0.5565
+recip_rank     	all	0.6544
+TREC Scores of test_res/RPNB-test/NB-1.0-2.0-3-0-2:
+map            	all	0.5672
+recip_rank     	all	0.6485
+TREC Scores of test_res/RPNB-test/NB-1.0-2.0-3-0.8-1:
+map            	all	0.5558
+recip_rank     	all	0.6405
+TREC Scores of test_res/RPNB-test/NB-1.0-2.0-3-0.8-2:
+map            	all	0.5898
+recip_rank     	all	0.6761
+TREC Scores of test_res/RPNB-test/NB-1.0-2.0-3-1.0-1:
+map            	all	0.5587
+recip_rank     	all	0.6405
+TREC Scores of test_res/RPNB-test/NB-1.0-2.0-3-1.0-2:
+map            	all	0.5961
+recip_rank     	all	0.6753
+TREC Scores of test_res/RPNB-test/NB-1.0-2.0-3-1.25-1:
+map            	all	0.5666
+recip_rank     	all	0.6385
+TREC Scores of test_res/RPNB-test/NB-1.0-2.0-3-1.25-2:
+map            	all	0.5728
+recip_rank     	all	0.6471
+TREC Scores of test_res/RPNB-test/NB-1.0-2.0-3-1.5-1:
+map            	all	0.5677
+recip_rank     	all	0.6375
+TREC Scores of test_res/RPNB-test/NB-1.0-2.0-3-1.5-2:
+map            	all	0.5608
+recip_rank     	all	0.6324
+TREC Scores of test_res/RPNB-test/NB-1.0-2.0-3-2.0-1:
+map            	all	0.5697
+recip_rank     	all	0.6523
+TREC Scores of test_res/RPNB-test/NB-1.0-2.0-3-2.0-2:
+map            	all	0.5204
+recip_rank     	all	0.5836
+TREC Scores of test_res/RPNB-test/NB-1.0-2.0-5-0-1:
+map            	all	0.5533
+recip_rank     	all	0.6440
+TREC Scores of test_res/RPNB-test/NB-1.0-2.0-5-0-2:
+map            	all	0.5626
+recip_rank     	all	0.6333
+TREC Scores of test_res/RPNB-test/NB-1.0-2.0-5-0.8-1:
+map            	all	0.5511
+recip_rank     	all	0.6301
+TREC Scores of test_res/RPNB-test/NB-1.0-2.0-5-0.8-2:
+map            	all	0.5778
+recip_rank     	all	0.6448
+TREC Scores of test_res/RPNB-test/NB-1.0-2.0-5-1.0-1:
+map            	all	0.5533
+recip_rank     	all	0.6301
+TREC Scores of test_res/RPNB-test/NB-1.0-2.0-5-1.0-2:
+map            	all	0.5743
+recip_rank     	all	0.6387
+TREC Scores of test_res/RPNB-test/NB-1.0-2.0-5-1.25-1:
+map            	all	0.5614
+recip_rank     	all	0.6304
+TREC Scores of test_res/RPNB-test/NB-1.0-2.0-5-1.25-2:
+map            	all	0.5624
+recip_rank     	all	0.6186
+TREC Scores of test_res/RPNB-test/NB-1.0-2.0-5-1.5-1:
+map            	all	0.5675
+recip_rank     	all	0.6259
+TREC Scores of test_res/RPNB-test/NB-1.0-2.0-5-1.5-2:
+map            	all	0.5490
+recip_rank     	all	0.6058
+TREC Scores of test_res/RPNB-test/NB-1.0-2.0-5-2.0-1:
+map            	all	0.5587
+recip_rank     	all	0.6206
+TREC Scores of test_res/RPNB-test/NB-1.0-2.0-5-2.0-2:
+map            	all	0.5110
+recip_rank     	all	0.5589
+TREC Scores of test_res/RPNB-test/NB-1.5-0.5-3-0-1:
+map            	all	0.5352
+recip_rank     	all	0.6528
+TREC Scores of test_res/RPNB-test/NB-1.5-0.5-3-0-2:
+map            	all	0.5782
+recip_rank     	all	0.6670
+TREC Scores of test_res/RPNB-test/NB-1.5-0.5-3-0.8-1:
+map            	all	0.5449
+recip_rank     	all	0.6635
+TREC Scores of test_res/RPNB-test/NB-1.5-0.5-3-0.8-2:
+map            	all	0.5855
+recip_rank     	all	0.6596
+TREC Scores of test_res/RPNB-test/NB-1.5-0.5-3-1.0-1:
+map            	all	0.5595
+recip_rank     	all	0.6716
+TREC Scores of test_res/RPNB-test/NB-1.5-0.5-3-1.0-2:
+map            	all	0.5840
+recip_rank     	all	0.6584
+TREC Scores of test_res/RPNB-test/NB-1.5-0.5-3-1.25-1:
+map            	all	0.5626
+recip_rank     	all	0.6719
+TREC Scores of test_res/RPNB-test/NB-1.5-0.5-3-1.25-2:
+map            	all	0.5710
+recip_rank     	all	0.6376
+TREC Scores of test_res/RPNB-test/NB-1.5-0.5-3-1.5-1:
+map            	all	0.5620
+recip_rank     	all	0.6775
+TREC Scores of test_res/RPNB-test/NB-1.5-0.5-3-1.5-2:
+map            	all	0.5699
+recip_rank     	all	0.6292
+TREC Scores of test_res/RPNB-test/NB-1.5-0.5-3-2.0-1:
+map            	all	0.5583
+recip_rank     	all	0.6548
+TREC Scores of test_res/RPNB-test/NB-1.5-0.5-3-2.0-2:
+map            	all	0.5611
+recip_rank     	all	0.6159
+TREC Scores of test_res/RPNB-test/NB-1.5-0.5-5-0-1:
+map            	all	0.5299
+recip_rank     	all	0.6438
+TREC Scores of test_res/RPNB-test/NB-1.5-0.5-5-0-2:
+map            	all	0.5793
+recip_rank     	all	0.6733
+TREC Scores of test_res/RPNB-test/NB-1.5-0.5-5-0.8-1:
+map            	all	0.5398
+recip_rank     	all	0.6485
+TREC Scores of test_res/RPNB-test/NB-1.5-0.5-5-0.8-2:
+map            	all	0.5873
+recip_rank     	all	0.6667
+TREC Scores of test_res/RPNB-test/NB-1.5-0.5-5-1.0-1:
+map            	all	0.5548
+recip_rank     	all	0.6635
+TREC Scores of test_res/RPNB-test/NB-1.5-0.5-5-1.0-2:
+map            	all	0.5872
+recip_rank     	all	0.6680
+TREC Scores of test_res/RPNB-test/NB-1.5-0.5-5-1.25-1:
+map            	all	0.5578
+recip_rank     	all	0.6636
+TREC Scores of test_res/RPNB-test/NB-1.5-0.5-5-1.25-2:
+map            	all	0.5751
+recip_rank     	all	0.6527
+TREC Scores of test_res/RPNB-test/NB-1.5-0.5-5-1.5-1:
+map            	all	0.5576
+recip_rank     	all	0.6693
+TREC Scores of test_res/RPNB-test/NB-1.5-0.5-5-1.5-2:
+map            	all	0.5729
+recip_rank     	all	0.6475
+TREC Scores of test_res/RPNB-test/NB-1.5-0.5-5-2.0-1:
+map            	all	0.5568
+recip_rank     	all	0.6469
+TREC Scores of test_res/RPNB-test/NB-1.5-0.5-5-2.0-2:
+map            	all	0.5677
+recip_rank     	all	0.6277
+TREC Scores of test_res/RPNB-test/NB-1.5-0.75-3-0-1:
+map            	all	0.5391
+recip_rank     	all	0.6469
+TREC Scores of test_res/RPNB-test/NB-1.5-0.75-3-0-2:
+map            	all	0.5860
+recip_rank     	all	0.6650
+TREC Scores of test_res/RPNB-test/NB-1.5-0.75-3-0.8-1:
+map            	all	0.5581
+recip_rank     	all	0.6588
+TREC Scores of test_res/RPNB-test/NB-1.5-0.75-3-0.8-2:
+map            	all	0.5923
+recip_rank     	all	0.6656
+TREC Scores of test_res/RPNB-test/NB-1.5-0.75-3-1.0-1:
+map            	all	0.5640
+recip_rank     	all	0.6683
+TREC Scores of test_res/RPNB-test/NB-1.5-0.75-3-1.0-2:
+map            	all	0.5887
+recip_rank     	all	0.6564
+TREC Scores of test_res/RPNB-test/NB-1.5-0.75-3-1.25-1:
+map            	all	0.5675
+recip_rank     	all	0.6683
+TREC Scores of test_res/RPNB-test/NB-1.5-0.75-3-1.25-2:
+map            	all	0.5889
+recip_rank     	all	0.6603
+TREC Scores of test_res/RPNB-test/NB-1.5-0.75-3-1.5-1:
+map            	all	0.5663
+recip_rank     	all	0.6662
+TREC Scores of test_res/RPNB-test/NB-1.5-0.75-3-1.5-2:
+map            	all	0.5730
+recip_rank     	all	0.6328
+TREC Scores of test_res/RPNB-test/NB-1.5-0.75-3-2.0-1:
+map            	all	0.5673
+recip_rank     	all	0.6461
+TREC Scores of test_res/RPNB-test/NB-1.5-0.75-3-2.0-2:
+map            	all	0.5701
+recip_rank     	all	0.6323
+TREC Scores of test_res/RPNB-test/NB-1.5-0.75-5-0-1:
+map            	all	0.5419
+recip_rank     	all	0.6543
+TREC Scores of test_res/RPNB-test/NB-1.5-0.75-5-0-2:
+map            	all	0.5755
+recip_rank     	all	0.6548
+TREC Scores of test_res/RPNB-test/NB-1.5-0.75-5-0.8-1:
+map            	all	0.5568
+recip_rank     	all	0.6655
+TREC Scores of test_res/RPNB-test/NB-1.5-0.75-5-0.8-2:
+map            	all	0.5887
+recip_rank     	all	0.6684
+TREC Scores of test_res/RPNB-test/NB-1.5-0.75-5-1.0-1:
+map            	all	0.5611
+recip_rank     	all	0.6565
+TREC Scores of test_res/RPNB-test/NB-1.5-0.75-5-1.0-2:
+map            	all	0.5853
+recip_rank     	all	0.6541
+TREC Scores of test_res/RPNB-test/NB-1.5-0.75-5-1.25-1:
+map            	all	0.5661
+recip_rank     	all	0.6680
+TREC Scores of test_res/RPNB-test/NB-1.5-0.75-5-1.25-2:
+map            	all	0.5885
+recip_rank     	all	0.6539
+TREC Scores of test_res/RPNB-test/NB-1.5-0.75-5-1.5-1:
+map            	all	0.5662
+recip_rank     	all	0.6729
+TREC Scores of test_res/RPNB-test/NB-1.5-0.75-5-1.5-2:
+map            	all	0.5809
+recip_rank     	all	0.6412
+TREC Scores of test_res/RPNB-test/NB-1.5-0.75-5-2.0-1:
+map            	all	0.5656
+recip_rank     	all	0.6462
+TREC Scores of test_res/RPNB-test/NB-1.5-0.75-5-2.0-2:
+map            	all	0.5693
+recip_rank     	all	0.6289
+TREC Scores of test_res/RPNB-test/NB-1.5-1.0-3-0-1:
+map            	all	0.5386
+recip_rank     	all	0.6560
+TREC Scores of test_res/RPNB-test/NB-1.5-1.0-3-0-2:
+map            	all	0.5857
+recip_rank     	all	0.6619
+TREC Scores of test_res/RPNB-test/NB-1.5-1.0-3-0.8-1:
+map            	all	0.5584
+recip_rank     	all	0.6664
+TREC Scores of test_res/RPNB-test/NB-1.5-1.0-3-0.8-2:
+map            	all	0.5938
+recip_rank     	all	0.6570
+TREC Scores of test_res/RPNB-test/NB-1.5-1.0-3-1.0-1:
+map            	all	0.5613
+recip_rank     	all	0.6597
+TREC Scores of test_res/RPNB-test/NB-1.5-1.0-3-1.0-2:
+map            	all	0.5937
+recip_rank     	all	0.6588
+TREC Scores of test_res/RPNB-test/NB-1.5-1.0-3-1.25-1:
+map            	all	0.5590
+recip_rank     	all	0.6620
+TREC Scores of test_res/RPNB-test/NB-1.5-1.0-3-1.25-2:
+map            	all	0.5953
+recip_rank     	all	0.6594
+TREC Scores of test_res/RPNB-test/NB-1.5-1.0-3-1.5-1:
+map            	all	0.5623
+recip_rank     	all	0.6638
+TREC Scores of test_res/RPNB-test/NB-1.5-1.0-3-1.5-2:
+map            	all	0.5805
+recip_rank     	all	0.6388
+TREC Scores of test_res/RPNB-test/NB-1.5-1.0-3-2.0-1:
+map            	all	0.5628
+recip_rank     	all	0.6617
+TREC Scores of test_res/RPNB-test/NB-1.5-1.0-3-2.0-2:
+map            	all	0.5608
+recip_rank     	all	0.6174
+TREC Scores of test_res/RPNB-test/NB-1.5-1.0-5-0-1:
+map            	all	0.5319
+recip_rank     	all	0.6375
+TREC Scores of test_res/RPNB-test/NB-1.5-1.0-5-0-2:
+map            	all	0.5803
+recip_rank     	all	0.6626
+TREC Scores of test_res/RPNB-test/NB-1.5-1.0-5-0.8-1:
+map            	all	0.5474
+recip_rank     	all	0.6479
+TREC Scores of test_res/RPNB-test/NB-1.5-1.0-5-0.8-2:
+map            	all	0.5893
+recip_rank     	all	0.6680
+TREC Scores of test_res/RPNB-test/NB-1.5-1.0-5-1.0-1:
+map            	all	0.5519
+recip_rank     	all	0.6413
+TREC Scores of test_res/RPNB-test/NB-1.5-1.0-5-1.0-2:
+map            	all	0.5865
+recip_rank     	all	0.6573
+TREC Scores of test_res/RPNB-test/NB-1.5-1.0-5-1.25-1:
+map            	all	0.5549
+recip_rank     	all	0.6389
+TREC Scores of test_res/RPNB-test/NB-1.5-1.0-5-1.25-2:
+map            	all	0.5876
+recip_rank     	all	0.6562
+TREC Scores of test_res/RPNB-test/NB-1.5-1.0-5-1.5-1:
+map            	all	0.5507
+recip_rank     	all	0.6315
+TREC Scores of test_res/RPNB-test/NB-1.5-1.0-5-1.5-2:
+map            	all	0.5795
+recip_rank     	all	0.6429
+TREC Scores of test_res/RPNB-test/NB-1.5-1.0-5-2.0-1:
+map            	all	0.5496
+recip_rank     	all	0.6108
+TREC Scores of test_res/RPNB-test/NB-1.5-1.0-5-2.0-2:
+map            	all	0.5542
+recip_rank     	all	0.6175
+TREC Scores of test_res/RPNB-test/NB-1.5-1.5-3-0-1:
+map            	all	0.5272
+recip_rank     	all	0.6324
+TREC Scores of test_res/RPNB-test/NB-1.5-1.5-3-0-2:
+map            	all	0.5847
+recip_rank     	all	0.6637
+TREC Scores of test_res/RPNB-test/NB-1.5-1.5-3-0.8-1:
+map            	all	0.5477
+recip_rank     	all	0.6601
+TREC Scores of test_res/RPNB-test/NB-1.5-1.5-3-0.8-2:
+map            	all	0.5950
+recip_rank     	all	0.6595
+TREC Scores of test_res/RPNB-test/NB-1.5-1.5-3-1.0-1:
+map            	all	0.5523
+recip_rank     	all	0.6535
+TREC Scores of test_res/RPNB-test/NB-1.5-1.5-3-1.0-2:
+map            	all	0.6000
+recip_rank     	all	0.6727
+TREC Scores of test_res/RPNB-test/NB-1.5-1.5-3-1.25-1:
+map            	all	0.5498
+recip_rank     	all	0.6558
+TREC Scores of test_res/RPNB-test/NB-1.5-1.5-3-1.25-2:
+map            	all	0.5947
+recip_rank     	all	0.6611
+TREC Scores of test_res/RPNB-test/NB-1.5-1.5-3-1.5-1:
+map            	all	0.5521
+recip_rank     	all	0.6338
+TREC Scores of test_res/RPNB-test/NB-1.5-1.5-3-1.5-2:
+map            	all	0.5736
+recip_rank     	all	0.6348
+TREC Scores of test_res/RPNB-test/NB-1.5-1.5-3-2.0-1:
+map            	all	0.5582
+recip_rank     	all	0.6564
+TREC Scores of test_res/RPNB-test/NB-1.5-1.5-3-2.0-2:
+map            	all	0.5556
+recip_rank     	all	0.6139
+TREC Scores of test_res/RPNB-test/NB-1.5-1.5-5-0-1:
+map            	all	0.5354
+recip_rank     	all	0.6507
+TREC Scores of test_res/RPNB-test/NB-1.5-1.5-5-0-2:
+map            	all	0.5667
+recip_rank     	all	0.6342
+TREC Scores of test_res/RPNB-test/NB-1.5-1.5-5-0.8-1:
+map            	all	0.5469
+recip_rank     	all	0.6530
+TREC Scores of test_res/RPNB-test/NB-1.5-1.5-5-0.8-2:
+map            	all	0.5785
+recip_rank     	all	0.6482
+TREC Scores of test_res/RPNB-test/NB-1.5-1.5-5-1.0-1:
+map            	all	0.5513
+recip_rank     	all	0.6464
+TREC Scores of test_res/RPNB-test/NB-1.5-1.5-5-1.0-2:
+map            	all	0.5820
+recip_rank     	all	0.6491
+TREC Scores of test_res/RPNB-test/NB-1.5-1.5-5-1.25-1:
+map            	all	0.5542
+recip_rank     	all	0.6440
+TREC Scores of test_res/RPNB-test/NB-1.5-1.5-5-1.25-2:
+map            	all	0.5805
+recip_rank     	all	0.6397
+TREC Scores of test_res/RPNB-test/NB-1.5-1.5-5-1.5-1:
+map            	all	0.5505
+recip_rank     	all	0.6315
+TREC Scores of test_res/RPNB-test/NB-1.5-1.5-5-1.5-2:
+map            	all	0.5695
+recip_rank     	all	0.6246
+TREC Scores of test_res/RPNB-test/NB-1.5-1.5-5-2.0-1:
+map            	all	0.5512
+recip_rank     	all	0.6250
+TREC Scores of test_res/RPNB-test/NB-1.5-1.5-5-2.0-2:
+map            	all	0.5346
+recip_rank     	all	0.5920
+TREC Scores of test_res/RPNB-test/NB-1.5-2.0-3-0-1:
+map            	all	0.5356
+recip_rank     	all	0.6472
+TREC Scores of test_res/RPNB-test/NB-1.5-2.0-3-0-2:
+map            	all	0.5802
+recip_rank     	all	0.6578
+TREC Scores of test_res/RPNB-test/NB-1.5-2.0-3-0.8-1:
+map            	all	0.5552
+recip_rank     	all	0.6680
+TREC Scores of test_res/RPNB-test/NB-1.5-2.0-3-0.8-2:
+map            	all	0.5959
+recip_rank     	all	0.6635
+TREC Scores of test_res/RPNB-test/NB-1.5-2.0-3-1.0-1:
+map            	all	0.5613
+recip_rank     	all	0.6683
+TREC Scores of test_res/RPNB-test/NB-1.5-2.0-3-1.0-2:
+map            	all	0.6085
+recip_rank     	all	0.6832
+TREC Scores of test_res/RPNB-test/NB-1.5-2.0-3-1.25-1:
+map            	all	0.5551
+recip_rank     	all	0.6521
+TREC Scores of test_res/RPNB-test/NB-1.5-2.0-3-1.25-2:
+map            	all	0.5907
+recip_rank     	all	0.6565
+TREC Scores of test_res/RPNB-test/NB-1.5-2.0-3-1.5-1:
+map            	all	0.5598
+recip_rank     	all	0.6446
+TREC Scores of test_res/RPNB-test/NB-1.5-2.0-3-1.5-2:
+map            	all	0.5730
+recip_rank     	all	0.6355
+TREC Scores of test_res/RPNB-test/NB-1.5-2.0-3-2.0-1:
+map            	all	0.5596
+recip_rank     	all	0.6578
+TREC Scores of test_res/RPNB-test/NB-1.5-2.0-3-2.0-2:
+map            	all	0.5543
+recip_rank     	all	0.6138
+TREC Scores of test_res/RPNB-test/NB-1.5-2.0-5-0-1:
+map            	all	0.5415
+recip_rank     	all	0.6384
+TREC Scores of test_res/RPNB-test/NB-1.5-2.0-5-0-2:
+map            	all	0.5626
+recip_rank     	all	0.6342
+TREC Scores of test_res/RPNB-test/NB-1.5-2.0-5-0.8-1:
+map            	all	0.5530
+recip_rank     	all	0.6523
+TREC Scores of test_res/RPNB-test/NB-1.5-2.0-5-0.8-2:
+map            	all	0.5734
+recip_rank     	all	0.6481
+TREC Scores of test_res/RPNB-test/NB-1.5-2.0-5-1.0-1:
+map            	all	0.5583
+recip_rank     	all	0.6526
+TREC Scores of test_res/RPNB-test/NB-1.5-2.0-5-1.0-2:
+map            	all	0.5798
+recip_rank     	all	0.6492
+TREC Scores of test_res/RPNB-test/NB-1.5-2.0-5-1.25-1:
+map            	all	0.5585
+recip_rank     	all	0.6318
+TREC Scores of test_res/RPNB-test/NB-1.5-2.0-5-1.25-2:
+map            	all	0.5740
+recip_rank     	all	0.6358
+TREC Scores of test_res/RPNB-test/NB-1.5-2.0-5-1.5-1:
+map            	all	0.5545
+recip_rank     	all	0.6227
+TREC Scores of test_res/RPNB-test/NB-1.5-2.0-5-1.5-2:
+map            	all	0.5590
+recip_rank     	all	0.6160
+TREC Scores of test_res/RPNB-test/NB-1.5-2.0-5-2.0-1:
+map            	all	0.5512
+recip_rank     	all	0.6177
+TREC Scores of test_res/RPNB-test/NB-1.5-2.0-5-2.0-2:
+map            	all	0.5280
+recip_rank     	all	0.5877
+TREC Scores of test_res/RPNB-test/NB-2.0-0.5-3-0-1:
+map            	all	0.5360
+recip_rank     	all	0.6251
+TREC Scores of test_res/RPNB-test/NB-2.0-0.5-3-0-2:
+map            	all	0.5779
+recip_rank     	all	0.6732
+TREC Scores of test_res/RPNB-test/NB-2.0-0.5-3-0.8-1:
+map            	all	0.5431
+recip_rank     	all	0.6370
+TREC Scores of test_res/RPNB-test/NB-2.0-0.5-3-0.8-2:
+map            	all	0.5840
+recip_rank     	all	0.6675
+TREC Scores of test_res/RPNB-test/NB-2.0-0.5-3-1.0-1:
+map            	all	0.5495
+recip_rank     	all	0.6462
+TREC Scores of test_res/RPNB-test/NB-2.0-0.5-3-1.0-2:
+map            	all	0.5842
+recip_rank     	all	0.6674
+TREC Scores of test_res/RPNB-test/NB-2.0-0.5-3-1.25-1:
+map            	all	0.5514
+recip_rank     	all	0.6375
+TREC Scores of test_res/RPNB-test/NB-2.0-0.5-3-1.25-2:
+map            	all	0.5720
+recip_rank     	all	0.6465
+TREC Scores of test_res/RPNB-test/NB-2.0-0.5-3-1.5-1:
+map            	all	0.5643
+recip_rank     	all	0.6555
+TREC Scores of test_res/RPNB-test/NB-2.0-0.5-3-1.5-2:
+map            	all	0.5711
+recip_rank     	all	0.6471
+TREC Scores of test_res/RPNB-test/NB-2.0-0.5-3-2.0-1:
+map            	all	0.5596
+recip_rank     	all	0.6400
+TREC Scores of test_res/RPNB-test/NB-2.0-0.5-3-2.0-2:
+map            	all	0.5634
+recip_rank     	all	0.6254
+TREC Scores of test_res/RPNB-test/NB-2.0-0.5-5-0-1:
+map            	all	0.5408
+recip_rank     	all	0.6413
+TREC Scores of test_res/RPNB-test/NB-2.0-0.5-5-0-2:
+map            	all	0.5775
+recip_rank     	all	0.6659
+TREC Scores of test_res/RPNB-test/NB-2.0-0.5-5-0.8-1:
+map            	all	0.5474
+recip_rank     	all	0.6504
+TREC Scores of test_res/RPNB-test/NB-2.0-0.5-5-0.8-2:
+map            	all	0.5856
+recip_rank     	all	0.6691
+TREC Scores of test_res/RPNB-test/NB-2.0-0.5-5-1.0-1:
+map            	all	0.5501
+recip_rank     	all	0.6504
+TREC Scores of test_res/RPNB-test/NB-2.0-0.5-5-1.0-2:
+map            	all	0.5845
+recip_rank     	all	0.6627
+TREC Scores of test_res/RPNB-test/NB-2.0-0.5-5-1.25-1:
+map            	all	0.5538
+recip_rank     	all	0.6463
+TREC Scores of test_res/RPNB-test/NB-2.0-0.5-5-1.25-2:
+map            	all	0.5725
+recip_rank     	all	0.6413
+TREC Scores of test_res/RPNB-test/NB-2.0-0.5-5-1.5-1:
+map            	all	0.5665
+recip_rank     	all	0.6627
+TREC Scores of test_res/RPNB-test/NB-2.0-0.5-5-1.5-2:
+map            	all	0.5703
+recip_rank     	all	0.6398
+TREC Scores of test_res/RPNB-test/NB-2.0-0.5-5-2.0-1:
+map            	all	0.5660
+recip_rank     	all	0.6534
+TREC Scores of test_res/RPNB-test/NB-2.0-0.5-5-2.0-2:
+map            	all	0.5641
+recip_rank     	all	0.6298
+TREC Scores of test_res/RPNB-test/NB-2.0-0.75-3-0-1:
+map            	all	0.5343
+recip_rank     	all	0.6451
+TREC Scores of test_res/RPNB-test/NB-2.0-0.75-3-0-2:
+map            	all	0.5872
+recip_rank     	all	0.6716
+TREC Scores of test_res/RPNB-test/NB-2.0-0.75-3-0.8-1:
+map            	all	0.5473
+recip_rank     	all	0.6579
+TREC Scores of test_res/RPNB-test/NB-2.0-0.75-3-0.8-2:
+map            	all	0.5922
+recip_rank     	all	0.6674
+TREC Scores of test_res/RPNB-test/NB-2.0-0.75-3-1.0-1:
+map            	all	0.5546
+recip_rank     	all	0.6615
+TREC Scores of test_res/RPNB-test/NB-2.0-0.75-3-1.0-2:
+map            	all	0.5886
+recip_rank     	all	0.6607
+TREC Scores of test_res/RPNB-test/NB-2.0-0.75-3-1.25-1:
+map            	all	0.5583
+recip_rank     	all	0.6615
+TREC Scores of test_res/RPNB-test/NB-2.0-0.75-3-1.25-2:
+map            	all	0.5880
+recip_rank     	all	0.6524
+TREC Scores of test_res/RPNB-test/NB-2.0-0.75-3-1.5-1:
+map            	all	0.5694
+recip_rank     	all	0.6807
+TREC Scores of test_res/RPNB-test/NB-2.0-0.75-3-1.5-2:
+map            	all	0.5785
+recip_rank     	all	0.6386
+TREC Scores of test_res/RPNB-test/NB-2.0-0.75-3-2.0-1:
+map            	all	0.5577
+recip_rank     	all	0.6504
+TREC Scores of test_res/RPNB-test/NB-2.0-0.75-3-2.0-2:
+map            	all	0.5706
+recip_rank     	all	0.6325
+TREC Scores of test_res/RPNB-test/NB-2.0-0.75-5-0-1:
+map            	all	0.5336
+recip_rank     	all	0.6401
+TREC Scores of test_res/RPNB-test/NB-2.0-0.75-5-0-2:
+map            	all	0.5827
+recip_rank     	all	0.6690
+TREC Scores of test_res/RPNB-test/NB-2.0-0.75-5-0.8-1:
+map            	all	0.5432
+recip_rank     	all	0.6386
+TREC Scores of test_res/RPNB-test/NB-2.0-0.75-5-0.8-2:
+map            	all	0.5878
+recip_rank     	all	0.6713
+TREC Scores of test_res/RPNB-test/NB-2.0-0.75-5-1.0-1:
+map            	all	0.5579
+recip_rank     	all	0.6561
+TREC Scores of test_res/RPNB-test/NB-2.0-0.75-5-1.0-2:
+map            	all	0.5842
+recip_rank     	all	0.6583
+TREC Scores of test_res/RPNB-test/NB-2.0-0.75-5-1.25-1:
+map            	all	0.5610
+recip_rank     	all	0.6561
+TREC Scores of test_res/RPNB-test/NB-2.0-0.75-5-1.25-2:
+map            	all	0.5852
+recip_rank     	all	0.6563
+TREC Scores of test_res/RPNB-test/NB-2.0-0.75-5-1.5-1:
+map            	all	0.5585
+recip_rank     	all	0.6552
+TREC Scores of test_res/RPNB-test/NB-2.0-0.75-5-1.5-2:
+map            	all	0.5774
+recip_rank     	all	0.6434
+TREC Scores of test_res/RPNB-test/NB-2.0-0.75-5-2.0-1:
+map            	all	0.5552
+recip_rank     	all	0.6393
+TREC Scores of test_res/RPNB-test/NB-2.0-0.75-5-2.0-2:
+map            	all	0.5667
+recip_rank     	all	0.6272
+TREC Scores of test_res/RPNB-test/NB-2.0-1.0-3-0-1:
+map            	all	0.5319
+recip_rank     	all	0.6448
+TREC Scores of test_res/RPNB-test/NB-2.0-1.0-3-0-2:
+map            	all	0.5870
+recip_rank     	all	0.6742
+TREC Scores of test_res/RPNB-test/NB-2.0-1.0-3-0.8-1:
+map            	all	0.5475
+recip_rank     	all	0.6542
+TREC Scores of test_res/RPNB-test/NB-2.0-1.0-3-0.8-2:
+map            	all	0.5962
+recip_rank     	all	0.6759
+TREC Scores of test_res/RPNB-test/NB-2.0-1.0-3-1.0-1:
+map            	all	0.5606
+recip_rank     	all	0.6704
+TREC Scores of test_res/RPNB-test/NB-2.0-1.0-3-1.0-2:
+map            	all	0.5969
+recip_rank     	all	0.6703
+TREC Scores of test_res/RPNB-test/NB-2.0-1.0-3-1.25-1:
+map            	all	0.5578
+recip_rank     	all	0.6657
+TREC Scores of test_res/RPNB-test/NB-2.0-1.0-3-1.25-2:
+map            	all	0.5914
+recip_rank     	all	0.6610
+TREC Scores of test_res/RPNB-test/NB-2.0-1.0-3-1.5-1:
+map            	all	0.5545
+recip_rank     	all	0.6509
+TREC Scores of test_res/RPNB-test/NB-2.0-1.0-3-1.5-2:
+map            	all	0.5840
+recip_rank     	all	0.6585
+TREC Scores of test_res/RPNB-test/NB-2.0-1.0-3-2.0-1:
+map            	all	0.5607
+recip_rank     	all	0.6531
+TREC Scores of test_res/RPNB-test/NB-2.0-1.0-3-2.0-2:
+map            	all	0.5724
+recip_rank     	all	0.6394
+TREC Scores of test_res/RPNB-test/NB-2.0-1.0-5-0-1:
+map            	all	0.5369
+recip_rank     	all	0.6446
+TREC Scores of test_res/RPNB-test/NB-2.0-1.0-5-0-2:
+map            	all	0.5800
+recip_rank     	all	0.6683
+TREC Scores of test_res/RPNB-test/NB-2.0-1.0-5-0.8-1:
+map            	all	0.5569
+recip_rank     	all	0.6601
+TREC Scores of test_res/RPNB-test/NB-2.0-1.0-5-0.8-2:
+map            	all	0.5930
+recip_rank     	all	0.6827
+TREC Scores of test_res/RPNB-test/NB-2.0-1.0-5-1.0-1:
+map            	all	0.5606
+recip_rank     	all	0.6509
+TREC Scores of test_res/RPNB-test/NB-2.0-1.0-5-1.0-2:
+map            	all	0.5903
+recip_rank     	all	0.6690
+TREC Scores of test_res/RPNB-test/NB-2.0-1.0-5-1.25-1:
+map            	all	0.5629
+recip_rank     	all	0.6578
+TREC Scores of test_res/RPNB-test/NB-2.0-1.0-5-1.25-2:
+map            	all	0.5917
+recip_rank     	all	0.6659
+TREC Scores of test_res/RPNB-test/NB-2.0-1.0-5-1.5-1:
+map            	all	0.5551
+recip_rank     	all	0.6488
+TREC Scores of test_res/RPNB-test/NB-2.0-1.0-5-1.5-2:
+map            	all	0.5838
+recip_rank     	all	0.6536
+TREC Scores of test_res/RPNB-test/NB-2.0-1.0-5-2.0-1:
+map            	all	0.5519
+recip_rank     	all	0.6294
+TREC Scores of test_res/RPNB-test/NB-2.0-1.0-5-2.0-2:
+map            	all	0.5685
+recip_rank     	all	0.6350
+TREC Scores of test_res/RPNB-test/NB-2.0-1.5-3-0-1:
+map            	all	0.5317
+recip_rank     	all	0.6444
+TREC Scores of test_res/RPNB-test/NB-2.0-1.5-3-0-2:
+map            	all	0.5801
+recip_rank     	all	0.6566
+TREC Scores of test_res/RPNB-test/NB-2.0-1.5-3-0.8-1:
+map            	all	0.5565
+recip_rank     	all	0.6697
+TREC Scores of test_res/RPNB-test/NB-2.0-1.5-3-0.8-2:
+map            	all	0.5887
+recip_rank     	all	0.6481
+TREC Scores of test_res/RPNB-test/NB-2.0-1.5-3-1.0-1:
+map            	all	0.5601
+recip_rank     	all	0.6627
+TREC Scores of test_res/RPNB-test/NB-2.0-1.5-3-1.0-2:
+map            	all	0.5900
+recip_rank     	all	0.6556
+TREC Scores of test_res/RPNB-test/NB-2.0-1.5-3-1.25-1:
+map            	all	0.5605
+recip_rank     	all	0.6697
+TREC Scores of test_res/RPNB-test/NB-2.0-1.5-3-1.25-2:
+map            	all	0.5877
+recip_rank     	all	0.6546
+TREC Scores of test_res/RPNB-test/NB-2.0-1.5-3-1.5-1:
+map            	all	0.5582
+recip_rank     	all	0.6588
+TREC Scores of test_res/RPNB-test/NB-2.0-1.5-3-1.5-2:
+map            	all	0.5732
+recip_rank     	all	0.6416
+TREC Scores of test_res/RPNB-test/NB-2.0-1.5-3-2.0-1:
+map            	all	0.5602
+recip_rank     	all	0.6650
+TREC Scores of test_res/RPNB-test/NB-2.0-1.5-3-2.0-2:
+map            	all	0.5504
+recip_rank     	all	0.6107
+TREC Scores of test_res/RPNB-test/NB-2.0-1.5-5-0-1:
+map            	all	0.5393
+recip_rank     	all	0.6488
+TREC Scores of test_res/RPNB-test/NB-2.0-1.5-5-0-2:
+map            	all	0.5756
+recip_rank     	all	0.6461
+TREC Scores of test_res/RPNB-test/NB-2.0-1.5-5-0.8-1:
+map            	all	0.5569
+recip_rank     	all	0.6682
+TREC Scores of test_res/RPNB-test/NB-2.0-1.5-5-0.8-2:
+map            	all	0.5881
+recip_rank     	all	0.6668
+TREC Scores of test_res/RPNB-test/NB-2.0-1.5-5-1.0-1:
+map            	all	0.5619
+recip_rank     	all	0.6682
+TREC Scores of test_res/RPNB-test/NB-2.0-1.5-5-1.0-2:
+map            	all	0.5912
+recip_rank     	all	0.6586
+TREC Scores of test_res/RPNB-test/NB-2.0-1.5-5-1.25-1:
+map            	all	0.5620
+recip_rank     	all	0.6520
+TREC Scores of test_res/RPNB-test/NB-2.0-1.5-5-1.25-2:
+map            	all	0.5846
+recip_rank     	all	0.6448
+TREC Scores of test_res/RPNB-test/NB-2.0-1.5-5-1.5-1:
+map            	all	0.5577
+recip_rank     	all	0.6515
+TREC Scores of test_res/RPNB-test/NB-2.0-1.5-5-1.5-2:
+map            	all	0.5783
+recip_rank     	all	0.6398
+TREC Scores of test_res/RPNB-test/NB-2.0-1.5-5-2.0-1:
+map            	all	0.5544
+recip_rank     	all	0.6256
+TREC Scores of test_res/RPNB-test/NB-2.0-1.5-5-2.0-2:
+map            	all	0.5503
+recip_rank     	all	0.6072
+TREC Scores of test_res/RPNB-test/NB-2.0-2.0-3-0-1:
+map            	all	0.5320
+recip_rank     	all	0.6453
+TREC Scores of test_res/RPNB-test/NB-2.0-2.0-3-0-2:
+map            	all	0.5808
+recip_rank     	all	0.6628
+TREC Scores of test_res/RPNB-test/NB-2.0-2.0-3-0.8-1:
+map            	all	0.5579
+recip_rank     	all	0.6706
+TREC Scores of test_res/RPNB-test/NB-2.0-2.0-3-0.8-2:
+map            	all	0.5915
+recip_rank     	all	0.6577
+TREC Scores of test_res/RPNB-test/NB-2.0-2.0-3-1.0-1:
+map            	all	0.5527
+recip_rank     	all	0.6567
+TREC Scores of test_res/RPNB-test/NB-2.0-2.0-3-1.0-2:
+map            	all	0.5964
+recip_rank     	all	0.6766
+TREC Scores of test_res/RPNB-test/NB-2.0-2.0-3-1.25-1:
+map            	all	0.5626
+recip_rank     	all	0.6683
+TREC Scores of test_res/RPNB-test/NB-2.0-2.0-3-1.25-2:
+map            	all	0.5903
+recip_rank     	all	0.6673
+TREC Scores of test_res/RPNB-test/NB-2.0-2.0-3-1.5-1:
+map            	all	0.5607
+recip_rank     	all	0.6597
+TREC Scores of test_res/RPNB-test/NB-2.0-2.0-3-1.5-2:
+map            	all	0.5733
+recip_rank     	all	0.6481
+TREC Scores of test_res/RPNB-test/NB-2.0-2.0-3-2.0-1:
+map            	all	0.5611
+recip_rank     	all	0.6601
+TREC Scores of test_res/RPNB-test/NB-2.0-2.0-3-2.0-2:
+map            	all	0.5521
+recip_rank     	all	0.6159
+TREC Scores of test_res/RPNB-test/NB-2.0-2.0-5-0-1:
+map            	all	0.5291
+recip_rank     	all	0.6367
+TREC Scores of test_res/RPNB-test/NB-2.0-2.0-5-0-2:
+map            	all	0.5701
+recip_rank     	all	0.6363
+TREC Scores of test_res/RPNB-test/NB-2.0-2.0-5-0.8-1:
+map            	all	0.5498
+recip_rank     	all	0.6625
+TREC Scores of test_res/RPNB-test/NB-2.0-2.0-5-0.8-2:
+map            	all	0.5787
+recip_rank     	all	0.6479
+TREC Scores of test_res/RPNB-test/NB-2.0-2.0-5-1.0-1:
+map            	all	0.5553
+recip_rank     	all	0.6625
+TREC Scores of test_res/RPNB-test/NB-2.0-2.0-5-1.0-2:
+map            	all	0.5842
+recip_rank     	all	0.6515
+TREC Scores of test_res/RPNB-test/NB-2.0-2.0-5-1.25-1:
+map            	all	0.5551
+recip_rank     	all	0.6532
+TREC Scores of test_res/RPNB-test/NB-2.0-2.0-5-1.25-2:
+map            	all	0.5724
+recip_rank     	all	0.6323
+TREC Scores of test_res/RPNB-test/NB-2.0-2.0-5-1.5-1:
+map            	all	0.5492
+recip_rank     	all	0.6388
+TREC Scores of test_res/RPNB-test/NB-2.0-2.0-5-1.5-2:
+map            	all	0.5708
+recip_rank     	all	0.6283
+TREC Scores of test_res/RPNB-test/NB-2.0-2.0-5-2.0-1:
+map            	all	0.5457
+recip_rank     	all	0.6198
+TREC Scores of test_res/RPNB-test/NB-2.0-2.0-5-2.0-2:
+map            	all	0.5411
+recip_rank     	all	0.5942

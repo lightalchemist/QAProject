@@ -1,0 +1,2881 @@
+Classifier: RPGB
+TREC Scores of test_res/RPGB-dev/GB-0.5-0.5-3-0-1:
+map            	all	0.6950
+recip_rank     	all	0.7345
+TREC Scores of test_res/RPGB-dev/GB-0.5-0.5-3-0-2:
+map            	all	0.6957
+recip_rank     	all	0.7345
+TREC Scores of test_res/RPGB-dev/GB-0.5-0.5-3-0.8-1:
+map            	all	0.6950
+recip_rank     	all	0.7345
+TREC Scores of test_res/RPGB-dev/GB-0.5-0.5-3-0.8-2:
+map            	all	0.6904
+recip_rank     	all	0.7102
+TREC Scores of test_res/RPGB-dev/GB-0.5-0.5-3-1.0-1:
+map            	all	0.6950
+recip_rank     	all	0.7345
+TREC Scores of test_res/RPGB-dev/GB-0.5-0.5-3-1.0-2:
+map            	all	0.6879
+recip_rank     	all	0.7131
+TREC Scores of test_res/RPGB-dev/GB-0.5-0.5-3-1.25-1:
+map            	all	0.6952
+recip_rank     	all	0.7345
+TREC Scores of test_res/RPGB-dev/GB-0.5-0.5-3-1.25-2:
+map            	all	0.6732
+recip_rank     	all	0.6955
+TREC Scores of test_res/RPGB-dev/GB-0.5-0.5-3-1.5-1:
+map            	all	0.7063
+recip_rank     	all	0.7505
+TREC Scores of test_res/RPGB-dev/GB-0.5-0.5-3-1.5-2:
+map            	all	0.6618
+recip_rank     	all	0.6775
+TREC Scores of test_res/RPGB-dev/GB-0.5-0.5-3-2.0-1:
+map            	all	0.6957
+recip_rank     	all	0.7187
+TREC Scores of test_res/RPGB-dev/GB-0.5-0.5-3-2.0-2:
+map            	all	0.6323
+recip_rank     	all	0.6432
+TREC Scores of test_res/RPGB-dev/GB-0.5-0.5-5-0-1:
+map            	all	0.6950
+recip_rank     	all	0.7345
+TREC Scores of test_res/RPGB-dev/GB-0.5-0.5-5-0-2:
+map            	all	0.6957
+recip_rank     	all	0.7345
+TREC Scores of test_res/RPGB-dev/GB-0.5-0.5-5-0.8-1:
+map            	all	0.6950
+recip_rank     	all	0.7345
+TREC Scores of test_res/RPGB-dev/GB-0.5-0.5-5-0.8-2:
+map            	all	0.6907
+recip_rank     	all	0.7106
+TREC Scores of test_res/RPGB-dev/GB-0.5-0.5-5-1.0-1:
+map            	all	0.6950
+recip_rank     	all	0.7345
+TREC Scores of test_res/RPGB-dev/GB-0.5-0.5-5-1.0-2:
+map            	all	0.6885
+recip_rank     	all	0.7096
+TREC Scores of test_res/RPGB-dev/GB-0.5-0.5-5-1.25-1:
+map            	all	0.6953
+recip_rank     	all	0.7345
+TREC Scores of test_res/RPGB-dev/GB-0.5-0.5-5-1.25-2:
+map            	all	0.6738
+recip_rank     	all	0.6965
+TREC Scores of test_res/RPGB-dev/GB-0.5-0.5-5-1.5-1:
+map            	all	0.7058
+recip_rank     	all	0.7505
+TREC Scores of test_res/RPGB-dev/GB-0.5-0.5-5-1.5-2:
+map            	all	0.6617
+recip_rank     	all	0.6767
+TREC Scores of test_res/RPGB-dev/GB-0.5-0.5-5-2.0-1:
+map            	all	0.6959
+recip_rank     	all	0.7187
+TREC Scores of test_res/RPGB-dev/GB-0.5-0.5-5-2.0-2:
+map            	all	0.6328
+recip_rank     	all	0.6432
+TREC Scores of test_res/RPGB-dev/GB-0.5-0.75-3-0-1:
+map            	all	0.6950
+recip_rank     	all	0.7345
+TREC Scores of test_res/RPGB-dev/GB-0.5-0.75-3-0-2:
+map            	all	0.6949
+recip_rank     	all	0.7345
+TREC Scores of test_res/RPGB-dev/GB-0.5-0.75-3-0.8-1:
+map            	all	0.6950
+recip_rank     	all	0.7345
+TREC Scores of test_res/RPGB-dev/GB-0.5-0.75-3-0.8-2:
+map            	all	0.6926
+recip_rank     	all	0.7118
+TREC Scores of test_res/RPGB-dev/GB-0.5-0.75-3-1.0-1:
+map            	all	0.6950
+recip_rank     	all	0.7345
+TREC Scores of test_res/RPGB-dev/GB-0.5-0.75-3-1.0-2:
+map            	all	0.6897
+recip_rank     	all	0.7115
+TREC Scores of test_res/RPGB-dev/GB-0.5-0.75-3-1.25-1:
+map            	all	0.6962
+recip_rank     	all	0.7345
+TREC Scores of test_res/RPGB-dev/GB-0.5-0.75-3-1.25-2:
+map            	all	0.6704
+recip_rank     	all	0.6831
+TREC Scores of test_res/RPGB-dev/GB-0.5-0.75-3-1.5-1:
+map            	all	0.7092
+recip_rank     	all	0.7505
+TREC Scores of test_res/RPGB-dev/GB-0.5-0.75-3-1.5-2:
+map            	all	0.6524
+recip_rank     	all	0.6687
+TREC Scores of test_res/RPGB-dev/GB-0.5-0.75-3-2.0-1:
+map            	all	0.6938
+recip_rank     	all	0.7081
+TREC Scores of test_res/RPGB-dev/GB-0.5-0.75-3-2.0-2:
+map            	all	0.6310
+recip_rank     	all	0.6430
+TREC Scores of test_res/RPGB-dev/GB-0.5-0.75-5-0-1:
+map            	all	0.6950
+recip_rank     	all	0.7345
+TREC Scores of test_res/RPGB-dev/GB-0.5-0.75-5-0-2:
+map            	all	0.6954
+recip_rank     	all	0.7345
+TREC Scores of test_res/RPGB-dev/GB-0.5-0.75-5-0.8-1:
+map            	all	0.6950
+recip_rank     	all	0.7345
+TREC Scores of test_res/RPGB-dev/GB-0.5-0.75-5-0.8-2:
+map            	all	0.6933
+recip_rank     	all	0.7118
+TREC Scores of test_res/RPGB-dev/GB-0.5-0.75-5-1.0-1:
+map            	all	0.6950
+recip_rank     	all	0.7345
+TREC Scores of test_res/RPGB-dev/GB-0.5-0.75-5-1.0-2:
+map            	all	0.6888
+recip_rank     	all	0.7091
+TREC Scores of test_res/RPGB-dev/GB-0.5-0.75-5-1.25-1:
+map            	all	0.6959
+recip_rank     	all	0.7345
+TREC Scores of test_res/RPGB-dev/GB-0.5-0.75-5-1.25-2:
+map            	all	0.6710
+recip_rank     	all	0.6838
+TREC Scores of test_res/RPGB-dev/GB-0.5-0.75-5-1.5-1:
+map            	all	0.7108
+recip_rank     	all	0.7512
+TREC Scores of test_res/RPGB-dev/GB-0.5-0.75-5-1.5-2:
+map            	all	0.6529
+recip_rank     	all	0.6687
+TREC Scores of test_res/RPGB-dev/GB-0.5-0.75-5-2.0-1:
+map            	all	0.6943
+recip_rank     	all	0.7131
+TREC Scores of test_res/RPGB-dev/GB-0.5-0.75-5-2.0-2:
+map            	all	0.6316
+recip_rank     	all	0.6430
+TREC Scores of test_res/RPGB-dev/GB-0.5-1.0-3-0-1:
+map            	all	0.6950
+recip_rank     	all	0.7345
+TREC Scores of test_res/RPGB-dev/GB-0.5-1.0-3-0-2:
+map            	all	0.6950
+recip_rank     	all	0.7345
+TREC Scores of test_res/RPGB-dev/GB-0.5-1.0-3-0.8-1:
+map            	all	0.6950
+recip_rank     	all	0.7345
+TREC Scores of test_res/RPGB-dev/GB-0.5-1.0-3-0.8-2:
+map            	all	0.6912
+recip_rank     	all	0.7093
+TREC Scores of test_res/RPGB-dev/GB-0.5-1.0-3-1.0-1:
+map            	all	0.6950
+recip_rank     	all	0.7345
+TREC Scores of test_res/RPGB-dev/GB-0.5-1.0-3-1.0-2:
+map            	all	0.6801
+recip_rank     	all	0.6924
+TREC Scores of test_res/RPGB-dev/GB-0.5-1.0-3-1.25-1:
+map            	all	0.6963
+recip_rank     	all	0.7345
+TREC Scores of test_res/RPGB-dev/GB-0.5-1.0-3-1.25-2:
+map            	all	0.6713
+recip_rank     	all	0.6856
+TREC Scores of test_res/RPGB-dev/GB-0.5-1.0-3-1.5-1:
+map            	all	0.7093
+recip_rank     	all	0.7507
+TREC Scores of test_res/RPGB-dev/GB-0.5-1.0-3-1.5-2:
+map            	all	0.6521
+recip_rank     	all	0.6686
+TREC Scores of test_res/RPGB-dev/GB-0.5-1.0-3-2.0-1:
+map            	all	0.6949
+recip_rank     	all	0.7153
+TREC Scores of test_res/RPGB-dev/GB-0.5-1.0-3-2.0-2:
+map            	all	0.6248
+recip_rank     	all	0.6367
+TREC Scores of test_res/RPGB-dev/GB-0.5-1.0-5-0-1:
+map            	all	0.6950
+recip_rank     	all	0.7345
+TREC Scores of test_res/RPGB-dev/GB-0.5-1.0-5-0-2:
+map            	all	0.6950
+recip_rank     	all	0.7345
+TREC Scores of test_res/RPGB-dev/GB-0.5-1.0-5-0.8-1:
+map            	all	0.6950
+recip_rank     	all	0.7345
+TREC Scores of test_res/RPGB-dev/GB-0.5-1.0-5-0.8-2:
+map            	all	0.6922
+recip_rank     	all	0.7117
+TREC Scores of test_res/RPGB-dev/GB-0.5-1.0-5-1.0-1:
+map            	all	0.6950
+recip_rank     	all	0.7345
+TREC Scores of test_res/RPGB-dev/GB-0.5-1.0-5-1.0-2:
+map            	all	0.6808
+recip_rank     	all	0.6936
+TREC Scores of test_res/RPGB-dev/GB-0.5-1.0-5-1.25-1:
+map            	all	0.6959
+recip_rank     	all	0.7345
+TREC Scores of test_res/RPGB-dev/GB-0.5-1.0-5-1.25-2:
+map            	all	0.6716
+recip_rank     	all	0.6873
+TREC Scores of test_res/RPGB-dev/GB-0.5-1.0-5-1.5-1:
+map            	all	0.7103
+recip_rank     	all	0.7512
+TREC Scores of test_res/RPGB-dev/GB-0.5-1.0-5-1.5-2:
+map            	all	0.6518
+recip_rank     	all	0.6682
+TREC Scores of test_res/RPGB-dev/GB-0.5-1.0-5-2.0-1:
+map            	all	0.6955
+recip_rank     	all	0.7081
+TREC Scores of test_res/RPGB-dev/GB-0.5-1.0-5-2.0-2:
+map            	all	0.6281
+recip_rank     	all	0.6403
+TREC Scores of test_res/RPGB-dev/GB-0.5-1.5-3-0-1:
+map            	all	0.6950
+recip_rank     	all	0.7345
+TREC Scores of test_res/RPGB-dev/GB-0.5-1.5-3-0-2:
+map            	all	0.6950
+recip_rank     	all	0.7345
+TREC Scores of test_res/RPGB-dev/GB-0.5-1.5-3-0.8-1:
+map            	all	0.6950
+recip_rank     	all	0.7345
+TREC Scores of test_res/RPGB-dev/GB-0.5-1.5-3-0.8-2:
+map            	all	0.6896
+recip_rank     	all	0.7092
+TREC Scores of test_res/RPGB-dev/GB-0.5-1.5-3-1.0-1:
+map            	all	0.6950
+recip_rank     	all	0.7345
+TREC Scores of test_res/RPGB-dev/GB-0.5-1.5-3-1.0-2:
+map            	all	0.6802
+recip_rank     	all	0.6911
+TREC Scores of test_res/RPGB-dev/GB-0.5-1.5-3-1.25-1:
+map            	all	0.6963
+recip_rank     	all	0.7345
+TREC Scores of test_res/RPGB-dev/GB-0.5-1.5-3-1.25-2:
+map            	all	0.6651
+recip_rank     	all	0.6783
+TREC Scores of test_res/RPGB-dev/GB-0.5-1.5-3-1.5-1:
+map            	all	0.7098
+recip_rank     	all	0.7518
+TREC Scores of test_res/RPGB-dev/GB-0.5-1.5-3-1.5-2:
+map            	all	0.6498
+recip_rank     	all	0.6664
+TREC Scores of test_res/RPGB-dev/GB-0.5-1.5-3-2.0-1:
+map            	all	0.6888
+recip_rank     	all	0.7081
+TREC Scores of test_res/RPGB-dev/GB-0.5-1.5-3-2.0-2:
+map            	all	0.6242
+recip_rank     	all	0.6363
+TREC Scores of test_res/RPGB-dev/GB-0.5-1.5-5-0-1:
+map            	all	0.6950
+recip_rank     	all	0.7345
+TREC Scores of test_res/RPGB-dev/GB-0.5-1.5-5-0-2:
+map            	all	0.6951
+recip_rank     	all	0.7345
+TREC Scores of test_res/RPGB-dev/GB-0.5-1.5-5-0.8-1:
+map            	all	0.6950
+recip_rank     	all	0.7345
+TREC Scores of test_res/RPGB-dev/GB-0.5-1.5-5-0.8-2:
+map            	all	0.6849
+recip_rank     	all	0.6996
+TREC Scores of test_res/RPGB-dev/GB-0.5-1.5-5-1.0-1:
+map            	all	0.6950
+recip_rank     	all	0.7345
+TREC Scores of test_res/RPGB-dev/GB-0.5-1.5-5-1.0-2:
+map            	all	0.6795
+recip_rank     	all	0.6917
+TREC Scores of test_res/RPGB-dev/GB-0.5-1.5-5-1.25-1:
+map            	all	0.6960
+recip_rank     	all	0.7345
+TREC Scores of test_res/RPGB-dev/GB-0.5-1.5-5-1.25-2:
+map            	all	0.6647
+recip_rank     	all	0.6800
+TREC Scores of test_res/RPGB-dev/GB-0.5-1.5-5-1.5-1:
+map            	all	0.7091
+recip_rank     	all	0.7523
+TREC Scores of test_res/RPGB-dev/GB-0.5-1.5-5-1.5-2:
+map            	all	0.6484
+recip_rank     	all	0.6652
+TREC Scores of test_res/RPGB-dev/GB-0.5-1.5-5-2.0-1:
+map            	all	0.6924
+recip_rank     	all	0.7081
+TREC Scores of test_res/RPGB-dev/GB-0.5-1.5-5-2.0-2:
+map            	all	0.6243
+recip_rank     	all	0.6363
+TREC Scores of test_res/RPGB-dev/GB-0.5-2.0-3-0-1:
+map            	all	0.6950
+recip_rank     	all	0.7345
+TREC Scores of test_res/RPGB-dev/GB-0.5-2.0-3-0-2:
+map            	all	0.6950
+recip_rank     	all	0.7345
+TREC Scores of test_res/RPGB-dev/GB-0.5-2.0-3-0.8-1:
+map            	all	0.6950
+recip_rank     	all	0.7345
+TREC Scores of test_res/RPGB-dev/GB-0.5-2.0-3-0.8-2:
+map            	all	0.6861
+recip_rank     	all	0.7020
+TREC Scores of test_res/RPGB-dev/GB-0.5-2.0-3-1.0-1:
+map            	all	0.6950
+recip_rank     	all	0.7345
+TREC Scores of test_res/RPGB-dev/GB-0.5-2.0-3-1.0-2:
+map            	all	0.6741
+recip_rank     	all	0.6839
+TREC Scores of test_res/RPGB-dev/GB-0.5-2.0-3-1.25-1:
+map            	all	0.6963
+recip_rank     	all	0.7345
+TREC Scores of test_res/RPGB-dev/GB-0.5-2.0-3-1.25-2:
+map            	all	0.6655
+recip_rank     	all	0.6779
+TREC Scores of test_res/RPGB-dev/GB-0.5-2.0-3-1.5-1:
+map            	all	0.7089
+recip_rank     	all	0.7518
+TREC Scores of test_res/RPGB-dev/GB-0.5-2.0-3-1.5-2:
+map            	all	0.6493
+recip_rank     	all	0.6661
+TREC Scores of test_res/RPGB-dev/GB-0.5-2.0-3-2.0-1:
+map            	all	0.6891
+recip_rank     	all	0.7058
+TREC Scores of test_res/RPGB-dev/GB-0.5-2.0-3-2.0-2:
+map            	all	0.6220
+recip_rank     	all	0.6339
+TREC Scores of test_res/RPGB-dev/GB-0.5-2.0-5-0-1:
+map            	all	0.6950
+recip_rank     	all	0.7345
+TREC Scores of test_res/RPGB-dev/GB-0.5-2.0-5-0-2:
+map            	all	0.6951
+recip_rank     	all	0.7345
+TREC Scores of test_res/RPGB-dev/GB-0.5-2.0-5-0.8-1:
+map            	all	0.6950
+recip_rank     	all	0.7345
+TREC Scores of test_res/RPGB-dev/GB-0.5-2.0-5-0.8-2:
+map            	all	0.6865
+recip_rank     	all	0.6996
+TREC Scores of test_res/RPGB-dev/GB-0.5-2.0-5-1.0-1:
+map            	all	0.6950
+recip_rank     	all	0.7345
+TREC Scores of test_res/RPGB-dev/GB-0.5-2.0-5-1.0-2:
+map            	all	0.6747
+recip_rank     	all	0.6843
+TREC Scores of test_res/RPGB-dev/GB-0.5-2.0-5-1.25-1:
+map            	all	0.6960
+recip_rank     	all	0.7345
+TREC Scores of test_res/RPGB-dev/GB-0.5-2.0-5-1.25-2:
+map            	all	0.6655
+recip_rank     	all	0.6802
+TREC Scores of test_res/RPGB-dev/GB-0.5-2.0-5-1.5-1:
+map            	all	0.7088
+recip_rank     	all	0.7523
+TREC Scores of test_res/RPGB-dev/GB-0.5-2.0-5-1.5-2:
+map            	all	0.6469
+recip_rank     	all	0.6637
+TREC Scores of test_res/RPGB-dev/GB-0.5-2.0-5-2.0-1:
+map            	all	0.6921
+recip_rank     	all	0.7081
+TREC Scores of test_res/RPGB-dev/GB-0.5-2.0-5-2.0-2:
+map            	all	0.6218
+recip_rank     	all	0.6339
+TREC Scores of test_res/RPGB-dev/GB-1.0-0.5-3-0-1:
+map            	all	0.6961
+recip_rank     	all	0.7369
+TREC Scores of test_res/RPGB-dev/GB-1.0-0.5-3-0-2:
+map            	all	0.7063
+recip_rank     	all	0.7510
+TREC Scores of test_res/RPGB-dev/GB-1.0-0.5-3-0.8-1:
+map            	all	0.6960
+recip_rank     	all	0.7369
+TREC Scores of test_res/RPGB-dev/GB-1.0-0.5-3-0.8-2:
+map            	all	0.6948
+recip_rank     	all	0.7258
+TREC Scores of test_res/RPGB-dev/GB-1.0-0.5-3-1.0-1:
+map            	all	0.6966
+recip_rank     	all	0.7369
+TREC Scores of test_res/RPGB-dev/GB-1.0-0.5-3-1.0-2:
+map            	all	0.6845
+recip_rank     	all	0.7138
+TREC Scores of test_res/RPGB-dev/GB-1.0-0.5-3-1.25-1:
+map            	all	0.6960
+recip_rank     	all	0.7369
+TREC Scores of test_res/RPGB-dev/GB-1.0-0.5-3-1.25-2:
+map            	all	0.6881
+recip_rank     	all	0.7185
+TREC Scores of test_res/RPGB-dev/GB-1.0-0.5-3-1.5-1:
+map            	all	0.7030
+recip_rank     	all	0.7457
+TREC Scores of test_res/RPGB-dev/GB-1.0-0.5-3-1.5-2:
+map            	all	0.6656
+recip_rank     	all	0.6915
+TREC Scores of test_res/RPGB-dev/GB-1.0-0.5-3-2.0-1:
+map            	all	0.6958
+recip_rank     	all	0.7290
+TREC Scores of test_res/RPGB-dev/GB-1.0-0.5-3-2.0-2:
+map            	all	0.6441
+recip_rank     	all	0.6634
+TREC Scores of test_res/RPGB-dev/GB-1.0-0.5-5-0-1:
+map            	all	0.6957
+recip_rank     	all	0.7369
+TREC Scores of test_res/RPGB-dev/GB-1.0-0.5-5-0-2:
+map            	all	0.7075
+recip_rank     	all	0.7580
+TREC Scores of test_res/RPGB-dev/GB-1.0-0.5-5-0.8-1:
+map            	all	0.6964
+recip_rank     	all	0.7369
+TREC Scores of test_res/RPGB-dev/GB-1.0-0.5-5-0.8-2:
+map            	all	0.6947
+recip_rank     	all	0.7258
+TREC Scores of test_res/RPGB-dev/GB-1.0-0.5-5-1.0-1:
+map            	all	0.6963
+recip_rank     	all	0.7369
+TREC Scores of test_res/RPGB-dev/GB-1.0-0.5-5-1.0-2:
+map            	all	0.6911
+recip_rank     	all	0.7219
+TREC Scores of test_res/RPGB-dev/GB-1.0-0.5-5-1.25-1:
+map            	all	0.6956
+recip_rank     	all	0.7369
+TREC Scores of test_res/RPGB-dev/GB-1.0-0.5-5-1.25-2:
+map            	all	0.6881
+recip_rank     	all	0.7173
+TREC Scores of test_res/RPGB-dev/GB-1.0-0.5-5-1.5-1:
+map            	all	0.7042
+recip_rank     	all	0.7529
+TREC Scores of test_res/RPGB-dev/GB-1.0-0.5-5-1.5-2:
+map            	all	0.6650
+recip_rank     	all	0.6934
+TREC Scores of test_res/RPGB-dev/GB-1.0-0.5-5-2.0-1:
+map            	all	0.6963
+recip_rank     	all	0.7279
+TREC Scores of test_res/RPGB-dev/GB-1.0-0.5-5-2.0-2:
+map            	all	0.6447
+recip_rank     	all	0.6633
+TREC Scores of test_res/RPGB-dev/GB-1.0-0.75-3-0-1:
+map            	all	0.6955
+recip_rank     	all	0.7369
+TREC Scores of test_res/RPGB-dev/GB-1.0-0.75-3-0-2:
+map            	all	0.7051
+recip_rank     	all	0.7437
+TREC Scores of test_res/RPGB-dev/GB-1.0-0.75-3-0.8-1:
+map            	all	0.6954
+recip_rank     	all	0.7369
+TREC Scores of test_res/RPGB-dev/GB-1.0-0.75-3-0.8-2:
+map            	all	0.6948
+recip_rank     	all	0.7234
+TREC Scores of test_res/RPGB-dev/GB-1.0-0.75-3-1.0-1:
+map            	all	0.6959
+recip_rank     	all	0.7369
+TREC Scores of test_res/RPGB-dev/GB-1.0-0.75-3-1.0-2:
+map            	all	0.6946
+recip_rank     	all	0.7198
+TREC Scores of test_res/RPGB-dev/GB-1.0-0.75-3-1.25-1:
+map            	all	0.6971
+recip_rank     	all	0.7369
+TREC Scores of test_res/RPGB-dev/GB-1.0-0.75-3-1.25-2:
+map            	all	0.6823
+recip_rank     	all	0.7067
+TREC Scores of test_res/RPGB-dev/GB-1.0-0.75-3-1.5-1:
+map            	all	0.7081
+recip_rank     	all	0.7535
+TREC Scores of test_res/RPGB-dev/GB-1.0-0.75-3-1.5-2:
+map            	all	0.6682
+recip_rank     	all	0.6966
+TREC Scores of test_res/RPGB-dev/GB-1.0-0.75-3-2.0-1:
+map            	all	0.6933
+recip_rank     	all	0.7290
+TREC Scores of test_res/RPGB-dev/GB-1.0-0.75-3-2.0-2:
+map            	all	0.6373
+recip_rank     	all	0.6548
+TREC Scores of test_res/RPGB-dev/GB-1.0-0.75-5-0-1:
+map            	all	0.6955
+recip_rank     	all	0.7369
+TREC Scores of test_res/RPGB-dev/GB-1.0-0.75-5-0-2:
+map            	all	0.7059
+recip_rank     	all	0.7510
+TREC Scores of test_res/RPGB-dev/GB-1.0-0.75-5-0.8-1:
+map            	all	0.6954
+recip_rank     	all	0.7369
+TREC Scores of test_res/RPGB-dev/GB-1.0-0.75-5-0.8-2:
+map            	all	0.6943
+recip_rank     	all	0.7234
+TREC Scores of test_res/RPGB-dev/GB-1.0-0.75-5-1.0-1:
+map            	all	0.6961
+recip_rank     	all	0.7369
+TREC Scores of test_res/RPGB-dev/GB-1.0-0.75-5-1.0-2:
+map            	all	0.6939
+recip_rank     	all	0.7186
+TREC Scores of test_res/RPGB-dev/GB-1.0-0.75-5-1.25-1:
+map            	all	0.6963
+recip_rank     	all	0.7369
+TREC Scores of test_res/RPGB-dev/GB-1.0-0.75-5-1.25-2:
+map            	all	0.6846
+recip_rank     	all	0.7082
+TREC Scores of test_res/RPGB-dev/GB-1.0-0.75-5-1.5-1:
+map            	all	0.7089
+recip_rank     	all	0.7529
+TREC Scores of test_res/RPGB-dev/GB-1.0-0.75-5-1.5-2:
+map            	all	0.6635
+recip_rank     	all	0.6872
+TREC Scores of test_res/RPGB-dev/GB-1.0-0.75-5-2.0-1:
+map            	all	0.6954
+recip_rank     	all	0.7293
+TREC Scores of test_res/RPGB-dev/GB-1.0-0.75-5-2.0-2:
+map            	all	0.6366
+recip_rank     	all	0.6539
+TREC Scores of test_res/RPGB-dev/GB-1.0-1.0-3-0-1:
+map            	all	0.6955
+recip_rank     	all	0.7369
+TREC Scores of test_res/RPGB-dev/GB-1.0-1.0-3-0-2:
+map            	all	0.7015
+recip_rank     	all	0.7366
+TREC Scores of test_res/RPGB-dev/GB-1.0-1.0-3-0.8-1:
+map            	all	0.6956
+recip_rank     	all	0.7369
+TREC Scores of test_res/RPGB-dev/GB-1.0-1.0-3-0.8-2:
+map            	all	0.6910
+recip_rank     	all	0.7136
+TREC Scores of test_res/RPGB-dev/GB-1.0-1.0-3-1.0-1:
+map            	all	0.6957
+recip_rank     	all	0.7369
+TREC Scores of test_res/RPGB-dev/GB-1.0-1.0-3-1.0-2:
+map            	all	0.6900
+recip_rank     	all	0.7094
+TREC Scores of test_res/RPGB-dev/GB-1.0-1.0-3-1.25-1:
+map            	all	0.6980
+recip_rank     	all	0.7369
+TREC Scores of test_res/RPGB-dev/GB-1.0-1.0-3-1.25-2:
+map            	all	0.6781
+recip_rank     	all	0.6922
+TREC Scores of test_res/RPGB-dev/GB-1.0-1.0-3-1.5-1:
+map            	all	0.7093
+recip_rank     	all	0.7539
+TREC Scores of test_res/RPGB-dev/GB-1.0-1.0-3-1.5-2:
+map            	all	0.6575
+recip_rank     	all	0.6745
+TREC Scores of test_res/RPGB-dev/GB-1.0-1.0-3-2.0-1:
+map            	all	0.6972
+recip_rank     	all	0.7264
+TREC Scores of test_res/RPGB-dev/GB-1.0-1.0-3-2.0-2:
+map            	all	0.6372
+recip_rank     	all	0.6535
+TREC Scores of test_res/RPGB-dev/GB-1.0-1.0-5-0-1:
+map            	all	0.6955
+recip_rank     	all	0.7369
+TREC Scores of test_res/RPGB-dev/GB-1.0-1.0-5-0-2:
+map            	all	0.7023
+recip_rank     	all	0.7440
+TREC Scores of test_res/RPGB-dev/GB-1.0-1.0-5-0.8-1:
+map            	all	0.6954
+recip_rank     	all	0.7369
+TREC Scores of test_res/RPGB-dev/GB-1.0-1.0-5-0.8-2:
+map            	all	0.6910
+recip_rank     	all	0.7144
+TREC Scores of test_res/RPGB-dev/GB-1.0-1.0-5-1.0-1:
+map            	all	0.6959
+recip_rank     	all	0.7369
+TREC Scores of test_res/RPGB-dev/GB-1.0-1.0-5-1.0-2:
+map            	all	0.6913
+recip_rank     	all	0.7119
+TREC Scores of test_res/RPGB-dev/GB-1.0-1.0-5-1.25-1:
+map            	all	0.6979
+recip_rank     	all	0.7369
+TREC Scores of test_res/RPGB-dev/GB-1.0-1.0-5-1.25-2:
+map            	all	0.6783
+recip_rank     	all	0.6913
+TREC Scores of test_res/RPGB-dev/GB-1.0-1.0-5-1.5-1:
+map            	all	0.7110
+recip_rank     	all	0.7546
+TREC Scores of test_res/RPGB-dev/GB-1.0-1.0-5-1.5-2:
+map            	all	0.6584
+recip_rank     	all	0.6741
+TREC Scores of test_res/RPGB-dev/GB-1.0-1.0-5-2.0-1:
+map            	all	0.6975
+recip_rank     	all	0.7208
+TREC Scores of test_res/RPGB-dev/GB-1.0-1.0-5-2.0-2:
+map            	all	0.6373
+recip_rank     	all	0.6542
+TREC Scores of test_res/RPGB-dev/GB-1.0-1.5-3-0-1:
+map            	all	0.6955
+recip_rank     	all	0.7369
+TREC Scores of test_res/RPGB-dev/GB-1.0-1.5-3-0-2:
+map            	all	0.6994
+recip_rank     	all	0.7330
+TREC Scores of test_res/RPGB-dev/GB-1.0-1.5-3-0.8-1:
+map            	all	0.6956
+recip_rank     	all	0.7369
+TREC Scores of test_res/RPGB-dev/GB-1.0-1.5-3-0.8-2:
+map            	all	0.6860
+recip_rank     	all	0.7082
+TREC Scores of test_res/RPGB-dev/GB-1.0-1.5-3-1.0-1:
+map            	all	0.6953
+recip_rank     	all	0.7369
+TREC Scores of test_res/RPGB-dev/GB-1.0-1.5-3-1.0-2:
+map            	all	0.6784
+recip_rank     	all	0.6914
+TREC Scores of test_res/RPGB-dev/GB-1.0-1.5-3-1.25-1:
+map            	all	0.6981
+recip_rank     	all	0.7369
+TREC Scores of test_res/RPGB-dev/GB-1.0-1.5-3-1.25-2:
+map            	all	0.6704
+recip_rank     	all	0.6827
+TREC Scores of test_res/RPGB-dev/GB-1.0-1.5-3-1.5-1:
+map            	all	0.7097
+recip_rank     	all	0.7539
+TREC Scores of test_res/RPGB-dev/GB-1.0-1.5-3-1.5-2:
+map            	all	0.6571
+recip_rank     	all	0.6721
+TREC Scores of test_res/RPGB-dev/GB-1.0-1.5-3-2.0-1:
+map            	all	0.6987
+recip_rank     	all	0.7276
+TREC Scores of test_res/RPGB-dev/GB-1.0-1.5-3-2.0-2:
+map            	all	0.6353
+recip_rank     	all	0.6497
+TREC Scores of test_res/RPGB-dev/GB-1.0-1.5-5-0-1:
+map            	all	0.6955
+recip_rank     	all	0.7369
+TREC Scores of test_res/RPGB-dev/GB-1.0-1.5-5-0-2:
+map            	all	0.7007
+recip_rank     	all	0.7417
+TREC Scores of test_res/RPGB-dev/GB-1.0-1.5-5-0.8-1:
+map            	all	0.6954
+recip_rank     	all	0.7369
+TREC Scores of test_res/RPGB-dev/GB-1.0-1.5-5-0.8-2:
+map            	all	0.6865
+recip_rank     	all	0.7054
+TREC Scores of test_res/RPGB-dev/GB-1.0-1.5-5-1.0-1:
+map            	all	0.6959
+recip_rank     	all	0.7369
+TREC Scores of test_res/RPGB-dev/GB-1.0-1.5-5-1.0-2:
+map            	all	0.6775
+recip_rank     	all	0.6928
+TREC Scores of test_res/RPGB-dev/GB-1.0-1.5-5-1.25-1:
+map            	all	0.6978
+recip_rank     	all	0.7369
+TREC Scores of test_res/RPGB-dev/GB-1.0-1.5-5-1.25-2:
+map            	all	0.6739
+recip_rank     	all	0.6901
+TREC Scores of test_res/RPGB-dev/GB-1.0-1.5-5-1.5-1:
+map            	all	0.7089
+recip_rank     	all	0.7546
+TREC Scores of test_res/RPGB-dev/GB-1.0-1.5-5-1.5-2:
+map            	all	0.6557
+recip_rank     	all	0.6713
+TREC Scores of test_res/RPGB-dev/GB-1.0-1.5-5-2.0-1:
+map            	all	0.6946
+recip_rank     	all	0.7137
+TREC Scores of test_res/RPGB-dev/GB-1.0-1.5-5-2.0-2:
+map            	all	0.6337
+recip_rank     	all	0.6486
+TREC Scores of test_res/RPGB-dev/GB-1.0-2.0-3-0-1:
+map            	all	0.6955
+recip_rank     	all	0.7369
+TREC Scores of test_res/RPGB-dev/GB-1.0-2.0-3-0-2:
+map            	all	0.6993
+recip_rank     	all	0.7330
+TREC Scores of test_res/RPGB-dev/GB-1.0-2.0-3-0.8-1:
+map            	all	0.6956
+recip_rank     	all	0.7369
+TREC Scores of test_res/RPGB-dev/GB-1.0-2.0-3-0.8-2:
+map            	all	0.6895
+recip_rank     	all	0.7155
+TREC Scores of test_res/RPGB-dev/GB-1.0-2.0-3-1.0-1:
+map            	all	0.6953
+recip_rank     	all	0.7369
+TREC Scores of test_res/RPGB-dev/GB-1.0-2.0-3-1.0-2:
+map            	all	0.6749
+recip_rank     	all	0.6827
+TREC Scores of test_res/RPGB-dev/GB-1.0-2.0-3-1.25-1:
+map            	all	0.6981
+recip_rank     	all	0.7369
+TREC Scores of test_res/RPGB-dev/GB-1.0-2.0-3-1.25-2:
+map            	all	0.6709
+recip_rank     	all	0.6827
+TREC Scores of test_res/RPGB-dev/GB-1.0-2.0-3-1.5-1:
+map            	all	0.7067
+recip_rank     	all	0.7539
+TREC Scores of test_res/RPGB-dev/GB-1.0-2.0-3-1.5-2:
+map            	all	0.6559
+recip_rank     	all	0.6709
+TREC Scores of test_res/RPGB-dev/GB-1.0-2.0-3-2.0-1:
+map            	all	0.6922
+recip_rank     	all	0.7193
+TREC Scores of test_res/RPGB-dev/GB-1.0-2.0-3-2.0-2:
+map            	all	0.6311
+recip_rank     	all	0.6459
+TREC Scores of test_res/RPGB-dev/GB-1.0-2.0-5-0-1:
+map            	all	0.6955
+recip_rank     	all	0.7369
+TREC Scores of test_res/RPGB-dev/GB-1.0-2.0-5-0-2:
+map            	all	0.7004
+recip_rank     	all	0.7419
+TREC Scores of test_res/RPGB-dev/GB-1.0-2.0-5-0.8-1:
+map            	all	0.6954
+recip_rank     	all	0.7369
+TREC Scores of test_res/RPGB-dev/GB-1.0-2.0-5-0.8-2:
+map            	all	0.6881
+recip_rank     	all	0.7052
+TREC Scores of test_res/RPGB-dev/GB-1.0-2.0-5-1.0-1:
+map            	all	0.6957
+recip_rank     	all	0.7369
+TREC Scores of test_res/RPGB-dev/GB-1.0-2.0-5-1.0-2:
+map            	all	0.6745
+recip_rank     	all	0.6856
+TREC Scores of test_res/RPGB-dev/GB-1.0-2.0-5-1.25-1:
+map            	all	0.6977
+recip_rank     	all	0.7369
+TREC Scores of test_res/RPGB-dev/GB-1.0-2.0-5-1.25-2:
+map            	all	0.6731
+recip_rank     	all	0.6901
+TREC Scores of test_res/RPGB-dev/GB-1.0-2.0-5-1.5-1:
+map            	all	0.7091
+recip_rank     	all	0.7546
+TREC Scores of test_res/RPGB-dev/GB-1.0-2.0-5-1.5-2:
+map            	all	0.6531
+recip_rank     	all	0.6690
+TREC Scores of test_res/RPGB-dev/GB-1.0-2.0-5-2.0-1:
+map            	all	0.6901
+recip_rank     	all	0.7089
+TREC Scores of test_res/RPGB-dev/GB-1.0-2.0-5-2.0-2:
+map            	all	0.6334
+recip_rank     	all	0.6486
+TREC Scores of test_res/RPGB-dev/GB-1.5-0.5-3-0-1:
+map            	all	0.7024
+recip_rank     	all	0.7512
+TREC Scores of test_res/RPGB-dev/GB-1.5-0.5-3-0-2:
+map            	all	0.7141
+recip_rank     	all	0.7645
+TREC Scores of test_res/RPGB-dev/GB-1.5-0.5-3-0.8-1:
+map            	all	0.7027
+recip_rank     	all	0.7512
+TREC Scores of test_res/RPGB-dev/GB-1.5-0.5-3-0.8-2:
+map            	all	0.6972
+recip_rank     	all	0.7289
+TREC Scores of test_res/RPGB-dev/GB-1.5-0.5-3-1.0-1:
+map            	all	0.7025
+recip_rank     	all	0.7512
+TREC Scores of test_res/RPGB-dev/GB-1.5-0.5-3-1.0-2:
+map            	all	0.6926
+recip_rank     	all	0.7280
+TREC Scores of test_res/RPGB-dev/GB-1.5-0.5-3-1.25-1:
+map            	all	0.6976
+recip_rank     	all	0.7512
+TREC Scores of test_res/RPGB-dev/GB-1.5-0.5-3-1.25-2:
+map            	all	0.6906
+recip_rank     	all	0.7257
+TREC Scores of test_res/RPGB-dev/GB-1.5-0.5-3-1.5-1:
+map            	all	0.7087
+recip_rank     	all	0.7600
+TREC Scores of test_res/RPGB-dev/GB-1.5-0.5-3-1.5-2:
+map            	all	0.6725
+recip_rank     	all	0.7041
+TREC Scores of test_res/RPGB-dev/GB-1.5-0.5-3-2.0-1:
+map            	all	0.7049
+recip_rank     	all	0.7512
+TREC Scores of test_res/RPGB-dev/GB-1.5-0.5-3-2.0-2:
+map            	all	0.6531
+recip_rank     	all	0.6700
+TREC Scores of test_res/RPGB-dev/GB-1.5-0.5-5-0-1:
+map            	all	0.7037
+recip_rank     	all	0.7512
+TREC Scores of test_res/RPGB-dev/GB-1.5-0.5-5-0-2:
+map            	all	0.7145
+recip_rank     	all	0.7644
+TREC Scores of test_res/RPGB-dev/GB-1.5-0.5-5-0.8-1:
+map            	all	0.7040
+recip_rank     	all	0.7512
+TREC Scores of test_res/RPGB-dev/GB-1.5-0.5-5-0.8-2:
+map            	all	0.6984
+recip_rank     	all	0.7370
+TREC Scores of test_res/RPGB-dev/GB-1.5-0.5-5-1.0-1:
+map            	all	0.7042
+recip_rank     	all	0.7512
+TREC Scores of test_res/RPGB-dev/GB-1.5-0.5-5-1.0-2:
+map            	all	0.6929
+recip_rank     	all	0.7290
+TREC Scores of test_res/RPGB-dev/GB-1.5-0.5-5-1.25-1:
+map            	all	0.6990
+recip_rank     	all	0.7512
+TREC Scores of test_res/RPGB-dev/GB-1.5-0.5-5-1.25-2:
+map            	all	0.6918
+recip_rank     	all	0.7261
+TREC Scores of test_res/RPGB-dev/GB-1.5-0.5-5-1.5-1:
+map            	all	0.7120
+recip_rank     	all	0.7671
+TREC Scores of test_res/RPGB-dev/GB-1.5-0.5-5-1.5-2:
+map            	all	0.6740
+recip_rank     	all	0.7059
+TREC Scores of test_res/RPGB-dev/GB-1.5-0.5-5-2.0-1:
+map            	all	0.7069
+recip_rank     	all	0.7529
+TREC Scores of test_res/RPGB-dev/GB-1.5-0.5-5-2.0-2:
+map            	all	0.6549
+recip_rank     	all	0.6716
+TREC Scores of test_res/RPGB-dev/GB-1.5-0.75-3-0-1:
+map            	all	0.7026
+recip_rank     	all	0.7512
+TREC Scores of test_res/RPGB-dev/GB-1.5-0.75-3-0-2:
+map            	all	0.7146
+recip_rank     	all	0.7569
+TREC Scores of test_res/RPGB-dev/GB-1.5-0.75-3-0.8-1:
+map            	all	0.7034
+recip_rank     	all	0.7512
+TREC Scores of test_res/RPGB-dev/GB-1.5-0.75-3-0.8-2:
+map            	all	0.7005
+recip_rank     	all	0.7394
+TREC Scores of test_res/RPGB-dev/GB-1.5-0.75-3-1.0-1:
+map            	all	0.7038
+recip_rank     	all	0.7512
+TREC Scores of test_res/RPGB-dev/GB-1.5-0.75-3-1.0-2:
+map            	all	0.6989
+recip_rank     	all	0.7330
+TREC Scores of test_res/RPGB-dev/GB-1.5-0.75-3-1.25-1:
+map            	all	0.7024
+recip_rank     	all	0.7512
+TREC Scores of test_res/RPGB-dev/GB-1.5-0.75-3-1.25-2:
+map            	all	0.6890
+recip_rank     	all	0.7142
+TREC Scores of test_res/RPGB-dev/GB-1.5-0.75-3-1.5-1:
+map            	all	0.7112
+recip_rank     	all	0.7682
+TREC Scores of test_res/RPGB-dev/GB-1.5-0.75-3-1.5-2:
+map            	all	0.6718
+recip_rank     	all	0.7004
+TREC Scores of test_res/RPGB-dev/GB-1.5-0.75-3-2.0-1:
+map            	all	0.7021
+recip_rank     	all	0.7488
+TREC Scores of test_res/RPGB-dev/GB-1.5-0.75-3-2.0-2:
+map            	all	0.6526
+recip_rank     	all	0.6773
+TREC Scores of test_res/RPGB-dev/GB-1.5-0.75-5-0-1:
+map            	all	0.7030
+recip_rank     	all	0.7512
+TREC Scores of test_res/RPGB-dev/GB-1.5-0.75-5-0-2:
+map            	all	0.7158
+recip_rank     	all	0.7640
+TREC Scores of test_res/RPGB-dev/GB-1.5-0.75-5-0.8-1:
+map            	all	0.7037
+recip_rank     	all	0.7512
+TREC Scores of test_res/RPGB-dev/GB-1.5-0.75-5-0.8-2:
+map            	all	0.7017
+recip_rank     	all	0.7405
+TREC Scores of test_res/RPGB-dev/GB-1.5-0.75-5-1.0-1:
+map            	all	0.7040
+recip_rank     	all	0.7512
+TREC Scores of test_res/RPGB-dev/GB-1.5-0.75-5-1.0-2:
+map            	all	0.7024
+recip_rank     	all	0.7361
+TREC Scores of test_res/RPGB-dev/GB-1.5-0.75-5-1.25-1:
+map            	all	0.7044
+recip_rank     	all	0.7512
+TREC Scores of test_res/RPGB-dev/GB-1.5-0.75-5-1.25-2:
+map            	all	0.6882
+recip_rank     	all	0.7130
+TREC Scores of test_res/RPGB-dev/GB-1.5-0.75-5-1.5-1:
+map            	all	0.7133
+recip_rank     	all	0.7681
+TREC Scores of test_res/RPGB-dev/GB-1.5-0.75-5-1.5-2:
+map            	all	0.6746
+recip_rank     	all	0.7049
+TREC Scores of test_res/RPGB-dev/GB-1.5-0.75-5-2.0-1:
+map            	all	0.7027
+recip_rank     	all	0.7494
+TREC Scores of test_res/RPGB-dev/GB-1.5-0.75-5-2.0-2:
+map            	all	0.6499
+recip_rank     	all	0.6705
+TREC Scores of test_res/RPGB-dev/GB-1.5-1.0-3-0-1:
+map            	all	0.7026
+recip_rank     	all	0.7512
+TREC Scores of test_res/RPGB-dev/GB-1.5-1.0-3-0-2:
+map            	all	0.7100
+recip_rank     	all	0.7504
+TREC Scores of test_res/RPGB-dev/GB-1.5-1.0-3-0.8-1:
+map            	all	0.7031
+recip_rank     	all	0.7512
+TREC Scores of test_res/RPGB-dev/GB-1.5-1.0-3-0.8-2:
+map            	all	0.6970
+recip_rank     	all	0.7319
+TREC Scores of test_res/RPGB-dev/GB-1.5-1.0-3-1.0-1:
+map            	all	0.7039
+recip_rank     	all	0.7512
+TREC Scores of test_res/RPGB-dev/GB-1.5-1.0-3-1.0-2:
+map            	all	0.6989
+recip_rank     	all	0.7246
+TREC Scores of test_res/RPGB-dev/GB-1.5-1.0-3-1.25-1:
+map            	all	0.7040
+recip_rank     	all	0.7512
+TREC Scores of test_res/RPGB-dev/GB-1.5-1.0-3-1.25-2:
+map            	all	0.6875
+recip_rank     	all	0.7139
+TREC Scores of test_res/RPGB-dev/GB-1.5-1.0-3-1.5-1:
+map            	all	0.7132
+recip_rank     	all	0.7682
+TREC Scores of test_res/RPGB-dev/GB-1.5-1.0-3-1.5-2:
+map            	all	0.6687
+recip_rank     	all	0.6912
+TREC Scores of test_res/RPGB-dev/GB-1.5-1.0-3-2.0-1:
+map            	all	0.7008
+recip_rank     	all	0.7443
+TREC Scores of test_res/RPGB-dev/GB-1.5-1.0-3-2.0-2:
+map            	all	0.6454
+recip_rank     	all	0.6641
+TREC Scores of test_res/RPGB-dev/GB-1.5-1.0-5-0-1:
+map            	all	0.7040
+recip_rank     	all	0.7512
+TREC Scores of test_res/RPGB-dev/GB-1.5-1.0-5-0-2:
+map            	all	0.7043
+recip_rank     	all	0.7502
+TREC Scores of test_res/RPGB-dev/GB-1.5-1.0-5-0.8-1:
+map            	all	0.7047
+recip_rank     	all	0.7512
+TREC Scores of test_res/RPGB-dev/GB-1.5-1.0-5-0.8-2:
+map            	all	0.6964
+recip_rank     	all	0.7330
+TREC Scores of test_res/RPGB-dev/GB-1.5-1.0-5-1.0-1:
+map            	all	0.7048
+recip_rank     	all	0.7512
+TREC Scores of test_res/RPGB-dev/GB-1.5-1.0-5-1.0-2:
+map            	all	0.6935
+recip_rank     	all	0.7239
+TREC Scores of test_res/RPGB-dev/GB-1.5-1.0-5-1.25-1:
+map            	all	0.7058
+recip_rank     	all	0.7512
+TREC Scores of test_res/RPGB-dev/GB-1.5-1.0-5-1.25-2:
+map            	all	0.6816
+recip_rank     	all	0.7086
+TREC Scores of test_res/RPGB-dev/GB-1.5-1.0-5-1.5-1:
+map            	all	0.7164
+recip_rank     	all	0.7689
+TREC Scores of test_res/RPGB-dev/GB-1.5-1.0-5-1.5-2:
+map            	all	0.6601
+recip_rank     	all	0.6811
+TREC Scores of test_res/RPGB-dev/GB-1.5-1.0-5-2.0-1:
+map            	all	0.7029
+recip_rank     	all	0.7470
+TREC Scores of test_res/RPGB-dev/GB-1.5-1.0-5-2.0-2:
+map            	all	0.6407
+recip_rank     	all	0.6631
+TREC Scores of test_res/RPGB-dev/GB-1.5-1.5-3-0-1:
+map            	all	0.7006
+recip_rank     	all	0.7417
+TREC Scores of test_res/RPGB-dev/GB-1.5-1.5-3-0-2:
+map            	all	0.7022
+recip_rank     	all	0.7342
+TREC Scores of test_res/RPGB-dev/GB-1.5-1.5-3-0.8-1:
+map            	all	0.7010
+recip_rank     	all	0.7417
+TREC Scores of test_res/RPGB-dev/GB-1.5-1.5-3-0.8-2:
+map            	all	0.6896
+recip_rank     	all	0.7156
+TREC Scores of test_res/RPGB-dev/GB-1.5-1.5-3-1.0-1:
+map            	all	0.7030
+recip_rank     	all	0.7417
+TREC Scores of test_res/RPGB-dev/GB-1.5-1.5-3-1.0-2:
+map            	all	0.6862
+recip_rank     	all	0.7081
+TREC Scores of test_res/RPGB-dev/GB-1.5-1.5-3-1.25-1:
+map            	all	0.7027
+recip_rank     	all	0.7488
+TREC Scores of test_res/RPGB-dev/GB-1.5-1.5-3-1.25-2:
+map            	all	0.6781
+recip_rank     	all	0.6938
+TREC Scores of test_res/RPGB-dev/GB-1.5-1.5-3-1.5-1:
+map            	all	0.7013
+recip_rank     	all	0.7492
+TREC Scores of test_res/RPGB-dev/GB-1.5-1.5-3-1.5-2:
+map            	all	0.6573
+recip_rank     	all	0.6690
+TREC Scores of test_res/RPGB-dev/GB-1.5-1.5-3-2.0-1:
+map            	all	0.6994
+recip_rank     	all	0.7351
+TREC Scores of test_res/RPGB-dev/GB-1.5-1.5-3-2.0-2:
+map            	all	0.6405
+recip_rank     	all	0.6543
+TREC Scores of test_res/RPGB-dev/GB-1.5-1.5-5-0-1:
+map            	all	0.7025
+recip_rank     	all	0.7512
+TREC Scores of test_res/RPGB-dev/GB-1.5-1.5-5-0-2:
+map            	all	0.7019
+recip_rank     	all	0.7437
+TREC Scores of test_res/RPGB-dev/GB-1.5-1.5-5-0.8-1:
+map            	all	0.7033
+recip_rank     	all	0.7512
+TREC Scores of test_res/RPGB-dev/GB-1.5-1.5-5-0.8-2:
+map            	all	0.6918
+recip_rank     	all	0.7213
+TREC Scores of test_res/RPGB-dev/GB-1.5-1.5-5-1.0-1:
+map            	all	0.7045
+recip_rank     	all	0.7512
+TREC Scores of test_res/RPGB-dev/GB-1.5-1.5-5-1.0-2:
+map            	all	0.6754
+recip_rank     	all	0.6999
+TREC Scores of test_res/RPGB-dev/GB-1.5-1.5-5-1.25-1:
+map            	all	0.7052
+recip_rank     	all	0.7518
+TREC Scores of test_res/RPGB-dev/GB-1.5-1.5-5-1.25-2:
+map            	all	0.6754
+recip_rank     	all	0.6936
+TREC Scores of test_res/RPGB-dev/GB-1.5-1.5-5-1.5-1:
+map            	all	0.7051
+recip_rank     	all	0.7606
+TREC Scores of test_res/RPGB-dev/GB-1.5-1.5-5-1.5-2:
+map            	all	0.6536
+recip_rank     	all	0.6682
+TREC Scores of test_res/RPGB-dev/GB-1.5-1.5-5-2.0-1:
+map            	all	0.7035
+recip_rank     	all	0.7518
+TREC Scores of test_res/RPGB-dev/GB-1.5-1.5-5-2.0-2:
+map            	all	0.6358
+recip_rank     	all	0.6521
+TREC Scores of test_res/RPGB-dev/GB-1.5-2.0-3-0-1:
+map            	all	0.7006
+recip_rank     	all	0.7417
+TREC Scores of test_res/RPGB-dev/GB-1.5-2.0-3-0-2:
+map            	all	0.7025
+recip_rank     	all	0.7342
+TREC Scores of test_res/RPGB-dev/GB-1.5-2.0-3-0.8-1:
+map            	all	0.7008
+recip_rank     	all	0.7417
+TREC Scores of test_res/RPGB-dev/GB-1.5-2.0-3-0.8-2:
+map            	all	0.6907
+recip_rank     	all	0.7148
+TREC Scores of test_res/RPGB-dev/GB-1.5-2.0-3-1.0-1:
+map            	all	0.7029
+recip_rank     	all	0.7417
+TREC Scores of test_res/RPGB-dev/GB-1.5-2.0-3-1.0-2:
+map            	all	0.6725
+recip_rank     	all	0.6893
+TREC Scores of test_res/RPGB-dev/GB-1.5-2.0-3-1.25-1:
+map            	all	0.7028
+recip_rank     	all	0.7491
+TREC Scores of test_res/RPGB-dev/GB-1.5-2.0-3-1.25-2:
+map            	all	0.6781
+recip_rank     	all	0.6938
+TREC Scores of test_res/RPGB-dev/GB-1.5-2.0-3-1.5-1:
+map            	all	0.7012
+recip_rank     	all	0.7492
+TREC Scores of test_res/RPGB-dev/GB-1.5-2.0-3-1.5-2:
+map            	all	0.6625
+recip_rank     	all	0.6750
+TREC Scores of test_res/RPGB-dev/GB-1.5-2.0-3-2.0-1:
+map            	all	0.6951
+recip_rank     	all	0.7273
+TREC Scores of test_res/RPGB-dev/GB-1.5-2.0-3-2.0-2:
+map            	all	0.6404
+recip_rank     	all	0.6544
+TREC Scores of test_res/RPGB-dev/GB-1.5-2.0-5-0-1:
+map            	all	0.7025
+recip_rank     	all	0.7512
+TREC Scores of test_res/RPGB-dev/GB-1.5-2.0-5-0-2:
+map            	all	0.7016
+recip_rank     	all	0.7443
+TREC Scores of test_res/RPGB-dev/GB-1.5-2.0-5-0.8-1:
+map            	all	0.7033
+recip_rank     	all	0.7512
+TREC Scores of test_res/RPGB-dev/GB-1.5-2.0-5-0.8-2:
+map            	all	0.6855
+recip_rank     	all	0.7085
+TREC Scores of test_res/RPGB-dev/GB-1.5-2.0-5-1.0-1:
+map            	all	0.7042
+recip_rank     	all	0.7512
+TREC Scores of test_res/RPGB-dev/GB-1.5-2.0-5-1.0-2:
+map            	all	0.6698
+recip_rank     	all	0.6906
+TREC Scores of test_res/RPGB-dev/GB-1.5-2.0-5-1.25-1:
+map            	all	0.7055
+recip_rank     	all	0.7523
+TREC Scores of test_res/RPGB-dev/GB-1.5-2.0-5-1.25-2:
+map            	all	0.6756
+recip_rank     	all	0.6936
+TREC Scores of test_res/RPGB-dev/GB-1.5-2.0-5-1.5-1:
+map            	all	0.7074
+recip_rank     	all	0.7613
+TREC Scores of test_res/RPGB-dev/GB-1.5-2.0-5-1.5-2:
+map            	all	0.6579
+recip_rank     	all	0.6752
+TREC Scores of test_res/RPGB-dev/GB-1.5-2.0-5-2.0-1:
+map            	all	0.6955
+recip_rank     	all	0.7399
+TREC Scores of test_res/RPGB-dev/GB-1.5-2.0-5-2.0-2:
+map            	all	0.6348
+recip_rank     	all	0.6523
+TREC Scores of test_res/RPGB-dev/GB-2.0-0.5-3-0-1:
+map            	all	0.7082
+recip_rank     	all	0.7595
+TREC Scores of test_res/RPGB-dev/GB-2.0-0.5-3-0-2:
+map            	all	0.7045
+recip_rank     	all	0.7559
+TREC Scores of test_res/RPGB-dev/GB-2.0-0.5-3-0.8-1:
+map            	all	0.7061
+recip_rank     	all	0.7595
+TREC Scores of test_res/RPGB-dev/GB-2.0-0.5-3-0.8-2:
+map            	all	0.6900
+recip_rank     	all	0.7268
+TREC Scores of test_res/RPGB-dev/GB-2.0-0.5-3-1.0-1:
+map            	all	0.7030
+recip_rank     	all	0.7595
+TREC Scores of test_res/RPGB-dev/GB-2.0-0.5-3-1.0-2:
+map            	all	0.6851
+recip_rank     	all	0.7201
+TREC Scores of test_res/RPGB-dev/GB-2.0-0.5-3-1.25-1:
+map            	all	0.7032
+recip_rank     	all	0.7595
+TREC Scores of test_res/RPGB-dev/GB-2.0-0.5-3-1.25-2:
+map            	all	0.6818
+recip_rank     	all	0.7168
+TREC Scores of test_res/RPGB-dev/GB-2.0-0.5-3-1.5-1:
+map            	all	0.7060
+recip_rank     	all	0.7588
+TREC Scores of test_res/RPGB-dev/GB-2.0-0.5-3-1.5-2:
+map            	all	0.6719
+recip_rank     	all	0.7060
+TREC Scores of test_res/RPGB-dev/GB-2.0-0.5-3-2.0-1:
+map            	all	0.7111
+recip_rank     	all	0.7612
+TREC Scores of test_res/RPGB-dev/GB-2.0-0.5-3-2.0-2:
+map            	all	0.6495
+recip_rank     	all	0.6673
+TREC Scores of test_res/RPGB-dev/GB-2.0-0.5-5-0-1:
+map            	all	0.7084
+recip_rank     	all	0.7595
+TREC Scores of test_res/RPGB-dev/GB-2.0-0.5-5-0-2:
+map            	all	0.7051
+recip_rank     	all	0.7545
+TREC Scores of test_res/RPGB-dev/GB-2.0-0.5-5-0.8-1:
+map            	all	0.7058
+recip_rank     	all	0.7595
+TREC Scores of test_res/RPGB-dev/GB-2.0-0.5-5-0.8-2:
+map            	all	0.6908
+recip_rank     	all	0.7265
+TREC Scores of test_res/RPGB-dev/GB-2.0-0.5-5-1.0-1:
+map            	all	0.7034
+recip_rank     	all	0.7595
+TREC Scores of test_res/RPGB-dev/GB-2.0-0.5-5-1.0-2:
+map            	all	0.6845
+recip_rank     	all	0.7195
+TREC Scores of test_res/RPGB-dev/GB-2.0-0.5-5-1.25-1:
+map            	all	0.7032
+recip_rank     	all	0.7595
+TREC Scores of test_res/RPGB-dev/GB-2.0-0.5-5-1.25-2:
+map            	all	0.6819
+recip_rank     	all	0.7160
+TREC Scores of test_res/RPGB-dev/GB-2.0-0.5-5-1.5-1:
+map            	all	0.7073
+recip_rank     	all	0.7660
+TREC Scores of test_res/RPGB-dev/GB-2.0-0.5-5-1.5-2:
+map            	all	0.6726
+recip_rank     	all	0.7053
+TREC Scores of test_res/RPGB-dev/GB-2.0-0.5-5-2.0-1:
+map            	all	0.7111
+recip_rank     	all	0.7612
+TREC Scores of test_res/RPGB-dev/GB-2.0-0.5-5-2.0-2:
+map            	all	0.6476
+recip_rank     	all	0.6656
+TREC Scores of test_res/RPGB-dev/GB-2.0-0.75-3-0-1:
+map            	all	0.7053
+recip_rank     	all	0.7517
+TREC Scores of test_res/RPGB-dev/GB-2.0-0.75-3-0-2:
+map            	all	0.7131
+recip_rank     	all	0.7645
+TREC Scores of test_res/RPGB-dev/GB-2.0-0.75-3-0.8-1:
+map            	all	0.7052
+recip_rank     	all	0.7517
+TREC Scores of test_res/RPGB-dev/GB-2.0-0.75-3-0.8-2:
+map            	all	0.7003
+recip_rank     	all	0.7479
+TREC Scores of test_res/RPGB-dev/GB-2.0-0.75-3-1.0-1:
+map            	all	0.7035
+recip_rank     	all	0.7517
+TREC Scores of test_res/RPGB-dev/GB-2.0-0.75-3-1.0-2:
+map            	all	0.6997
+recip_rank     	all	0.7405
+TREC Scores of test_res/RPGB-dev/GB-2.0-0.75-3-1.25-1:
+map            	all	0.7024
+recip_rank     	all	0.7517
+TREC Scores of test_res/RPGB-dev/GB-2.0-0.75-3-1.25-2:
+map            	all	0.6883
+recip_rank     	all	0.7219
+TREC Scores of test_res/RPGB-dev/GB-2.0-0.75-3-1.5-1:
+map            	all	0.7060
+recip_rank     	all	0.7615
+TREC Scores of test_res/RPGB-dev/GB-2.0-0.75-3-1.5-2:
+map            	all	0.6775
+recip_rank     	all	0.7046
+TREC Scores of test_res/RPGB-dev/GB-2.0-0.75-3-2.0-1:
+map            	all	0.7043
+recip_rank     	all	0.7540
+TREC Scores of test_res/RPGB-dev/GB-2.0-0.75-3-2.0-2:
+map            	all	0.6602
+recip_rank     	all	0.6823
+TREC Scores of test_res/RPGB-dev/GB-2.0-0.75-5-0-1:
+map            	all	0.7051
+recip_rank     	all	0.7517
+TREC Scores of test_res/RPGB-dev/GB-2.0-0.75-5-0-2:
+map            	all	0.7160
+recip_rank     	all	0.7644
+TREC Scores of test_res/RPGB-dev/GB-2.0-0.75-5-0.8-1:
+map            	all	0.7051
+recip_rank     	all	0.7517
+TREC Scores of test_res/RPGB-dev/GB-2.0-0.75-5-0.8-2:
+map            	all	0.7024
+recip_rank     	all	0.7496
+TREC Scores of test_res/RPGB-dev/GB-2.0-0.75-5-1.0-1:
+map            	all	0.7032
+recip_rank     	all	0.7517
+TREC Scores of test_res/RPGB-dev/GB-2.0-0.75-5-1.0-2:
+map            	all	0.7031
+recip_rank     	all	0.7418
+TREC Scores of test_res/RPGB-dev/GB-2.0-0.75-5-1.25-1:
+map            	all	0.7022
+recip_rank     	all	0.7517
+TREC Scores of test_res/RPGB-dev/GB-2.0-0.75-5-1.25-2:
+map            	all	0.6932
+recip_rank     	all	0.7298
+TREC Scores of test_res/RPGB-dev/GB-2.0-0.75-5-1.5-1:
+map            	all	0.7075
+recip_rank     	all	0.7612
+TREC Scores of test_res/RPGB-dev/GB-2.0-0.75-5-1.5-2:
+map            	all	0.6770
+recip_rank     	all	0.7039
+TREC Scores of test_res/RPGB-dev/GB-2.0-0.75-5-2.0-1:
+map            	all	0.7055
+recip_rank     	all	0.7618
+TREC Scores of test_res/RPGB-dev/GB-2.0-0.75-5-2.0-2:
+map            	all	0.6605
+recip_rank     	all	0.6799
+TREC Scores of test_res/RPGB-dev/GB-2.0-1.0-3-0-1:
+map            	all	0.7052
+recip_rank     	all	0.7517
+TREC Scores of test_res/RPGB-dev/GB-2.0-1.0-3-0-2:
+map            	all	0.7135
+recip_rank     	all	0.7579
+TREC Scores of test_res/RPGB-dev/GB-2.0-1.0-3-0.8-1:
+map            	all	0.7054
+recip_rank     	all	0.7517
+TREC Scores of test_res/RPGB-dev/GB-2.0-1.0-3-0.8-2:
+map            	all	0.6948
+recip_rank     	all	0.7311
+TREC Scores of test_res/RPGB-dev/GB-2.0-1.0-3-1.0-1:
+map            	all	0.7058
+recip_rank     	all	0.7517
+TREC Scores of test_res/RPGB-dev/GB-2.0-1.0-3-1.0-2:
+map            	all	0.6962
+recip_rank     	all	0.7306
+TREC Scores of test_res/RPGB-dev/GB-2.0-1.0-3-1.25-1:
+map            	all	0.7031
+recip_rank     	all	0.7523
+TREC Scores of test_res/RPGB-dev/GB-2.0-1.0-3-1.25-2:
+map            	all	0.6869
+recip_rank     	all	0.7126
+TREC Scores of test_res/RPGB-dev/GB-2.0-1.0-3-1.5-1:
+map            	all	0.7017
+recip_rank     	all	0.7592
+TREC Scores of test_res/RPGB-dev/GB-2.0-1.0-3-1.5-2:
+map            	all	0.6741
+recip_rank     	all	0.6964
+TREC Scores of test_res/RPGB-dev/GB-2.0-1.0-3-2.0-1:
+map            	all	0.7015
+recip_rank     	all	0.7481
+TREC Scores of test_res/RPGB-dev/GB-2.0-1.0-3-2.0-2:
+map            	all	0.6567
+recip_rank     	all	0.6758
+TREC Scores of test_res/RPGB-dev/GB-2.0-1.0-5-0-1:
+map            	all	0.7051
+recip_rank     	all	0.7517
+TREC Scores of test_res/RPGB-dev/GB-2.0-1.0-5-0-2:
+map            	all	0.7150
+recip_rank     	all	0.7649
+TREC Scores of test_res/RPGB-dev/GB-2.0-1.0-5-0.8-1:
+map            	all	0.7051
+recip_rank     	all	0.7517
+TREC Scores of test_res/RPGB-dev/GB-2.0-1.0-5-0.8-2:
+map            	all	0.7023
+recip_rank     	all	0.7481
+TREC Scores of test_res/RPGB-dev/GB-2.0-1.0-5-1.0-1:
+map            	all	0.7055
+recip_rank     	all	0.7517
+TREC Scores of test_res/RPGB-dev/GB-2.0-1.0-5-1.0-2:
+map            	all	0.6951
+recip_rank     	all	0.7349
+TREC Scores of test_res/RPGB-dev/GB-2.0-1.0-5-1.25-1:
+map            	all	0.7030
+recip_rank     	all	0.7517
+TREC Scores of test_res/RPGB-dev/GB-2.0-1.0-5-1.25-2:
+map            	all	0.6872
+recip_rank     	all	0.7220
+TREC Scores of test_res/RPGB-dev/GB-2.0-1.0-5-1.5-1:
+map            	all	0.7030
+recip_rank     	all	0.7599
+TREC Scores of test_res/RPGB-dev/GB-2.0-1.0-5-1.5-2:
+map            	all	0.6758
+recip_rank     	all	0.7083
+TREC Scores of test_res/RPGB-dev/GB-2.0-1.0-5-2.0-1:
+map            	all	0.7025
+recip_rank     	all	0.7558
+TREC Scores of test_res/RPGB-dev/GB-2.0-1.0-5-2.0-2:
+map            	all	0.6540
+recip_rank     	all	0.6792
+TREC Scores of test_res/RPGB-dev/GB-2.0-1.5-3-0-1:
+map            	all	0.7018
+recip_rank     	all	0.7421
+TREC Scores of test_res/RPGB-dev/GB-2.0-1.5-3-0-2:
+map            	all	0.7047
+recip_rank     	all	0.7462
+TREC Scores of test_res/RPGB-dev/GB-2.0-1.5-3-0.8-1:
+map            	all	0.7019
+recip_rank     	all	0.7421
+TREC Scores of test_res/RPGB-dev/GB-2.0-1.5-3-0.8-2:
+map            	all	0.6897
+recip_rank     	all	0.7158
+TREC Scores of test_res/RPGB-dev/GB-2.0-1.5-3-1.0-1:
+map            	all	0.7024
+recip_rank     	all	0.7421
+TREC Scores of test_res/RPGB-dev/GB-2.0-1.5-3-1.0-2:
+map            	all	0.6762
+recip_rank     	all	0.6968
+TREC Scores of test_res/RPGB-dev/GB-2.0-1.5-3-1.25-1:
+map            	all	0.7002
+recip_rank     	all	0.7499
+TREC Scores of test_res/RPGB-dev/GB-2.0-1.5-3-1.25-2:
+map            	all	0.6811
+recip_rank     	all	0.6970
+TREC Scores of test_res/RPGB-dev/GB-2.0-1.5-3-1.5-1:
+map            	all	0.7005
+recip_rank     	all	0.7496
+TREC Scores of test_res/RPGB-dev/GB-2.0-1.5-3-1.5-2:
+map            	all	0.6578
+recip_rank     	all	0.6730
+TREC Scores of test_res/RPGB-dev/GB-2.0-1.5-3-2.0-1:
+map            	all	0.6964
+recip_rank     	all	0.7388
+TREC Scores of test_res/RPGB-dev/GB-2.0-1.5-3-2.0-2:
+map            	all	0.6424
+recip_rank     	all	0.6547
+TREC Scores of test_res/RPGB-dev/GB-2.0-1.5-5-0-1:
+map            	all	0.7037
+recip_rank     	all	0.7517
+TREC Scores of test_res/RPGB-dev/GB-2.0-1.5-5-0-2:
+map            	all	0.7096
+recip_rank     	all	0.7573
+TREC Scores of test_res/RPGB-dev/GB-2.0-1.5-5-0.8-1:
+map            	all	0.7036
+recip_rank     	all	0.7517
+TREC Scores of test_res/RPGB-dev/GB-2.0-1.5-5-0.8-2:
+map            	all	0.6996
+recip_rank     	all	0.7379
+TREC Scores of test_res/RPGB-dev/GB-2.0-1.5-5-1.0-1:
+map            	all	0.7052
+recip_rank     	all	0.7517
+TREC Scores of test_res/RPGB-dev/GB-2.0-1.5-5-1.0-2:
+map            	all	0.6750
+recip_rank     	all	0.7012
+TREC Scores of test_res/RPGB-dev/GB-2.0-1.5-5-1.25-1:
+map            	all	0.7044
+recip_rank     	all	0.7527
+TREC Scores of test_res/RPGB-dev/GB-2.0-1.5-5-1.25-2:
+map            	all	0.6843
+recip_rank     	all	0.7131
+TREC Scores of test_res/RPGB-dev/GB-2.0-1.5-5-1.5-1:
+map            	all	0.7063
+recip_rank     	all	0.7599
+TREC Scores of test_res/RPGB-dev/GB-2.0-1.5-5-1.5-2:
+map            	all	0.6562
+recip_rank     	all	0.6744
+TREC Scores of test_res/RPGB-dev/GB-2.0-1.5-5-2.0-1:
+map            	all	0.6985
+recip_rank     	all	0.7546
+TREC Scores of test_res/RPGB-dev/GB-2.0-1.5-5-2.0-2:
+map            	all	0.6439
+recip_rank     	all	0.6637
+TREC Scores of test_res/RPGB-dev/GB-2.0-2.0-3-0-1:
+map            	all	0.7018
+recip_rank     	all	0.7421
+TREC Scores of test_res/RPGB-dev/GB-2.0-2.0-3-0-2:
+map            	all	0.7033
+recip_rank     	all	0.7474
+TREC Scores of test_res/RPGB-dev/GB-2.0-2.0-3-0.8-1:
+map            	all	0.7019
+recip_rank     	all	0.7421
+TREC Scores of test_res/RPGB-dev/GB-2.0-2.0-3-0.8-2:
+map            	all	0.6899
+recip_rank     	all	0.7167
+TREC Scores of test_res/RPGB-dev/GB-2.0-2.0-3-1.0-1:
+map            	all	0.7005
+recip_rank     	all	0.7421
+TREC Scores of test_res/RPGB-dev/GB-2.0-2.0-3-1.0-2:
+map            	all	0.6756
+recip_rank     	all	0.6955
+TREC Scores of test_res/RPGB-dev/GB-2.0-2.0-3-1.25-1:
+map            	all	0.6994
+recip_rank     	all	0.7504
+TREC Scores of test_res/RPGB-dev/GB-2.0-2.0-3-1.25-2:
+map            	all	0.6763
+recip_rank     	all	0.6936
+TREC Scores of test_res/RPGB-dev/GB-2.0-2.0-3-1.5-1:
+map            	all	0.7003
+recip_rank     	all	0.7496
+TREC Scores of test_res/RPGB-dev/GB-2.0-2.0-3-1.5-2:
+map            	all	0.6644
+recip_rank     	all	0.6824
+TREC Scores of test_res/RPGB-dev/GB-2.0-2.0-3-2.0-1:
+map            	all	0.6913
+recip_rank     	all	0.7301
+TREC Scores of test_res/RPGB-dev/GB-2.0-2.0-3-2.0-2:
+map            	all	0.6417
+recip_rank     	all	0.6552
+TREC Scores of test_res/RPGB-dev/GB-2.0-2.0-5-0-1:
+map            	all	0.7034
+recip_rank     	all	0.7517
+TREC Scores of test_res/RPGB-dev/GB-2.0-2.0-5-0-2:
+map            	all	0.7078
+recip_rank     	all	0.7575
+TREC Scores of test_res/RPGB-dev/GB-2.0-2.0-5-0.8-1:
+map            	all	0.7045
+recip_rank     	all	0.7517
+TREC Scores of test_res/RPGB-dev/GB-2.0-2.0-5-0.8-2:
+map            	all	0.6921
+recip_rank     	all	0.7250
+TREC Scores of test_res/RPGB-dev/GB-2.0-2.0-5-1.0-1:
+map            	all	0.7049
+recip_rank     	all	0.7517
+TREC Scores of test_res/RPGB-dev/GB-2.0-2.0-5-1.0-2:
+map            	all	0.6753
+recip_rank     	all	0.7056
+TREC Scores of test_res/RPGB-dev/GB-2.0-2.0-5-1.25-1:
+map            	all	0.7042
+recip_rank     	all	0.7527
+TREC Scores of test_res/RPGB-dev/GB-2.0-2.0-5-1.25-2:
+map            	all	0.6788
+recip_rank     	all	0.7038
+TREC Scores of test_res/RPGB-dev/GB-2.0-2.0-5-1.5-1:
+map            	all	0.7058
+recip_rank     	all	0.7606
+TREC Scores of test_res/RPGB-dev/GB-2.0-2.0-5-1.5-2:
+map            	all	0.6609
+recip_rank     	all	0.6825
+TREC Scores of test_res/RPGB-dev/GB-2.0-2.0-5-2.0-1:
+map            	all	0.6911
+recip_rank     	all	0.7404
+TREC Scores of test_res/RPGB-dev/GB-2.0-2.0-5-2.0-2:
+map            	all	0.6404
+recip_rank     	all	0.6617
+TREC Scores of test_res/RPGB-test/GB-0.5-0.5-3-0-1:
+map            	all	0.6288
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-0.5-0.5-3-0-2:
+map            	all	0.6280
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-0.5-0.5-3-0.8-1:
+map            	all	0.6287
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-0.5-0.5-3-0.8-2:
+map            	all	0.6315
+recip_rank     	all	0.6961
+TREC Scores of test_res/RPGB-test/GB-0.5-0.5-3-1.0-1:
+map            	all	0.6286
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-0.5-0.5-3-1.0-2:
+map            	all	0.6253
+recip_rank     	all	0.6776
+TREC Scores of test_res/RPGB-test/GB-0.5-0.5-3-1.25-1:
+map            	all	0.6364
+recip_rank     	all	0.7137
+TREC Scores of test_res/RPGB-test/GB-0.5-0.5-3-1.25-2:
+map            	all	0.6205
+recip_rank     	all	0.6684
+TREC Scores of test_res/RPGB-test/GB-0.5-0.5-3-1.5-1:
+map            	all	0.6486
+recip_rank     	all	0.7148
+TREC Scores of test_res/RPGB-test/GB-0.5-0.5-3-1.5-2:
+map            	all	0.6011
+recip_rank     	all	0.6484
+TREC Scores of test_res/RPGB-test/GB-0.5-0.5-3-2.0-1:
+map            	all	0.6520
+recip_rank     	all	0.7124
+TREC Scores of test_res/RPGB-test/GB-0.5-0.5-3-2.0-2:
+map            	all	0.5678
+recip_rank     	all	0.6127
+TREC Scores of test_res/RPGB-test/GB-0.5-0.5-5-0-1:
+map            	all	0.6288
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-0.5-0.5-5-0-2:
+map            	all	0.6276
+recip_rank     	all	0.6964
+TREC Scores of test_res/RPGB-test/GB-0.5-0.5-5-0.8-1:
+map            	all	0.6287
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-0.5-0.5-5-0.8-2:
+map            	all	0.6311
+recip_rank     	all	0.6878
+TREC Scores of test_res/RPGB-test/GB-0.5-0.5-5-1.0-1:
+map            	all	0.6287
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-0.5-0.5-5-1.0-2:
+map            	all	0.6253
+recip_rank     	all	0.6753
+TREC Scores of test_res/RPGB-test/GB-0.5-0.5-5-1.25-1:
+map            	all	0.6362
+recip_rank     	all	0.7137
+TREC Scores of test_res/RPGB-test/GB-0.5-0.5-5-1.25-2:
+map            	all	0.6217
+recip_rank     	all	0.6637
+TREC Scores of test_res/RPGB-test/GB-0.5-0.5-5-1.5-1:
+map            	all	0.6479
+recip_rank     	all	0.7159
+TREC Scores of test_res/RPGB-test/GB-0.5-0.5-5-1.5-2:
+map            	all	0.6031
+recip_rank     	all	0.6438
+TREC Scores of test_res/RPGB-test/GB-0.5-0.5-5-2.0-1:
+map            	all	0.6520
+recip_rank     	all	0.7122
+TREC Scores of test_res/RPGB-test/GB-0.5-0.5-5-2.0-2:
+map            	all	0.5743
+recip_rank     	all	0.6127
+TREC Scores of test_res/RPGB-test/GB-0.5-0.75-3-0-1:
+map            	all	0.6288
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-0.5-0.75-3-0-2:
+map            	all	0.6279
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-0.5-0.75-3-0.8-1:
+map            	all	0.6288
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-0.5-0.75-3-0.8-2:
+map            	all	0.6292
+recip_rank     	all	0.6803
+TREC Scores of test_res/RPGB-test/GB-0.5-0.75-3-1.0-1:
+map            	all	0.6287
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-0.5-0.75-3-1.0-2:
+map            	all	0.6266
+recip_rank     	all	0.6846
+TREC Scores of test_res/RPGB-test/GB-0.5-0.75-3-1.25-1:
+map            	all	0.6344
+recip_rank     	all	0.7207
+TREC Scores of test_res/RPGB-test/GB-0.5-0.75-3-1.25-2:
+map            	all	0.6225
+recip_rank     	all	0.6752
+TREC Scores of test_res/RPGB-test/GB-0.5-0.75-3-1.5-1:
+map            	all	0.6528
+recip_rank     	all	0.7070
+TREC Scores of test_res/RPGB-test/GB-0.5-0.75-3-1.5-2:
+map            	all	0.5942
+recip_rank     	all	0.6392
+TREC Scores of test_res/RPGB-test/GB-0.5-0.75-3-2.0-1:
+map            	all	0.6513
+recip_rank     	all	0.7101
+TREC Scores of test_res/RPGB-test/GB-0.5-0.75-3-2.0-2:
+map            	all	0.5620
+recip_rank     	all	0.6050
+TREC Scores of test_res/RPGB-test/GB-0.5-0.75-5-0-1:
+map            	all	0.6288
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-0.5-0.75-5-0-2:
+map            	all	0.6273
+recip_rank     	all	0.6964
+TREC Scores of test_res/RPGB-test/GB-0.5-0.75-5-0.8-1:
+map            	all	0.6288
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-0.5-0.75-5-0.8-2:
+map            	all	0.6293
+recip_rank     	all	0.6814
+TREC Scores of test_res/RPGB-test/GB-0.5-0.75-5-1.0-1:
+map            	all	0.6287
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-0.5-0.75-5-1.0-2:
+map            	all	0.6255
+recip_rank     	all	0.6777
+TREC Scores of test_res/RPGB-test/GB-0.5-0.75-5-1.25-1:
+map            	all	0.6310
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-0.5-0.75-5-1.25-2:
+map            	all	0.6197
+recip_rank     	all	0.6682
+TREC Scores of test_res/RPGB-test/GB-0.5-0.75-5-1.5-1:
+map            	all	0.6548
+recip_rank     	all	0.7133
+TREC Scores of test_res/RPGB-test/GB-0.5-0.75-5-1.5-2:
+map            	all	0.5918
+recip_rank     	all	0.6311
+TREC Scores of test_res/RPGB-test/GB-0.5-0.75-5-2.0-1:
+map            	all	0.6517
+recip_rank     	all	0.7100
+TREC Scores of test_res/RPGB-test/GB-0.5-0.75-5-2.0-2:
+map            	all	0.5625
+recip_rank     	all	0.6007
+TREC Scores of test_res/RPGB-test/GB-0.5-1.0-3-0-1:
+map            	all	0.6288
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-0.5-1.0-3-0-2:
+map            	all	0.6282
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-0.5-1.0-3-0.8-1:
+map            	all	0.6288
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-0.5-1.0-3-0.8-2:
+map            	all	0.6336
+recip_rank     	all	0.6900
+TREC Scores of test_res/RPGB-test/GB-0.5-1.0-3-1.0-1:
+map            	all	0.6287
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-0.5-1.0-3-1.0-2:
+map            	all	0.6191
+recip_rank     	all	0.6753
+TREC Scores of test_res/RPGB-test/GB-0.5-1.0-3-1.25-1:
+map            	all	0.6308
+recip_rank     	all	0.7068
+TREC Scores of test_res/RPGB-test/GB-0.5-1.0-3-1.25-2:
+map            	all	0.6219
+recip_rank     	all	0.6860
+TREC Scores of test_res/RPGB-test/GB-0.5-1.0-3-1.5-1:
+map            	all	0.6547
+recip_rank     	all	0.7140
+TREC Scores of test_res/RPGB-test/GB-0.5-1.0-3-1.5-2:
+map            	all	0.5859
+recip_rank     	all	0.6332
+TREC Scores of test_res/RPGB-test/GB-0.5-1.0-3-2.0-1:
+map            	all	0.6447
+recip_rank     	all	0.7044
+TREC Scores of test_res/RPGB-test/GB-0.5-1.0-3-2.0-2:
+map            	all	0.5617
+recip_rank     	all	0.6048
+TREC Scores of test_res/RPGB-test/GB-0.5-1.0-5-0-1:
+map            	all	0.6288
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-0.5-1.0-5-0-2:
+map            	all	0.6276
+recip_rank     	all	0.6964
+TREC Scores of test_res/RPGB-test/GB-0.5-1.0-5-0.8-1:
+map            	all	0.6288
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-0.5-1.0-5-0.8-2:
+map            	all	0.6314
+recip_rank     	all	0.6824
+TREC Scores of test_res/RPGB-test/GB-0.5-1.0-5-1.0-1:
+map            	all	0.6287
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-0.5-1.0-5-1.0-2:
+map            	all	0.6198
+recip_rank     	all	0.6706
+TREC Scores of test_res/RPGB-test/GB-0.5-1.0-5-1.25-1:
+map            	all	0.6307
+recip_rank     	all	0.7026
+TREC Scores of test_res/RPGB-test/GB-0.5-1.0-5-1.25-2:
+map            	all	0.6152
+recip_rank     	all	0.6703
+TREC Scores of test_res/RPGB-test/GB-0.5-1.0-5-1.5-1:
+map            	all	0.6542
+recip_rank     	all	0.7140
+TREC Scores of test_res/RPGB-test/GB-0.5-1.0-5-1.5-2:
+map            	all	0.5828
+recip_rank     	all	0.6245
+TREC Scores of test_res/RPGB-test/GB-0.5-1.0-5-2.0-1:
+map            	all	0.6522
+recip_rank     	all	0.7103
+TREC Scores of test_res/RPGB-test/GB-0.5-1.0-5-2.0-2:
+map            	all	0.5588
+recip_rank     	all	0.5968
+TREC Scores of test_res/RPGB-test/GB-0.5-1.5-3-0-1:
+map            	all	0.6288
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-0.5-1.5-3-0-2:
+map            	all	0.6285
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-0.5-1.5-3-0.8-1:
+map            	all	0.6288
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-0.5-1.5-3-0.8-2:
+map            	all	0.6354
+recip_rank     	all	0.6937
+TREC Scores of test_res/RPGB-test/GB-0.5-1.5-3-1.0-1:
+map            	all	0.6287
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-0.5-1.5-3-1.0-2:
+map            	all	0.6197
+recip_rank     	all	0.6775
+TREC Scores of test_res/RPGB-test/GB-0.5-1.5-3-1.25-1:
+map            	all	0.6306
+recip_rank     	all	0.7045
+TREC Scores of test_res/RPGB-test/GB-0.5-1.5-3-1.25-2:
+map            	all	0.6146
+recip_rank     	all	0.6721
+TREC Scores of test_res/RPGB-test/GB-0.5-1.5-3-1.5-1:
+map            	all	0.6553
+recip_rank     	all	0.7140
+TREC Scores of test_res/RPGB-test/GB-0.5-1.5-3-1.5-2:
+map            	all	0.5955
+recip_rank     	all	0.6424
+TREC Scores of test_res/RPGB-test/GB-0.5-1.5-3-2.0-1:
+map            	all	0.6391
+recip_rank     	all	0.6974
+TREC Scores of test_res/RPGB-test/GB-0.5-1.5-3-2.0-2:
+map            	all	0.5555
+recip_rank     	all	0.5948
+TREC Scores of test_res/RPGB-test/GB-0.5-1.5-5-0-1:
+map            	all	0.6288
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-0.5-1.5-5-0-2:
+map            	all	0.6281
+recip_rank     	all	0.6964
+TREC Scores of test_res/RPGB-test/GB-0.5-1.5-5-0.8-1:
+map            	all	0.6288
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-0.5-1.5-5-0.8-2:
+map            	all	0.6343
+recip_rank     	all	0.6849
+TREC Scores of test_res/RPGB-test/GB-0.5-1.5-5-1.0-1:
+map            	all	0.6288
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-0.5-1.5-5-1.0-2:
+map            	all	0.6148
+recip_rank     	all	0.6670
+TREC Scores of test_res/RPGB-test/GB-0.5-1.5-5-1.25-1:
+map            	all	0.6307
+recip_rank     	all	0.7026
+TREC Scores of test_res/RPGB-test/GB-0.5-1.5-5-1.25-2:
+map            	all	0.6027
+recip_rank     	all	0.6530
+TREC Scores of test_res/RPGB-test/GB-0.5-1.5-5-1.5-1:
+map            	all	0.6557
+recip_rank     	all	0.7221
+TREC Scores of test_res/RPGB-test/GB-0.5-1.5-5-1.5-2:
+map            	all	0.5930
+recip_rank     	all	0.6343
+TREC Scores of test_res/RPGB-test/GB-0.5-1.5-5-2.0-1:
+map            	all	0.6501
+recip_rank     	all	0.7140
+TREC Scores of test_res/RPGB-test/GB-0.5-1.5-5-2.0-2:
+map            	all	0.5533
+recip_rank     	all	0.5875
+TREC Scores of test_res/RPGB-test/GB-0.5-2.0-3-0-1:
+map            	all	0.6288
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-0.5-2.0-3-0-2:
+map            	all	0.6287
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-0.5-2.0-3-0.8-1:
+map            	all	0.6288
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-0.5-2.0-3-0.8-2:
+map            	all	0.6338
+recip_rank     	all	0.6909
+TREC Scores of test_res/RPGB-test/GB-0.5-2.0-3-1.0-1:
+map            	all	0.6287
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-0.5-2.0-3-1.0-2:
+map            	all	0.6158
+recip_rank     	all	0.6675
+TREC Scores of test_res/RPGB-test/GB-0.5-2.0-3-1.25-1:
+map            	all	0.6306
+recip_rank     	all	0.7045
+TREC Scores of test_res/RPGB-test/GB-0.5-2.0-3-1.25-2:
+map            	all	0.6068
+recip_rank     	all	0.6635
+TREC Scores of test_res/RPGB-test/GB-0.5-2.0-3-1.5-1:
+map            	all	0.6554
+recip_rank     	all	0.7147
+TREC Scores of test_res/RPGB-test/GB-0.5-2.0-3-1.5-2:
+map            	all	0.5903
+recip_rank     	all	0.6424
+TREC Scores of test_res/RPGB-test/GB-0.5-2.0-3-2.0-1:
+map            	all	0.6392
+recip_rank     	all	0.7012
+TREC Scores of test_res/RPGB-test/GB-0.5-2.0-3-2.0-2:
+map            	all	0.5498
+recip_rank     	all	0.5879
+TREC Scores of test_res/RPGB-test/GB-0.5-2.0-5-0-1:
+map            	all	0.6288
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-0.5-2.0-5-0-2:
+map            	all	0.6283
+recip_rank     	all	0.6964
+TREC Scores of test_res/RPGB-test/GB-0.5-2.0-5-0.8-1:
+map            	all	0.6288
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-0.5-2.0-5-0.8-2:
+map            	all	0.6365
+recip_rank     	all	0.6918
+TREC Scores of test_res/RPGB-test/GB-0.5-2.0-5-1.0-1:
+map            	all	0.6288
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-0.5-2.0-5-1.0-2:
+map            	all	0.6125
+recip_rank     	all	0.6586
+TREC Scores of test_res/RPGB-test/GB-0.5-2.0-5-1.25-1:
+map            	all	0.6303
+recip_rank     	all	0.7026
+TREC Scores of test_res/RPGB-test/GB-0.5-2.0-5-1.25-2:
+map            	all	0.5948
+recip_rank     	all	0.6409
+TREC Scores of test_res/RPGB-test/GB-0.5-2.0-5-1.5-1:
+map            	all	0.6566
+recip_rank     	all	0.7228
+TREC Scores of test_res/RPGB-test/GB-0.5-2.0-5-1.5-2:
+map            	all	0.5848
+recip_rank     	all	0.6250
+TREC Scores of test_res/RPGB-test/GB-0.5-2.0-5-2.0-1:
+map            	all	0.6425
+recip_rank     	all	0.7058
+TREC Scores of test_res/RPGB-test/GB-0.5-2.0-5-2.0-2:
+map            	all	0.5464
+recip_rank     	all	0.5794
+TREC Scores of test_res/RPGB-test/GB-1.0-0.5-3-0-1:
+map            	all	0.6266
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-1.0-0.5-3-0-2:
+map            	all	0.6259
+recip_rank     	all	0.6949
+TREC Scores of test_res/RPGB-test/GB-1.0-0.5-3-0.8-1:
+map            	all	0.6269
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-1.0-0.5-3-0.8-2:
+map            	all	0.6206
+recip_rank     	all	0.6780
+TREC Scores of test_res/RPGB-test/GB-1.0-0.5-3-1.0-1:
+map            	all	0.6273
+recip_rank     	all	0.7026
+TREC Scores of test_res/RPGB-test/GB-1.0-0.5-3-1.0-2:
+map            	all	0.6150
+recip_rank     	all	0.6709
+TREC Scores of test_res/RPGB-test/GB-1.0-0.5-3-1.25-1:
+map            	all	0.6351
+recip_rank     	all	0.7159
+TREC Scores of test_res/RPGB-test/GB-1.0-0.5-3-1.25-2:
+map            	all	0.6020
+recip_rank     	all	0.6395
+TREC Scores of test_res/RPGB-test/GB-1.0-0.5-3-1.5-1:
+map            	all	0.6430
+recip_rank     	all	0.7076
+TREC Scores of test_res/RPGB-test/GB-1.0-0.5-3-1.5-2:
+map            	all	0.6013
+recip_rank     	all	0.6399
+TREC Scores of test_res/RPGB-test/GB-1.0-0.5-3-2.0-1:
+map            	all	0.6458
+recip_rank     	all	0.7047
+TREC Scores of test_res/RPGB-test/GB-1.0-0.5-3-2.0-2:
+map            	all	0.5879
+recip_rank     	all	0.6237
+TREC Scores of test_res/RPGB-test/GB-1.0-0.5-5-0-1:
+map            	all	0.6268
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-1.0-0.5-5-0-2:
+map            	all	0.6254
+recip_rank     	all	0.6949
+TREC Scores of test_res/RPGB-test/GB-1.0-0.5-5-0.8-1:
+map            	all	0.6273
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-1.0-0.5-5-0.8-2:
+map            	all	0.6201
+recip_rank     	all	0.6746
+TREC Scores of test_res/RPGB-test/GB-1.0-0.5-5-1.0-1:
+map            	all	0.6274
+recip_rank     	all	0.7026
+TREC Scores of test_res/RPGB-test/GB-1.0-0.5-5-1.0-2:
+map            	all	0.6171
+recip_rank     	all	0.6708
+TREC Scores of test_res/RPGB-test/GB-1.0-0.5-5-1.25-1:
+map            	all	0.6347
+recip_rank     	all	0.7136
+TREC Scores of test_res/RPGB-test/GB-1.0-0.5-5-1.25-2:
+map            	all	0.6045
+recip_rank     	all	0.6495
+TREC Scores of test_res/RPGB-test/GB-1.0-0.5-5-1.5-1:
+map            	all	0.6428
+recip_rank     	all	0.7083
+TREC Scores of test_res/RPGB-test/GB-1.0-0.5-5-1.5-2:
+map            	all	0.6023
+recip_rank     	all	0.6445
+TREC Scores of test_res/RPGB-test/GB-1.0-0.5-5-2.0-1:
+map            	all	0.6463
+recip_rank     	all	0.7054
+TREC Scores of test_res/RPGB-test/GB-1.0-0.5-5-2.0-2:
+map            	all	0.5886
+recip_rank     	all	0.6236
+TREC Scores of test_res/RPGB-test/GB-1.0-0.75-3-0-1:
+map            	all	0.6281
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-1.0-0.75-3-0-2:
+map            	all	0.6391
+recip_rank     	all	0.7169
+TREC Scores of test_res/RPGB-test/GB-1.0-0.75-3-0.8-1:
+map            	all	0.6286
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-1.0-0.75-3-0.8-2:
+map            	all	0.6350
+recip_rank     	all	0.6959
+TREC Scores of test_res/RPGB-test/GB-1.0-0.75-3-1.0-1:
+map            	all	0.6290
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-1.0-0.75-3-1.0-2:
+map            	all	0.6306
+recip_rank     	all	0.6883
+TREC Scores of test_res/RPGB-test/GB-1.0-0.75-3-1.25-1:
+map            	all	0.6376
+recip_rank     	all	0.7137
+TREC Scores of test_res/RPGB-test/GB-1.0-0.75-3-1.25-2:
+map            	all	0.6310
+recip_rank     	all	0.6930
+TREC Scores of test_res/RPGB-test/GB-1.0-0.75-3-1.5-1:
+map            	all	0.6530
+recip_rank     	all	0.7278
+TREC Scores of test_res/RPGB-test/GB-1.0-0.75-3-1.5-2:
+map            	all	0.6113
+recip_rank     	all	0.6653
+TREC Scores of test_res/RPGB-test/GB-1.0-0.75-3-2.0-1:
+map            	all	0.6484
+recip_rank     	all	0.7034
+TREC Scores of test_res/RPGB-test/GB-1.0-0.75-3-2.0-2:
+map            	all	0.5933
+recip_rank     	all	0.6418
+TREC Scores of test_res/RPGB-test/GB-1.0-0.75-5-0-1:
+map            	all	0.6281
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-1.0-0.75-5-0-2:
+map            	all	0.6387
+recip_rank     	all	0.7169
+TREC Scores of test_res/RPGB-test/GB-1.0-0.75-5-0.8-1:
+map            	all	0.6286
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-1.0-0.75-5-0.8-2:
+map            	all	0.6325
+recip_rank     	all	0.6935
+TREC Scores of test_res/RPGB-test/GB-1.0-0.75-5-1.0-1:
+map            	all	0.6290
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-1.0-0.75-5-1.0-2:
+map            	all	0.6310
+recip_rank     	all	0.6942
+TREC Scores of test_res/RPGB-test/GB-1.0-0.75-5-1.25-1:
+map            	all	0.6349
+recip_rank     	all	0.7096
+TREC Scores of test_res/RPGB-test/GB-1.0-0.75-5-1.25-2:
+map            	all	0.6252
+recip_rank     	all	0.6905
+TREC Scores of test_res/RPGB-test/GB-1.0-0.75-5-1.5-1:
+map            	all	0.6496
+recip_rank     	all	0.7208
+TREC Scores of test_res/RPGB-test/GB-1.0-0.75-5-1.5-2:
+map            	all	0.6103
+recip_rank     	all	0.6657
+TREC Scores of test_res/RPGB-test/GB-1.0-0.75-5-2.0-1:
+map            	all	0.6470
+recip_rank     	all	0.7035
+TREC Scores of test_res/RPGB-test/GB-1.0-0.75-5-2.0-2:
+map            	all	0.5939
+recip_rank     	all	0.6487
+TREC Scores of test_res/RPGB-test/GB-1.0-1.0-3-0-1:
+map            	all	0.6281
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-1.0-1.0-3-0-2:
+map            	all	0.6386
+recip_rank     	all	0.7238
+TREC Scores of test_res/RPGB-test/GB-1.0-1.0-3-0.8-1:
+map            	all	0.6286
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-1.0-1.0-3-0.8-2:
+map            	all	0.6391
+recip_rank     	all	0.7030
+TREC Scores of test_res/RPGB-test/GB-1.0-1.0-3-1.0-1:
+map            	all	0.6293
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-1.0-1.0-3-1.0-2:
+map            	all	0.6325
+recip_rank     	all	0.6884
+TREC Scores of test_res/RPGB-test/GB-1.0-1.0-3-1.25-1:
+map            	all	0.6328
+recip_rank     	all	0.7045
+TREC Scores of test_res/RPGB-test/GB-1.0-1.0-3-1.25-2:
+map            	all	0.6278
+recip_rank     	all	0.6930
+TREC Scores of test_res/RPGB-test/GB-1.0-1.0-3-1.5-1:
+map            	all	0.6535
+recip_rank     	all	0.7271
+TREC Scores of test_res/RPGB-test/GB-1.0-1.0-3-1.5-2:
+map            	all	0.6065
+recip_rank     	all	0.6657
+TREC Scores of test_res/RPGB-test/GB-1.0-1.0-3-2.0-1:
+map            	all	0.6520
+recip_rank     	all	0.7128
+TREC Scores of test_res/RPGB-test/GB-1.0-1.0-3-2.0-2:
+map            	all	0.5873
+recip_rank     	all	0.6456
+TREC Scores of test_res/RPGB-test/GB-1.0-1.0-5-0-1:
+map            	all	0.6284
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-1.0-1.0-5-0-2:
+map            	all	0.6360
+recip_rank     	all	0.7099
+TREC Scores of test_res/RPGB-test/GB-1.0-1.0-5-0.8-1:
+map            	all	0.6283
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-1.0-1.0-5-0.8-2:
+map            	all	0.6328
+recip_rank     	all	0.6883
+TREC Scores of test_res/RPGB-test/GB-1.0-1.0-5-1.0-1:
+map            	all	0.6288
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-1.0-1.0-5-1.0-2:
+map            	all	0.6292
+recip_rank     	all	0.6877
+TREC Scores of test_res/RPGB-test/GB-1.0-1.0-5-1.25-1:
+map            	all	0.6321
+recip_rank     	all	0.7026
+TREC Scores of test_res/RPGB-test/GB-1.0-1.0-5-1.25-2:
+map            	all	0.6214
+recip_rank     	all	0.6727
+TREC Scores of test_res/RPGB-test/GB-1.0-1.0-5-1.5-1:
+map            	all	0.6498
+recip_rank     	all	0.7204
+TREC Scores of test_res/RPGB-test/GB-1.0-1.0-5-1.5-2:
+map            	all	0.6083
+recip_rank     	all	0.6576
+TREC Scores of test_res/RPGB-test/GB-1.0-1.0-5-2.0-1:
+map            	all	0.6516
+recip_rank     	all	0.7099
+TREC Scores of test_res/RPGB-test/GB-1.0-1.0-5-2.0-2:
+map            	all	0.5813
+recip_rank     	all	0.6284
+TREC Scores of test_res/RPGB-test/GB-1.0-1.5-3-0-1:
+map            	all	0.6281
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-1.0-1.5-3-0-2:
+map            	all	0.6395
+recip_rank     	all	0.7238
+TREC Scores of test_res/RPGB-test/GB-1.0-1.5-3-0.8-1:
+map            	all	0.6281
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-1.0-1.5-3-0.8-2:
+map            	all	0.6419
+recip_rank     	all	0.7038
+TREC Scores of test_res/RPGB-test/GB-1.0-1.5-3-1.0-1:
+map            	all	0.6297
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-1.0-1.5-3-1.0-2:
+map            	all	0.6336
+recip_rank     	all	0.6989
+TREC Scores of test_res/RPGB-test/GB-1.0-1.5-3-1.25-1:
+map            	all	0.6329
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-1.0-1.5-3-1.25-2:
+map            	all	0.6360
+recip_rank     	all	0.7051
+TREC Scores of test_res/RPGB-test/GB-1.0-1.5-3-1.5-1:
+map            	all	0.6524
+recip_rank     	all	0.7271
+TREC Scores of test_res/RPGB-test/GB-1.0-1.5-3-1.5-2:
+map            	all	0.6111
+recip_rank     	all	0.6691
+TREC Scores of test_res/RPGB-test/GB-1.0-1.5-3-2.0-1:
+map            	all	0.6491
+recip_rank     	all	0.7137
+TREC Scores of test_res/RPGB-test/GB-1.0-1.5-3-2.0-2:
+map            	all	0.5812
+recip_rank     	all	0.6311
+TREC Scores of test_res/RPGB-test/GB-1.0-1.5-5-0-1:
+map            	all	0.6284
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-1.0-1.5-5-0-2:
+map            	all	0.6378
+recip_rank     	all	0.7166
+TREC Scores of test_res/RPGB-test/GB-1.0-1.5-5-0.8-1:
+map            	all	0.6284
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-1.0-1.5-5-0.8-2:
+map            	all	0.6374
+recip_rank     	all	0.6983
+TREC Scores of test_res/RPGB-test/GB-1.0-1.5-5-1.0-1:
+map            	all	0.6288
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-1.0-1.5-5-1.0-2:
+map            	all	0.6293
+recip_rank     	all	0.6907
+TREC Scores of test_res/RPGB-test/GB-1.0-1.5-5-1.25-1:
+map            	all	0.6323
+recip_rank     	all	0.7026
+TREC Scores of test_res/RPGB-test/GB-1.0-1.5-5-1.25-2:
+map            	all	0.6215
+recip_rank     	all	0.6745
+TREC Scores of test_res/RPGB-test/GB-1.0-1.5-5-1.5-1:
+map            	all	0.6501
+recip_rank     	all	0.7221
+TREC Scores of test_res/RPGB-test/GB-1.0-1.5-5-1.5-2:
+map            	all	0.6064
+recip_rank     	all	0.6608
+TREC Scores of test_res/RPGB-test/GB-1.0-1.5-5-2.0-1:
+map            	all	0.6470
+recip_rank     	all	0.7070
+TREC Scores of test_res/RPGB-test/GB-1.0-1.5-5-2.0-2:
+map            	all	0.5753
+recip_rank     	all	0.6216
+TREC Scores of test_res/RPGB-test/GB-1.0-2.0-3-0-1:
+map            	all	0.6281
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-1.0-2.0-3-0-2:
+map            	all	0.6390
+recip_rank     	all	0.7166
+TREC Scores of test_res/RPGB-test/GB-1.0-2.0-3-0.8-1:
+map            	all	0.6281
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-1.0-2.0-3-0.8-2:
+map            	all	0.6434
+recip_rank     	all	0.6976
+TREC Scores of test_res/RPGB-test/GB-1.0-2.0-3-1.0-1:
+map            	all	0.6297
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-1.0-2.0-3-1.0-2:
+map            	all	0.6313
+recip_rank     	all	0.6894
+TREC Scores of test_res/RPGB-test/GB-1.0-2.0-3-1.25-1:
+map            	all	0.6327
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-1.0-2.0-3-1.25-2:
+map            	all	0.6376
+recip_rank     	all	0.7025
+TREC Scores of test_res/RPGB-test/GB-1.0-2.0-3-1.5-1:
+map            	all	0.6513
+recip_rank     	all	0.7271
+TREC Scores of test_res/RPGB-test/GB-1.0-2.0-3-1.5-2:
+map            	all	0.6104
+recip_rank     	all	0.6618
+TREC Scores of test_res/RPGB-test/GB-1.0-2.0-3-2.0-1:
+map            	all	0.6427
+recip_rank     	all	0.7068
+TREC Scores of test_res/RPGB-test/GB-1.0-2.0-3-2.0-2:
+map            	all	0.5709
+recip_rank     	all	0.6149
+TREC Scores of test_res/RPGB-test/GB-1.0-2.0-5-0-1:
+map            	all	0.6284
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-1.0-2.0-5-0-2:
+map            	all	0.6378
+recip_rank     	all	0.7166
+TREC Scores of test_res/RPGB-test/GB-1.0-2.0-5-0.8-1:
+map            	all	0.6284
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-1.0-2.0-5-0.8-2:
+map            	all	0.6375
+recip_rank     	all	0.6982
+TREC Scores of test_res/RPGB-test/GB-1.0-2.0-5-1.0-1:
+map            	all	0.6288
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-1.0-2.0-5-1.0-2:
+map            	all	0.6306
+recip_rank     	all	0.6908
+TREC Scores of test_res/RPGB-test/GB-1.0-2.0-5-1.25-1:
+map            	all	0.6321
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-1.0-2.0-5-1.25-2:
+map            	all	0.6263
+recip_rank     	all	0.6805
+TREC Scores of test_res/RPGB-test/GB-1.0-2.0-5-1.5-1:
+map            	all	0.6508
+recip_rank     	all	0.7221
+TREC Scores of test_res/RPGB-test/GB-1.0-2.0-5-1.5-2:
+map            	all	0.5995
+recip_rank     	all	0.6542
+TREC Scores of test_res/RPGB-test/GB-1.0-2.0-5-2.0-1:
+map            	all	0.6429
+recip_rank     	all	0.7077
+TREC Scores of test_res/RPGB-test/GB-1.0-2.0-5-2.0-2:
+map            	all	0.5735
+recip_rank     	all	0.6203
+TREC Scores of test_res/RPGB-test/GB-1.5-0.5-3-0-1:
+map            	all	0.6315
+recip_rank     	all	0.7172
+TREC Scores of test_res/RPGB-test/GB-1.5-0.5-3-0-2:
+map            	all	0.6263
+recip_rank     	all	0.7010
+TREC Scores of test_res/RPGB-test/GB-1.5-0.5-3-0.8-1:
+map            	all	0.6316
+recip_rank     	all	0.7165
+TREC Scores of test_res/RPGB-test/GB-1.5-0.5-3-0.8-2:
+map            	all	0.6181
+recip_rank     	all	0.6818
+TREC Scores of test_res/RPGB-test/GB-1.5-0.5-3-1.0-1:
+map            	all	0.6336
+recip_rank     	all	0.7164
+TREC Scores of test_res/RPGB-test/GB-1.5-0.5-3-1.0-2:
+map            	all	0.6114
+recip_rank     	all	0.6709
+TREC Scores of test_res/RPGB-test/GB-1.5-0.5-3-1.25-1:
+map            	all	0.6423
+recip_rank     	all	0.7368
+TREC Scores of test_res/RPGB-test/GB-1.5-0.5-3-1.25-2:
+map            	all	0.6015
+recip_rank     	all	0.6535
+TREC Scores of test_res/RPGB-test/GB-1.5-0.5-3-1.5-1:
+map            	all	0.6461
+recip_rank     	all	0.7222
+TREC Scores of test_res/RPGB-test/GB-1.5-0.5-3-1.5-2:
+map            	all	0.5953
+recip_rank     	all	0.6330
+TREC Scores of test_res/RPGB-test/GB-1.5-0.5-3-2.0-1:
+map            	all	0.6474
+recip_rank     	all	0.7179
+TREC Scores of test_res/RPGB-test/GB-1.5-0.5-3-2.0-2:
+map            	all	0.5843
+recip_rank     	all	0.6243
+TREC Scores of test_res/RPGB-test/GB-1.5-0.5-5-0-1:
+map            	all	0.6303
+recip_rank     	all	0.7103
+TREC Scores of test_res/RPGB-test/GB-1.5-0.5-5-0-2:
+map            	all	0.6265
+recip_rank     	all	0.7068
+TREC Scores of test_res/RPGB-test/GB-1.5-0.5-5-0.8-1:
+map            	all	0.6304
+recip_rank     	all	0.7103
+TREC Scores of test_res/RPGB-test/GB-1.5-0.5-5-0.8-2:
+map            	all	0.6193
+recip_rank     	all	0.6876
+TREC Scores of test_res/RPGB-test/GB-1.5-0.5-5-1.0-1:
+map            	all	0.6336
+recip_rank     	all	0.7164
+TREC Scores of test_res/RPGB-test/GB-1.5-0.5-5-1.0-2:
+map            	all	0.6150
+recip_rank     	all	0.6814
+TREC Scores of test_res/RPGB-test/GB-1.5-0.5-5-1.25-1:
+map            	all	0.6405
+recip_rank     	all	0.7275
+TREC Scores of test_res/RPGB-test/GB-1.5-0.5-5-1.25-2:
+map            	all	0.6045
+recip_rank     	all	0.6604
+TREC Scores of test_res/RPGB-test/GB-1.5-0.5-5-1.5-1:
+map            	all	0.6439
+recip_rank     	all	0.7152
+TREC Scores of test_res/RPGB-test/GB-1.5-0.5-5-1.5-2:
+map            	all	0.5979
+recip_rank     	all	0.6457
+TREC Scores of test_res/RPGB-test/GB-1.5-0.5-5-2.0-1:
+map            	all	0.6469
+recip_rank     	all	0.7128
+TREC Scores of test_res/RPGB-test/GB-1.5-0.5-5-2.0-2:
+map            	all	0.5897
+recip_rank     	all	0.6347
+TREC Scores of test_res/RPGB-test/GB-1.5-0.75-3-0-1:
+map            	all	0.6318
+recip_rank     	all	0.7103
+TREC Scores of test_res/RPGB-test/GB-1.5-0.75-3-0-2:
+map            	all	0.6315
+recip_rank     	all	0.6982
+TREC Scores of test_res/RPGB-test/GB-1.5-0.75-3-0.8-1:
+map            	all	0.6319
+recip_rank     	all	0.7103
+TREC Scores of test_res/RPGB-test/GB-1.5-0.75-3-0.8-2:
+map            	all	0.6240
+recip_rank     	all	0.6758
+TREC Scores of test_res/RPGB-test/GB-1.5-0.75-3-1.0-1:
+map            	all	0.6333
+recip_rank     	all	0.7101
+TREC Scores of test_res/RPGB-test/GB-1.5-0.75-3-1.0-2:
+map            	all	0.6221
+recip_rank     	all	0.6745
+TREC Scores of test_res/RPGB-test/GB-1.5-0.75-3-1.25-1:
+map            	all	0.6404
+recip_rank     	all	0.7182
+TREC Scores of test_res/RPGB-test/GB-1.5-0.75-3-1.25-2:
+map            	all	0.6160
+recip_rank     	all	0.6627
+TREC Scores of test_res/RPGB-test/GB-1.5-0.75-3-1.5-1:
+map            	all	0.6541
+recip_rank     	all	0.7346
+TREC Scores of test_res/RPGB-test/GB-1.5-0.75-3-1.5-2:
+map            	all	0.5993
+recip_rank     	all	0.6415
+TREC Scores of test_res/RPGB-test/GB-1.5-0.75-3-2.0-1:
+map            	all	0.6519
+recip_rank     	all	0.7132
+TREC Scores of test_res/RPGB-test/GB-1.5-0.75-3-2.0-2:
+map            	all	0.5885
+recip_rank     	all	0.6328
+TREC Scores of test_res/RPGB-test/GB-1.5-0.75-5-0-1:
+map            	all	0.6290
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-1.5-0.75-5-0-2:
+map            	all	0.6328
+recip_rank     	all	0.7038
+TREC Scores of test_res/RPGB-test/GB-1.5-0.75-5-0.8-1:
+map            	all	0.6292
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-1.5-0.75-5-0.8-2:
+map            	all	0.6264
+recip_rank     	all	0.6881
+TREC Scores of test_res/RPGB-test/GB-1.5-0.75-5-1.0-1:
+map            	all	0.6301
+recip_rank     	all	0.7032
+TREC Scores of test_res/RPGB-test/GB-1.5-0.75-5-1.0-2:
+map            	all	0.6199
+recip_rank     	all	0.6728
+TREC Scores of test_res/RPGB-test/GB-1.5-0.75-5-1.25-1:
+map            	all	0.6364
+recip_rank     	all	0.7094
+TREC Scores of test_res/RPGB-test/GB-1.5-0.75-5-1.25-2:
+map            	all	0.6192
+recip_rank     	all	0.6783
+TREC Scores of test_res/RPGB-test/GB-1.5-0.75-5-1.5-1:
+map            	all	0.6498
+recip_rank     	all	0.7207
+TREC Scores of test_res/RPGB-test/GB-1.5-0.75-5-1.5-2:
+map            	all	0.6034
+recip_rank     	all	0.6543
+TREC Scores of test_res/RPGB-test/GB-1.5-0.75-5-2.0-1:
+map            	all	0.6500
+recip_rank     	all	0.7020
+TREC Scores of test_res/RPGB-test/GB-1.5-0.75-5-2.0-2:
+map            	all	0.5916
+recip_rank     	all	0.6427
+TREC Scores of test_res/RPGB-test/GB-1.5-1.0-3-0-1:
+map            	all	0.6294
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-1.5-1.0-3-0-2:
+map            	all	0.6434
+recip_rank     	all	0.7202
+TREC Scores of test_res/RPGB-test/GB-1.5-1.0-3-0.8-1:
+map            	all	0.6303
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-1.5-1.0-3-0.8-2:
+map            	all	0.6369
+recip_rank     	all	0.6973
+TREC Scores of test_res/RPGB-test/GB-1.5-1.0-3-1.0-1:
+map            	all	0.6316
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-1.5-1.0-3-1.0-2:
+map            	all	0.6323
+recip_rank     	all	0.6911
+TREC Scores of test_res/RPGB-test/GB-1.5-1.0-3-1.25-1:
+map            	all	0.6339
+recip_rank     	all	0.7032
+TREC Scores of test_res/RPGB-test/GB-1.5-1.0-3-1.25-2:
+map            	all	0.6213
+recip_rank     	all	0.6767
+TREC Scores of test_res/RPGB-test/GB-1.5-1.0-3-1.5-1:
+map            	all	0.6536
+recip_rank     	all	0.7280
+TREC Scores of test_res/RPGB-test/GB-1.5-1.0-3-1.5-2:
+map            	all	0.6109
+recip_rank     	all	0.6651
+TREC Scores of test_res/RPGB-test/GB-1.5-1.0-3-2.0-1:
+map            	all	0.6527
+recip_rank     	all	0.7111
+TREC Scores of test_res/RPGB-test/GB-1.5-1.0-3-2.0-2:
+map            	all	0.5908
+recip_rank     	all	0.6448
+TREC Scores of test_res/RPGB-test/GB-1.5-1.0-5-0-1:
+map            	all	0.6292
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-1.5-1.0-5-0-2:
+map            	all	0.6415
+recip_rank     	all	0.7119
+TREC Scores of test_res/RPGB-test/GB-1.5-1.0-5-0.8-1:
+map            	all	0.6300
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-1.5-1.0-5-0.8-2:
+map            	all	0.6305
+recip_rank     	all	0.6848
+TREC Scores of test_res/RPGB-test/GB-1.5-1.0-5-1.0-1:
+map            	all	0.6304
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-1.5-1.0-5-1.0-2:
+map            	all	0.6293
+recip_rank     	all	0.6872
+TREC Scores of test_res/RPGB-test/GB-1.5-1.0-5-1.25-1:
+map            	all	0.6340
+recip_rank     	all	0.7026
+TREC Scores of test_res/RPGB-test/GB-1.5-1.0-5-1.25-2:
+map            	all	0.6218
+recip_rank     	all	0.6811
+TREC Scores of test_res/RPGB-test/GB-1.5-1.0-5-1.5-1:
+map            	all	0.6484
+recip_rank     	all	0.7176
+TREC Scores of test_res/RPGB-test/GB-1.5-1.0-5-1.5-2:
+map            	all	0.6127
+recip_rank     	all	0.6635
+TREC Scores of test_res/RPGB-test/GB-1.5-1.0-5-2.0-1:
+map            	all	0.6515
+recip_rank     	all	0.7059
+TREC Scores of test_res/RPGB-test/GB-1.5-1.0-5-2.0-2:
+map            	all	0.5907
+recip_rank     	all	0.6394
+TREC Scores of test_res/RPGB-test/GB-1.5-1.5-3-0-1:
+map            	all	0.6295
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-1.5-1.5-3-0-2:
+map            	all	0.6440
+recip_rank     	all	0.7202
+TREC Scores of test_res/RPGB-test/GB-1.5-1.5-3-0.8-1:
+map            	all	0.6303
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-1.5-1.5-3-0.8-2:
+map            	all	0.6377
+recip_rank     	all	0.6905
+TREC Scores of test_res/RPGB-test/GB-1.5-1.5-3-1.0-1:
+map            	all	0.6322
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-1.5-1.5-3-1.0-2:
+map            	all	0.6350
+recip_rank     	all	0.6922
+TREC Scores of test_res/RPGB-test/GB-1.5-1.5-3-1.25-1:
+map            	all	0.6346
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-1.5-1.5-3-1.25-2:
+map            	all	0.6303
+recip_rank     	all	0.6962
+TREC Scores of test_res/RPGB-test/GB-1.5-1.5-3-1.5-1:
+map            	all	0.6514
+recip_rank     	all	0.7268
+TREC Scores of test_res/RPGB-test/GB-1.5-1.5-3-1.5-2:
+map            	all	0.6096
+recip_rank     	all	0.6738
+TREC Scores of test_res/RPGB-test/GB-1.5-1.5-3-2.0-1:
+map            	all	0.6495
+recip_rank     	all	0.7088
+TREC Scores of test_res/RPGB-test/GB-1.5-1.5-3-2.0-2:
+map            	all	0.5870
+recip_rank     	all	0.6389
+TREC Scores of test_res/RPGB-test/GB-1.5-1.5-5-0-1:
+map            	all	0.6297
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-1.5-1.5-5-0-2:
+map            	all	0.6425
+recip_rank     	all	0.7182
+TREC Scores of test_res/RPGB-test/GB-1.5-1.5-5-0.8-1:
+map            	all	0.6301
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-1.5-1.5-5-0.8-2:
+map            	all	0.6356
+recip_rank     	all	0.6960
+TREC Scores of test_res/RPGB-test/GB-1.5-1.5-5-1.0-1:
+map            	all	0.6310
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-1.5-1.5-5-1.0-2:
+map            	all	0.6255
+recip_rank     	all	0.6885
+TREC Scores of test_res/RPGB-test/GB-1.5-1.5-5-1.25-1:
+map            	all	0.6350
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-1.5-1.5-5-1.25-2:
+map            	all	0.6242
+recip_rank     	all	0.6825
+TREC Scores of test_res/RPGB-test/GB-1.5-1.5-5-1.5-1:
+map            	all	0.6488
+recip_rank     	all	0.7166
+TREC Scores of test_res/RPGB-test/GB-1.5-1.5-5-1.5-2:
+map            	all	0.6151
+recip_rank     	all	0.6685
+TREC Scores of test_res/RPGB-test/GB-1.5-1.5-5-2.0-1:
+map            	all	0.6447
+recip_rank     	all	0.6951
+TREC Scores of test_res/RPGB-test/GB-1.5-1.5-5-2.0-2:
+map            	all	0.5819
+recip_rank     	all	0.6357
+TREC Scores of test_res/RPGB-test/GB-1.5-2.0-3-0-1:
+map            	all	0.6286
+recip_rank     	all	0.6964
+TREC Scores of test_res/RPGB-test/GB-1.5-2.0-3-0-2:
+map            	all	0.6433
+recip_rank     	all	0.7176
+TREC Scores of test_res/RPGB-test/GB-1.5-2.0-3-0.8-1:
+map            	all	0.6290
+recip_rank     	all	0.6964
+TREC Scores of test_res/RPGB-test/GB-1.5-2.0-3-0.8-2:
+map            	all	0.6389
+recip_rank     	all	0.6883
+TREC Scores of test_res/RPGB-test/GB-1.5-2.0-3-1.0-1:
+map            	all	0.6314
+recip_rank     	all	0.6964
+TREC Scores of test_res/RPGB-test/GB-1.5-2.0-3-1.0-2:
+map            	all	0.6306
+recip_rank     	all	0.6832
+TREC Scores of test_res/RPGB-test/GB-1.5-2.0-3-1.25-1:
+map            	all	0.6336
+recip_rank     	all	0.6964
+TREC Scores of test_res/RPGB-test/GB-1.5-2.0-3-1.25-2:
+map            	all	0.6370
+recip_rank     	all	0.6985
+TREC Scores of test_res/RPGB-test/GB-1.5-2.0-3-1.5-1:
+map            	all	0.6493
+recip_rank     	all	0.7201
+TREC Scores of test_res/RPGB-test/GB-1.5-2.0-3-1.5-2:
+map            	all	0.6080
+recip_rank     	all	0.6631
+TREC Scores of test_res/RPGB-test/GB-1.5-2.0-3-2.0-1:
+map            	all	0.6420
+recip_rank     	all	0.6880
+TREC Scores of test_res/RPGB-test/GB-1.5-2.0-3-2.0-2:
+map            	all	0.5858
+recip_rank     	all	0.6350
+TREC Scores of test_res/RPGB-test/GB-1.5-2.0-5-0-1:
+map            	all	0.6299
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-1.5-2.0-5-0-2:
+map            	all	0.6423
+recip_rank     	all	0.7182
+TREC Scores of test_res/RPGB-test/GB-1.5-2.0-5-0.8-1:
+map            	all	0.6304
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-1.5-2.0-5-0.8-2:
+map            	all	0.6355
+recip_rank     	all	0.6952
+TREC Scores of test_res/RPGB-test/GB-1.5-2.0-5-1.0-1:
+map            	all	0.6312
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-1.5-2.0-5-1.0-2:
+map            	all	0.6267
+recip_rank     	all	0.6887
+TREC Scores of test_res/RPGB-test/GB-1.5-2.0-5-1.25-1:
+map            	all	0.6351
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-1.5-2.0-5-1.25-2:
+map            	all	0.6347
+recip_rank     	all	0.6919
+TREC Scores of test_res/RPGB-test/GB-1.5-2.0-5-1.5-1:
+map            	all	0.6485
+recip_rank     	all	0.7186
+TREC Scores of test_res/RPGB-test/GB-1.5-2.0-5-1.5-2:
+map            	all	0.6105
+recip_rank     	all	0.6629
+TREC Scores of test_res/RPGB-test/GB-1.5-2.0-5-2.0-1:
+map            	all	0.6394
+recip_rank     	all	0.6881
+TREC Scores of test_res/RPGB-test/GB-1.5-2.0-5-2.0-2:
+map            	all	0.5785
+recip_rank     	all	0.6300
+TREC Scores of test_res/RPGB-test/GB-2.0-0.5-3-0-1:
+map            	all	0.6328
+recip_rank     	all	0.7137
+TREC Scores of test_res/RPGB-test/GB-2.0-0.5-3-0-2:
+map            	all	0.6259
+recip_rank     	all	0.7023
+TREC Scores of test_res/RPGB-test/GB-2.0-0.5-3-0.8-1:
+map            	all	0.6356
+recip_rank     	all	0.7164
+TREC Scores of test_res/RPGB-test/GB-2.0-0.5-3-0.8-2:
+map            	all	0.6116
+recip_rank     	all	0.6784
+TREC Scores of test_res/RPGB-test/GB-2.0-0.5-3-1.0-1:
+map            	all	0.6374
+recip_rank     	all	0.7252
+TREC Scores of test_res/RPGB-test/GB-2.0-0.5-3-1.0-2:
+map            	all	0.6073
+recip_rank     	all	0.6695
+TREC Scores of test_res/RPGB-test/GB-2.0-0.5-3-1.25-1:
+map            	all	0.6445
+recip_rank     	all	0.7368
+TREC Scores of test_res/RPGB-test/GB-2.0-0.5-3-1.25-2:
+map            	all	0.5962
+recip_rank     	all	0.6501
+TREC Scores of test_res/RPGB-test/GB-2.0-0.5-3-1.5-1:
+map            	all	0.6448
+recip_rank     	all	0.7215
+TREC Scores of test_res/RPGB-test/GB-2.0-0.5-3-1.5-2:
+map            	all	0.5934
+recip_rank     	all	0.6461
+TREC Scores of test_res/RPGB-test/GB-2.0-0.5-3-2.0-1:
+map            	all	0.6473
+recip_rank     	all	0.7120
+TREC Scores of test_res/RPGB-test/GB-2.0-0.5-3-2.0-2:
+map            	all	0.5841
+recip_rank     	all	0.6238
+TREC Scores of test_res/RPGB-test/GB-2.0-0.5-5-0-1:
+map            	all	0.6266
+recip_rank     	all	0.7068
+TREC Scores of test_res/RPGB-test/GB-2.0-0.5-5-0-2:
+map            	all	0.6255
+recip_rank     	all	0.6977
+TREC Scores of test_res/RPGB-test/GB-2.0-0.5-5-0.8-1:
+map            	all	0.6290
+recip_rank     	all	0.7094
+TREC Scores of test_res/RPGB-test/GB-2.0-0.5-5-0.8-2:
+map            	all	0.6107
+recip_rank     	all	0.6753
+TREC Scores of test_res/RPGB-test/GB-2.0-0.5-5-1.0-1:
+map            	all	0.6315
+recip_rank     	all	0.7164
+TREC Scores of test_res/RPGB-test/GB-2.0-0.5-5-1.0-2:
+map            	all	0.6063
+recip_rank     	all	0.6671
+TREC Scores of test_res/RPGB-test/GB-2.0-0.5-5-1.25-1:
+map            	all	0.6381
+recip_rank     	all	0.7298
+TREC Scores of test_res/RPGB-test/GB-2.0-0.5-5-1.25-2:
+map            	all	0.5946
+recip_rank     	all	0.6456
+TREC Scores of test_res/RPGB-test/GB-2.0-0.5-5-1.5-1:
+map            	all	0.6379
+recip_rank     	all	0.7152
+TREC Scores of test_res/RPGB-test/GB-2.0-0.5-5-1.5-2:
+map            	all	0.5920
+recip_rank     	all	0.6427
+TREC Scores of test_res/RPGB-test/GB-2.0-0.5-5-2.0-1:
+map            	all	0.6544
+recip_rank     	all	0.7282
+TREC Scores of test_res/RPGB-test/GB-2.0-0.5-5-2.0-2:
+map            	all	0.5833
+recip_rank     	all	0.6301
+TREC Scores of test_res/RPGB-test/GB-2.0-0.75-3-0-1:
+map            	all	0.6334
+recip_rank     	all	0.7172
+TREC Scores of test_res/RPGB-test/GB-2.0-0.75-3-0-2:
+map            	all	0.6323
+recip_rank     	all	0.7040
+TREC Scores of test_res/RPGB-test/GB-2.0-0.75-3-0.8-1:
+map            	all	0.6336
+recip_rank     	all	0.7171
+TREC Scores of test_res/RPGB-test/GB-2.0-0.75-3-0.8-2:
+map            	all	0.6247
+recip_rank     	all	0.6881
+TREC Scores of test_res/RPGB-test/GB-2.0-0.75-3-1.0-1:
+map            	all	0.6353
+recip_rank     	all	0.7171
+TREC Scores of test_res/RPGB-test/GB-2.0-0.75-3-1.0-2:
+map            	all	0.6179
+recip_rank     	all	0.6747
+TREC Scores of test_res/RPGB-test/GB-2.0-0.75-3-1.25-1:
+map            	all	0.6426
+recip_rank     	all	0.7229
+TREC Scores of test_res/RPGB-test/GB-2.0-0.75-3-1.25-2:
+map            	all	0.6114
+recip_rank     	all	0.6601
+TREC Scores of test_res/RPGB-test/GB-2.0-0.75-3-1.5-1:
+map            	all	0.6510
+recip_rank     	all	0.7276
+TREC Scores of test_res/RPGB-test/GB-2.0-0.75-3-1.5-2:
+map            	all	0.6017
+recip_rank     	all	0.6432
+TREC Scores of test_res/RPGB-test/GB-2.0-0.75-3-2.0-1:
+map            	all	0.6505
+recip_rank     	all	0.7135
+TREC Scores of test_res/RPGB-test/GB-2.0-0.75-3-2.0-2:
+map            	all	0.5883
+recip_rank     	all	0.6337
+TREC Scores of test_res/RPGB-test/GB-2.0-0.75-5-0-1:
+map            	all	0.6288
+recip_rank     	all	0.7033
+TREC Scores of test_res/RPGB-test/GB-2.0-0.75-5-0-2:
+map            	all	0.6317
+recip_rank     	all	0.6964
+TREC Scores of test_res/RPGB-test/GB-2.0-0.75-5-0.8-1:
+map            	all	0.6289
+recip_rank     	all	0.7032
+TREC Scores of test_res/RPGB-test/GB-2.0-0.75-5-0.8-2:
+map            	all	0.6222
+recip_rank     	all	0.6824
+TREC Scores of test_res/RPGB-test/GB-2.0-0.75-5-1.0-1:
+map            	all	0.6312
+recip_rank     	all	0.7032
+TREC Scores of test_res/RPGB-test/GB-2.0-0.75-5-1.0-2:
+map            	all	0.6155
+recip_rank     	all	0.6669
+TREC Scores of test_res/RPGB-test/GB-2.0-0.75-5-1.25-1:
+map            	all	0.6373
+recip_rank     	all	0.7048
+TREC Scores of test_res/RPGB-test/GB-2.0-0.75-5-1.25-2:
+map            	all	0.6116
+recip_rank     	all	0.6677
+TREC Scores of test_res/RPGB-test/GB-2.0-0.75-5-1.5-1:
+map            	all	0.6461
+recip_rank     	all	0.7137
+TREC Scores of test_res/RPGB-test/GB-2.0-0.75-5-1.5-2:
+map            	all	0.6038
+recip_rank     	all	0.6521
+TREC Scores of test_res/RPGB-test/GB-2.0-0.75-5-2.0-1:
+map            	all	0.6485
+recip_rank     	all	0.6966
+TREC Scores of test_res/RPGB-test/GB-2.0-0.75-5-2.0-2:
+map            	all	0.5873
+recip_rank     	all	0.6340
+TREC Scores of test_res/RPGB-test/GB-2.0-1.0-3-0-1:
+map            	all	0.6337
+recip_rank     	all	0.7103
+TREC Scores of test_res/RPGB-test/GB-2.0-1.0-3-0-2:
+map            	all	0.6364
+recip_rank     	all	0.7156
+TREC Scores of test_res/RPGB-test/GB-2.0-1.0-3-0.8-1:
+map            	all	0.6345
+recip_rank     	all	0.7103
+TREC Scores of test_res/RPGB-test/GB-2.0-1.0-3-0.8-2:
+map            	all	0.6282
+recip_rank     	all	0.6937
+TREC Scores of test_res/RPGB-test/GB-2.0-1.0-3-1.0-1:
+map            	all	0.6362
+recip_rank     	all	0.7103
+TREC Scores of test_res/RPGB-test/GB-2.0-1.0-3-1.0-2:
+map            	all	0.6237
+recip_rank     	all	0.6850
+TREC Scores of test_res/RPGB-test/GB-2.0-1.0-3-1.25-1:
+map            	all	0.6399
+recip_rank     	all	0.7101
+TREC Scores of test_res/RPGB-test/GB-2.0-1.0-3-1.25-2:
+map            	all	0.6136
+recip_rank     	all	0.6745
+TREC Scores of test_res/RPGB-test/GB-2.0-1.0-3-1.5-1:
+map            	all	0.6558
+recip_rank     	all	0.7280
+TREC Scores of test_res/RPGB-test/GB-2.0-1.0-3-1.5-2:
+map            	all	0.6003
+recip_rank     	all	0.6539
+TREC Scores of test_res/RPGB-test/GB-2.0-1.0-3-2.0-1:
+map            	all	0.6490
+recip_rank     	all	0.7056
+TREC Scores of test_res/RPGB-test/GB-2.0-1.0-3-2.0-2:
+map            	all	0.5917
+recip_rank     	all	0.6500
+TREC Scores of test_res/RPGB-test/GB-2.0-1.0-5-0-1:
+map            	all	0.6317
+recip_rank     	all	0.7103
+TREC Scores of test_res/RPGB-test/GB-2.0-1.0-5-0-2:
+map            	all	0.6379
+recip_rank     	all	0.7058
+TREC Scores of test_res/RPGB-test/GB-2.0-1.0-5-0.8-1:
+map            	all	0.6323
+recip_rank     	all	0.7103
+TREC Scores of test_res/RPGB-test/GB-2.0-1.0-5-0.8-2:
+map            	all	0.6263
+recip_rank     	all	0.6858
+TREC Scores of test_res/RPGB-test/GB-2.0-1.0-5-1.0-1:
+map            	all	0.6346
+recip_rank     	all	0.7103
+TREC Scores of test_res/RPGB-test/GB-2.0-1.0-5-1.0-2:
+map            	all	0.6217
+recip_rank     	all	0.6851
+TREC Scores of test_res/RPGB-test/GB-2.0-1.0-5-1.25-1:
+map            	all	0.6376
+recip_rank     	all	0.7094
+TREC Scores of test_res/RPGB-test/GB-2.0-1.0-5-1.25-2:
+map            	all	0.6116
+recip_rank     	all	0.6711
+TREC Scores of test_res/RPGB-test/GB-2.0-1.0-5-1.5-1:
+map            	all	0.6510
+recip_rank     	all	0.7176
+TREC Scores of test_res/RPGB-test/GB-2.0-1.0-5-1.5-2:
+map            	all	0.6021
+recip_rank     	all	0.6542
+TREC Scores of test_res/RPGB-test/GB-2.0-1.0-5-2.0-1:
+map            	all	0.6418
+recip_rank     	all	0.6880
+TREC Scores of test_res/RPGB-test/GB-2.0-1.0-5-2.0-2:
+map            	all	0.5887
+recip_rank     	all	0.6388
+TREC Scores of test_res/RPGB-test/GB-2.0-1.5-3-0-1:
+map            	all	0.6480
+recip_rank     	all	0.7380
+TREC Scores of test_res/RPGB-test/GB-2.0-1.5-3-0-2:
+map            	all	0.6433
+recip_rank     	all	0.7227
+TREC Scores of test_res/RPGB-test/GB-2.0-1.5-3-0.8-1:
+map            	all	0.6497
+recip_rank     	all	0.7380
+TREC Scores of test_res/RPGB-test/GB-2.0-1.5-3-0.8-2:
+map            	all	0.6349
+recip_rank     	all	0.6938
+TREC Scores of test_res/RPGB-test/GB-2.0-1.5-3-1.0-1:
+map            	all	0.6507
+recip_rank     	all	0.7380
+TREC Scores of test_res/RPGB-test/GB-2.0-1.5-3-1.0-2:
+map            	all	0.6311
+recip_rank     	all	0.6910
+TREC Scores of test_res/RPGB-test/GB-2.0-1.5-3-1.25-1:
+map            	all	0.6540
+recip_rank     	all	0.7379
+TREC Scores of test_res/RPGB-test/GB-2.0-1.5-3-1.25-2:
+map            	all	0.6212
+recip_rank     	all	0.6844
+TREC Scores of test_res/RPGB-test/GB-2.0-1.5-3-1.5-1:
+map            	all	0.6676
+recip_rank     	all	0.7546
+TREC Scores of test_res/RPGB-test/GB-2.0-1.5-3-1.5-2:
+map            	all	0.6096
+recip_rank     	all	0.6751
+TREC Scores of test_res/RPGB-test/GB-2.0-1.5-3-2.0-1:
+map            	all	0.6623
+recip_rank     	all	0.7328
+TREC Scores of test_res/RPGB-test/GB-2.0-1.5-3-2.0-2:
+map            	all	0.5867
+recip_rank     	all	0.6436
+TREC Scores of test_res/RPGB-test/GB-2.0-1.5-5-0-1:
+map            	all	0.6363
+recip_rank     	all	0.7242
+TREC Scores of test_res/RPGB-test/GB-2.0-1.5-5-0-2:
+map            	all	0.6453
+recip_rank     	all	0.7192
+TREC Scores of test_res/RPGB-test/GB-2.0-1.5-5-0.8-1:
+map            	all	0.6371
+recip_rank     	all	0.7242
+TREC Scores of test_res/RPGB-test/GB-2.0-1.5-5-0.8-2:
+map            	all	0.6313
+recip_rank     	all	0.6912
+TREC Scores of test_res/RPGB-test/GB-2.0-1.5-5-1.0-1:
+map            	all	0.6385
+recip_rank     	all	0.7242
+TREC Scores of test_res/RPGB-test/GB-2.0-1.5-5-1.0-2:
+map            	all	0.6223
+recip_rank     	all	0.6872
+TREC Scores of test_res/RPGB-test/GB-2.0-1.5-5-1.25-1:
+map            	all	0.6428
+recip_rank     	all	0.7242
+TREC Scores of test_res/RPGB-test/GB-2.0-1.5-5-1.25-2:
+map            	all	0.6210
+recip_rank     	all	0.6836
+TREC Scores of test_res/RPGB-test/GB-2.0-1.5-5-1.5-1:
+map            	all	0.6531
+recip_rank     	all	0.7298
+TREC Scores of test_res/RPGB-test/GB-2.0-1.5-5-1.5-2:
+map            	all	0.6190
+recip_rank     	all	0.6799
+TREC Scores of test_res/RPGB-test/GB-2.0-1.5-5-2.0-1:
+map            	all	0.6510
+recip_rank     	all	0.7073
+TREC Scores of test_res/RPGB-test/GB-2.0-1.5-5-2.0-2:
+map            	all	0.5868
+recip_rank     	all	0.6398
+TREC Scores of test_res/RPGB-test/GB-2.0-2.0-3-0-1:
+map            	all	0.6496
+recip_rank     	all	0.7450
+TREC Scores of test_res/RPGB-test/GB-2.0-2.0-3-0-2:
+map            	all	0.6433
+recip_rank     	all	0.7189
+TREC Scores of test_res/RPGB-test/GB-2.0-2.0-3-0.8-1:
+map            	all	0.6515
+recip_rank     	all	0.7450
+TREC Scores of test_res/RPGB-test/GB-2.0-2.0-3-0.8-2:
+map            	all	0.6351
+recip_rank     	all	0.6902
+TREC Scores of test_res/RPGB-test/GB-2.0-2.0-3-1.0-1:
+map            	all	0.6526
+recip_rank     	all	0.7450
+TREC Scores of test_res/RPGB-test/GB-2.0-2.0-3-1.0-2:
+map            	all	0.6283
+recip_rank     	all	0.6867
+TREC Scores of test_res/RPGB-test/GB-2.0-2.0-3-1.25-1:
+map            	all	0.6558
+recip_rank     	all	0.7450
+TREC Scores of test_res/RPGB-test/GB-2.0-2.0-3-1.25-2:
+map            	all	0.6288
+recip_rank     	all	0.7030
+TREC Scores of test_res/RPGB-test/GB-2.0-2.0-3-1.5-1:
+map            	all	0.6690
+recip_rank     	all	0.7615
+TREC Scores of test_res/RPGB-test/GB-2.0-2.0-3-1.5-2:
+map            	all	0.6053
+recip_rank     	all	0.6731
+TREC Scores of test_res/RPGB-test/GB-2.0-2.0-3-2.0-1:
+map            	all	0.6646
+recip_rank     	all	0.7344
+TREC Scores of test_res/RPGB-test/GB-2.0-2.0-3-2.0-2:
+map            	all	0.5908
+recip_rank     	all	0.6466
+TREC Scores of test_res/RPGB-test/GB-2.0-2.0-5-0-1:
+map            	all	0.6376
+recip_rank     	all	0.7311
+TREC Scores of test_res/RPGB-test/GB-2.0-2.0-5-0-2:
+map            	all	0.6442
+recip_rank     	all	0.7189
+TREC Scores of test_res/RPGB-test/GB-2.0-2.0-5-0.8-1:
+map            	all	0.6384
+recip_rank     	all	0.7311
+TREC Scores of test_res/RPGB-test/GB-2.0-2.0-5-0.8-2:
+map            	all	0.6318
+recip_rank     	all	0.6883
+TREC Scores of test_res/RPGB-test/GB-2.0-2.0-5-1.0-1:
+map            	all	0.6398
+recip_rank     	all	0.7311
+TREC Scores of test_res/RPGB-test/GB-2.0-2.0-5-1.0-2:
+map            	all	0.6295
+recip_rank     	all	0.6963
+TREC Scores of test_res/RPGB-test/GB-2.0-2.0-5-1.25-1:
+map            	all	0.6440
+recip_rank     	all	0.7311
+TREC Scores of test_res/RPGB-test/GB-2.0-2.0-5-1.25-2:
+map            	all	0.6221
+recip_rank     	all	0.6833
+TREC Scores of test_res/RPGB-test/GB-2.0-2.0-5-1.5-1:
+map            	all	0.6525
+recip_rank     	all	0.7371
+TREC Scores of test_res/RPGB-test/GB-2.0-2.0-5-1.5-2:
+map            	all	0.6157
+recip_rank     	all	0.6751
+TREC Scores of test_res/RPGB-test/GB-2.0-2.0-5-2.0-1:
+map            	all	0.6523
+recip_rank     	all	0.7154
+TREC Scores of test_res/RPGB-test/GB-2.0-2.0-5-2.0-2:
+map            	all	0.5848
+recip_rank     	all	0.6361

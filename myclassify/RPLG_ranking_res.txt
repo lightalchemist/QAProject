@@ -1,0 +1,2881 @@
+Classifier: RPLG
+TREC Scores of test_res/RPLG-dev/LG-0.5-0.5-3-0-1:
+map            	all	0.7039
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-0.5-0.5-3-0-2:
+map            	all	0.7034
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-0.5-0.5-3-0.8-1:
+map            	all	0.7039
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-0.5-0.5-3-0.8-2:
+map            	all	0.6952
+recip_rank     	all	0.7467
+TREC Scores of test_res/RPLG-dev/LG-0.5-0.5-3-1.0-1:
+map            	all	0.7027
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-0.5-0.5-3-1.0-2:
+map            	all	0.6830
+recip_rank     	all	0.7440
+TREC Scores of test_res/RPLG-dev/LG-0.5-0.5-3-1.25-1:
+map            	all	0.7026
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-0.5-0.5-3-1.25-2:
+map            	all	0.6687
+recip_rank     	all	0.7216
+TREC Scores of test_res/RPLG-dev/LG-0.5-0.5-3-1.5-1:
+map            	all	0.7189
+recip_rank     	all	0.7957
+TREC Scores of test_res/RPLG-dev/LG-0.5-0.5-3-1.5-2:
+map            	all	0.6645
+recip_rank     	all	0.7117
+TREC Scores of test_res/RPLG-dev/LG-0.5-0.5-3-2.0-1:
+map            	all	0.7011
+recip_rank     	all	0.7617
+TREC Scores of test_res/RPLG-dev/LG-0.5-0.5-3-2.0-2:
+map            	all	0.6332
+recip_rank     	all	0.6758
+TREC Scores of test_res/RPLG-dev/LG-0.5-0.5-5-0-1:
+map            	all	0.7039
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-0.5-0.5-5-0-2:
+map            	all	0.7036
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-0.5-0.5-5-0.8-1:
+map            	all	0.7039
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-0.5-0.5-5-0.8-2:
+map            	all	0.6954
+recip_rank     	all	0.7460
+TREC Scores of test_res/RPLG-dev/LG-0.5-0.5-5-1.0-1:
+map            	all	0.7027
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-0.5-0.5-5-1.0-2:
+map            	all	0.6837
+recip_rank     	all	0.7416
+TREC Scores of test_res/RPLG-dev/LG-0.5-0.5-5-1.25-1:
+map            	all	0.7026
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-0.5-0.5-5-1.25-2:
+map            	all	0.6701
+recip_rank     	all	0.7226
+TREC Scores of test_res/RPLG-dev/LG-0.5-0.5-5-1.5-1:
+map            	all	0.7190
+recip_rank     	all	0.7957
+TREC Scores of test_res/RPLG-dev/LG-0.5-0.5-5-1.5-2:
+map            	all	0.6651
+recip_rank     	all	0.7106
+TREC Scores of test_res/RPLG-dev/LG-0.5-0.5-5-2.0-1:
+map            	all	0.7019
+recip_rank     	all	0.7617
+TREC Scores of test_res/RPLG-dev/LG-0.5-0.5-5-2.0-2:
+map            	all	0.6339
+recip_rank     	all	0.6760
+TREC Scores of test_res/RPLG-dev/LG-0.5-0.75-3-0-1:
+map            	all	0.7039
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-0.5-0.75-3-0-2:
+map            	all	0.7039
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-0.5-0.75-3-0.8-1:
+map            	all	0.7039
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-0.5-0.75-3-0.8-2:
+map            	all	0.6983
+recip_rank     	all	0.7487
+TREC Scores of test_res/RPLG-dev/LG-0.5-0.75-3-1.0-1:
+map            	all	0.7039
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-0.5-0.75-3-1.0-2:
+map            	all	0.6811
+recip_rank     	all	0.7353
+TREC Scores of test_res/RPLG-dev/LG-0.5-0.75-3-1.25-1:
+map            	all	0.7038
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-0.5-0.75-3-1.25-2:
+map            	all	0.6672
+recip_rank     	all	0.7110
+TREC Scores of test_res/RPLG-dev/LG-0.5-0.75-3-1.5-1:
+map            	all	0.7226
+recip_rank     	all	0.7957
+TREC Scores of test_res/RPLG-dev/LG-0.5-0.75-3-1.5-2:
+map            	all	0.6583
+recip_rank     	all	0.7025
+TREC Scores of test_res/RPLG-dev/LG-0.5-0.75-3-2.0-1:
+map            	all	0.7039
+recip_rank     	all	0.7630
+TREC Scores of test_res/RPLG-dev/LG-0.5-0.75-3-2.0-2:
+map            	all	0.6330
+recip_rank     	all	0.6750
+TREC Scores of test_res/RPLG-dev/LG-0.5-0.75-5-0-1:
+map            	all	0.7039
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-0.5-0.75-5-0-2:
+map            	all	0.7039
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-0.5-0.75-5-0.8-1:
+map            	all	0.7039
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-0.5-0.75-5-0.8-2:
+map            	all	0.6984
+recip_rank     	all	0.7486
+TREC Scores of test_res/RPLG-dev/LG-0.5-0.75-5-1.0-1:
+map            	all	0.7039
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-0.5-0.75-5-1.0-2:
+map            	all	0.6817
+recip_rank     	all	0.7352
+TREC Scores of test_res/RPLG-dev/LG-0.5-0.75-5-1.25-1:
+map            	all	0.7040
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-0.5-0.75-5-1.25-2:
+map            	all	0.6678
+recip_rank     	all	0.7123
+TREC Scores of test_res/RPLG-dev/LG-0.5-0.75-5-1.5-1:
+map            	all	0.7200
+recip_rank     	all	0.7957
+TREC Scores of test_res/RPLG-dev/LG-0.5-0.75-5-1.5-2:
+map            	all	0.6585
+recip_rank     	all	0.7026
+TREC Scores of test_res/RPLG-dev/LG-0.5-0.75-5-2.0-1:
+map            	all	0.7041
+recip_rank     	all	0.7630
+TREC Scores of test_res/RPLG-dev/LG-0.5-0.75-5-2.0-2:
+map            	all	0.6328
+recip_rank     	all	0.6750
+TREC Scores of test_res/RPLG-dev/LG-0.5-1.0-3-0-1:
+map            	all	0.7039
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-0.5-1.0-3-0-2:
+map            	all	0.7037
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-0.5-1.0-3-0.8-1:
+map            	all	0.7039
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-0.5-1.0-3-0.8-2:
+map            	all	0.6985
+recip_rank     	all	0.7462
+TREC Scores of test_res/RPLG-dev/LG-0.5-1.0-3-1.0-1:
+map            	all	0.7039
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-0.5-1.0-3-1.0-2:
+map            	all	0.6796
+recip_rank     	all	0.7280
+TREC Scores of test_res/RPLG-dev/LG-0.5-1.0-3-1.25-1:
+map            	all	0.7040
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-0.5-1.0-3-1.25-2:
+map            	all	0.6667
+recip_rank     	all	0.7116
+TREC Scores of test_res/RPLG-dev/LG-0.5-1.0-3-1.5-1:
+map            	all	0.7199
+recip_rank     	all	0.7957
+TREC Scores of test_res/RPLG-dev/LG-0.5-1.0-3-1.5-2:
+map            	all	0.6574
+recip_rank     	all	0.7019
+TREC Scores of test_res/RPLG-dev/LG-0.5-1.0-3-2.0-1:
+map            	all	0.7063
+recip_rank     	all	0.7630
+TREC Scores of test_res/RPLG-dev/LG-0.5-1.0-3-2.0-2:
+map            	all	0.6264
+recip_rank     	all	0.6687
+TREC Scores of test_res/RPLG-dev/LG-0.5-1.0-5-0-1:
+map            	all	0.7039
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-0.5-1.0-5-0-2:
+map            	all	0.7039
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-0.5-1.0-5-0.8-1:
+map            	all	0.7039
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-0.5-1.0-5-0.8-2:
+map            	all	0.6997
+recip_rank     	all	0.7485
+TREC Scores of test_res/RPLG-dev/LG-0.5-1.0-5-1.0-1:
+map            	all	0.7039
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-0.5-1.0-5-1.0-2:
+map            	all	0.6783
+recip_rank     	all	0.7256
+TREC Scores of test_res/RPLG-dev/LG-0.5-1.0-5-1.25-1:
+map            	all	0.7040
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-0.5-1.0-5-1.25-2:
+map            	all	0.6673
+recip_rank     	all	0.7134
+TREC Scores of test_res/RPLG-dev/LG-0.5-1.0-5-1.5-1:
+map            	all	0.7180
+recip_rank     	all	0.7957
+TREC Scores of test_res/RPLG-dev/LG-0.5-1.0-5-1.5-2:
+map            	all	0.6566
+recip_rank     	all	0.7014
+TREC Scores of test_res/RPLG-dev/LG-0.5-1.0-5-2.0-1:
+map            	all	0.7047
+recip_rank     	all	0.7630
+TREC Scores of test_res/RPLG-dev/LG-0.5-1.0-5-2.0-2:
+map            	all	0.6296
+recip_rank     	all	0.6723
+TREC Scores of test_res/RPLG-dev/LG-0.5-1.5-3-0-1:
+map            	all	0.7039
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-0.5-1.5-3-0-2:
+map            	all	0.7037
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-0.5-1.5-3-0.8-1:
+map            	all	0.7039
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-0.5-1.5-3-0.8-2:
+map            	all	0.6904
+recip_rank     	all	0.7390
+TREC Scores of test_res/RPLG-dev/LG-0.5-1.5-3-1.0-1:
+map            	all	0.7039
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-0.5-1.5-3-1.0-2:
+map            	all	0.6777
+recip_rank     	all	0.7268
+TREC Scores of test_res/RPLG-dev/LG-0.5-1.5-3-1.25-1:
+map            	all	0.7040
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-0.5-1.5-3-1.25-2:
+map            	all	0.6621
+recip_rank     	all	0.7068
+TREC Scores of test_res/RPLG-dev/LG-0.5-1.5-3-1.5-1:
+map            	all	0.7176
+recip_rank     	all	0.7957
+TREC Scores of test_res/RPLG-dev/LG-0.5-1.5-3-1.5-2:
+map            	all	0.6550
+recip_rank     	all	0.6997
+TREC Scores of test_res/RPLG-dev/LG-0.5-1.5-3-2.0-1:
+map            	all	0.7000
+recip_rank     	all	0.7559
+TREC Scores of test_res/RPLG-dev/LG-0.5-1.5-3-2.0-2:
+map            	all	0.6259
+recip_rank     	all	0.6684
+TREC Scores of test_res/RPLG-dev/LG-0.5-1.5-5-0-1:
+map            	all	0.7039
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-0.5-1.5-5-0-2:
+map            	all	0.7040
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-0.5-1.5-5-0.8-1:
+map            	all	0.7039
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-0.5-1.5-5-0.8-2:
+map            	all	0.6897
+recip_rank     	all	0.7365
+TREC Scores of test_res/RPLG-dev/LG-0.5-1.5-5-1.0-1:
+map            	all	0.7039
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-0.5-1.5-5-1.0-2:
+map            	all	0.6780
+recip_rank     	all	0.7249
+TREC Scores of test_res/RPLG-dev/LG-0.5-1.5-5-1.25-1:
+map            	all	0.7040
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-0.5-1.5-5-1.25-2:
+map            	all	0.6651
+recip_rank     	all	0.7140
+TREC Scores of test_res/RPLG-dev/LG-0.5-1.5-5-1.5-1:
+map            	all	0.7158
+recip_rank     	all	0.7957
+TREC Scores of test_res/RPLG-dev/LG-0.5-1.5-5-1.5-2:
+map            	all	0.6535
+recip_rank     	all	0.6990
+TREC Scores of test_res/RPLG-dev/LG-0.5-1.5-5-2.0-1:
+map            	all	0.7017
+recip_rank     	all	0.7559
+TREC Scores of test_res/RPLG-dev/LG-0.5-1.5-5-2.0-2:
+map            	all	0.6257
+recip_rank     	all	0.6684
+TREC Scores of test_res/RPLG-dev/LG-0.5-2.0-3-0-1:
+map            	all	0.7039
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-0.5-2.0-3-0-2:
+map            	all	0.7037
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-0.5-2.0-3-0.8-1:
+map            	all	0.7039
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-0.5-2.0-3-0.8-2:
+map            	all	0.6903
+recip_rank     	all	0.7390
+TREC Scores of test_res/RPLG-dev/LG-0.5-2.0-3-1.0-1:
+map            	all	0.7039
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-0.5-2.0-3-1.0-2:
+map            	all	0.6716
+recip_rank     	all	0.7195
+TREC Scores of test_res/RPLG-dev/LG-0.5-2.0-3-1.25-1:
+map            	all	0.7040
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-0.5-2.0-3-1.25-2:
+map            	all	0.6616
+recip_rank     	all	0.7063
+TREC Scores of test_res/RPLG-dev/LG-0.5-2.0-3-1.5-1:
+map            	all	0.7168
+recip_rank     	all	0.7957
+TREC Scores of test_res/RPLG-dev/LG-0.5-2.0-3-1.5-2:
+map            	all	0.6524
+recip_rank     	all	0.6969
+TREC Scores of test_res/RPLG-dev/LG-0.5-2.0-3-2.0-1:
+map            	all	0.7004
+recip_rank     	all	0.7535
+TREC Scores of test_res/RPLG-dev/LG-0.5-2.0-3-2.0-2:
+map            	all	0.6234
+recip_rank     	all	0.6660
+TREC Scores of test_res/RPLG-dev/LG-0.5-2.0-5-0-1:
+map            	all	0.7039
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-0.5-2.0-5-0-2:
+map            	all	0.7040
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-0.5-2.0-5-0.8-1:
+map            	all	0.7039
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-0.5-2.0-5-0.8-2:
+map            	all	0.6894
+recip_rank     	all	0.7365
+TREC Scores of test_res/RPLG-dev/LG-0.5-2.0-5-1.0-1:
+map            	all	0.7039
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-0.5-2.0-5-1.0-2:
+map            	all	0.6763
+recip_rank     	all	0.7248
+TREC Scores of test_res/RPLG-dev/LG-0.5-2.0-5-1.25-1:
+map            	all	0.7040
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-0.5-2.0-5-1.25-2:
+map            	all	0.6647
+recip_rank     	all	0.7135
+TREC Scores of test_res/RPLG-dev/LG-0.5-2.0-5-1.5-1:
+map            	all	0.7151
+recip_rank     	all	0.7957
+TREC Scores of test_res/RPLG-dev/LG-0.5-2.0-5-1.5-2:
+map            	all	0.6511
+recip_rank     	all	0.6969
+TREC Scores of test_res/RPLG-dev/LG-0.5-2.0-5-2.0-1:
+map            	all	0.7015
+recip_rank     	all	0.7559
+TREC Scores of test_res/RPLG-dev/LG-0.5-2.0-5-2.0-2:
+map            	all	0.6234
+recip_rank     	all	0.6660
+TREC Scores of test_res/RPLG-dev/LG-1.0-0.5-3-0-1:
+map            	all	0.7039
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.0-0.5-3-0-2:
+map            	all	0.7032
+recip_rank     	all	0.7892
+TREC Scores of test_res/RPLG-dev/LG-1.0-0.5-3-0.8-1:
+map            	all	0.7011
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.0-0.5-3-0.8-2:
+map            	all	0.6958
+recip_rank     	all	0.7646
+TREC Scores of test_res/RPLG-dev/LG-1.0-0.5-3-1.0-1:
+map            	all	0.7013
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.0-0.5-3-1.0-2:
+map            	all	0.6839
+recip_rank     	all	0.7422
+TREC Scores of test_res/RPLG-dev/LG-1.0-0.5-3-1.25-1:
+map            	all	0.7035
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.0-0.5-3-1.25-2:
+map            	all	0.6785
+recip_rank     	all	0.7362
+TREC Scores of test_res/RPLG-dev/LG-1.0-0.5-3-1.5-1:
+map            	all	0.7192
+recip_rank     	all	0.7957
+TREC Scores of test_res/RPLG-dev/LG-1.0-0.5-3-1.5-2:
+map            	all	0.6700
+recip_rank     	all	0.7139
+TREC Scores of test_res/RPLG-dev/LG-1.0-0.5-3-2.0-1:
+map            	all	0.7001
+recip_rank     	all	0.7689
+TREC Scores of test_res/RPLG-dev/LG-1.0-0.5-3-2.0-2:
+map            	all	0.6441
+recip_rank     	all	0.6864
+TREC Scores of test_res/RPLG-dev/LG-1.0-0.5-5-0-1:
+map            	all	0.7039
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.0-0.5-5-0-2:
+map            	all	0.7027
+recip_rank     	all	0.7888
+TREC Scores of test_res/RPLG-dev/LG-1.0-0.5-5-0.8-1:
+map            	all	0.7011
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.0-0.5-5-0.8-2:
+map            	all	0.6958
+recip_rank     	all	0.7642
+TREC Scores of test_res/RPLG-dev/LG-1.0-0.5-5-1.0-1:
+map            	all	0.7013
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.0-0.5-5-1.0-2:
+map            	all	0.6856
+recip_rank     	all	0.7427
+TREC Scores of test_res/RPLG-dev/LG-1.0-0.5-5-1.25-1:
+map            	all	0.7040
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.0-0.5-5-1.25-2:
+map            	all	0.6797
+recip_rank     	all	0.7371
+TREC Scores of test_res/RPLG-dev/LG-1.0-0.5-5-1.5-1:
+map            	all	0.7181
+recip_rank     	all	0.7957
+TREC Scores of test_res/RPLG-dev/LG-1.0-0.5-5-1.5-2:
+map            	all	0.6704
+recip_rank     	all	0.7197
+TREC Scores of test_res/RPLG-dev/LG-1.0-0.5-5-2.0-1:
+map            	all	0.7005
+recip_rank     	all	0.7689
+TREC Scores of test_res/RPLG-dev/LG-1.0-0.5-5-2.0-2:
+map            	all	0.6444
+recip_rank     	all	0.6858
+TREC Scores of test_res/RPLG-dev/LG-1.0-0.75-3-0-1:
+map            	all	0.7039
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.0-0.75-3-0-2:
+map            	all	0.7036
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.0-0.75-3-0.8-1:
+map            	all	0.7027
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.0-0.75-3-0.8-2:
+map            	all	0.6956
+recip_rank     	all	0.7522
+TREC Scores of test_res/RPLG-dev/LG-1.0-0.75-3-1.0-1:
+map            	all	0.7028
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.0-0.75-3-1.0-2:
+map            	all	0.6833
+recip_rank     	all	0.7373
+TREC Scores of test_res/RPLG-dev/LG-1.0-0.75-3-1.25-1:
+map            	all	0.7019
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.0-0.75-3-1.25-2:
+map            	all	0.6733
+recip_rank     	all	0.7246
+TREC Scores of test_res/RPLG-dev/LG-1.0-0.75-3-1.5-1:
+map            	all	0.7188
+recip_rank     	all	0.7957
+TREC Scores of test_res/RPLG-dev/LG-1.0-0.75-3-1.5-2:
+map            	all	0.6683
+recip_rank     	all	0.7192
+TREC Scores of test_res/RPLG-dev/LG-1.0-0.75-3-2.0-1:
+map            	all	0.6963
+recip_rank     	all	0.7647
+TREC Scores of test_res/RPLG-dev/LG-1.0-0.75-3-2.0-2:
+map            	all	0.6340
+recip_rank     	all	0.6777
+TREC Scores of test_res/RPLG-dev/LG-1.0-0.75-5-0-1:
+map            	all	0.7039
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.0-0.75-5-0-2:
+map            	all	0.7039
+recip_rank     	all	0.7884
+TREC Scores of test_res/RPLG-dev/LG-1.0-0.75-5-0.8-1:
+map            	all	0.7027
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.0-0.75-5-0.8-2:
+map            	all	0.6965
+recip_rank     	all	0.7511
+TREC Scores of test_res/RPLG-dev/LG-1.0-0.75-5-1.0-1:
+map            	all	0.7028
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.0-0.75-5-1.0-2:
+map            	all	0.6845
+recip_rank     	all	0.7370
+TREC Scores of test_res/RPLG-dev/LG-1.0-0.75-5-1.25-1:
+map            	all	0.7023
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.0-0.75-5-1.25-2:
+map            	all	0.6761
+recip_rank     	all	0.7267
+TREC Scores of test_res/RPLG-dev/LG-1.0-0.75-5-1.5-1:
+map            	all	0.7205
+recip_rank     	all	0.7957
+TREC Scores of test_res/RPLG-dev/LG-1.0-0.75-5-1.5-2:
+map            	all	0.6680
+recip_rank     	all	0.7177
+TREC Scores of test_res/RPLG-dev/LG-1.0-0.75-5-2.0-1:
+map            	all	0.6985
+recip_rank     	all	0.7644
+TREC Scores of test_res/RPLG-dev/LG-1.0-0.75-5-2.0-2:
+map            	all	0.6349
+recip_rank     	all	0.6779
+TREC Scores of test_res/RPLG-dev/LG-1.0-1.0-3-0-1:
+map            	all	0.7039
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.0-1.0-3-0-2:
+map            	all	0.7038
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.0-1.0-3-0.8-1:
+map            	all	0.7039
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.0-1.0-3-0.8-2:
+map            	all	0.6926
+recip_rank     	all	0.7494
+TREC Scores of test_res/RPLG-dev/LG-1.0-1.0-3-1.0-1:
+map            	all	0.7026
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.0-1.0-3-1.0-2:
+map            	all	0.6829
+recip_rank     	all	0.7333
+TREC Scores of test_res/RPLG-dev/LG-1.0-1.0-3-1.25-1:
+map            	all	0.7037
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.0-1.0-3-1.25-2:
+map            	all	0.6712
+recip_rank     	all	0.7161
+TREC Scores of test_res/RPLG-dev/LG-1.0-1.0-3-1.5-1:
+map            	all	0.7191
+recip_rank     	all	0.7957
+TREC Scores of test_res/RPLG-dev/LG-1.0-1.0-3-1.5-2:
+map            	all	0.6616
+recip_rank     	all	0.7057
+TREC Scores of test_res/RPLG-dev/LG-1.0-1.0-3-2.0-1:
+map            	all	0.6981
+recip_rank     	all	0.7574
+TREC Scores of test_res/RPLG-dev/LG-1.0-1.0-3-2.0-2:
+map            	all	0.6374
+recip_rank     	all	0.6847
+TREC Scores of test_res/RPLG-dev/LG-1.0-1.0-5-0-1:
+map            	all	0.7039
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.0-1.0-5-0-2:
+map            	all	0.7042
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.0-1.0-5-0.8-1:
+map            	all	0.7039
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.0-1.0-5-0.8-2:
+map            	all	0.6928
+recip_rank     	all	0.7488
+TREC Scores of test_res/RPLG-dev/LG-1.0-1.0-5-1.0-1:
+map            	all	0.7028
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.0-1.0-5-1.0-2:
+map            	all	0.6856
+recip_rank     	all	0.7379
+TREC Scores of test_res/RPLG-dev/LG-1.0-1.0-5-1.25-1:
+map            	all	0.7041
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.0-1.0-5-1.25-2:
+map            	all	0.6722
+recip_rank     	all	0.7172
+TREC Scores of test_res/RPLG-dev/LG-1.0-1.0-5-1.5-1:
+map            	all	0.7188
+recip_rank     	all	0.7957
+TREC Scores of test_res/RPLG-dev/LG-1.0-1.0-5-1.5-2:
+map            	all	0.6620
+recip_rank     	all	0.7048
+TREC Scores of test_res/RPLG-dev/LG-1.0-1.0-5-2.0-1:
+map            	all	0.7003
+recip_rank     	all	0.7576
+TREC Scores of test_res/RPLG-dev/LG-1.0-1.0-5-2.0-2:
+map            	all	0.6392
+recip_rank     	all	0.6873
+TREC Scores of test_res/RPLG-dev/LG-1.0-1.5-3-0-1:
+map            	all	0.7039
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.0-1.5-3-0-2:
+map            	all	0.7043
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.0-1.5-3-0.8-1:
+map            	all	0.7039
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.0-1.5-3-0.8-2:
+map            	all	0.6917
+recip_rank     	all	0.7478
+TREC Scores of test_res/RPLG-dev/LG-1.0-1.5-3-1.0-1:
+map            	all	0.7038
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.0-1.5-3-1.0-2:
+map            	all	0.6729
+recip_rank     	all	0.7188
+TREC Scores of test_res/RPLG-dev/LG-1.0-1.5-3-1.25-1:
+map            	all	0.7032
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.0-1.5-3-1.25-2:
+map            	all	0.6662
+recip_rank     	all	0.7102
+TREC Scores of test_res/RPLG-dev/LG-1.0-1.5-3-1.5-1:
+map            	all	0.7151
+recip_rank     	all	0.7957
+TREC Scores of test_res/RPLG-dev/LG-1.0-1.5-3-1.5-2:
+map            	all	0.6571
+recip_rank     	all	0.6997
+TREC Scores of test_res/RPLG-dev/LG-1.0-1.5-3-2.0-1:
+map            	all	0.7003
+recip_rank     	all	0.7617
+TREC Scores of test_res/RPLG-dev/LG-1.0-1.5-3-2.0-2:
+map            	all	0.6363
+recip_rank     	all	0.6844
+TREC Scores of test_res/RPLG-dev/LG-1.0-1.5-5-0-1:
+map            	all	0.7039
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.0-1.5-5-0-2:
+map            	all	0.7044
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.0-1.5-5-0.8-1:
+map            	all	0.7039
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.0-1.5-5-0.8-2:
+map            	all	0.6907
+recip_rank     	all	0.7426
+TREC Scores of test_res/RPLG-dev/LG-1.0-1.5-5-1.0-1:
+map            	all	0.7041
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.0-1.5-5-1.0-2:
+map            	all	0.6765
+recip_rank     	all	0.7282
+TREC Scores of test_res/RPLG-dev/LG-1.0-1.5-5-1.25-1:
+map            	all	0.7037
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.0-1.5-5-1.25-2:
+map            	all	0.6684
+recip_rank     	all	0.7160
+TREC Scores of test_res/RPLG-dev/LG-1.0-1.5-5-1.5-1:
+map            	all	0.7147
+recip_rank     	all	0.7957
+TREC Scores of test_res/RPLG-dev/LG-1.0-1.5-5-1.5-2:
+map            	all	0.6547
+recip_rank     	all	0.6971
+TREC Scores of test_res/RPLG-dev/LG-1.0-1.5-5-2.0-1:
+map            	all	0.6963
+recip_rank     	all	0.7469
+TREC Scores of test_res/RPLG-dev/LG-1.0-1.5-5-2.0-2:
+map            	all	0.6349
+recip_rank     	all	0.6840
+TREC Scores of test_res/RPLG-dev/LG-1.0-2.0-3-0-1:
+map            	all	0.7039
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.0-2.0-3-0-2:
+map            	all	0.7044
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.0-2.0-3-0.8-1:
+map            	all	0.7039
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.0-2.0-3-0.8-2:
+map            	all	0.6919
+recip_rank     	all	0.7480
+TREC Scores of test_res/RPLG-dev/LG-1.0-2.0-3-1.0-1:
+map            	all	0.7038
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.0-2.0-3-1.0-2:
+map            	all	0.6741
+recip_rank     	all	0.7211
+TREC Scores of test_res/RPLG-dev/LG-1.0-2.0-3-1.25-1:
+map            	all	0.7032
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.0-2.0-3-1.25-2:
+map            	all	0.6667
+recip_rank     	all	0.7102
+TREC Scores of test_res/RPLG-dev/LG-1.0-2.0-3-1.5-1:
+map            	all	0.7146
+recip_rank     	all	0.7957
+TREC Scores of test_res/RPLG-dev/LG-1.0-2.0-3-1.5-2:
+map            	all	0.6613
+recip_rank     	all	0.7054
+TREC Scores of test_res/RPLG-dev/LG-1.0-2.0-3-2.0-1:
+map            	all	0.6931
+recip_rank     	all	0.7534
+TREC Scores of test_res/RPLG-dev/LG-1.0-2.0-3-2.0-2:
+map            	all	0.6344
+recip_rank     	all	0.6830
+TREC Scores of test_res/RPLG-dev/LG-1.0-2.0-5-0-1:
+map            	all	0.7039
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.0-2.0-5-0-2:
+map            	all	0.7043
+recip_rank     	all	0.7884
+TREC Scores of test_res/RPLG-dev/LG-1.0-2.0-5-0.8-1:
+map            	all	0.7039
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.0-2.0-5-0.8-2:
+map            	all	0.6917
+recip_rank     	all	0.7447
+TREC Scores of test_res/RPLG-dev/LG-1.0-2.0-5-1.0-1:
+map            	all	0.7041
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.0-2.0-5-1.0-2:
+map            	all	0.6710
+recip_rank     	all	0.7209
+TREC Scores of test_res/RPLG-dev/LG-1.0-2.0-5-1.25-1:
+map            	all	0.7036
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.0-2.0-5-1.25-2:
+map            	all	0.6677
+recip_rank     	all	0.7158
+TREC Scores of test_res/RPLG-dev/LG-1.0-2.0-5-1.5-1:
+map            	all	0.7142
+recip_rank     	all	0.7957
+TREC Scores of test_res/RPLG-dev/LG-1.0-2.0-5-1.5-2:
+map            	all	0.6585
+recip_rank     	all	0.7022
+TREC Scores of test_res/RPLG-dev/LG-1.0-2.0-5-2.0-1:
+map            	all	0.6924
+recip_rank     	all	0.7422
+TREC Scores of test_res/RPLG-dev/LG-1.0-2.0-5-2.0-2:
+map            	all	0.6347
+recip_rank     	all	0.6840
+TREC Scores of test_res/RPLG-dev/LG-1.5-0.5-3-0-1:
+map            	all	0.7027
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.5-0.5-3-0-2:
+map            	all	0.7052
+recip_rank     	all	0.7914
+TREC Scores of test_res/RPLG-dev/LG-1.5-0.5-3-0.8-1:
+map            	all	0.7010
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.5-0.5-3-0.8-2:
+map            	all	0.6955
+recip_rank     	all	0.7660
+TREC Scores of test_res/RPLG-dev/LG-1.5-0.5-3-1.0-1:
+map            	all	0.7018
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.5-0.5-3-1.0-2:
+map            	all	0.6894
+recip_rank     	all	0.7538
+TREC Scores of test_res/RPLG-dev/LG-1.5-0.5-3-1.25-1:
+map            	all	0.7048
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.5-0.5-3-1.25-2:
+map            	all	0.6819
+recip_rank     	all	0.7415
+TREC Scores of test_res/RPLG-dev/LG-1.5-0.5-3-1.5-1:
+map            	all	0.7134
+recip_rank     	all	0.7862
+TREC Scores of test_res/RPLG-dev/LG-1.5-0.5-3-1.5-2:
+map            	all	0.6660
+recip_rank     	all	0.7266
+TREC Scores of test_res/RPLG-dev/LG-1.5-0.5-3-2.0-1:
+map            	all	0.7008
+recip_rank     	all	0.7761
+TREC Scores of test_res/RPLG-dev/LG-1.5-0.5-3-2.0-2:
+map            	all	0.6473
+recip_rank     	all	0.6908
+TREC Scores of test_res/RPLG-dev/LG-1.5-0.5-5-0-1:
+map            	all	0.7027
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.5-0.5-5-0-2:
+map            	all	0.7060
+recip_rank     	all	0.7904
+TREC Scores of test_res/RPLG-dev/LG-1.5-0.5-5-0.8-1:
+map            	all	0.7011
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.5-0.5-5-0.8-2:
+map            	all	0.6974
+recip_rank     	all	0.7720
+TREC Scores of test_res/RPLG-dev/LG-1.5-0.5-5-1.0-1:
+map            	all	0.7024
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.5-0.5-5-1.0-2:
+map            	all	0.6897
+recip_rank     	all	0.7530
+TREC Scores of test_res/RPLG-dev/LG-1.5-0.5-5-1.25-1:
+map            	all	0.7053
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.5-0.5-5-1.25-2:
+map            	all	0.6812
+recip_rank     	all	0.7391
+TREC Scores of test_res/RPLG-dev/LG-1.5-0.5-5-1.5-1:
+map            	all	0.7157
+recip_rank     	all	0.7957
+TREC Scores of test_res/RPLG-dev/LG-1.5-0.5-5-1.5-2:
+map            	all	0.6666
+recip_rank     	all	0.7264
+TREC Scores of test_res/RPLG-dev/LG-1.5-0.5-5-2.0-1:
+map            	all	0.7016
+recip_rank     	all	0.7761
+TREC Scores of test_res/RPLG-dev/LG-1.5-0.5-5-2.0-2:
+map            	all	0.6473
+recip_rank     	all	0.6888
+TREC Scores of test_res/RPLG-dev/LG-1.5-0.75-3-0-1:
+map            	all	0.7039
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.5-0.75-3-0-2:
+map            	all	0.7025
+recip_rank     	all	0.7908
+TREC Scores of test_res/RPLG-dev/LG-1.5-0.75-3-0.8-1:
+map            	all	0.7026
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.5-0.75-3-0.8-2:
+map            	all	0.6917
+recip_rank     	all	0.7603
+TREC Scores of test_res/RPLG-dev/LG-1.5-0.75-3-1.0-1:
+map            	all	0.7013
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.5-0.75-3-1.0-2:
+map            	all	0.6824
+recip_rank     	all	0.7424
+TREC Scores of test_res/RPLG-dev/LG-1.5-0.75-3-1.25-1:
+map            	all	0.7042
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.5-0.75-3-1.25-2:
+map            	all	0.6764
+recip_rank     	all	0.7361
+TREC Scores of test_res/RPLG-dev/LG-1.5-0.75-3-1.5-1:
+map            	all	0.7185
+recip_rank     	all	0.7957
+TREC Scores of test_res/RPLG-dev/LG-1.5-0.75-3-1.5-2:
+map            	all	0.6685
+recip_rank     	all	0.7224
+TREC Scores of test_res/RPLG-dev/LG-1.5-0.75-3-2.0-1:
+map            	all	0.6972
+recip_rank     	all	0.7737
+TREC Scores of test_res/RPLG-dev/LG-1.5-0.75-3-2.0-2:
+map            	all	0.6442
+recip_rank     	all	0.6970
+TREC Scores of test_res/RPLG-dev/LG-1.5-0.75-5-0-1:
+map            	all	0.7039
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.5-0.75-5-0-2:
+map            	all	0.7027
+recip_rank     	all	0.7908
+TREC Scores of test_res/RPLG-dev/LG-1.5-0.75-5-0.8-1:
+map            	all	0.7026
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.5-0.75-5-0.8-2:
+map            	all	0.6939
+recip_rank     	all	0.7682
+TREC Scores of test_res/RPLG-dev/LG-1.5-0.75-5-1.0-1:
+map            	all	0.7018
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.5-0.75-5-1.0-2:
+map            	all	0.6834
+recip_rank     	all	0.7406
+TREC Scores of test_res/RPLG-dev/LG-1.5-0.75-5-1.25-1:
+map            	all	0.7036
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.5-0.75-5-1.25-2:
+map            	all	0.6768
+recip_rank     	all	0.7343
+TREC Scores of test_res/RPLG-dev/LG-1.5-0.75-5-1.5-1:
+map            	all	0.7188
+recip_rank     	all	0.7957
+TREC Scores of test_res/RPLG-dev/LG-1.5-0.75-5-1.5-2:
+map            	all	0.6714
+recip_rank     	all	0.7235
+TREC Scores of test_res/RPLG-dev/LG-1.5-0.75-5-2.0-1:
+map            	all	0.6989
+recip_rank     	all	0.7743
+TREC Scores of test_res/RPLG-dev/LG-1.5-0.75-5-2.0-2:
+map            	all	0.6420
+recip_rank     	all	0.6892
+TREC Scores of test_res/RPLG-dev/LG-1.5-1.0-3-0-1:
+map            	all	0.7039
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.5-1.0-3-0-2:
+map            	all	0.7058
+recip_rank     	all	0.7889
+TREC Scores of test_res/RPLG-dev/LG-1.5-1.0-3-0.8-1:
+map            	all	0.7026
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.5-1.0-3-0.8-2:
+map            	all	0.6928
+recip_rank     	all	0.7527
+TREC Scores of test_res/RPLG-dev/LG-1.5-1.0-3-1.0-1:
+map            	all	0.7026
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.5-1.0-3-1.0-2:
+map            	all	0.6848
+recip_rank     	all	0.7361
+TREC Scores of test_res/RPLG-dev/LG-1.5-1.0-3-1.25-1:
+map            	all	0.7024
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.5-1.0-3-1.25-2:
+map            	all	0.6746
+recip_rank     	all	0.7213
+TREC Scores of test_res/RPLG-dev/LG-1.5-1.0-3-1.5-1:
+map            	all	0.7148
+recip_rank     	all	0.7957
+TREC Scores of test_res/RPLG-dev/LG-1.5-1.0-3-1.5-2:
+map            	all	0.6708
+recip_rank     	all	0.7154
+TREC Scores of test_res/RPLG-dev/LG-1.5-1.0-3-2.0-1:
+map            	all	0.6951
+recip_rank     	all	0.7621
+TREC Scores of test_res/RPLG-dev/LG-1.5-1.0-3-2.0-2:
+map            	all	0.6423
+recip_rank     	all	0.6907
+TREC Scores of test_res/RPLG-dev/LG-1.5-1.0-5-0-1:
+map            	all	0.7043
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.5-1.0-5-0-2:
+map            	all	0.7089
+recip_rank     	all	0.7882
+TREC Scores of test_res/RPLG-dev/LG-1.5-1.0-5-0.8-1:
+map            	all	0.7030
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.5-1.0-5-0.8-2:
+map            	all	0.7001
+recip_rank     	all	0.7593
+TREC Scores of test_res/RPLG-dev/LG-1.5-1.0-5-1.0-1:
+map            	all	0.7033
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.5-1.0-5-1.0-2:
+map            	all	0.6873
+recip_rank     	all	0.7333
+TREC Scores of test_res/RPLG-dev/LG-1.5-1.0-5-1.25-1:
+map            	all	0.7027
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.5-1.0-5-1.25-2:
+map            	all	0.6813
+recip_rank     	all	0.7268
+TREC Scores of test_res/RPLG-dev/LG-1.5-1.0-5-1.5-1:
+map            	all	0.7145
+recip_rank     	all	0.7957
+TREC Scores of test_res/RPLG-dev/LG-1.5-1.0-5-1.5-2:
+map            	all	0.6681
+recip_rank     	all	0.7044
+TREC Scores of test_res/RPLG-dev/LG-1.5-1.0-5-2.0-1:
+map            	all	0.6969
+recip_rank     	all	0.7636
+TREC Scores of test_res/RPLG-dev/LG-1.5-1.0-5-2.0-2:
+map            	all	0.6454
+recip_rank     	all	0.6894
+TREC Scores of test_res/RPLG-dev/LG-1.5-1.5-3-0-1:
+map            	all	0.7039
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.5-1.5-3-0-2:
+map            	all	0.7054
+recip_rank     	all	0.7887
+TREC Scores of test_res/RPLG-dev/LG-1.5-1.5-3-0.8-1:
+map            	all	0.7038
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.5-1.5-3-0.8-2:
+map            	all	0.6887
+recip_rank     	all	0.7467
+TREC Scores of test_res/RPLG-dev/LG-1.5-1.5-3-1.0-1:
+map            	all	0.7038
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.5-1.5-3-1.0-2:
+map            	all	0.6799
+recip_rank     	all	0.7329
+TREC Scores of test_res/RPLG-dev/LG-1.5-1.5-3-1.25-1:
+map            	all	0.7023
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.5-1.5-3-1.25-2:
+map            	all	0.6697
+recip_rank     	all	0.7125
+TREC Scores of test_res/RPLG-dev/LG-1.5-1.5-3-1.5-1:
+map            	all	0.7165
+recip_rank     	all	0.7957
+TREC Scores of test_res/RPLG-dev/LG-1.5-1.5-3-1.5-2:
+map            	all	0.6593
+recip_rank     	all	0.7000
+TREC Scores of test_res/RPLG-dev/LG-1.5-1.5-3-2.0-1:
+map            	all	0.6992
+recip_rank     	all	0.7629
+TREC Scores of test_res/RPLG-dev/LG-1.5-1.5-3-2.0-2:
+map            	all	0.6418
+recip_rank     	all	0.6903
+TREC Scores of test_res/RPLG-dev/LG-1.5-1.5-5-0-1:
+map            	all	0.7043
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.5-1.5-5-0-2:
+map            	all	0.7086
+recip_rank     	all	0.7887
+TREC Scores of test_res/RPLG-dev/LG-1.5-1.5-5-0.8-1:
+map            	all	0.7043
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.5-1.5-5-0.8-2:
+map            	all	0.6991
+recip_rank     	all	0.7591
+TREC Scores of test_res/RPLG-dev/LG-1.5-1.5-5-1.0-1:
+map            	all	0.7042
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.5-1.5-5-1.0-2:
+map            	all	0.6845
+recip_rank     	all	0.7375
+TREC Scores of test_res/RPLG-dev/LG-1.5-1.5-5-1.25-1:
+map            	all	0.7038
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.5-1.5-5-1.25-2:
+map            	all	0.6744
+recip_rank     	all	0.7173
+TREC Scores of test_res/RPLG-dev/LG-1.5-1.5-5-1.5-1:
+map            	all	0.7141
+recip_rank     	all	0.7957
+TREC Scores of test_res/RPLG-dev/LG-1.5-1.5-5-1.5-2:
+map            	all	0.6608
+recip_rank     	all	0.6983
+TREC Scores of test_res/RPLG-dev/LG-1.5-1.5-5-2.0-1:
+map            	all	0.6995
+recip_rank     	all	0.7617
+TREC Scores of test_res/RPLG-dev/LG-1.5-1.5-5-2.0-2:
+map            	all	0.6420
+recip_rank     	all	0.6856
+TREC Scores of test_res/RPLG-dev/LG-1.5-2.0-3-0-1:
+map            	all	0.7039
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.5-2.0-3-0-2:
+map            	all	0.7055
+recip_rank     	all	0.7889
+TREC Scores of test_res/RPLG-dev/LG-1.5-2.0-3-0.8-1:
+map            	all	0.7038
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.5-2.0-3-0.8-2:
+map            	all	0.6897
+recip_rank     	all	0.7469
+TREC Scores of test_res/RPLG-dev/LG-1.5-2.0-3-1.0-1:
+map            	all	0.7038
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.5-2.0-3-1.0-2:
+map            	all	0.6766
+recip_rank     	all	0.7285
+TREC Scores of test_res/RPLG-dev/LG-1.5-2.0-3-1.25-1:
+map            	all	0.7017
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.5-2.0-3-1.25-2:
+map            	all	0.6692
+recip_rank     	all	0.7125
+TREC Scores of test_res/RPLG-dev/LG-1.5-2.0-3-1.5-1:
+map            	all	0.7146
+recip_rank     	all	0.7957
+TREC Scores of test_res/RPLG-dev/LG-1.5-2.0-3-1.5-2:
+map            	all	0.6595
+recip_rank     	all	0.7014
+TREC Scores of test_res/RPLG-dev/LG-1.5-2.0-3-2.0-1:
+map            	all	0.6916
+recip_rank     	all	0.7538
+TREC Scores of test_res/RPLG-dev/LG-1.5-2.0-3-2.0-2:
+map            	all	0.6395
+recip_rank     	all	0.6833
+TREC Scores of test_res/RPLG-dev/LG-1.5-2.0-5-0-1:
+map            	all	0.7043
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.5-2.0-5-0-2:
+map            	all	0.7088
+recip_rank     	all	0.7887
+TREC Scores of test_res/RPLG-dev/LG-1.5-2.0-5-0.8-1:
+map            	all	0.7043
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.5-2.0-5-0.8-2:
+map            	all	0.6940
+recip_rank     	all	0.7448
+TREC Scores of test_res/RPLG-dev/LG-1.5-2.0-5-1.0-1:
+map            	all	0.7045
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.5-2.0-5-1.0-2:
+map            	all	0.6807
+recip_rank     	all	0.7304
+TREC Scores of test_res/RPLG-dev/LG-1.5-2.0-5-1.25-1:
+map            	all	0.7050
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-1.5-2.0-5-1.25-2:
+map            	all	0.6742
+recip_rank     	all	0.7171
+TREC Scores of test_res/RPLG-dev/LG-1.5-2.0-5-1.5-1:
+map            	all	0.7147
+recip_rank     	all	0.7957
+TREC Scores of test_res/RPLG-dev/LG-1.5-2.0-5-1.5-2:
+map            	all	0.6610
+recip_rank     	all	0.6981
+TREC Scores of test_res/RPLG-dev/LG-1.5-2.0-5-2.0-1:
+map            	all	0.6924
+recip_rank     	all	0.7545
+TREC Scores of test_res/RPLG-dev/LG-1.5-2.0-5-2.0-2:
+map            	all	0.6396
+recip_rank     	all	0.6784
+TREC Scores of test_res/RPLG-dev/LG-2.0-0.5-3-0-1:
+map            	all	0.6991
+recip_rank     	all	0.7891
+TREC Scores of test_res/RPLG-dev/LG-2.0-0.5-3-0-2:
+map            	all	0.7034
+recip_rank     	all	0.7898
+TREC Scores of test_res/RPLG-dev/LG-2.0-0.5-3-0.8-1:
+map            	all	0.6998
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-2.0-0.5-3-0.8-2:
+map            	all	0.6932
+recip_rank     	all	0.7708
+TREC Scores of test_res/RPLG-dev/LG-2.0-0.5-3-1.0-1:
+map            	all	0.6997
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-2.0-0.5-3-1.0-2:
+map            	all	0.6855
+recip_rank     	all	0.7519
+TREC Scores of test_res/RPLG-dev/LG-2.0-0.5-3-1.25-1:
+map            	all	0.7041
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-2.0-0.5-3-1.25-2:
+map            	all	0.6739
+recip_rank     	all	0.7389
+TREC Scores of test_res/RPLG-dev/LG-2.0-0.5-3-1.5-1:
+map            	all	0.7113
+recip_rank     	all	0.7862
+TREC Scores of test_res/RPLG-dev/LG-2.0-0.5-3-1.5-2:
+map            	all	0.6658
+recip_rank     	all	0.7252
+TREC Scores of test_res/RPLG-dev/LG-2.0-0.5-3-2.0-1:
+map            	all	0.6989
+recip_rank     	all	0.7761
+TREC Scores of test_res/RPLG-dev/LG-2.0-0.5-3-2.0-2:
+map            	all	0.6480
+recip_rank     	all	0.6934
+TREC Scores of test_res/RPLG-dev/LG-2.0-0.5-5-0-1:
+map            	all	0.6991
+recip_rank     	all	0.7891
+TREC Scores of test_res/RPLG-dev/LG-2.0-0.5-5-0-2:
+map            	all	0.7036
+recip_rank     	all	0.7895
+TREC Scores of test_res/RPLG-dev/LG-2.0-0.5-5-0.8-1:
+map            	all	0.7004
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-2.0-0.5-5-0.8-2:
+map            	all	0.6938
+recip_rank     	all	0.7708
+TREC Scores of test_res/RPLG-dev/LG-2.0-0.5-5-1.0-1:
+map            	all	0.6998
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-2.0-0.5-5-1.0-2:
+map            	all	0.6856
+recip_rank     	all	0.7524
+TREC Scores of test_res/RPLG-dev/LG-2.0-0.5-5-1.25-1:
+map            	all	0.7041
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-2.0-0.5-5-1.25-2:
+map            	all	0.6756
+recip_rank     	all	0.7414
+TREC Scores of test_res/RPLG-dev/LG-2.0-0.5-5-1.5-1:
+map            	all	0.7128
+recip_rank     	all	0.7934
+TREC Scores of test_res/RPLG-dev/LG-2.0-0.5-5-1.5-2:
+map            	all	0.6678
+recip_rank     	all	0.7251
+TREC Scores of test_res/RPLG-dev/LG-2.0-0.5-5-2.0-1:
+map            	all	0.6995
+recip_rank     	all	0.7761
+TREC Scores of test_res/RPLG-dev/LG-2.0-0.5-5-2.0-2:
+map            	all	0.6466
+recip_rank     	all	0.6922
+TREC Scores of test_res/RPLG-dev/LG-2.0-0.75-3-0-1:
+map            	all	0.7029
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-2.0-0.75-3-0-2:
+map            	all	0.7034
+recip_rank     	all	0.7904
+TREC Scores of test_res/RPLG-dev/LG-2.0-0.75-3-0.8-1:
+map            	all	0.7008
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-2.0-0.75-3-0.8-2:
+map            	all	0.6941
+recip_rank     	all	0.7684
+TREC Scores of test_res/RPLG-dev/LG-2.0-0.75-3-1.0-1:
+map            	all	0.7017
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-2.0-0.75-3-1.0-2:
+map            	all	0.6818
+recip_rank     	all	0.7431
+TREC Scores of test_res/RPLG-dev/LG-2.0-0.75-3-1.25-1:
+map            	all	0.7023
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-2.0-0.75-3-1.25-2:
+map            	all	0.6729
+recip_rank     	all	0.7371
+TREC Scores of test_res/RPLG-dev/LG-2.0-0.75-3-1.5-1:
+map            	all	0.7151
+recip_rank     	all	0.7957
+TREC Scores of test_res/RPLG-dev/LG-2.0-0.75-3-1.5-2:
+map            	all	0.6690
+recip_rank     	all	0.7256
+TREC Scores of test_res/RPLG-dev/LG-2.0-0.75-3-2.0-1:
+map            	all	0.6987
+recip_rank     	all	0.7761
+TREC Scores of test_res/RPLG-dev/LG-2.0-0.75-3-2.0-2:
+map            	all	0.6513
+recip_rank     	all	0.6991
+TREC Scores of test_res/RPLG-dev/LG-2.0-0.75-5-0-1:
+map            	all	0.7034
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-2.0-0.75-5-0-2:
+map            	all	0.7034
+recip_rank     	all	0.7898
+TREC Scores of test_res/RPLG-dev/LG-2.0-0.75-5-0.8-1:
+map            	all	0.7013
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-2.0-0.75-5-0.8-2:
+map            	all	0.6958
+recip_rank     	all	0.7749
+TREC Scores of test_res/RPLG-dev/LG-2.0-0.75-5-1.0-1:
+map            	all	0.7019
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-2.0-0.75-5-1.0-2:
+map            	all	0.6849
+recip_rank     	all	0.7444
+TREC Scores of test_res/RPLG-dev/LG-2.0-0.75-5-1.25-1:
+map            	all	0.7021
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-2.0-0.75-5-1.25-2:
+map            	all	0.6745
+recip_rank     	all	0.7342
+TREC Scores of test_res/RPLG-dev/LG-2.0-0.75-5-1.5-1:
+map            	all	0.7166
+recip_rank     	all	0.7957
+TREC Scores of test_res/RPLG-dev/LG-2.0-0.75-5-1.5-2:
+map            	all	0.6681
+recip_rank     	all	0.7231
+TREC Scores of test_res/RPLG-dev/LG-2.0-0.75-5-2.0-1:
+map            	all	0.7004
+recip_rank     	all	0.7838
+TREC Scores of test_res/RPLG-dev/LG-2.0-0.75-5-2.0-2:
+map            	all	0.6507
+recip_rank     	all	0.7009
+TREC Scores of test_res/RPLG-dev/LG-2.0-1.0-3-0-1:
+map            	all	0.7034
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-2.0-1.0-3-0-2:
+map            	all	0.7041
+recip_rank     	all	0.7911
+TREC Scores of test_res/RPLG-dev/LG-2.0-1.0-3-0.8-1:
+map            	all	0.7021
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-2.0-1.0-3-0.8-2:
+map            	all	0.6914
+recip_rank     	all	0.7620
+TREC Scores of test_res/RPLG-dev/LG-2.0-1.0-3-1.0-1:
+map            	all	0.7015
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-2.0-1.0-3-1.0-2:
+map            	all	0.6829
+recip_rank     	all	0.7430
+TREC Scores of test_res/RPLG-dev/LG-2.0-1.0-3-1.25-1:
+map            	all	0.7017
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-2.0-1.0-3-1.25-2:
+map            	all	0.6751
+recip_rank     	all	0.7242
+TREC Scores of test_res/RPLG-dev/LG-2.0-1.0-3-1.5-1:
+map            	all	0.7107
+recip_rank     	all	0.7957
+TREC Scores of test_res/RPLG-dev/LG-2.0-1.0-3-1.5-2:
+map            	all	0.6708
+recip_rank     	all	0.7219
+TREC Scores of test_res/RPLG-dev/LG-2.0-1.0-3-2.0-1:
+map            	all	0.6970
+recip_rank     	all	0.7761
+TREC Scores of test_res/RPLG-dev/LG-2.0-1.0-3-2.0-2:
+map            	all	0.6541
+recip_rank     	all	0.7042
+TREC Scores of test_res/RPLG-dev/LG-2.0-1.0-5-0-1:
+map            	all	0.7043
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-2.0-1.0-5-0-2:
+map            	all	0.7074
+recip_rank     	all	0.7905
+TREC Scores of test_res/RPLG-dev/LG-2.0-1.0-5-0.8-1:
+map            	all	0.7034
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-2.0-1.0-5-0.8-2:
+map            	all	0.6987
+recip_rank     	all	0.7671
+TREC Scores of test_res/RPLG-dev/LG-2.0-1.0-5-1.0-1:
+map            	all	0.7025
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-2.0-1.0-5-1.0-2:
+map            	all	0.6861
+recip_rank     	all	0.7421
+TREC Scores of test_res/RPLG-dev/LG-2.0-1.0-5-1.25-1:
+map            	all	0.7007
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-2.0-1.0-5-1.25-2:
+map            	all	0.6784
+recip_rank     	all	0.7267
+TREC Scores of test_res/RPLG-dev/LG-2.0-1.0-5-1.5-1:
+map            	all	0.7118
+recip_rank     	all	0.7957
+TREC Scores of test_res/RPLG-dev/LG-2.0-1.0-5-1.5-2:
+map            	all	0.6695
+recip_rank     	all	0.7161
+TREC Scores of test_res/RPLG-dev/LG-2.0-1.0-5-2.0-1:
+map            	all	0.6985
+recip_rank     	all	0.7779
+TREC Scores of test_res/RPLG-dev/LG-2.0-1.0-5-2.0-2:
+map            	all	0.6538
+recip_rank     	all	0.6999
+TREC Scores of test_res/RPLG-dev/LG-2.0-1.5-3-0-1:
+map            	all	0.7034
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-2.0-1.5-3-0-2:
+map            	all	0.7052
+recip_rank     	all	0.7914
+TREC Scores of test_res/RPLG-dev/LG-2.0-1.5-3-0.8-1:
+map            	all	0.7021
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-2.0-1.5-3-0.8-2:
+map            	all	0.6887
+recip_rank     	all	0.7541
+TREC Scores of test_res/RPLG-dev/LG-2.0-1.5-3-1.0-1:
+map            	all	0.7011
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-2.0-1.5-3-1.0-2:
+map            	all	0.6803
+recip_rank     	all	0.7397
+TREC Scores of test_res/RPLG-dev/LG-2.0-1.5-3-1.25-1:
+map            	all	0.7007
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-2.0-1.5-3-1.25-2:
+map            	all	0.6764
+recip_rank     	all	0.7273
+TREC Scores of test_res/RPLG-dev/LG-2.0-1.5-3-1.5-1:
+map            	all	0.7134
+recip_rank     	all	0.7957
+TREC Scores of test_res/RPLG-dev/LG-2.0-1.5-3-1.5-2:
+map            	all	0.6615
+recip_rank     	all	0.7036
+TREC Scores of test_res/RPLG-dev/LG-2.0-1.5-3-2.0-1:
+map            	all	0.6942
+recip_rank     	all	0.7763
+TREC Scores of test_res/RPLG-dev/LG-2.0-1.5-3-2.0-2:
+map            	all	0.6452
+recip_rank     	all	0.6946
+TREC Scores of test_res/RPLG-dev/LG-2.0-1.5-5-0-1:
+map            	all	0.7043
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-2.0-1.5-5-0-2:
+map            	all	0.7101
+recip_rank     	all	0.7912
+TREC Scores of test_res/RPLG-dev/LG-2.0-1.5-5-0.8-1:
+map            	all	0.7036
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-2.0-1.5-5-0.8-2:
+map            	all	0.7005
+recip_rank     	all	0.7646
+TREC Scores of test_res/RPLG-dev/LG-2.0-1.5-5-1.0-1:
+map            	all	0.7018
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-2.0-1.5-5-1.0-2:
+map            	all	0.6833
+recip_rank     	all	0.7392
+TREC Scores of test_res/RPLG-dev/LG-2.0-1.5-5-1.25-1:
+map            	all	0.7032
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-2.0-1.5-5-1.25-2:
+map            	all	0.6817
+recip_rank     	all	0.7319
+TREC Scores of test_res/RPLG-dev/LG-2.0-1.5-5-1.5-1:
+map            	all	0.7151
+recip_rank     	all	0.7957
+TREC Scores of test_res/RPLG-dev/LG-2.0-1.5-5-1.5-2:
+map            	all	0.6619
+recip_rank     	all	0.7002
+TREC Scores of test_res/RPLG-dev/LG-2.0-1.5-5-2.0-1:
+map            	all	0.6970
+recip_rank     	all	0.7755
+TREC Scores of test_res/RPLG-dev/LG-2.0-1.5-5-2.0-2:
+map            	all	0.6478
+recip_rank     	all	0.6927
+TREC Scores of test_res/RPLG-dev/LG-2.0-2.0-3-0-1:
+map            	all	0.7034
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-2.0-2.0-3-0-2:
+map            	all	0.7041
+recip_rank     	all	0.7891
+TREC Scores of test_res/RPLG-dev/LG-2.0-2.0-3-0.8-1:
+map            	all	0.7024
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-2.0-2.0-3-0.8-2:
+map            	all	0.6881
+recip_rank     	all	0.7513
+TREC Scores of test_res/RPLG-dev/LG-2.0-2.0-3-1.0-1:
+map            	all	0.7006
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-2.0-2.0-3-1.0-2:
+map            	all	0.6778
+recip_rank     	all	0.7299
+TREC Scores of test_res/RPLG-dev/LG-2.0-2.0-3-1.25-1:
+map            	all	0.7006
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-2.0-2.0-3-1.25-2:
+map            	all	0.6699
+recip_rank     	all	0.7132
+TREC Scores of test_res/RPLG-dev/LG-2.0-2.0-3-1.5-1:
+map            	all	0.7131
+recip_rank     	all	0.7957
+TREC Scores of test_res/RPLG-dev/LG-2.0-2.0-3-1.5-2:
+map            	all	0.6612
+recip_rank     	all	0.7030
+TREC Scores of test_res/RPLG-dev/LG-2.0-2.0-3-2.0-1:
+map            	all	0.6903
+recip_rank     	all	0.7676
+TREC Scores of test_res/RPLG-dev/LG-2.0-2.0-3-2.0-2:
+map            	all	0.6452
+recip_rank     	all	0.6922
+TREC Scores of test_res/RPLG-dev/LG-2.0-2.0-5-0-1:
+map            	all	0.7043
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-2.0-2.0-5-0-2:
+map            	all	0.7097
+recip_rank     	all	0.7912
+TREC Scores of test_res/RPLG-dev/LG-2.0-2.0-5-0.8-1:
+map            	all	0.7045
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-2.0-2.0-5-0.8-2:
+map            	all	0.6945
+recip_rank     	all	0.7503
+TREC Scores of test_res/RPLG-dev/LG-2.0-2.0-5-1.0-1:
+map            	all	0.7030
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-2.0-2.0-5-1.0-2:
+map            	all	0.6815
+recip_rank     	all	0.7320
+TREC Scores of test_res/RPLG-dev/LG-2.0-2.0-5-1.25-1:
+map            	all	0.7036
+recip_rank     	all	0.7886
+TREC Scores of test_res/RPLG-dev/LG-2.0-2.0-5-1.25-2:
+map            	all	0.6767
+recip_rank     	all	0.7224
+TREC Scores of test_res/RPLG-dev/LG-2.0-2.0-5-1.5-1:
+map            	all	0.7133
+recip_rank     	all	0.7957
+TREC Scores of test_res/RPLG-dev/LG-2.0-2.0-5-1.5-2:
+map            	all	0.6626
+recip_rank     	all	0.7011
+TREC Scores of test_res/RPLG-dev/LG-2.0-2.0-5-2.0-1:
+map            	all	0.6896
+recip_rank     	all	0.7605
+TREC Scores of test_res/RPLG-dev/LG-2.0-2.0-5-2.0-2:
+map            	all	0.6448
+recip_rank     	all	0.6905
+TREC Scores of test_res/RPLG-test/LG-0.5-0.5-3-0-1:
+map            	all	0.6247
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-0.5-0.5-3-0-2:
+map            	all	0.6239
+recip_rank     	all	0.7292
+TREC Scores of test_res/RPLG-test/LG-0.5-0.5-3-0.8-1:
+map            	all	0.6247
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-0.5-0.5-3-0.8-2:
+map            	all	0.6303
+recip_rank     	all	0.7220
+TREC Scores of test_res/RPLG-test/LG-0.5-0.5-3-1.0-1:
+map            	all	0.6246
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-0.5-0.5-3-1.0-2:
+map            	all	0.6235
+recip_rank     	all	0.7028
+TREC Scores of test_res/RPLG-test/LG-0.5-0.5-3-1.25-1:
+map            	all	0.6332
+recip_rank     	all	0.7431
+TREC Scores of test_res/RPLG-test/LG-0.5-0.5-3-1.25-2:
+map            	all	0.6088
+recip_rank     	all	0.6836
+TREC Scores of test_res/RPLG-test/LG-0.5-0.5-3-1.5-1:
+map            	all	0.6413
+recip_rank     	all	0.7401
+TREC Scores of test_res/RPLG-test/LG-0.5-0.5-3-1.5-2:
+map            	all	0.5965
+recip_rank     	all	0.6706
+TREC Scores of test_res/RPLG-test/LG-0.5-0.5-3-2.0-1:
+map            	all	0.6441
+recip_rank     	all	0.7367
+TREC Scores of test_res/RPLG-test/LG-0.5-0.5-3-2.0-2:
+map            	all	0.5640
+recip_rank     	all	0.6349
+TREC Scores of test_res/RPLG-test/LG-0.5-0.5-5-0-1:
+map            	all	0.6247
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-0.5-0.5-5-0-2:
+map            	all	0.6247
+recip_rank     	all	0.7361
+TREC Scores of test_res/RPLG-test/LG-0.5-0.5-5-0.8-1:
+map            	all	0.6247
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-0.5-0.5-5-0.8-2:
+map            	all	0.6318
+recip_rank     	all	0.7278
+TREC Scores of test_res/RPLG-test/LG-0.5-0.5-5-1.0-1:
+map            	all	0.6246
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-0.5-0.5-5-1.0-2:
+map            	all	0.6241
+recip_rank     	all	0.7144
+TREC Scores of test_res/RPLG-test/LG-0.5-0.5-5-1.25-1:
+map            	all	0.6328
+recip_rank     	all	0.7431
+TREC Scores of test_res/RPLG-test/LG-0.5-0.5-5-1.25-2:
+map            	all	0.6105
+recip_rank     	all	0.6929
+TREC Scores of test_res/RPLG-test/LG-0.5-0.5-5-1.5-1:
+map            	all	0.6404
+recip_rank     	all	0.7401
+TREC Scores of test_res/RPLG-test/LG-0.5-0.5-5-1.5-2:
+map            	all	0.5999
+recip_rank     	all	0.6805
+TREC Scores of test_res/RPLG-test/LG-0.5-0.5-5-2.0-1:
+map            	all	0.6443
+recip_rank     	all	0.7367
+TREC Scores of test_res/RPLG-test/LG-0.5-0.5-5-2.0-2:
+map            	all	0.5650
+recip_rank     	all	0.6418
+TREC Scores of test_res/RPLG-test/LG-0.5-0.75-3-0-1:
+map            	all	0.6247
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-0.5-0.75-3-0-2:
+map            	all	0.6248
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-0.5-0.75-3-0.8-1:
+map            	all	0.6247
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-0.5-0.75-3-0.8-2:
+map            	all	0.6299
+recip_rank     	all	0.7129
+TREC Scores of test_res/RPLG-test/LG-0.5-0.75-3-1.0-1:
+map            	all	0.6246
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-0.5-0.75-3-1.0-2:
+map            	all	0.6258
+recip_rank     	all	0.7160
+TREC Scores of test_res/RPLG-test/LG-0.5-0.75-3-1.25-1:
+map            	all	0.6287
+recip_rank     	all	0.7350
+TREC Scores of test_res/RPLG-test/LG-0.5-0.75-3-1.25-2:
+map            	all	0.6117
+recip_rank     	all	0.6974
+TREC Scores of test_res/RPLG-test/LG-0.5-0.75-3-1.5-1:
+map            	all	0.6421
+recip_rank     	all	0.7397
+TREC Scores of test_res/RPLG-test/LG-0.5-0.75-3-1.5-2:
+map            	all	0.5923
+recip_rank     	all	0.6700
+TREC Scores of test_res/RPLG-test/LG-0.5-0.75-3-2.0-1:
+map            	all	0.6460
+recip_rank     	all	0.7369
+TREC Scores of test_res/RPLG-test/LG-0.5-0.75-3-2.0-2:
+map            	all	0.5605
+recip_rank     	all	0.6365
+TREC Scores of test_res/RPLG-test/LG-0.5-0.75-5-0-1:
+map            	all	0.6247
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-0.5-0.75-5-0-2:
+map            	all	0.6249
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-0.5-0.75-5-0.8-1:
+map            	all	0.6247
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-0.5-0.75-5-0.8-2:
+map            	all	0.6306
+recip_rank     	all	0.7209
+TREC Scores of test_res/RPLG-test/LG-0.5-0.75-5-1.0-1:
+map            	all	0.6246
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-0.5-0.75-5-1.0-2:
+map            	all	0.6258
+recip_rank     	all	0.7161
+TREC Scores of test_res/RPLG-test/LG-0.5-0.75-5-1.25-1:
+map            	all	0.6278
+recip_rank     	all	0.7315
+TREC Scores of test_res/RPLG-test/LG-0.5-0.75-5-1.25-2:
+map            	all	0.6102
+recip_rank     	all	0.6974
+TREC Scores of test_res/RPLG-test/LG-0.5-0.75-5-1.5-1:
+map            	all	0.6422
+recip_rank     	all	0.7391
+TREC Scores of test_res/RPLG-test/LG-0.5-0.75-5-1.5-2:
+map            	all	0.5913
+recip_rank     	all	0.6700
+TREC Scores of test_res/RPLG-test/LG-0.5-0.75-5-2.0-1:
+map            	all	0.6464
+recip_rank     	all	0.7368
+TREC Scores of test_res/RPLG-test/LG-0.5-0.75-5-2.0-2:
+map            	all	0.5604
+recip_rank     	all	0.6368
+TREC Scores of test_res/RPLG-test/LG-0.5-1.0-3-0-1:
+map            	all	0.6247
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-0.5-1.0-3-0-2:
+map            	all	0.6248
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-0.5-1.0-3-0.8-1:
+map            	all	0.6247
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-0.5-1.0-3-0.8-2:
+map            	all	0.6324
+recip_rank     	all	0.7221
+TREC Scores of test_res/RPLG-test/LG-0.5-1.0-3-1.0-1:
+map            	all	0.6246
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-0.5-1.0-3-1.0-2:
+map            	all	0.6181
+recip_rank     	all	0.7067
+TREC Scores of test_res/RPLG-test/LG-0.5-1.0-3-1.25-1:
+map            	all	0.6278
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-0.5-1.0-3-1.25-2:
+map            	all	0.6086
+recip_rank     	all	0.7059
+TREC Scores of test_res/RPLG-test/LG-0.5-1.0-3-1.5-1:
+map            	all	0.6433
+recip_rank     	all	0.7397
+TREC Scores of test_res/RPLG-test/LG-0.5-1.0-3-1.5-2:
+map            	all	0.5846
+recip_rank     	all	0.6646
+TREC Scores of test_res/RPLG-test/LG-0.5-1.0-3-2.0-1:
+map            	all	0.6398
+recip_rank     	all	0.7301
+TREC Scores of test_res/RPLG-test/LG-0.5-1.0-3-2.0-2:
+map            	all	0.5556
+recip_rank     	all	0.6316
+TREC Scores of test_res/RPLG-test/LG-0.5-1.0-5-0-1:
+map            	all	0.6247
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-0.5-1.0-5-0-2:
+map            	all	0.6250
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-0.5-1.0-5-0.8-1:
+map            	all	0.6247
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-0.5-1.0-5-0.8-2:
+map            	all	0.6358
+recip_rank     	all	0.7247
+TREC Scores of test_res/RPLG-test/LG-0.5-1.0-5-1.0-1:
+map            	all	0.6247
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-0.5-1.0-5-1.0-2:
+map            	all	0.6202
+recip_rank     	all	0.7097
+TREC Scores of test_res/RPLG-test/LG-0.5-1.0-5-1.25-1:
+map            	all	0.6270
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-0.5-1.0-5-1.25-2:
+map            	all	0.6046
+recip_rank     	all	0.6983
+TREC Scores of test_res/RPLG-test/LG-0.5-1.0-5-1.5-1:
+map            	all	0.6424
+recip_rank     	all	0.7395
+TREC Scores of test_res/RPLG-test/LG-0.5-1.0-5-1.5-2:
+map            	all	0.5827
+recip_rank     	all	0.6629
+TREC Scores of test_res/RPLG-test/LG-0.5-1.0-5-2.0-1:
+map            	all	0.6468
+recip_rank     	all	0.7371
+TREC Scores of test_res/RPLG-test/LG-0.5-1.0-5-2.0-2:
+map            	all	0.5561
+recip_rank     	all	0.6332
+TREC Scores of test_res/RPLG-test/LG-0.5-1.5-3-0-1:
+map            	all	0.6247
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-0.5-1.5-3-0-2:
+map            	all	0.6251
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-0.5-1.5-3-0.8-1:
+map            	all	0.6247
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-0.5-1.5-3-0.8-2:
+map            	all	0.6339
+recip_rank     	all	0.7246
+TREC Scores of test_res/RPLG-test/LG-0.5-1.5-3-1.0-1:
+map            	all	0.6247
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-0.5-1.5-3-1.0-2:
+map            	all	0.6187
+recip_rank     	all	0.7096
+TREC Scores of test_res/RPLG-test/LG-0.5-1.5-3-1.25-1:
+map            	all	0.6273
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-0.5-1.5-3-1.25-2:
+map            	all	0.6000
+recip_rank     	all	0.6887
+TREC Scores of test_res/RPLG-test/LG-0.5-1.5-3-1.5-1:
+map            	all	0.6426
+recip_rank     	all	0.7391
+TREC Scores of test_res/RPLG-test/LG-0.5-1.5-3-1.5-2:
+map            	all	0.5804
+recip_rank     	all	0.6600
+TREC Scores of test_res/RPLG-test/LG-0.5-1.5-3-2.0-1:
+map            	all	0.6343
+recip_rank     	all	0.7254
+TREC Scores of test_res/RPLG-test/LG-0.5-1.5-3-2.0-2:
+map            	all	0.5456
+recip_rank     	all	0.6170
+TREC Scores of test_res/RPLG-test/LG-0.5-1.5-5-0-1:
+map            	all	0.6247
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-0.5-1.5-5-0-2:
+map            	all	0.6249
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-0.5-1.5-5-0.8-1:
+map            	all	0.6247
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-0.5-1.5-5-0.8-2:
+map            	all	0.6364
+recip_rank     	all	0.7272
+TREC Scores of test_res/RPLG-test/LG-0.5-1.5-5-1.0-1:
+map            	all	0.6247
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-0.5-1.5-5-1.0-2:
+map            	all	0.6129
+recip_rank     	all	0.7031
+TREC Scores of test_res/RPLG-test/LG-0.5-1.5-5-1.25-1:
+map            	all	0.6263
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-0.5-1.5-5-1.25-2:
+map            	all	0.5926
+recip_rank     	all	0.6810
+TREC Scores of test_res/RPLG-test/LG-0.5-1.5-5-1.5-1:
+map            	all	0.6434
+recip_rank     	all	0.7409
+TREC Scores of test_res/RPLG-test/LG-0.5-1.5-5-1.5-2:
+map            	all	0.5853
+recip_rank     	all	0.6659
+TREC Scores of test_res/RPLG-test/LG-0.5-1.5-5-2.0-1:
+map            	all	0.6351
+recip_rank     	all	0.7339
+TREC Scores of test_res/RPLG-test/LG-0.5-1.5-5-2.0-2:
+map            	all	0.5453
+recip_rank     	all	0.6178
+TREC Scores of test_res/RPLG-test/LG-0.5-2.0-3-0-1:
+map            	all	0.6247
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-0.5-2.0-3-0-2:
+map            	all	0.6253
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-0.5-2.0-3-0.8-1:
+map            	all	0.6247
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-0.5-2.0-3-0.8-2:
+map            	all	0.6327
+recip_rank     	all	0.7222
+TREC Scores of test_res/RPLG-test/LG-0.5-2.0-3-1.0-1:
+map            	all	0.6247
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-0.5-2.0-3-1.0-2:
+map            	all	0.6120
+recip_rank     	all	0.6969
+TREC Scores of test_res/RPLG-test/LG-0.5-2.0-3-1.25-1:
+map            	all	0.6275
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-0.5-2.0-3-1.25-2:
+map            	all	0.5981
+recip_rank     	all	0.6872
+TREC Scores of test_res/RPLG-test/LG-0.5-2.0-3-1.5-1:
+map            	all	0.6424
+recip_rank     	all	0.7395
+TREC Scores of test_res/RPLG-test/LG-0.5-2.0-3-1.5-2:
+map            	all	0.5764
+recip_rank     	all	0.6600
+TREC Scores of test_res/RPLG-test/LG-0.5-2.0-3-2.0-1:
+map            	all	0.6322
+recip_rank     	all	0.7222
+TREC Scores of test_res/RPLG-test/LG-0.5-2.0-3-2.0-2:
+map            	all	0.5464
+recip_rank     	all	0.6172
+TREC Scores of test_res/RPLG-test/LG-0.5-2.0-5-0-1:
+map            	all	0.6247
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-0.5-2.0-5-0-2:
+map            	all	0.6249
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-0.5-2.0-5-0.8-1:
+map            	all	0.6247
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-0.5-2.0-5-0.8-2:
+map            	all	0.6343
+recip_rank     	all	0.7318
+TREC Scores of test_res/RPLG-test/LG-0.5-2.0-5-1.0-1:
+map            	all	0.6247
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-0.5-2.0-5-1.0-2:
+map            	all	0.6153
+recip_rank     	all	0.7004
+TREC Scores of test_res/RPLG-test/LG-0.5-2.0-5-1.25-1:
+map            	all	0.6255
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-0.5-2.0-5-1.25-2:
+map            	all	0.5881
+recip_rank     	all	0.6736
+TREC Scores of test_res/RPLG-test/LG-0.5-2.0-5-1.5-1:
+map            	all	0.6430
+recip_rank     	all	0.7409
+TREC Scores of test_res/RPLG-test/LG-0.5-2.0-5-1.5-2:
+map            	all	0.5781
+recip_rank     	all	0.6565
+TREC Scores of test_res/RPLG-test/LG-0.5-2.0-5-2.0-1:
+map            	all	0.6321
+recip_rank     	all	0.7303
+TREC Scores of test_res/RPLG-test/LG-0.5-2.0-5-2.0-2:
+map            	all	0.5441
+recip_rank     	all	0.6172
+TREC Scores of test_res/RPLG-test/LG-1.0-0.5-3-0-1:
+map            	all	0.6197
+recip_rank     	all	0.7165
+TREC Scores of test_res/RPLG-test/LG-1.0-0.5-3-0-2:
+map            	all	0.6243
+recip_rank     	all	0.7324
+TREC Scores of test_res/RPLG-test/LG-1.0-0.5-3-0.8-1:
+map            	all	0.6211
+recip_rank     	all	0.7165
+TREC Scores of test_res/RPLG-test/LG-1.0-0.5-3-0.8-2:
+map            	all	0.6249
+recip_rank     	all	0.7161
+TREC Scores of test_res/RPLG-test/LG-1.0-0.5-3-1.0-1:
+map            	all	0.6227
+recip_rank     	all	0.7165
+TREC Scores of test_res/RPLG-test/LG-1.0-0.5-3-1.0-2:
+map            	all	0.6205
+recip_rank     	all	0.7079
+TREC Scores of test_res/RPLG-test/LG-1.0-0.5-3-1.25-1:
+map            	all	0.6291
+recip_rank     	all	0.7269
+TREC Scores of test_res/RPLG-test/LG-1.0-0.5-3-1.25-2:
+map            	all	0.6029
+recip_rank     	all	0.6736
+TREC Scores of test_res/RPLG-test/LG-1.0-0.5-3-1.5-1:
+map            	all	0.6337
+recip_rank     	all	0.7167
+TREC Scores of test_res/RPLG-test/LG-1.0-0.5-3-1.5-2:
+map            	all	0.6041
+recip_rank     	all	0.6760
+TREC Scores of test_res/RPLG-test/LG-1.0-0.5-3-2.0-1:
+map            	all	0.6324
+recip_rank     	all	0.7107
+TREC Scores of test_res/RPLG-test/LG-1.0-0.5-3-2.0-2:
+map            	all	0.5900
+recip_rank     	all	0.6599
+TREC Scores of test_res/RPLG-test/LG-1.0-0.5-5-0-1:
+map            	all	0.6197
+recip_rank     	all	0.7165
+TREC Scores of test_res/RPLG-test/LG-1.0-0.5-5-0-2:
+map            	all	0.6242
+recip_rank     	all	0.7324
+TREC Scores of test_res/RPLG-test/LG-1.0-0.5-5-0.8-1:
+map            	all	0.6207
+recip_rank     	all	0.7165
+TREC Scores of test_res/RPLG-test/LG-1.0-0.5-5-0.8-2:
+map            	all	0.6245
+recip_rank     	all	0.7139
+TREC Scores of test_res/RPLG-test/LG-1.0-0.5-5-1.0-1:
+map            	all	0.6224
+recip_rank     	all	0.7165
+TREC Scores of test_res/RPLG-test/LG-1.0-0.5-5-1.0-2:
+map            	all	0.6211
+recip_rank     	all	0.7081
+TREC Scores of test_res/RPLG-test/LG-1.0-0.5-5-1.25-1:
+map            	all	0.6294
+recip_rank     	all	0.7269
+TREC Scores of test_res/RPLG-test/LG-1.0-0.5-5-1.25-2:
+map            	all	0.6046
+recip_rank     	all	0.6825
+TREC Scores of test_res/RPLG-test/LG-1.0-0.5-5-1.5-1:
+map            	all	0.6332
+recip_rank     	all	0.7162
+TREC Scores of test_res/RPLG-test/LG-1.0-0.5-5-1.5-2:
+map            	all	0.6046
+recip_rank     	all	0.6807
+TREC Scores of test_res/RPLG-test/LG-1.0-0.5-5-2.0-1:
+map            	all	0.6316
+recip_rank     	all	0.7106
+TREC Scores of test_res/RPLG-test/LG-1.0-0.5-5-2.0-2:
+map            	all	0.5891
+recip_rank     	all	0.6597
+TREC Scores of test_res/RPLG-test/LG-1.0-0.75-3-0-1:
+map            	all	0.6247
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-1.0-0.75-3-0-2:
+map            	all	0.6288
+recip_rank     	all	0.7338
+TREC Scores of test_res/RPLG-test/LG-1.0-0.75-3-0.8-1:
+map            	all	0.6252
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-1.0-0.75-3-0.8-2:
+map            	all	0.6308
+recip_rank     	all	0.7131
+TREC Scores of test_res/RPLG-test/LG-1.0-0.75-3-1.0-1:
+map            	all	0.6269
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-1.0-0.75-3-1.0-2:
+map            	all	0.6256
+recip_rank     	all	0.7039
+TREC Scores of test_res/RPLG-test/LG-1.0-0.75-3-1.25-1:
+map            	all	0.6300
+recip_rank     	all	0.7315
+TREC Scores of test_res/RPLG-test/LG-1.0-0.75-3-1.25-2:
+map            	all	0.6167
+recip_rank     	all	0.6993
+TREC Scores of test_res/RPLG-test/LG-1.0-0.75-3-1.5-1:
+map            	all	0.6414
+recip_rank     	all	0.7354
+TREC Scores of test_res/RPLG-test/LG-1.0-0.75-3-1.5-2:
+map            	all	0.5983
+recip_rank     	all	0.6744
+TREC Scores of test_res/RPLG-test/LG-1.0-0.75-3-2.0-1:
+map            	all	0.6405
+recip_rank     	all	0.7289
+TREC Scores of test_res/RPLG-test/LG-1.0-0.75-3-2.0-2:
+map            	all	0.5871
+recip_rank     	all	0.6574
+TREC Scores of test_res/RPLG-test/LG-1.0-0.75-5-0-1:
+map            	all	0.6247
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-1.0-0.75-5-0-2:
+map            	all	0.6253
+recip_rank     	all	0.7338
+TREC Scores of test_res/RPLG-test/LG-1.0-0.75-5-0.8-1:
+map            	all	0.6249
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-1.0-0.75-5-0.8-2:
+map            	all	0.6256
+recip_rank     	all	0.7107
+TREC Scores of test_res/RPLG-test/LG-1.0-0.75-5-1.0-1:
+map            	all	0.6263
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-1.0-0.75-5-1.0-2:
+map            	all	0.6233
+recip_rank     	all	0.7098
+TREC Scores of test_res/RPLG-test/LG-1.0-0.75-5-1.25-1:
+map            	all	0.6293
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-1.0-0.75-5-1.25-2:
+map            	all	0.6127
+recip_rank     	all	0.7031
+TREC Scores of test_res/RPLG-test/LG-1.0-0.75-5-1.5-1:
+map            	all	0.6416
+recip_rank     	all	0.7343
+TREC Scores of test_res/RPLG-test/LG-1.0-0.75-5-1.5-2:
+map            	all	0.5943
+recip_rank     	all	0.6744
+TREC Scores of test_res/RPLG-test/LG-1.0-0.75-5-2.0-1:
+map            	all	0.6405
+recip_rank     	all	0.7222
+TREC Scores of test_res/RPLG-test/LG-1.0-0.75-5-2.0-2:
+map            	all	0.5842
+recip_rank     	all	0.6631
+TREC Scores of test_res/RPLG-test/LG-1.0-1.0-3-0-1:
+map            	all	0.6247
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-1.0-1.0-3-0-2:
+map            	all	0.6282
+recip_rank     	all	0.7330
+TREC Scores of test_res/RPLG-test/LG-1.0-1.0-3-0.8-1:
+map            	all	0.6248
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-1.0-1.0-3-0.8-2:
+map            	all	0.6333
+recip_rank     	all	0.7193
+TREC Scores of test_res/RPLG-test/LG-1.0-1.0-3-1.0-1:
+map            	all	0.6262
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-1.0-1.0-3-1.0-2:
+map            	all	0.6263
+recip_rank     	all	0.7036
+TREC Scores of test_res/RPLG-test/LG-1.0-1.0-3-1.25-1:
+map            	all	0.6294
+recip_rank     	all	0.7331
+TREC Scores of test_res/RPLG-test/LG-1.0-1.0-3-1.25-2:
+map            	all	0.6174
+recip_rank     	all	0.7049
+TREC Scores of test_res/RPLG-test/LG-1.0-1.0-3-1.5-1:
+map            	all	0.6421
+recip_rank     	all	0.7366
+TREC Scores of test_res/RPLG-test/LG-1.0-1.0-3-1.5-2:
+map            	all	0.5991
+recip_rank     	all	0.6804
+TREC Scores of test_res/RPLG-test/LG-1.0-1.0-3-2.0-1:
+map            	all	0.6464
+recip_rank     	all	0.7314
+TREC Scores of test_res/RPLG-test/LG-1.0-1.0-3-2.0-2:
+map            	all	0.5787
+recip_rank     	all	0.6599
+TREC Scores of test_res/RPLG-test/LG-1.0-1.0-5-0-1:
+map            	all	0.6247
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-1.0-1.0-5-0-2:
+map            	all	0.6267
+recip_rank     	all	0.7269
+TREC Scores of test_res/RPLG-test/LG-1.0-1.0-5-0.8-1:
+map            	all	0.6247
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-1.0-1.0-5-0.8-2:
+map            	all	0.6267
+recip_rank     	all	0.7120
+TREC Scores of test_res/RPLG-test/LG-1.0-1.0-5-1.0-1:
+map            	all	0.6255
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-1.0-1.0-5-1.0-2:
+map            	all	0.6225
+recip_rank     	all	0.7103
+TREC Scores of test_res/RPLG-test/LG-1.0-1.0-5-1.25-1:
+map            	all	0.6287
+recip_rank     	all	0.7331
+TREC Scores of test_res/RPLG-test/LG-1.0-1.0-5-1.25-2:
+map            	all	0.6111
+recip_rank     	all	0.6917
+TREC Scores of test_res/RPLG-test/LG-1.0-1.0-5-1.5-1:
+map            	all	0.6408
+recip_rank     	all	0.7331
+TREC Scores of test_res/RPLG-test/LG-1.0-1.0-5-1.5-2:
+map            	all	0.6009
+recip_rank     	all	0.6790
+TREC Scores of test_res/RPLG-test/LG-1.0-1.0-5-2.0-1:
+map            	all	0.6386
+recip_rank     	all	0.7170
+TREC Scores of test_res/RPLG-test/LG-1.0-1.0-5-2.0-2:
+map            	all	0.5723
+recip_rank     	all	0.6495
+TREC Scores of test_res/RPLG-test/LG-1.0-1.5-3-0-1:
+map            	all	0.6247
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-1.0-1.5-3-0-2:
+map            	all	0.6280
+recip_rank     	all	0.7330
+TREC Scores of test_res/RPLG-test/LG-1.0-1.5-3-0.8-1:
+map            	all	0.6247
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-1.0-1.5-3-0.8-2:
+map            	all	0.6347
+recip_rank     	all	0.7192
+TREC Scores of test_res/RPLG-test/LG-1.0-1.5-3-1.0-1:
+map            	all	0.6255
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-1.0-1.5-3-1.0-2:
+map            	all	0.6257
+recip_rank     	all	0.7145
+TREC Scores of test_res/RPLG-test/LG-1.0-1.5-3-1.25-1:
+map            	all	0.6295
+recip_rank     	all	0.7331
+TREC Scores of test_res/RPLG-test/LG-1.0-1.5-3-1.25-2:
+map            	all	0.6205
+recip_rank     	all	0.7175
+TREC Scores of test_res/RPLG-test/LG-1.0-1.5-3-1.5-1:
+map            	all	0.6428
+recip_rank     	all	0.7389
+TREC Scores of test_res/RPLG-test/LG-1.0-1.5-3-1.5-2:
+map            	all	0.5918
+recip_rank     	all	0.6734
+TREC Scores of test_res/RPLG-test/LG-1.0-1.5-3-2.0-1:
+map            	all	0.6420
+recip_rank     	all	0.7275
+TREC Scores of test_res/RPLG-test/LG-1.0-1.5-3-2.0-2:
+map            	all	0.5726
+recip_rank     	all	0.6459
+TREC Scores of test_res/RPLG-test/LG-1.0-1.5-5-0-1:
+map            	all	0.6247
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-1.0-1.5-5-0-2:
+map            	all	0.6265
+recip_rank     	all	0.7269
+TREC Scores of test_res/RPLG-test/LG-1.0-1.5-5-0.8-1:
+map            	all	0.6247
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-1.0-1.5-5-0.8-2:
+map            	all	0.6317
+recip_rank     	all	0.7180
+TREC Scores of test_res/RPLG-test/LG-1.0-1.5-5-1.0-1:
+map            	all	0.6250
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-1.0-1.5-5-1.0-2:
+map            	all	0.6203
+recip_rank     	all	0.7077
+TREC Scores of test_res/RPLG-test/LG-1.0-1.5-5-1.25-1:
+map            	all	0.6280
+recip_rank     	all	0.7331
+TREC Scores of test_res/RPLG-test/LG-1.0-1.5-5-1.25-2:
+map            	all	0.6095
+recip_rank     	all	0.6880
+TREC Scores of test_res/RPLG-test/LG-1.0-1.5-5-1.5-1:
+map            	all	0.6353
+recip_rank     	all	0.7273
+TREC Scores of test_res/RPLG-test/LG-1.0-1.5-5-1.5-2:
+map            	all	0.5950
+recip_rank     	all	0.6747
+TREC Scores of test_res/RPLG-test/LG-1.0-1.5-5-2.0-1:
+map            	all	0.6417
+recip_rank     	all	0.7271
+TREC Scores of test_res/RPLG-test/LG-1.0-1.5-5-2.0-2:
+map            	all	0.5659
+recip_rank     	all	0.6375
+TREC Scores of test_res/RPLG-test/LG-1.0-2.0-3-0-1:
+map            	all	0.6247
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-1.0-2.0-3-0-2:
+map            	all	0.6276
+recip_rank     	all	0.7330
+TREC Scores of test_res/RPLG-test/LG-1.0-2.0-3-0.8-1:
+map            	all	0.6247
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-1.0-2.0-3-0.8-2:
+map            	all	0.6343
+recip_rank     	all	0.7197
+TREC Scores of test_res/RPLG-test/LG-1.0-2.0-3-1.0-1:
+map            	all	0.6254
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-1.0-2.0-3-1.0-2:
+map            	all	0.6245
+recip_rank     	all	0.7132
+TREC Scores of test_res/RPLG-test/LG-1.0-2.0-3-1.25-1:
+map            	all	0.6285
+recip_rank     	all	0.7331
+TREC Scores of test_res/RPLG-test/LG-1.0-2.0-3-1.25-2:
+map            	all	0.6149
+recip_rank     	all	0.7089
+TREC Scores of test_res/RPLG-test/LG-1.0-2.0-3-1.5-1:
+map            	all	0.6400
+recip_rank     	all	0.7389
+TREC Scores of test_res/RPLG-test/LG-1.0-2.0-3-1.5-2:
+map            	all	0.5942
+recip_rank     	all	0.6757
+TREC Scores of test_res/RPLG-test/LG-1.0-2.0-3-2.0-1:
+map            	all	0.6364
+recip_rank     	all	0.7208
+TREC Scores of test_res/RPLG-test/LG-1.0-2.0-3-2.0-2:
+map            	all	0.5565
+recip_rank     	all	0.6298
+TREC Scores of test_res/RPLG-test/LG-1.0-2.0-5-0-1:
+map            	all	0.6247
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-1.0-2.0-5-0-2:
+map            	all	0.6265
+recip_rank     	all	0.7269
+TREC Scores of test_res/RPLG-test/LG-1.0-2.0-5-0.8-1:
+map            	all	0.6247
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-1.0-2.0-5-0.8-2:
+map            	all	0.6291
+recip_rank     	all	0.7180
+TREC Scores of test_res/RPLG-test/LG-1.0-2.0-5-1.0-1:
+map            	all	0.6248
+recip_rank     	all	0.7327
+TREC Scores of test_res/RPLG-test/LG-1.0-2.0-5-1.0-2:
+map            	all	0.6216
+recip_rank     	all	0.7078
+TREC Scores of test_res/RPLG-test/LG-1.0-2.0-5-1.25-1:
+map            	all	0.6279
+recip_rank     	all	0.7331
+TREC Scores of test_res/RPLG-test/LG-1.0-2.0-5-1.25-2:
+map            	all	0.6024
+recip_rank     	all	0.6859
+TREC Scores of test_res/RPLG-test/LG-1.0-2.0-5-1.5-1:
+map            	all	0.6343
+recip_rank     	all	0.7250
+TREC Scores of test_res/RPLG-test/LG-1.0-2.0-5-1.5-2:
+map            	all	0.5899
+recip_rank     	all	0.6700
+TREC Scores of test_res/RPLG-test/LG-1.0-2.0-5-2.0-1:
+map            	all	0.6367
+recip_rank     	all	0.7208
+TREC Scores of test_res/RPLG-test/LG-1.0-2.0-5-2.0-2:
+map            	all	0.5583
+recip_rank     	all	0.6292
+TREC Scores of test_res/RPLG-test/LG-1.5-0.5-3-0-1:
+map            	all	0.6128
+recip_rank     	all	0.7142
+TREC Scores of test_res/RPLG-test/LG-1.5-0.5-3-0-2:
+map            	all	0.6164
+recip_rank     	all	0.7005
+TREC Scores of test_res/RPLG-test/LG-1.5-0.5-3-0.8-1:
+map            	all	0.6231
+recip_rank     	all	0.7211
+TREC Scores of test_res/RPLG-test/LG-1.5-0.5-3-0.8-2:
+map            	all	0.6094
+recip_rank     	all	0.6833
+TREC Scores of test_res/RPLG-test/LG-1.5-0.5-3-1.0-1:
+map            	all	0.6231
+recip_rank     	all	0.7199
+TREC Scores of test_res/RPLG-test/LG-1.5-0.5-3-1.0-2:
+map            	all	0.6021
+recip_rank     	all	0.6709
+TREC Scores of test_res/RPLG-test/LG-1.5-0.5-3-1.25-1:
+map            	all	0.6264
+recip_rank     	all	0.7280
+TREC Scores of test_res/RPLG-test/LG-1.5-0.5-3-1.25-2:
+map            	all	0.5905
+recip_rank     	all	0.6524
+TREC Scores of test_res/RPLG-test/LG-1.5-0.5-3-1.5-1:
+map            	all	0.6296
+recip_rank     	all	0.7174
+TREC Scores of test_res/RPLG-test/LG-1.5-0.5-3-1.5-2:
+map            	all	0.5865
+recip_rank     	all	0.6349
+TREC Scores of test_res/RPLG-test/LG-1.5-0.5-3-2.0-1:
+map            	all	0.6330
+recip_rank     	all	0.7186
+TREC Scores of test_res/RPLG-test/LG-1.5-0.5-3-2.0-2:
+map            	all	0.5743
+recip_rank     	all	0.6224
+TREC Scores of test_res/RPLG-test/LG-1.5-0.5-5-0-1:
+map            	all	0.6131
+recip_rank     	all	0.7142
+TREC Scores of test_res/RPLG-test/LG-1.5-0.5-5-0-2:
+map            	all	0.6211
+recip_rank     	all	0.7166
+TREC Scores of test_res/RPLG-test/LG-1.5-0.5-5-0.8-1:
+map            	all	0.6221
+recip_rank     	all	0.7211
+TREC Scores of test_res/RPLG-test/LG-1.5-0.5-5-0.8-2:
+map            	all	0.6137
+recip_rank     	all	0.6992
+TREC Scores of test_res/RPLG-test/LG-1.5-0.5-5-1.0-1:
+map            	all	0.6231
+recip_rank     	all	0.7211
+TREC Scores of test_res/RPLG-test/LG-1.5-0.5-5-1.0-2:
+map            	all	0.6094
+recip_rank     	all	0.6917
+TREC Scores of test_res/RPLG-test/LG-1.5-0.5-5-1.25-1:
+map            	all	0.6266
+recip_rank     	all	0.7269
+TREC Scores of test_res/RPLG-test/LG-1.5-0.5-5-1.25-2:
+map            	all	0.5963
+recip_rank     	all	0.6684
+TREC Scores of test_res/RPLG-test/LG-1.5-0.5-5-1.5-1:
+map            	all	0.6290
+recip_rank     	all	0.7151
+TREC Scores of test_res/RPLG-test/LG-1.5-0.5-5-1.5-2:
+map            	all	0.5928
+recip_rank     	all	0.6579
+TREC Scores of test_res/RPLG-test/LG-1.5-0.5-5-2.0-1:
+map            	all	0.6317
+recip_rank     	all	0.7186
+TREC Scores of test_res/RPLG-test/LG-1.5-0.5-5-2.0-2:
+map            	all	0.5847
+recip_rank     	all	0.6469
+TREC Scores of test_res/RPLG-test/LG-1.5-0.75-3-0-1:
+map            	all	0.6142
+recip_rank     	all	0.7142
+TREC Scores of test_res/RPLG-test/LG-1.5-0.75-3-0-2:
+map            	all	0.6268
+recip_rank     	all	0.7293
+TREC Scores of test_res/RPLG-test/LG-1.5-0.75-3-0.8-1:
+map            	all	0.6230
+recip_rank     	all	0.7211
+TREC Scores of test_res/RPLG-test/LG-1.5-0.75-3-0.8-2:
+map            	all	0.6208
+recip_rank     	all	0.7039
+TREC Scores of test_res/RPLG-test/LG-1.5-0.75-3-1.0-1:
+map            	all	0.6247
+recip_rank     	all	0.7211
+TREC Scores of test_res/RPLG-test/LG-1.5-0.75-3-1.0-2:
+map            	all	0.6171
+recip_rank     	all	0.6989
+TREC Scores of test_res/RPLG-test/LG-1.5-0.75-3-1.25-1:
+map            	all	0.6261
+recip_rank     	all	0.7192
+TREC Scores of test_res/RPLG-test/LG-1.5-0.75-3-1.25-2:
+map            	all	0.6104
+recip_rank     	all	0.6891
+TREC Scores of test_res/RPLG-test/LG-1.5-0.75-3-1.5-1:
+map            	all	0.6391
+recip_rank     	all	0.7262
+TREC Scores of test_res/RPLG-test/LG-1.5-0.75-3-1.5-2:
+map            	all	0.5886
+recip_rank     	all	0.6618
+TREC Scores of test_res/RPLG-test/LG-1.5-0.75-3-2.0-1:
+map            	all	0.6358
+recip_rank     	all	0.7197
+TREC Scores of test_res/RPLG-test/LG-1.5-0.75-3-2.0-2:
+map            	all	0.5854
+recip_rank     	all	0.6620
+TREC Scores of test_res/RPLG-test/LG-1.5-0.75-5-0-1:
+map            	all	0.6184
+recip_rank     	all	0.7142
+TREC Scores of test_res/RPLG-test/LG-1.5-0.75-5-0-2:
+map            	all	0.6273
+recip_rank     	all	0.7354
+TREC Scores of test_res/RPLG-test/LG-1.5-0.75-5-0.8-1:
+map            	all	0.6194
+recip_rank     	all	0.7142
+TREC Scores of test_res/RPLG-test/LG-1.5-0.75-5-0.8-2:
+map            	all	0.6235
+recip_rank     	all	0.7170
+TREC Scores of test_res/RPLG-test/LG-1.5-0.75-5-1.0-1:
+map            	all	0.6209
+recip_rank     	all	0.7142
+TREC Scores of test_res/RPLG-test/LG-1.5-0.75-5-1.0-2:
+map            	all	0.6155
+recip_rank     	all	0.6984
+TREC Scores of test_res/RPLG-test/LG-1.5-0.75-5-1.25-1:
+map            	all	0.6236
+recip_rank     	all	0.7146
+TREC Scores of test_res/RPLG-test/LG-1.5-0.75-5-1.25-2:
+map            	all	0.6134
+recip_rank     	all	0.7039
+TREC Scores of test_res/RPLG-test/LG-1.5-0.75-5-1.5-1:
+map            	all	0.6337
+recip_rank     	all	0.7146
+TREC Scores of test_res/RPLG-test/LG-1.5-0.75-5-1.5-2:
+map            	all	0.5922
+recip_rank     	all	0.6760
+TREC Scores of test_res/RPLG-test/LG-1.5-0.75-5-2.0-1:
+map            	all	0.6300
+recip_rank     	all	0.7052
+TREC Scores of test_res/RPLG-test/LG-1.5-0.75-5-2.0-2:
+map            	all	0.5887
+recip_rank     	all	0.6730
+TREC Scores of test_res/RPLG-test/LG-1.5-1.0-3-0-1:
+map            	all	0.6139
+recip_rank     	all	0.7142
+TREC Scores of test_res/RPLG-test/LG-1.5-1.0-3-0-2:
+map            	all	0.6358
+recip_rank     	all	0.7548
+TREC Scores of test_res/RPLG-test/LG-1.5-1.0-3-0.8-1:
+map            	all	0.6227
+recip_rank     	all	0.7211
+TREC Scores of test_res/RPLG-test/LG-1.5-1.0-3-0.8-2:
+map            	all	0.6324
+recip_rank     	all	0.7274
+TREC Scores of test_res/RPLG-test/LG-1.5-1.0-3-1.0-1:
+map            	all	0.6240
+recip_rank     	all	0.7199
+TREC Scores of test_res/RPLG-test/LG-1.5-1.0-3-1.0-2:
+map            	all	0.6244
+recip_rank     	all	0.7177
+TREC Scores of test_res/RPLG-test/LG-1.5-1.0-3-1.25-1:
+map            	all	0.6256
+recip_rank     	all	0.7204
+TREC Scores of test_res/RPLG-test/LG-1.5-1.0-3-1.25-2:
+map            	all	0.6138
+recip_rank     	all	0.7013
+TREC Scores of test_res/RPLG-test/LG-1.5-1.0-3-1.5-1:
+map            	all	0.6419
+recip_rank     	all	0.7273
+TREC Scores of test_res/RPLG-test/LG-1.5-1.0-3-1.5-2:
+map            	all	0.6024
+recip_rank     	all	0.6932
+TREC Scores of test_res/RPLG-test/LG-1.5-1.0-3-2.0-1:
+map            	all	0.6337
+recip_rank     	all	0.7104
+TREC Scores of test_res/RPLG-test/LG-1.5-1.0-3-2.0-2:
+map            	all	0.5846
+recip_rank     	all	0.6740
+TREC Scores of test_res/RPLG-test/LG-1.5-1.0-5-0-1:
+map            	all	0.6193
+recip_rank     	all	0.7176
+TREC Scores of test_res/RPLG-test/LG-1.5-1.0-5-0-2:
+map            	all	0.6332
+recip_rank     	all	0.7513
+TREC Scores of test_res/RPLG-test/LG-1.5-1.0-5-0.8-1:
+map            	all	0.6200
+recip_rank     	all	0.7176
+TREC Scores of test_res/RPLG-test/LG-1.5-1.0-5-0.8-2:
+map            	all	0.6278
+recip_rank     	all	0.7233
+TREC Scores of test_res/RPLG-test/LG-1.5-1.0-5-1.0-1:
+map            	all	0.6207
+recip_rank     	all	0.7176
+TREC Scores of test_res/RPLG-test/LG-1.5-1.0-5-1.0-2:
+map            	all	0.6228
+recip_rank     	all	0.7229
+TREC Scores of test_res/RPLG-test/LG-1.5-1.0-5-1.25-1:
+map            	all	0.6243
+recip_rank     	all	0.7169
+TREC Scores of test_res/RPLG-test/LG-1.5-1.0-5-1.25-2:
+map            	all	0.6165
+recip_rank     	all	0.7179
+TREC Scores of test_res/RPLG-test/LG-1.5-1.0-5-1.5-1:
+map            	all	0.6349
+recip_rank     	all	0.7169
+TREC Scores of test_res/RPLG-test/LG-1.5-1.0-5-1.5-2:
+map            	all	0.6052
+recip_rank     	all	0.6981
+TREC Scores of test_res/RPLG-test/LG-1.5-1.0-5-2.0-1:
+map            	all	0.6278
+recip_rank     	all	0.6964
+TREC Scores of test_res/RPLG-test/LG-1.5-1.0-5-2.0-2:
+map            	all	0.5853
+recip_rank     	all	0.6751
+TREC Scores of test_res/RPLG-test/LG-1.5-1.5-3-0-1:
+map            	all	0.6161
+recip_rank     	all	0.7165
+TREC Scores of test_res/RPLG-test/LG-1.5-1.5-3-0-2:
+map            	all	0.6346
+recip_rank     	all	0.7478
+TREC Scores of test_res/RPLG-test/LG-1.5-1.5-3-0.8-1:
+map            	all	0.6245
+recip_rank     	all	0.7234
+TREC Scores of test_res/RPLG-test/LG-1.5-1.5-3-0.8-2:
+map            	all	0.6331
+recip_rank     	all	0.7144
+TREC Scores of test_res/RPLG-test/LG-1.5-1.5-3-1.0-1:
+map            	all	0.6257
+recip_rank     	all	0.7239
+TREC Scores of test_res/RPLG-test/LG-1.5-1.5-3-1.0-2:
+map            	all	0.6297
+recip_rank     	all	0.7147
+TREC Scores of test_res/RPLG-test/LG-1.5-1.5-3-1.25-1:
+map            	all	0.6281
+recip_rank     	all	0.7239
+TREC Scores of test_res/RPLG-test/LG-1.5-1.5-3-1.25-2:
+map            	all	0.6204
+recip_rank     	all	0.7157
+TREC Scores of test_res/RPLG-test/LG-1.5-1.5-3-1.5-1:
+map            	all	0.6399
+recip_rank     	all	0.7227
+TREC Scores of test_res/RPLG-test/LG-1.5-1.5-3-1.5-2:
+map            	all	0.5969
+recip_rank     	all	0.6855
+TREC Scores of test_res/RPLG-test/LG-1.5-1.5-3-2.0-1:
+map            	all	0.6406
+recip_rank     	all	0.7232
+TREC Scores of test_res/RPLG-test/LG-1.5-1.5-3-2.0-2:
+map            	all	0.5809
+recip_rank     	all	0.6612
+TREC Scores of test_res/RPLG-test/LG-1.5-1.5-5-0-1:
+map            	all	0.6207
+recip_rank     	all	0.7199
+TREC Scores of test_res/RPLG-test/LG-1.5-1.5-5-0-2:
+map            	all	0.6342
+recip_rank     	all	0.7462
+TREC Scores of test_res/RPLG-test/LG-1.5-1.5-5-0.8-1:
+map            	all	0.6212
+recip_rank     	all	0.7199
+TREC Scores of test_res/RPLG-test/LG-1.5-1.5-5-0.8-2:
+map            	all	0.6277
+recip_rank     	all	0.7138
+TREC Scores of test_res/RPLG-test/LG-1.5-1.5-5-1.0-1:
+map            	all	0.6221
+recip_rank     	all	0.7188
+TREC Scores of test_res/RPLG-test/LG-1.5-1.5-5-1.0-2:
+map            	all	0.6199
+recip_rank     	all	0.7139
+TREC Scores of test_res/RPLG-test/LG-1.5-1.5-5-1.25-1:
+map            	all	0.6256
+recip_rank     	all	0.7192
+TREC Scores of test_res/RPLG-test/LG-1.5-1.5-5-1.25-2:
+map            	all	0.6191
+recip_rank     	all	0.7091
+TREC Scores of test_res/RPLG-test/LG-1.5-1.5-5-1.5-1:
+map            	all	0.6308
+recip_rank     	all	0.7088
+TREC Scores of test_res/RPLG-test/LG-1.5-1.5-5-1.5-2:
+map            	all	0.6016
+recip_rank     	all	0.6858
+TREC Scores of test_res/RPLG-test/LG-1.5-1.5-5-2.0-1:
+map            	all	0.6391
+recip_rank     	all	0.7122
+TREC Scores of test_res/RPLG-test/LG-1.5-1.5-5-2.0-2:
+map            	all	0.5751
+recip_rank     	all	0.6600
+TREC Scores of test_res/RPLG-test/LG-1.5-2.0-3-0-1:
+map            	all	0.6157
+recip_rank     	all	0.7118
+TREC Scores of test_res/RPLG-test/LG-1.5-2.0-3-0-2:
+map            	all	0.6341
+recip_rank     	all	0.7432
+TREC Scores of test_res/RPLG-test/LG-1.5-2.0-3-0.8-1:
+map            	all	0.6237
+recip_rank     	all	0.7188
+TREC Scores of test_res/RPLG-test/LG-1.5-2.0-3-0.8-2:
+map            	all	0.6358
+recip_rank     	all	0.7169
+TREC Scores of test_res/RPLG-test/LG-1.5-2.0-3-1.0-1:
+map            	all	0.6251
+recip_rank     	all	0.7192
+TREC Scores of test_res/RPLG-test/LG-1.5-2.0-3-1.0-2:
+map            	all	0.6252
+recip_rank     	all	0.7105
+TREC Scores of test_res/RPLG-test/LG-1.5-2.0-3-1.25-1:
+map            	all	0.6276
+recip_rank     	all	0.7192
+TREC Scores of test_res/RPLG-test/LG-1.5-2.0-3-1.25-2:
+map            	all	0.6236
+recip_rank     	all	0.7234
+TREC Scores of test_res/RPLG-test/LG-1.5-2.0-3-1.5-1:
+map            	all	0.6385
+recip_rank     	all	0.7181
+TREC Scores of test_res/RPLG-test/LG-1.5-2.0-3-1.5-2:
+map            	all	0.6008
+recip_rank     	all	0.6887
+TREC Scores of test_res/RPLG-test/LG-1.5-2.0-3-2.0-1:
+map            	all	0.6340
+recip_rank     	all	0.7051
+TREC Scores of test_res/RPLG-test/LG-1.5-2.0-3-2.0-2:
+map            	all	0.5794
+recip_rank     	all	0.6611
+TREC Scores of test_res/RPLG-test/LG-1.5-2.0-5-0-1:
+map            	all	0.6207
+recip_rank     	all	0.7188
+TREC Scores of test_res/RPLG-test/LG-1.5-2.0-5-0-2:
+map            	all	0.6359
+recip_rank     	all	0.7462
+TREC Scores of test_res/RPLG-test/LG-1.5-2.0-5-0.8-1:
+map            	all	0.6209
+recip_rank     	all	0.7188
+TREC Scores of test_res/RPLG-test/LG-1.5-2.0-5-0.8-2:
+map            	all	0.6345
+recip_rank     	all	0.7257
+TREC Scores of test_res/RPLG-test/LG-1.5-2.0-5-1.0-1:
+map            	all	0.6220
+recip_rank     	all	0.7188
+TREC Scores of test_res/RPLG-test/LG-1.5-2.0-5-1.0-2:
+map            	all	0.6230
+recip_rank     	all	0.7153
+TREC Scores of test_res/RPLG-test/LG-1.5-2.0-5-1.25-1:
+map            	all	0.6245
+recip_rank     	all	0.7192
+TREC Scores of test_res/RPLG-test/LG-1.5-2.0-5-1.25-2:
+map            	all	0.6242
+recip_rank     	all	0.7104
+TREC Scores of test_res/RPLG-test/LG-1.5-2.0-5-1.5-1:
+map            	all	0.6302
+recip_rank     	all	0.7111
+TREC Scores of test_res/RPLG-test/LG-1.5-2.0-5-1.5-2:
+map            	all	0.6019
+recip_rank     	all	0.6837
+TREC Scores of test_res/RPLG-test/LG-1.5-2.0-5-2.0-1:
+map            	all	0.6348
+recip_rank     	all	0.7075
+TREC Scores of test_res/RPLG-test/LG-1.5-2.0-5-2.0-2:
+map            	all	0.5745
+recip_rank     	all	0.6555
+TREC Scores of test_res/RPLG-test/LG-2.0-0.5-3-0-1:
+map            	all	0.6045
+recip_rank     	all	0.7054
+TREC Scores of test_res/RPLG-test/LG-2.0-0.5-3-0-2:
+map            	all	0.6138
+recip_rank     	all	0.6975
+TREC Scores of test_res/RPLG-test/LG-2.0-0.5-3-0.8-1:
+map            	all	0.6124
+recip_rank     	all	0.7100
+TREC Scores of test_res/RPLG-test/LG-2.0-0.5-3-0.8-2:
+map            	all	0.6080
+recip_rank     	all	0.6806
+TREC Scores of test_res/RPLG-test/LG-2.0-0.5-3-1.0-1:
+map            	all	0.6131
+recip_rank     	all	0.7088
+TREC Scores of test_res/RPLG-test/LG-2.0-0.5-3-1.0-2:
+map            	all	0.6032
+recip_rank     	all	0.6736
+TREC Scores of test_res/RPLG-test/LG-2.0-0.5-3-1.25-1:
+map            	all	0.6182
+recip_rank     	all	0.7192
+TREC Scores of test_res/RPLG-test/LG-2.0-0.5-3-1.25-2:
+map            	all	0.5898
+recip_rank     	all	0.6522
+TREC Scores of test_res/RPLG-test/LG-2.0-0.5-3-1.5-1:
+map            	all	0.6201
+recip_rank     	all	0.7086
+TREC Scores of test_res/RPLG-test/LG-2.0-0.5-3-1.5-2:
+map            	all	0.5885
+recip_rank     	all	0.6482
+TREC Scores of test_res/RPLG-test/LG-2.0-0.5-3-2.0-1:
+map            	all	0.6237
+recip_rank     	all	0.7081
+TREC Scores of test_res/RPLG-test/LG-2.0-0.5-3-2.0-2:
+map            	all	0.5781
+recip_rank     	all	0.6247
+TREC Scores of test_res/RPLG-test/LG-2.0-0.5-5-0-1:
+map            	all	0.6050
+recip_rank     	all	0.7077
+TREC Scores of test_res/RPLG-test/LG-2.0-0.5-5-0-2:
+map            	all	0.6162
+recip_rank     	all	0.7042
+TREC Scores of test_res/RPLG-test/LG-2.0-0.5-5-0.8-1:
+map            	all	0.6131
+recip_rank     	all	0.7123
+TREC Scores of test_res/RPLG-test/LG-2.0-0.5-5-0.8-2:
+map            	all	0.6100
+recip_rank     	all	0.6867
+TREC Scores of test_res/RPLG-test/LG-2.0-0.5-5-1.0-1:
+map            	all	0.6139
+recip_rank     	all	0.7100
+TREC Scores of test_res/RPLG-test/LG-2.0-0.5-5-1.0-2:
+map            	all	0.6049
+recip_rank     	all	0.6801
+TREC Scores of test_res/RPLG-test/LG-2.0-0.5-5-1.25-1:
+map            	all	0.6195
+recip_rank     	all	0.7181
+TREC Scores of test_res/RPLG-test/LG-2.0-0.5-5-1.25-2:
+map            	all	0.5915
+recip_rank     	all	0.6566
+TREC Scores of test_res/RPLG-test/LG-2.0-0.5-5-1.5-1:
+map            	all	0.6204
+recip_rank     	all	0.7083
+TREC Scores of test_res/RPLG-test/LG-2.0-0.5-5-1.5-2:
+map            	all	0.5913
+recip_rank     	all	0.6561
+TREC Scores of test_res/RPLG-test/LG-2.0-0.5-5-2.0-1:
+map            	all	0.6274
+recip_rank     	all	0.7162
+TREC Scores of test_res/RPLG-test/LG-2.0-0.5-5-2.0-2:
+map            	all	0.5807
+recip_rank     	all	0.6405
+TREC Scores of test_res/RPLG-test/LG-2.0-0.75-3-0-1:
+map            	all	0.6084
+recip_rank     	all	0.7054
+TREC Scores of test_res/RPLG-test/LG-2.0-0.75-3-0-2:
+map            	all	0.6321
+recip_rank     	all	0.7265
+TREC Scores of test_res/RPLG-test/LG-2.0-0.75-3-0.8-1:
+map            	all	0.6187
+recip_rank     	all	0.7123
+TREC Scores of test_res/RPLG-test/LG-2.0-0.75-3-0.8-2:
+map            	all	0.6227
+recip_rank     	all	0.7036
+TREC Scores of test_res/RPLG-test/LG-2.0-0.75-3-1.0-1:
+map            	all	0.6190
+recip_rank     	all	0.7123
+TREC Scores of test_res/RPLG-test/LG-2.0-0.75-3-1.0-2:
+map            	all	0.6156
+recip_rank     	all	0.6958
+TREC Scores of test_res/RPLG-test/LG-2.0-0.75-3-1.25-1:
+map            	all	0.6195
+recip_rank     	all	0.7093
+TREC Scores of test_res/RPLG-test/LG-2.0-0.75-3-1.25-2:
+map            	all	0.6044
+recip_rank     	all	0.6761
+TREC Scores of test_res/RPLG-test/LG-2.0-0.75-3-1.5-1:
+map            	all	0.6330
+recip_rank     	all	0.7290
+TREC Scores of test_res/RPLG-test/LG-2.0-0.75-3-1.5-2:
+map            	all	0.5891
+recip_rank     	all	0.6523
+TREC Scores of test_res/RPLG-test/LG-2.0-0.75-3-2.0-1:
+map            	all	0.6298
+recip_rank     	all	0.7096
+TREC Scores of test_res/RPLG-test/LG-2.0-0.75-3-2.0-2:
+map            	all	0.5874
+recip_rank     	all	0.6561
+TREC Scores of test_res/RPLG-test/LG-2.0-0.75-5-0-1:
+map            	all	0.6175
+recip_rank     	all	0.7216
+TREC Scores of test_res/RPLG-test/LG-2.0-0.75-5-0-2:
+map            	all	0.6294
+recip_rank     	all	0.7286
+TREC Scores of test_res/RPLG-test/LG-2.0-0.75-5-0.8-1:
+map            	all	0.6195
+recip_rank     	all	0.7192
+TREC Scores of test_res/RPLG-test/LG-2.0-0.75-5-0.8-2:
+map            	all	0.6201
+recip_rank     	all	0.7055
+TREC Scores of test_res/RPLG-test/LG-2.0-0.75-5-1.0-1:
+map            	all	0.6214
+recip_rank     	all	0.7192
+TREC Scores of test_res/RPLG-test/LG-2.0-0.75-5-1.0-2:
+map            	all	0.6142
+recip_rank     	all	0.6957
+TREC Scores of test_res/RPLG-test/LG-2.0-0.75-5-1.25-1:
+map            	all	0.6223
+recip_rank     	all	0.7174
+TREC Scores of test_res/RPLG-test/LG-2.0-0.75-5-1.25-2:
+map            	all	0.6042
+recip_rank     	all	0.6854
+TREC Scores of test_res/RPLG-test/LG-2.0-0.75-5-1.5-1:
+map            	all	0.6328
+recip_rank     	all	0.7232
+TREC Scores of test_res/RPLG-test/LG-2.0-0.75-5-1.5-2:
+map            	all	0.5899
+recip_rank     	all	0.6623
+TREC Scores of test_res/RPLG-test/LG-2.0-0.75-5-2.0-1:
+map            	all	0.6290
+recip_rank     	all	0.7119
+TREC Scores of test_res/RPLG-test/LG-2.0-0.75-5-2.0-2:
+map            	all	0.5862
+recip_rank     	all	0.6563
+TREC Scores of test_res/RPLG-test/LG-2.0-1.0-3-0-1:
+map            	all	0.6103
+recip_rank     	all	0.7049
+TREC Scores of test_res/RPLG-test/LG-2.0-1.0-3-0-2:
+map            	all	0.6333
+recip_rank     	all	0.7362
+TREC Scores of test_res/RPLG-test/LG-2.0-1.0-3-0.8-1:
+map            	all	0.6189
+recip_rank     	all	0.7118
+TREC Scores of test_res/RPLG-test/LG-2.0-1.0-3-0.8-2:
+map            	all	0.6236
+recip_rank     	all	0.7065
+TREC Scores of test_res/RPLG-test/LG-2.0-1.0-3-1.0-1:
+map            	all	0.6213
+recip_rank     	all	0.7123
+TREC Scores of test_res/RPLG-test/LG-2.0-1.0-3-1.0-2:
+map            	all	0.6167
+recip_rank     	all	0.6969
+TREC Scores of test_res/RPLG-test/LG-2.0-1.0-3-1.25-1:
+map            	all	0.6225
+recip_rank     	all	0.7123
+TREC Scores of test_res/RPLG-test/LG-2.0-1.0-3-1.25-2:
+map            	all	0.6070
+recip_rank     	all	0.6869
+TREC Scores of test_res/RPLG-test/LG-2.0-1.0-3-1.5-1:
+map            	all	0.6388
+recip_rank     	all	0.7320
+TREC Scores of test_res/RPLG-test/LG-2.0-1.0-3-1.5-2:
+map            	all	0.5952
+recip_rank     	all	0.6682
+TREC Scores of test_res/RPLG-test/LG-2.0-1.0-3-2.0-1:
+map            	all	0.6274
+recip_rank     	all	0.6979
+TREC Scores of test_res/RPLG-test/LG-2.0-1.0-3-2.0-2:
+map            	all	0.5872
+recip_rank     	all	0.6647
+TREC Scores of test_res/RPLG-test/LG-2.0-1.0-5-0-1:
+map            	all	0.6183
+recip_rank     	all	0.7223
+TREC Scores of test_res/RPLG-test/LG-2.0-1.0-5-0-2:
+map            	all	0.6325
+recip_rank     	all	0.7467
+TREC Scores of test_res/RPLG-test/LG-2.0-1.0-5-0.8-1:
+map            	all	0.6201
+recip_rank     	all	0.7223
+TREC Scores of test_res/RPLG-test/LG-2.0-1.0-5-0.8-2:
+map            	all	0.6233
+recip_rank     	all	0.7169
+TREC Scores of test_res/RPLG-test/LG-2.0-1.0-5-1.0-1:
+map            	all	0.6218
+recip_rank     	all	0.7204
+TREC Scores of test_res/RPLG-test/LG-2.0-1.0-5-1.0-2:
+map            	all	0.6175
+recip_rank     	all	0.7145
+TREC Scores of test_res/RPLG-test/LG-2.0-1.0-5-1.25-1:
+map            	all	0.6234
+recip_rank     	all	0.7204
+TREC Scores of test_res/RPLG-test/LG-2.0-1.0-5-1.25-2:
+map            	all	0.6099
+recip_rank     	all	0.7043
+TREC Scores of test_res/RPLG-test/LG-2.0-1.0-5-1.5-1:
+map            	all	0.6366
+recip_rank     	all	0.7262
+TREC Scores of test_res/RPLG-test/LG-2.0-1.0-5-1.5-2:
+map            	all	0.6000
+recip_rank     	all	0.6869
+TREC Scores of test_res/RPLG-test/LG-2.0-1.0-5-2.0-1:
+map            	all	0.6278
+recip_rank     	all	0.6999
+TREC Scores of test_res/RPLG-test/LG-2.0-1.0-5-2.0-2:
+map            	all	0.5869
+recip_rank     	all	0.6715
+TREC Scores of test_res/RPLG-test/LG-2.0-1.5-3-0-1:
+map            	all	0.6125
+recip_rank     	all	0.7054
+TREC Scores of test_res/RPLG-test/LG-2.0-1.5-3-0-2:
+map            	all	0.6411
+recip_rank     	all	0.7474
+TREC Scores of test_res/RPLG-test/LG-2.0-1.5-3-0.8-1:
+map            	all	0.6215
+recip_rank     	all	0.7123
+TREC Scores of test_res/RPLG-test/LG-2.0-1.5-3-0.8-2:
+map            	all	0.6332
+recip_rank     	all	0.7131
+TREC Scores of test_res/RPLG-test/LG-2.0-1.5-3-1.0-1:
+map            	all	0.6235
+recip_rank     	all	0.7128
+TREC Scores of test_res/RPLG-test/LG-2.0-1.5-3-1.0-2:
+map            	all	0.6258
+recip_rank     	all	0.7075
+TREC Scores of test_res/RPLG-test/LG-2.0-1.5-3-1.25-1:
+map            	all	0.6240
+recip_rank     	all	0.7116
+TREC Scores of test_res/RPLG-test/LG-2.0-1.5-3-1.25-2:
+map            	all	0.6177
+recip_rank     	all	0.7004
+TREC Scores of test_res/RPLG-test/LG-2.0-1.5-3-1.5-1:
+map            	all	0.6360
+recip_rank     	all	0.7243
+TREC Scores of test_res/RPLG-test/LG-2.0-1.5-3-1.5-2:
+map            	all	0.6084
+recip_rank     	all	0.7025
+TREC Scores of test_res/RPLG-test/LG-2.0-1.5-3-2.0-1:
+map            	all	0.6344
+recip_rank     	all	0.7080
+TREC Scores of test_res/RPLG-test/LG-2.0-1.5-3-2.0-2:
+map            	all	0.5830
+recip_rank     	all	0.6619
+TREC Scores of test_res/RPLG-test/LG-2.0-1.5-5-0-1:
+map            	all	0.6212
+recip_rank     	all	0.7223
+TREC Scores of test_res/RPLG-test/LG-2.0-1.5-5-0-2:
+map            	all	0.6352
+recip_rank     	all	0.7548
+TREC Scores of test_res/RPLG-test/LG-2.0-1.5-5-0.8-1:
+map            	all	0.6227
+recip_rank     	all	0.7223
+TREC Scores of test_res/RPLG-test/LG-2.0-1.5-5-0.8-2:
+map            	all	0.6270
+recip_rank     	all	0.7224
+TREC Scores of test_res/RPLG-test/LG-2.0-1.5-5-1.0-1:
+map            	all	0.6243
+recip_rank     	all	0.7227
+TREC Scores of test_res/RPLG-test/LG-2.0-1.5-5-1.0-2:
+map            	all	0.6177
+recip_rank     	all	0.7146
+TREC Scores of test_res/RPLG-test/LG-2.0-1.5-5-1.25-1:
+map            	all	0.6263
+recip_rank     	all	0.7204
+TREC Scores of test_res/RPLG-test/LG-2.0-1.5-5-1.25-2:
+map            	all	0.6151
+recip_rank     	all	0.7097
+TREC Scores of test_res/RPLG-test/LG-2.0-1.5-5-1.5-1:
+map            	all	0.6293
+recip_rank     	all	0.7100
+TREC Scores of test_res/RPLG-test/LG-2.0-1.5-5-1.5-2:
+map            	all	0.6062
+recip_rank     	all	0.7013
+TREC Scores of test_res/RPLG-test/LG-2.0-1.5-5-2.0-1:
+map            	all	0.6361
+recip_rank     	all	0.7156
+TREC Scores of test_res/RPLG-test/LG-2.0-1.5-5-2.0-2:
+map            	all	0.5825
+recip_rank     	all	0.6689
+TREC Scores of test_res/RPLG-test/LG-2.0-2.0-3-0-1:
+map            	all	0.6087
+recip_rank     	all	0.6984
+TREC Scores of test_res/RPLG-test/LG-2.0-2.0-3-0-2:
+map            	all	0.6412
+recip_rank     	all	0.7485
+TREC Scores of test_res/RPLG-test/LG-2.0-2.0-3-0.8-1:
+map            	all	0.6180
+recip_rank     	all	0.7058
+TREC Scores of test_res/RPLG-test/LG-2.0-2.0-3-0.8-2:
+map            	all	0.6341
+recip_rank     	all	0.7149
+TREC Scores of test_res/RPLG-test/LG-2.0-2.0-3-1.0-1:
+map            	all	0.6185
+recip_rank     	all	0.7058
+TREC Scores of test_res/RPLG-test/LG-2.0-2.0-3-1.0-2:
+map            	all	0.6245
+recip_rank     	all	0.7100
+TREC Scores of test_res/RPLG-test/LG-2.0-2.0-3-1.25-1:
+map            	all	0.6193
+recip_rank     	all	0.7035
+TREC Scores of test_res/RPLG-test/LG-2.0-2.0-3-1.25-2:
+map            	all	0.6215
+recip_rank     	all	0.7133
+TREC Scores of test_res/RPLG-test/LG-2.0-2.0-3-1.5-1:
+map            	all	0.6310
+recip_rank     	all	0.7151
+TREC Scores of test_res/RPLG-test/LG-2.0-2.0-3-1.5-2:
+map            	all	0.6025
+recip_rank     	all	0.6964
+TREC Scores of test_res/RPLG-test/LG-2.0-2.0-3-2.0-1:
+map            	all	0.6288
+recip_rank     	all	0.6918
+TREC Scores of test_res/RPLG-test/LG-2.0-2.0-3-2.0-2:
+map            	all	0.5885
+recip_rank     	all	0.6707
+TREC Scores of test_res/RPLG-test/LG-2.0-2.0-5-0-1:
+map            	all	0.6251
+recip_rank     	all	0.7350
+TREC Scores of test_res/RPLG-test/LG-2.0-2.0-5-0-2:
+map            	all	0.6361
+recip_rank     	all	0.7478
+TREC Scores of test_res/RPLG-test/LG-2.0-2.0-5-0.8-1:
+map            	all	0.6271
+recip_rank     	all	0.7419
+TREC Scores of test_res/RPLG-test/LG-2.0-2.0-5-0.8-2:
+map            	all	0.6278
+recip_rank     	all	0.7128
+TREC Scores of test_res/RPLG-test/LG-2.0-2.0-5-1.0-1:
+map            	all	0.6270
+recip_rank     	all	0.7285
+TREC Scores of test_res/RPLG-test/LG-2.0-2.0-5-1.0-2:
+map            	all	0.6191
+recip_rank     	all	0.7131
+TREC Scores of test_res/RPLG-test/LG-2.0-2.0-5-1.25-1:
+map            	all	0.6283
+recip_rank     	all	0.7285
+TREC Scores of test_res/RPLG-test/LG-2.0-2.0-5-1.25-2:
+map            	all	0.6144
+recip_rank     	all	0.7027
+TREC Scores of test_res/RPLG-test/LG-2.0-2.0-5-1.5-1:
+map            	all	0.6324
+recip_rank     	all	0.7181
+TREC Scores of test_res/RPLG-test/LG-2.0-2.0-5-1.5-2:
+map            	all	0.6118
+recip_rank     	all	0.6980
+TREC Scores of test_res/RPLG-test/LG-2.0-2.0-5-2.0-1:
+map            	all	0.6408
+recip_rank     	all	0.7214
+TREC Scores of test_res/RPLG-test/LG-2.0-2.0-5-2.0-2:
+map            	all	0.5806
+recip_rank     	all	0.6590

@@ -1,0 +1,2881 @@
+Classifier: RPNBSIM
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-0.5-3-0-1:
+map            	all	0.5787
+recip_rank     	all	0.6464
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-0.5-3-0-2:
+map            	all	0.5803
+recip_rank     	all	0.6347
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-0.5-3-0.8-1:
+map            	all	0.5787
+recip_rank     	all	0.6464
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-0.5-3-0.8-2:
+map            	all	0.5796
+recip_rank     	all	0.6184
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-0.5-3-1.0-1:
+map            	all	0.5773
+recip_rank     	all	0.6466
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-0.5-3-1.0-2:
+map            	all	0.5835
+recip_rank     	all	0.6243
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-0.5-3-1.25-1:
+map            	all	0.5810
+recip_rank     	all	0.6484
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-0.5-3-1.25-2:
+map            	all	0.5712
+recip_rank     	all	0.6050
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-0.5-3-1.5-1:
+map            	all	0.5955
+recip_rank     	all	0.6663
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-0.5-3-1.5-2:
+map            	all	0.5601
+recip_rank     	all	0.5814
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-0.5-3-2.0-1:
+map            	all	0.5992
+recip_rank     	all	0.6493
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-0.5-3-2.0-2:
+map            	all	0.5432
+recip_rank     	all	0.5568
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-0.5-5-0-1:
+map            	all	0.5787
+recip_rank     	all	0.6464
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-0.5-5-0-2:
+map            	all	0.5831
+recip_rank     	all	0.6428
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-0.5-5-0.8-1:
+map            	all	0.5787
+recip_rank     	all	0.6464
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-0.5-5-0.8-2:
+map            	all	0.5835
+recip_rank     	all	0.6290
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-0.5-5-1.0-1:
+map            	all	0.5773
+recip_rank     	all	0.6466
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-0.5-5-1.0-2:
+map            	all	0.5854
+recip_rank     	all	0.6301
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-0.5-5-1.25-1:
+map            	all	0.5808
+recip_rank     	all	0.6484
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-0.5-5-1.25-2:
+map            	all	0.5749
+recip_rank     	all	0.6142
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-0.5-5-1.5-1:
+map            	all	0.5961
+recip_rank     	all	0.6734
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-0.5-5-1.5-2:
+map            	all	0.5627
+recip_rank     	all	0.5895
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-0.5-5-2.0-1:
+map            	all	0.5993
+recip_rank     	all	0.6493
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-0.5-5-2.0-2:
+map            	all	0.5456
+recip_rank     	all	0.5649
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-0.75-3-0-1:
+map            	all	0.5787
+recip_rank     	all	0.6464
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-0.75-3-0-2:
+map            	all	0.5812
+recip_rank     	all	0.6345
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-0.75-3-0.8-1:
+map            	all	0.5787
+recip_rank     	all	0.6464
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-0.75-3-0.8-2:
+map            	all	0.5798
+recip_rank     	all	0.6164
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-0.75-3-1.0-1:
+map            	all	0.5792
+recip_rank     	all	0.6466
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-0.75-3-1.0-2:
+map            	all	0.5765
+recip_rank     	all	0.6090
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-0.75-3-1.25-1:
+map            	all	0.5820
+recip_rank     	all	0.6484
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-0.75-3-1.25-2:
+map            	all	0.5672
+recip_rank     	all	0.5932
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-0.75-3-1.5-1:
+map            	all	0.6012
+recip_rank     	all	0.6734
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-0.75-3-1.5-2:
+map            	all	0.5572
+recip_rank     	all	0.5827
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-0.75-3-2.0-1:
+map            	all	0.5931
+recip_rank     	all	0.6372
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-0.75-3-2.0-2:
+map            	all	0.5474
+recip_rank     	all	0.5650
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-0.75-5-0-1:
+map            	all	0.5787
+recip_rank     	all	0.6464
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-0.75-5-0-2:
+map            	all	0.5815
+recip_rank     	all	0.6357
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-0.75-5-0.8-1:
+map            	all	0.5787
+recip_rank     	all	0.6464
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-0.75-5-0.8-2:
+map            	all	0.5808
+recip_rank     	all	0.6181
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-0.75-5-1.0-1:
+map            	all	0.5789
+recip_rank     	all	0.6466
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-0.75-5-1.0-2:
+map            	all	0.5731
+recip_rank     	all	0.6054
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-0.75-5-1.25-1:
+map            	all	0.5816
+recip_rank     	all	0.6484
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-0.75-5-1.25-2:
+map            	all	0.5682
+recip_rank     	all	0.5944
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-0.75-5-1.5-1:
+map            	all	0.6011
+recip_rank     	all	0.6663
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-0.75-5-1.5-2:
+map            	all	0.5584
+recip_rank     	all	0.5845
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-0.75-5-2.0-1:
+map            	all	0.5952
+recip_rank     	all	0.6444
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-0.75-5-2.0-2:
+map            	all	0.5466
+recip_rank     	all	0.5661
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-1.0-3-0-1:
+map            	all	0.5787
+recip_rank     	all	0.6464
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-1.0-3-0-2:
+map            	all	0.5807
+recip_rank     	all	0.6323
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-1.0-3-0.8-1:
+map            	all	0.5787
+recip_rank     	all	0.6464
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-1.0-3-0.8-2:
+map            	all	0.5775
+recip_rank     	all	0.6076
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-1.0-3-1.0-1:
+map            	all	0.5790
+recip_rank     	all	0.6464
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-1.0-3-1.0-2:
+map            	all	0.5749
+recip_rank     	all	0.6044
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-1.0-3-1.25-1:
+map            	all	0.5819
+recip_rank     	all	0.6484
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-1.0-3-1.25-2:
+map            	all	0.5676
+recip_rank     	all	0.5916
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-1.0-3-1.5-1:
+map            	all	0.5981
+recip_rank     	all	0.6663
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-1.0-3-1.5-2:
+map            	all	0.5562
+recip_rank     	all	0.5805
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-1.0-3-2.0-1:
+map            	all	0.5972
+recip_rank     	all	0.6455
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-1.0-3-2.0-2:
+map            	all	0.5393
+recip_rank     	all	0.5565
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-1.0-5-0-1:
+map            	all	0.5787
+recip_rank     	all	0.6464
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-1.0-5-0-2:
+map            	all	0.5831
+recip_rank     	all	0.6392
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-1.0-5-0.8-1:
+map            	all	0.5787
+recip_rank     	all	0.6464
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-1.0-5-0.8-2:
+map            	all	0.5793
+recip_rank     	all	0.6132
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-1.0-5-1.0-1:
+map            	all	0.5789
+recip_rank     	all	0.6466
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-1.0-5-1.0-2:
+map            	all	0.5748
+recip_rank     	all	0.6077
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-1.0-5-1.25-1:
+map            	all	0.5819
+recip_rank     	all	0.6484
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-1.0-5-1.25-2:
+map            	all	0.5708
+recip_rank     	all	0.5997
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-1.0-5-1.5-1:
+map            	all	0.6002
+recip_rank     	all	0.6663
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-1.0-5-1.5-2:
+map            	all	0.5585
+recip_rank     	all	0.5869
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-1.0-5-2.0-1:
+map            	all	0.5964
+recip_rank     	all	0.6372
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-1.0-5-2.0-2:
+map            	all	0.5436
+recip_rank     	all	0.5649
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-1.5-3-0-1:
+map            	all	0.5787
+recip_rank     	all	0.6464
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-1.5-3-0-2:
+map            	all	0.5830
+recip_rank     	all	0.6395
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-1.5-3-0.8-1:
+map            	all	0.5787
+recip_rank     	all	0.6464
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-1.5-3-0.8-2:
+map            	all	0.5770
+recip_rank     	all	0.6070
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-1.5-3-1.0-1:
+map            	all	0.5790
+recip_rank     	all	0.6464
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-1.5-3-1.0-2:
+map            	all	0.5750
+recip_rank     	all	0.6080
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-1.5-3-1.25-1:
+map            	all	0.5823
+recip_rank     	all	0.6484
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-1.5-3-1.25-2:
+map            	all	0.5643
+recip_rank     	all	0.5916
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-1.5-3-1.5-1:
+map            	all	0.5977
+recip_rank     	all	0.6663
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-1.5-3-1.5-2:
+map            	all	0.5584
+recip_rank     	all	0.5871
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-1.5-3-2.0-1:
+map            	all	0.5895
+recip_rank     	all	0.6360
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-1.5-3-2.0-2:
+map            	all	0.5412
+recip_rank     	all	0.5633
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-1.5-5-0-1:
+map            	all	0.5787
+recip_rank     	all	0.6464
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-1.5-5-0-2:
+map            	all	0.5819
+recip_rank     	all	0.6385
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-1.5-5-0.8-1:
+map            	all	0.5787
+recip_rank     	all	0.6464
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-1.5-5-0.8-2:
+map            	all	0.5773
+recip_rank     	all	0.6136
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-1.5-5-1.0-1:
+map            	all	0.5787
+recip_rank     	all	0.6464
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-1.5-5-1.0-2:
+map            	all	0.5718
+recip_rank     	all	0.6046
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-1.5-5-1.25-1:
+map            	all	0.5818
+recip_rank     	all	0.6484
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-1.5-5-1.25-2:
+map            	all	0.5666
+recip_rank     	all	0.5940
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-1.5-5-1.5-1:
+map            	all	0.5987
+recip_rank     	all	0.6663
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-1.5-5-1.5-2:
+map            	all	0.5571
+recip_rank     	all	0.5861
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-1.5-5-2.0-1:
+map            	all	0.5944
+recip_rank     	all	0.6384
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-1.5-5-2.0-2:
+map            	all	0.5408
+recip_rank     	all	0.5626
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-2.0-3-0-1:
+map            	all	0.5787
+recip_rank     	all	0.6464
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-2.0-3-0-2:
+map            	all	0.5821
+recip_rank     	all	0.6383
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-2.0-3-0.8-1:
+map            	all	0.5787
+recip_rank     	all	0.6464
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-2.0-3-0.8-2:
+map            	all	0.5767
+recip_rank     	all	0.6057
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-2.0-3-1.0-1:
+map            	all	0.5790
+recip_rank     	all	0.6464
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-2.0-3-1.0-2:
+map            	all	0.5681
+recip_rank     	all	0.5995
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-2.0-3-1.25-1:
+map            	all	0.5822
+recip_rank     	all	0.6484
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-2.0-3-1.25-2:
+map            	all	0.5633
+recip_rank     	all	0.5898
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-2.0-3-1.5-1:
+map            	all	0.5979
+recip_rank     	all	0.6663
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-2.0-3-1.5-2:
+map            	all	0.5561
+recip_rank     	all	0.5851
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-2.0-3-2.0-1:
+map            	all	0.5921
+recip_rank     	all	0.6360
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-2.0-3-2.0-2:
+map            	all	0.5381
+recip_rank     	all	0.5597
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-2.0-5-0-1:
+map            	all	0.5787
+recip_rank     	all	0.6464
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-2.0-5-0-2:
+map            	all	0.5816
+recip_rank     	all	0.6385
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-2.0-5-0.8-1:
+map            	all	0.5787
+recip_rank     	all	0.6464
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-2.0-5-0.8-2:
+map            	all	0.5755
+recip_rank     	all	0.6112
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-2.0-5-1.0-1:
+map            	all	0.5787
+recip_rank     	all	0.6464
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-2.0-5-1.0-2:
+map            	all	0.5635
+recip_rank     	all	0.5965
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-2.0-5-1.25-1:
+map            	all	0.5817
+recip_rank     	all	0.6484
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-2.0-5-1.25-2:
+map            	all	0.5685
+recip_rank     	all	0.5959
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-2.0-5-1.5-1:
+map            	all	0.5975
+recip_rank     	all	0.6663
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-2.0-5-1.5-2:
+map            	all	0.5525
+recip_rank     	all	0.5829
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-2.0-5-2.0-1:
+map            	all	0.5945
+recip_rank     	all	0.6384
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-0.5-2.0-5-2.0-2:
+map            	all	0.5322
+recip_rank     	all	0.5531
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-0.5-3-0-1:
+map            	all	0.5711
+recip_rank     	all	0.6304
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-0.5-3-0-2:
+map            	all	0.5961
+recip_rank     	all	0.6540
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-0.5-3-0.8-1:
+map            	all	0.5724
+recip_rank     	all	0.6316
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-0.5-3-0.8-2:
+map            	all	0.5890
+recip_rank     	all	0.6317
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-0.5-3-1.0-1:
+map            	all	0.5735
+recip_rank     	all	0.6316
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-0.5-3-1.0-2:
+map            	all	0.5872
+recip_rank     	all	0.6269
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-0.5-3-1.25-1:
+map            	all	0.5781
+recip_rank     	all	0.6335
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-0.5-3-1.25-2:
+map            	all	0.5769
+recip_rank     	all	0.6141
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-0.5-3-1.5-1:
+map            	all	0.5932
+recip_rank     	all	0.6502
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-0.5-3-1.5-2:
+map            	all	0.5766
+recip_rank     	all	0.6052
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-0.5-3-2.0-1:
+map            	all	0.5825
+recip_rank     	all	0.6186
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-0.5-3-2.0-2:
+map            	all	0.5606
+recip_rank     	all	0.5804
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-0.5-5-0-1:
+map            	all	0.5710
+recip_rank     	all	0.6306
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-0.5-5-0-2:
+map            	all	0.5961
+recip_rank     	all	0.6543
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-0.5-5-0.8-1:
+map            	all	0.5723
+recip_rank     	all	0.6319
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-0.5-5-0.8-2:
+map            	all	0.5893
+recip_rank     	all	0.6320
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-0.5-5-1.0-1:
+map            	all	0.5731
+recip_rank     	all	0.6319
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-0.5-5-1.0-2:
+map            	all	0.5875
+recip_rank     	all	0.6289
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-0.5-5-1.25-1:
+map            	all	0.5793
+recip_rank     	all	0.6409
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-0.5-5-1.25-2:
+map            	all	0.5776
+recip_rank     	all	0.6139
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-0.5-5-1.5-1:
+map            	all	0.5917
+recip_rank     	all	0.6481
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-0.5-5-1.5-2:
+map            	all	0.5760
+recip_rank     	all	0.6074
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-0.5-5-2.0-1:
+map            	all	0.5840
+recip_rank     	all	0.6189
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-0.5-5-2.0-2:
+map            	all	0.5602
+recip_rank     	all	0.5810
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-0.75-3-0-1:
+map            	all	0.5730
+recip_rank     	all	0.6345
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-0.75-3-0-2:
+map            	all	0.5958
+recip_rank     	all	0.6460
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-0.75-3-0.8-1:
+map            	all	0.5727
+recip_rank     	all	0.6350
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-0.75-3-0.8-2:
+map            	all	0.5892
+recip_rank     	all	0.6275
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-0.75-3-1.0-1:
+map            	all	0.5750
+recip_rank     	all	0.6365
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-0.75-3-1.0-2:
+map            	all	0.5837
+recip_rank     	all	0.6205
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-0.75-3-1.25-1:
+map            	all	0.5809
+recip_rank     	all	0.6401
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-0.75-3-1.25-2:
+map            	all	0.5772
+recip_rank     	all	0.6105
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-0.75-3-1.5-1:
+map            	all	0.5953
+recip_rank     	all	0.6472
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-0.75-3-1.5-2:
+map            	all	0.5814
+recip_rank     	all	0.6081
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-0.75-3-2.0-1:
+map            	all	0.5896
+recip_rank     	all	0.6276
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-0.75-3-2.0-2:
+map            	all	0.5518
+recip_rank     	all	0.5701
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-0.75-5-0-1:
+map            	all	0.5723
+recip_rank     	all	0.6247
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-0.75-5-0-2:
+map            	all	0.5955
+recip_rank     	all	0.6473
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-0.75-5-0.8-1:
+map            	all	0.5715
+recip_rank     	all	0.6252
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-0.75-5-0.8-2:
+map            	all	0.5884
+recip_rank     	all	0.6272
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-0.75-5-1.0-1:
+map            	all	0.5739
+recip_rank     	all	0.6267
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-0.75-5-1.0-2:
+map            	all	0.5784
+recip_rank     	all	0.6163
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-0.75-5-1.25-1:
+map            	all	0.5769
+recip_rank     	all	0.6279
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-0.75-5-1.25-2:
+map            	all	0.5738
+recip_rank     	all	0.6043
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-0.75-5-1.5-1:
+map            	all	0.5972
+recip_rank     	all	0.6446
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-0.75-5-1.5-2:
+map            	all	0.5735
+recip_rank     	all	0.5996
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-0.75-5-2.0-1:
+map            	all	0.5884
+recip_rank     	all	0.6180
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-0.75-5-2.0-2:
+map            	all	0.5536
+recip_rank     	all	0.5736
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-1.0-3-0-1:
+map            	all	0.5710
+recip_rank     	all	0.6286
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-1.0-3-0-2:
+map            	all	0.5933
+recip_rank     	all	0.6416
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-1.0-3-0.8-1:
+map            	all	0.5703
+recip_rank     	all	0.6288
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-1.0-3-0.8-2:
+map            	all	0.5831
+recip_rank     	all	0.6184
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-1.0-3-1.0-1:
+map            	all	0.5729
+recip_rank     	all	0.6305
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-1.0-3-1.0-2:
+map            	all	0.5726
+recip_rank     	all	0.6023
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-1.0-3-1.25-1:
+map            	all	0.5754
+recip_rank     	all	0.6305
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-1.0-3-1.25-2:
+map            	all	0.5681
+recip_rank     	all	0.5909
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-1.0-3-1.5-1:
+map            	all	0.5895
+recip_rank     	all	0.6413
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-1.0-3-1.5-2:
+map            	all	0.5715
+recip_rank     	all	0.5948
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-1.0-3-2.0-1:
+map            	all	0.5860
+recip_rank     	all	0.6151
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-1.0-3-2.0-2:
+map            	all	0.5552
+recip_rank     	all	0.5737
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-1.0-5-0-1:
+map            	all	0.5715
+recip_rank     	all	0.6258
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-1.0-5-0-2:
+map            	all	0.5953
+recip_rank     	all	0.6436
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-1.0-5-0.8-1:
+map            	all	0.5709
+recip_rank     	all	0.6260
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-1.0-5-0.8-2:
+map            	all	0.5858
+recip_rank     	all	0.6215
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-1.0-5-1.0-1:
+map            	all	0.5714
+recip_rank     	all	0.6207
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-1.0-5-1.0-2:
+map            	all	0.5759
+recip_rank     	all	0.6066
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-1.0-5-1.25-1:
+map            	all	0.5742
+recip_rank     	all	0.6207
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-1.0-5-1.25-2:
+map            	all	0.5692
+recip_rank     	all	0.5936
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-1.0-5-1.5-1:
+map            	all	0.5940
+recip_rank     	all	0.6385
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-1.0-5-1.5-2:
+map            	all	0.5723
+recip_rank     	all	0.5952
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-1.0-5-2.0-1:
+map            	all	0.5800
+recip_rank     	all	0.6064
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-1.0-5-2.0-2:
+map            	all	0.5550
+recip_rank     	all	0.5758
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-1.5-3-0-1:
+map            	all	0.5760
+recip_rank     	all	0.6429
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-1.5-3-0-2:
+map            	all	0.5889
+recip_rank     	all	0.6386
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-1.5-3-0.8-1:
+map            	all	0.5768
+recip_rank     	all	0.6430
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-1.5-3-0.8-2:
+map            	all	0.5767
+recip_rank     	all	0.6077
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-1.5-3-1.0-1:
+map            	all	0.5779
+recip_rank     	all	0.6436
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-1.5-3-1.0-2:
+map            	all	0.5704
+recip_rank     	all	0.5996
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-1.5-3-1.25-1:
+map            	all	0.5810
+recip_rank     	all	0.6448
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-1.5-3-1.25-2:
+map            	all	0.5586
+recip_rank     	all	0.5807
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-1.5-3-1.5-1:
+map            	all	0.5941
+recip_rank     	all	0.6555
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-1.5-3-1.5-2:
+map            	all	0.5627
+recip_rank     	all	0.5841
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-1.5-3-2.0-1:
+map            	all	0.5920
+recip_rank     	all	0.6305
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-1.5-3-2.0-2:
+map            	all	0.5516
+recip_rank     	all	0.5704
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-1.5-5-0-1:
+map            	all	0.5702
+recip_rank     	all	0.6210
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-1.5-5-0-2:
+map            	all	0.5904
+recip_rank     	all	0.6402
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-1.5-5-0.8-1:
+map            	all	0.5708
+recip_rank     	all	0.6212
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-1.5-5-0.8-2:
+map            	all	0.5815
+recip_rank     	all	0.6097
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-1.5-5-1.0-1:
+map            	all	0.5725
+recip_rank     	all	0.6223
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-1.5-5-1.0-2:
+map            	all	0.5723
+recip_rank     	all	0.6028
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-1.5-5-1.25-1:
+map            	all	0.5754
+recip_rank     	all	0.6230
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-1.5-5-1.25-2:
+map            	all	0.5602
+recip_rank     	all	0.5877
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-1.5-5-1.5-1:
+map            	all	0.5908
+recip_rank     	all	0.6409
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-1.5-5-1.5-2:
+map            	all	0.5602
+recip_rank     	all	0.5838
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-1.5-5-2.0-1:
+map            	all	0.5782
+recip_rank     	all	0.6016
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-1.5-5-2.0-2:
+map            	all	0.5495
+recip_rank     	all	0.5698
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-2.0-3-0-1:
+map            	all	0.5759
+recip_rank     	all	0.6429
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-2.0-3-0-2:
+map            	all	0.5913
+recip_rank     	all	0.6460
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-2.0-3-0.8-1:
+map            	all	0.5766
+recip_rank     	all	0.6430
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-2.0-3-0.8-2:
+map            	all	0.5789
+recip_rank     	all	0.6150
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-2.0-3-1.0-1:
+map            	all	0.5772
+recip_rank     	all	0.6433
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-2.0-3-1.0-2:
+map            	all	0.5709
+recip_rank     	all	0.6069
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-2.0-3-1.25-1:
+map            	all	0.5808
+recip_rank     	all	0.6448
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-2.0-3-1.25-2:
+map            	all	0.5638
+recip_rank     	all	0.5928
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-2.0-3-1.5-1:
+map            	all	0.5942
+recip_rank     	all	0.6627
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-2.0-3-1.5-2:
+map            	all	0.5652
+recip_rank     	all	0.5927
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-2.0-3-2.0-1:
+map            	all	0.5780
+recip_rank     	all	0.6151
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-2.0-3-2.0-2:
+map            	all	0.5520
+recip_rank     	all	0.5761
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-2.0-5-0-1:
+map            	all	0.5702
+recip_rank     	all	0.6210
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-2.0-5-0-2:
+map            	all	0.5873
+recip_rank     	all	0.6390
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-2.0-5-0.8-1:
+map            	all	0.5710
+recip_rank     	all	0.6212
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-2.0-5-0.8-2:
+map            	all	0.5791
+recip_rank     	all	0.6077
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-2.0-5-1.0-1:
+map            	all	0.5720
+recip_rank     	all	0.6218
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-2.0-5-1.0-2:
+map            	all	0.5676
+recip_rank     	all	0.5991
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-2.0-5-1.25-1:
+map            	all	0.5753
+recip_rank     	all	0.6230
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-2.0-5-1.25-2:
+map            	all	0.5595
+recip_rank     	all	0.5874
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-2.0-5-1.5-1:
+map            	all	0.5882
+recip_rank     	all	0.6337
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-2.0-5-1.5-2:
+map            	all	0.5581
+recip_rank     	all	0.5808
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-2.0-5-2.0-1:
+map            	all	0.5740
+recip_rank     	all	0.5968
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.0-2.0-5-2.0-2:
+map            	all	0.5468
+recip_rank     	all	0.5687
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-0.5-3-0-1:
+map            	all	0.5780
+recip_rank     	all	0.6527
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-0.5-3-0-2:
+map            	all	0.5882
+recip_rank     	all	0.6498
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-0.5-3-0.8-1:
+map            	all	0.5830
+recip_rank     	all	0.6539
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-0.5-3-0.8-2:
+map            	all	0.5824
+recip_rank     	all	0.6284
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-0.5-3-1.0-1:
+map            	all	0.5845
+recip_rank     	all	0.6539
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-0.5-3-1.0-2:
+map            	all	0.5775
+recip_rank     	all	0.6262
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-0.5-3-1.25-1:
+map            	all	0.5888
+recip_rank     	all	0.6558
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-0.5-3-1.25-2:
+map            	all	0.5715
+recip_rank     	all	0.6122
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-0.5-3-1.5-1:
+map            	all	0.5947
+recip_rank     	all	0.6468
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-0.5-3-1.5-2:
+map            	all	0.5755
+recip_rank     	all	0.6113
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-0.5-3-2.0-1:
+map            	all	0.5883
+recip_rank     	all	0.6314
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-0.5-3-2.0-2:
+map            	all	0.5587
+recip_rank     	all	0.5795
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-0.5-5-0-1:
+map            	all	0.5783
+recip_rank     	all	0.6531
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-0.5-5-0-2:
+map            	all	0.5881
+recip_rank     	all	0.6491
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-0.5-5-0.8-1:
+map            	all	0.5828
+recip_rank     	all	0.6544
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-0.5-5-0.8-2:
+map            	all	0.5807
+recip_rank     	all	0.6256
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-0.5-5-1.0-1:
+map            	all	0.5844
+recip_rank     	all	0.6544
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-0.5-5-1.0-2:
+map            	all	0.5764
+recip_rank     	all	0.6266
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-0.5-5-1.25-1:
+map            	all	0.5895
+recip_rank     	all	0.6563
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-0.5-5-1.25-2:
+map            	all	0.5728
+recip_rank     	all	0.6112
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-0.5-5-1.5-1:
+map            	all	0.5967
+recip_rank     	all	0.6622
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-0.5-5-1.5-2:
+map            	all	0.5746
+recip_rank     	all	0.6127
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-0.5-5-2.0-1:
+map            	all	0.5886
+recip_rank     	all	0.6319
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-0.5-5-2.0-2:
+map            	all	0.5575
+recip_rank     	all	0.5771
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-0.75-3-0-1:
+map            	all	0.5761
+recip_rank     	all	0.6423
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-0.75-3-0-2:
+map            	all	0.5944
+recip_rank     	all	0.6473
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-0.75-3-0.8-1:
+map            	all	0.5784
+recip_rank     	all	0.6435
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-0.75-3-0.8-2:
+map            	all	0.5839
+recip_rank     	all	0.6299
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-0.75-3-1.0-1:
+map            	all	0.5798
+recip_rank     	all	0.6435
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-0.75-3-1.0-2:
+map            	all	0.5811
+recip_rank     	all	0.6259
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-0.75-3-1.25-1:
+map            	all	0.5879
+recip_rank     	all	0.6478
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-0.75-3-1.25-2:
+map            	all	0.5764
+recip_rank     	all	0.6109
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-0.75-3-1.5-1:
+map            	all	0.5957
+recip_rank     	all	0.6538
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-0.75-3-1.5-2:
+map            	all	0.5763
+recip_rank     	all	0.6072
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-0.75-3-2.0-1:
+map            	all	0.5868
+recip_rank     	all	0.6289
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-0.75-3-2.0-2:
+map            	all	0.5597
+recip_rank     	all	0.5812
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-0.75-5-0-1:
+map            	all	0.5754
+recip_rank     	all	0.6430
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-0.75-5-0-2:
+map            	all	0.5962
+recip_rank     	all	0.6471
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-0.75-5-0.8-1:
+map            	all	0.5772
+recip_rank     	all	0.6443
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-0.75-5-0.8-2:
+map            	all	0.5852
+recip_rank     	all	0.6311
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-0.75-5-1.0-1:
+map            	all	0.5780
+recip_rank     	all	0.6443
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-0.75-5-1.0-2:
+map            	all	0.5768
+recip_rank     	all	0.6194
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-0.75-5-1.25-1:
+map            	all	0.5844
+recip_rank     	all	0.6462
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-0.75-5-1.25-2:
+map            	all	0.5757
+recip_rank     	all	0.6097
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-0.75-5-1.5-1:
+map            	all	0.5974
+recip_rank     	all	0.6557
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-0.75-5-1.5-2:
+map            	all	0.5766
+recip_rank     	all	0.6058
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-0.75-5-2.0-1:
+map            	all	0.5867
+recip_rank     	all	0.6295
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-0.75-5-2.0-2:
+map            	all	0.5609
+recip_rank     	all	0.5817
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-1.0-3-0-1:
+map            	all	0.5779
+recip_rank     	all	0.6336
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-1.0-3-0-2:
+map            	all	0.5946
+recip_rank     	all	0.6494
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-1.0-3-0.8-1:
+map            	all	0.5768
+recip_rank     	all	0.6269
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-1.0-3-0.8-2:
+map            	all	0.5892
+recip_rank     	all	0.6389
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-1.0-3-1.0-1:
+map            	all	0.5793
+recip_rank     	all	0.6277
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-1.0-3-1.0-2:
+map            	all	0.5765
+recip_rank     	all	0.6168
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-1.0-3-1.25-1:
+map            	all	0.5819
+recip_rank     	all	0.6284
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-1.0-3-1.25-2:
+map            	all	0.5694
+recip_rank     	all	0.5969
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-1.0-3-1.5-1:
+map            	all	0.5963
+recip_rank     	all	0.6463
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-1.0-3-1.5-2:
+map            	all	0.5768
+recip_rank     	all	0.6050
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-1.0-3-2.0-1:
+map            	all	0.5876
+recip_rank     	all	0.6157
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-1.0-3-2.0-2:
+map            	all	0.5575
+recip_rank     	all	0.5830
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-1.0-5-0-1:
+map            	all	0.5720
+recip_rank     	all	0.6272
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-1.0-5-0-2:
+map            	all	0.5948
+recip_rank     	all	0.6423
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-1.0-5-0.8-1:
+map            	all	0.5719
+recip_rank     	all	0.6276
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-1.0-5-0.8-2:
+map            	all	0.5848
+recip_rank     	all	0.6284
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-1.0-5-1.0-1:
+map            	all	0.5729
+recip_rank     	all	0.6220
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-1.0-5-1.0-2:
+map            	all	0.5728
+recip_rank     	all	0.6071
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-1.0-5-1.25-1:
+map            	all	0.5760
+recip_rank     	all	0.6220
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-1.0-5-1.25-2:
+map            	all	0.5684
+recip_rank     	all	0.5891
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-1.0-5-1.5-1:
+map            	all	0.5932
+recip_rank     	all	0.6399
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-1.0-5-1.5-2:
+map            	all	0.5736
+recip_rank     	all	0.5950
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-1.0-5-2.0-1:
+map            	all	0.5809
+recip_rank     	all	0.6101
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-1.0-5-2.0-2:
+map            	all	0.5572
+recip_rank     	all	0.5776
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-1.5-3-0-1:
+map            	all	0.5751
+recip_rank     	all	0.6265
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-1.5-3-0-2:
+map            	all	0.5892
+recip_rank     	all	0.6320
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-1.5-3-0.8-1:
+map            	all	0.5752
+recip_rank     	all	0.6267
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-1.5-3-0.8-2:
+map            	all	0.5778
+recip_rank     	all	0.6159
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-1.5-3-1.0-1:
+map            	all	0.5773
+recip_rank     	all	0.6277
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-1.5-3-1.0-2:
+map            	all	0.5631
+recip_rank     	all	0.5877
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-1.5-3-1.25-1:
+map            	all	0.5799
+recip_rank     	all	0.6284
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-1.5-3-1.25-2:
+map            	all	0.5574
+recip_rank     	all	0.5732
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-1.5-3-1.5-1:
+map            	all	0.5914
+recip_rank     	all	0.6463
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-1.5-3-1.5-2:
+map            	all	0.5659
+recip_rank     	all	0.5814
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-1.5-3-2.0-1:
+map            	all	0.5853
+recip_rank     	all	0.6094
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-1.5-3-2.0-2:
+map            	all	0.5492
+recip_rank     	all	0.5653
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-1.5-5-0-1:
+map            	all	0.5712
+recip_rank     	all	0.6201
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-1.5-5-0-2:
+map            	all	0.5932
+recip_rank     	all	0.6422
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-1.5-5-0.8-1:
+map            	all	0.5713
+recip_rank     	all	0.6132
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-1.5-5-0.8-2:
+map            	all	0.5754
+recip_rank     	all	0.6111
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-1.5-5-1.0-1:
+map            	all	0.5734
+recip_rank     	all	0.6150
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-1.5-5-1.0-2:
+map            	all	0.5640
+recip_rank     	all	0.5965
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-1.5-5-1.25-1:
+map            	all	0.5757
+recip_rank     	all	0.6150
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-1.5-5-1.25-2:
+map            	all	0.5607
+recip_rank     	all	0.5885
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-1.5-5-1.5-1:
+map            	all	0.5883
+recip_rank     	all	0.6233
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-1.5-5-1.5-2:
+map            	all	0.5647
+recip_rank     	all	0.5864
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-1.5-5-2.0-1:
+map            	all	0.5764
+recip_rank     	all	0.5935
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-1.5-5-2.0-2:
+map            	all	0.5531
+recip_rank     	all	0.5740
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-2.0-3-0-1:
+map            	all	0.5759
+recip_rank     	all	0.6268
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-2.0-3-0-2:
+map            	all	0.5863
+recip_rank     	all	0.6282
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-2.0-3-0.8-1:
+map            	all	0.5760
+recip_rank     	all	0.6270
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-2.0-3-0.8-2:
+map            	all	0.5697
+recip_rank     	all	0.5966
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-2.0-3-1.0-1:
+map            	all	0.5773
+recip_rank     	all	0.6273
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-2.0-3-1.0-2:
+map            	all	0.5609
+recip_rank     	all	0.5868
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-2.0-3-1.25-1:
+map            	all	0.5811
+recip_rank     	all	0.6288
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-2.0-3-1.25-2:
+map            	all	0.5551
+recip_rank     	all	0.5697
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-2.0-3-1.5-1:
+map            	all	0.5901
+recip_rank     	all	0.6466
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-2.0-3-1.5-2:
+map            	all	0.5611
+recip_rank     	all	0.5767
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-2.0-3-2.0-1:
+map            	all	0.5780
+recip_rank     	all	0.6002
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-2.0-3-2.0-2:
+map            	all	0.5490
+recip_rank     	all	0.5643
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-2.0-5-0-1:
+map            	all	0.5704
+recip_rank     	all	0.6127
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-2.0-5-0-2:
+map            	all	0.5875
+recip_rank     	all	0.6325
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-2.0-5-0.8-1:
+map            	all	0.5719
+recip_rank     	all	0.6129
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-2.0-5-0.8-2:
+map            	all	0.5725
+recip_rank     	all	0.6022
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-2.0-5-1.0-1:
+map            	all	0.5745
+recip_rank     	all	0.6147
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-2.0-5-1.0-2:
+map            	all	0.5622
+recip_rank     	all	0.5911
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-2.0-5-1.25-1:
+map            	all	0.5756
+recip_rank     	all	0.6147
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-2.0-5-1.25-2:
+map            	all	0.5551
+recip_rank     	all	0.5780
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-2.0-5-1.5-1:
+map            	all	0.5860
+recip_rank     	all	0.6218
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-2.0-5-1.5-2:
+map            	all	0.5593
+recip_rank     	all	0.5763
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-2.0-5-2.0-1:
+map            	all	0.5692
+recip_rank     	all	0.5861
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-1.5-2.0-5-2.0-2:
+map            	all	0.5447
+recip_rank     	all	0.5613
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-0.5-3-0-1:
+map            	all	0.5781
+recip_rank     	all	0.6386
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-0.5-3-0-2:
+map            	all	0.5900
+recip_rank     	all	0.6576
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-0.5-3-0.8-1:
+map            	all	0.5861
+recip_rank     	all	0.6541
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-0.5-3-0.8-2:
+map            	all	0.5843
+recip_rank     	all	0.6279
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-0.5-3-1.0-1:
+map            	all	0.5902
+recip_rank     	all	0.6560
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-0.5-3-1.0-2:
+map            	all	0.5816
+recip_rank     	all	0.6279
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-0.5-3-1.25-1:
+map            	all	0.5876
+recip_rank     	all	0.6560
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-0.5-3-1.25-2:
+map            	all	0.5798
+recip_rank     	all	0.6154
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-0.5-3-1.5-1:
+map            	all	0.5971
+recip_rank     	all	0.6541
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-0.5-3-1.5-2:
+map            	all	0.5809
+recip_rank     	all	0.6151
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-0.5-3-2.0-1:
+map            	all	0.5921
+recip_rank     	all	0.6314
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-0.5-3-2.0-2:
+map            	all	0.5640
+recip_rank     	all	0.5816
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-0.5-5-0-1:
+map            	all	0.5766
+recip_rank     	all	0.6354
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-0.5-5-0-2:
+map            	all	0.5920
+recip_rank     	all	0.6570
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-0.5-5-0.8-1:
+map            	all	0.5846
+recip_rank     	all	0.6516
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-0.5-5-0.8-2:
+map            	all	0.5834
+recip_rank     	all	0.6271
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-0.5-5-1.0-1:
+map            	all	0.5889
+recip_rank     	all	0.6535
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-0.5-5-1.0-2:
+map            	all	0.5810
+recip_rank     	all	0.6267
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-0.5-5-1.25-1:
+map            	all	0.5881
+recip_rank     	all	0.6535
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-0.5-5-1.25-2:
+map            	all	0.5808
+recip_rank     	all	0.6174
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-0.5-5-1.5-1:
+map            	all	0.5973
+recip_rank     	all	0.6588
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-0.5-5-1.5-2:
+map            	all	0.5820
+recip_rank     	all	0.6160
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-0.5-5-2.0-1:
+map            	all	0.5912
+recip_rank     	all	0.6291
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-0.5-5-2.0-2:
+map            	all	0.5630
+recip_rank     	all	0.5828
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-0.75-3-0-1:
+map            	all	0.5779
+recip_rank     	all	0.6372
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-0.75-3-0-2:
+map            	all	0.5912
+recip_rank     	all	0.6444
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-0.75-3-0.8-1:
+map            	all	0.5803
+recip_rank     	all	0.6385
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-0.75-3-0.8-2:
+map            	all	0.5864
+recip_rank     	all	0.6274
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-0.75-3-1.0-1:
+map            	all	0.5821
+recip_rank     	all	0.6385
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-0.75-3-1.0-2:
+map            	all	0.5798
+recip_rank     	all	0.6156
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-0.75-3-1.25-1:
+map            	all	0.5851
+recip_rank     	all	0.6404
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-0.75-3-1.25-2:
+map            	all	0.5739
+recip_rank     	all	0.6014
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-0.75-3-1.5-1:
+map            	all	0.5983
+recip_rank     	all	0.6551
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-0.75-3-1.5-2:
+map            	all	0.5766
+recip_rank     	all	0.5978
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-0.75-3-2.0-1:
+map            	all	0.5882
+recip_rank     	all	0.6255
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-0.75-3-2.0-2:
+map            	all	0.5629
+recip_rank     	all	0.5815
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-0.75-5-0-1:
+map            	all	0.5726
+recip_rank     	all	0.6248
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-0.75-5-0-2:
+map            	all	0.5914
+recip_rank     	all	0.6437
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-0.75-5-0.8-1:
+map            	all	0.5760
+recip_rank     	all	0.6332
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-0.75-5-0.8-2:
+map            	all	0.5852
+recip_rank     	all	0.6278
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-0.75-5-1.0-1:
+map            	all	0.5774
+recip_rank     	all	0.6332
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-0.75-5-1.0-2:
+map            	all	0.5731
+recip_rank     	all	0.6081
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-0.75-5-1.25-1:
+map            	all	0.5798
+recip_rank     	all	0.6339
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-0.75-5-1.25-2:
+map            	all	0.5727
+recip_rank     	all	0.6000
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-0.75-5-1.5-1:
+map            	all	0.5896
+recip_rank     	all	0.6422
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-0.75-5-1.5-2:
+map            	all	0.5746
+recip_rank     	all	0.5971
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-0.75-5-2.0-1:
+map            	all	0.5846
+recip_rank     	all	0.6208
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-0.75-5-2.0-2:
+map            	all	0.5628
+recip_rank     	all	0.5799
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-1.0-3-0-1:
+map            	all	0.5794
+recip_rank     	all	0.6351
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-1.0-3-0-2:
+map            	all	0.5923
+recip_rank     	all	0.6367
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-1.0-3-0.8-1:
+map            	all	0.5810
+recip_rank     	all	0.6364
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-1.0-3-0.8-2:
+map            	all	0.5831
+recip_rank     	all	0.6290
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-1.0-3-1.0-1:
+map            	all	0.5820
+recip_rank     	all	0.6364
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-1.0-3-1.0-2:
+map            	all	0.5729
+recip_rank     	all	0.6038
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-1.0-3-1.25-1:
+map            	all	0.5836
+recip_rank     	all	0.6364
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-1.0-3-1.25-2:
+map            	all	0.5730
+recip_rank     	all	0.5955
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-1.0-3-1.5-1:
+map            	all	0.5975
+recip_rank     	all	0.6538
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-1.0-3-1.5-2:
+map            	all	0.5763
+recip_rank     	all	0.5942
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-1.0-3-2.0-1:
+map            	all	0.5859
+recip_rank     	all	0.6163
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-1.0-3-2.0-2:
+map            	all	0.5595
+recip_rank     	all	0.5752
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-1.0-5-0-1:
+map            	all	0.5677
+recip_rank     	all	0.6142
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-1.0-5-0-2:
+map            	all	0.5911
+recip_rank     	all	0.6356
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-1.0-5-0.8-1:
+map            	all	0.5706
+recip_rank     	all	0.6226
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-1.0-5-0.8-2:
+map            	all	0.5759
+recip_rank     	all	0.6179
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-1.0-5-1.0-1:
+map            	all	0.5717
+recip_rank     	all	0.6226
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-1.0-5-1.0-2:
+map            	all	0.5682
+recip_rank     	all	0.5998
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-1.0-5-1.25-1:
+map            	all	0.5736
+recip_rank     	all	0.6226
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-1.0-5-1.25-2:
+map            	all	0.5672
+recip_rank     	all	0.5889
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-1.0-5-1.5-1:
+map            	all	0.5912
+recip_rank     	all	0.6412
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-1.0-5-1.5-2:
+map            	all	0.5690
+recip_rank     	all	0.5881
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-1.0-5-2.0-1:
+map            	all	0.5766
+recip_rank     	all	0.6062
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-1.0-5-2.0-2:
+map            	all	0.5526
+recip_rank     	all	0.5722
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-1.5-3-0-1:
+map            	all	0.5739
+recip_rank     	all	0.6213
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-1.5-3-0-2:
+map            	all	0.5826
+recip_rank     	all	0.6166
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-1.5-3-0.8-1:
+map            	all	0.5744
+recip_rank     	all	0.6215
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-1.5-3-0.8-2:
+map            	all	0.5679
+recip_rank     	all	0.5950
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-1.5-3-1.0-1:
+map            	all	0.5736
+recip_rank     	all	0.6155
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-1.5-3-1.0-2:
+map            	all	0.5568
+recip_rank     	all	0.5764
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-1.5-3-1.25-1:
+map            	all	0.5754
+recip_rank     	all	0.6155
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-1.5-3-1.25-2:
+map            	all	0.5560
+recip_rank     	all	0.5635
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-1.5-3-1.5-1:
+map            	all	0.5899
+recip_rank     	all	0.6340
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-1.5-3-1.5-2:
+map            	all	0.5579
+recip_rank     	all	0.5628
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-1.5-3-2.0-1:
+map            	all	0.5805
+recip_rank     	all	0.6031
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-1.5-3-2.0-2:
+map            	all	0.5457
+recip_rank     	all	0.5525
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-1.5-5-0-1:
+map            	all	0.5665
+recip_rank     	all	0.6068
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-1.5-5-0-2:
+map            	all	0.5880
+recip_rank     	all	0.6302
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-1.5-5-0.8-1:
+map            	all	0.5688
+recip_rank     	all	0.6144
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-1.5-5-0.8-2:
+map            	all	0.5622
+recip_rank     	all	0.5935
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-1.5-5-1.0-1:
+map            	all	0.5693
+recip_rank     	all	0.6088
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-1.5-5-1.0-2:
+map            	all	0.5565
+recip_rank     	all	0.5866
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-1.5-5-1.25-1:
+map            	all	0.5709
+recip_rank     	all	0.6088
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-1.5-5-1.25-2:
+map            	all	0.5565
+recip_rank     	all	0.5770
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-1.5-5-1.5-1:
+map            	all	0.5857
+recip_rank     	all	0.6159
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-1.5-5-1.5-2:
+map            	all	0.5547
+recip_rank     	all	0.5714
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-1.5-5-2.0-1:
+map            	all	0.5723
+recip_rank     	all	0.5952
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-1.5-5-2.0-2:
+map            	all	0.5485
+recip_rank     	all	0.5652
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-2.0-3-0-1:
+map            	all	0.5738
+recip_rank     	all	0.6213
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-2.0-3-0-2:
+map            	all	0.5806
+recip_rank     	all	0.6143
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-2.0-3-0.8-1:
+map            	all	0.5729
+recip_rank     	all	0.6144
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-2.0-3-0.8-2:
+map            	all	0.5670
+recip_rank     	all	0.5913
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-2.0-3-1.0-1:
+map            	all	0.5742
+recip_rank     	all	0.6150
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-2.0-3-1.0-2:
+map            	all	0.5545
+recip_rank     	all	0.5704
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-2.0-3-1.25-1:
+map            	all	0.5748
+recip_rank     	all	0.6155
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-2.0-3-1.25-2:
+map            	all	0.5524
+recip_rank     	all	0.5568
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-2.0-3-1.5-1:
+map            	all	0.5847
+recip_rank     	all	0.6305
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-2.0-3-1.5-2:
+map            	all	0.5580
+recip_rank     	all	0.5624
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-2.0-3-2.0-1:
+map            	all	0.5725
+recip_rank     	all	0.5869
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-2.0-3-2.0-2:
+map            	all	0.5456
+recip_rank     	all	0.5503
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-2.0-5-0-1:
+map            	all	0.5655
+recip_rank     	all	0.5999
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-2.0-5-0-2:
+map            	all	0.5862
+recip_rank     	all	0.6301
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-2.0-5-0.8-1:
+map            	all	0.5697
+recip_rank     	all	0.6078
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-2.0-5-0.8-2:
+map            	all	0.5620
+recip_rank     	all	0.5936
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-2.0-5-1.0-1:
+map            	all	0.5693
+recip_rank     	all	0.6019
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-2.0-5-1.0-2:
+map            	all	0.5558
+recip_rank     	all	0.5868
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-2.0-5-1.25-1:
+map            	all	0.5709
+recip_rank     	all	0.6019
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-2.0-5-1.25-2:
+map            	all	0.5521
+recip_rank     	all	0.5724
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-2.0-5-1.5-1:
+map            	all	0.5827
+recip_rank     	all	0.6161
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-2.0-5-1.5-2:
+map            	all	0.5543
+recip_rank     	all	0.5720
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-2.0-5-2.0-1:
+map            	all	0.5683
+recip_rank     	all	0.5883
+TREC Scores of test_res/RPNBSIM-dev/NBSIM-2.0-2.0-5-2.0-2:
+map            	all	0.5453
+recip_rank     	all	0.5622
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-0.5-3-0-1:
+map            	all	0.5992
+recip_rank     	all	0.6594
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-0.5-3-0-2:
+map            	all	0.6082
+recip_rank     	all	0.6766
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-0.5-3-0.8-1:
+map            	all	0.5991
+recip_rank     	all	0.6594
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-0.5-3-0.8-2:
+map            	all	0.6111
+recip_rank     	all	0.6935
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-0.5-3-1.0-1:
+map            	all	0.6001
+recip_rank     	all	0.6594
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-0.5-3-1.0-2:
+map            	all	0.6061
+recip_rank     	all	0.6679
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-0.5-3-1.25-1:
+map            	all	0.6114
+recip_rank     	all	0.6722
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-0.5-3-1.25-2:
+map            	all	0.5979
+recip_rank     	all	0.6540
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-0.5-3-1.5-1:
+map            	all	0.6176
+recip_rank     	all	0.6888
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-0.5-3-1.5-2:
+map            	all	0.5830
+recip_rank     	all	0.6354
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-0.5-3-2.0-1:
+map            	all	0.6103
+recip_rank     	all	0.6676
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-0.5-3-2.0-2:
+map            	all	0.5465
+recip_rank     	all	0.5927
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-0.5-5-0-1:
+map            	all	0.5992
+recip_rank     	all	0.6594
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-0.5-5-0-2:
+map            	all	0.6093
+recip_rank     	all	0.6789
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-0.5-5-0.8-1:
+map            	all	0.5991
+recip_rank     	all	0.6594
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-0.5-5-0.8-2:
+map            	all	0.6100
+recip_rank     	all	0.6886
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-0.5-5-1.0-1:
+map            	all	0.6000
+recip_rank     	all	0.6594
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-0.5-5-1.0-2:
+map            	all	0.6104
+recip_rank     	all	0.6772
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-0.5-5-1.25-1:
+map            	all	0.6103
+recip_rank     	all	0.6652
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-0.5-5-1.25-2:
+map            	all	0.6006
+recip_rank     	all	0.6564
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-0.5-5-1.5-1:
+map            	all	0.6153
+recip_rank     	all	0.6819
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-0.5-5-1.5-2:
+map            	all	0.5847
+recip_rank     	all	0.6378
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-0.5-5-2.0-1:
+map            	all	0.6098
+recip_rank     	all	0.6671
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-0.5-5-2.0-2:
+map            	all	0.5486
+recip_rank     	all	0.5950
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-0.75-3-0-1:
+map            	all	0.5992
+recip_rank     	all	0.6594
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-0.75-3-0-2:
+map            	all	0.6110
+recip_rank     	all	0.6852
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-0.75-3-0.8-1:
+map            	all	0.5991
+recip_rank     	all	0.6594
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-0.75-3-0.8-2:
+map            	all	0.6077
+recip_rank     	all	0.6744
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-0.75-3-1.0-1:
+map            	all	0.5999
+recip_rank     	all	0.6594
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-0.75-3-1.0-2:
+map            	all	0.6068
+recip_rank     	all	0.6719
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-0.75-3-1.25-1:
+map            	all	0.6093
+recip_rank     	all	0.6664
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-0.75-3-1.25-2:
+map            	all	0.5934
+recip_rank     	all	0.6598
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-0.75-3-1.5-1:
+map            	all	0.6206
+recip_rank     	all	0.6826
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-0.75-3-1.5-2:
+map            	all	0.5830
+recip_rank     	all	0.6354
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-0.75-3-2.0-1:
+map            	all	0.6121
+recip_rank     	all	0.6656
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-0.75-3-2.0-2:
+map            	all	0.5429
+recip_rank     	all	0.5908
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-0.75-5-0-1:
+map            	all	0.5992
+recip_rank     	all	0.6594
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-0.75-5-0-2:
+map            	all	0.6117
+recip_rank     	all	0.6806
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-0.75-5-0.8-1:
+map            	all	0.5991
+recip_rank     	all	0.6594
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-0.75-5-0.8-2:
+map            	all	0.6081
+recip_rank     	all	0.6644
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-0.75-5-1.0-1:
+map            	all	0.5996
+recip_rank     	all	0.6594
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-0.75-5-1.0-2:
+map            	all	0.6088
+recip_rank     	all	0.6697
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-0.75-5-1.25-1:
+map            	all	0.6054
+recip_rank     	all	0.6594
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-0.75-5-1.25-2:
+map            	all	0.5986
+recip_rank     	all	0.6552
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-0.75-5-1.5-1:
+map            	all	0.6198
+recip_rank     	all	0.6761
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-0.75-5-1.5-2:
+map            	all	0.5826
+recip_rank     	all	0.6262
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-0.75-5-2.0-1:
+map            	all	0.6102
+recip_rank     	all	0.6594
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-0.75-5-2.0-2:
+map            	all	0.5451
+recip_rank     	all	0.5842
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-1.0-3-0-1:
+map            	all	0.5992
+recip_rank     	all	0.6594
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-1.0-3-0-2:
+map            	all	0.6145
+recip_rank     	all	0.6871
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-1.0-3-0.8-1:
+map            	all	0.5991
+recip_rank     	all	0.6594
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-1.0-3-0.8-2:
+map            	all	0.6101
+recip_rank     	all	0.6719
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-1.0-3-1.0-1:
+map            	all	0.5996
+recip_rank     	all	0.6594
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-1.0-3-1.0-2:
+map            	all	0.6073
+recip_rank     	all	0.6665
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-1.0-3-1.25-1:
+map            	all	0.6073
+recip_rank     	all	0.6594
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-1.0-3-1.25-2:
+map            	all	0.5948
+recip_rank     	all	0.6609
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-1.0-3-1.5-1:
+map            	all	0.6206
+recip_rank     	all	0.6733
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-1.0-3-1.5-2:
+map            	all	0.5732
+recip_rank     	all	0.6184
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-1.0-3-2.0-1:
+map            	all	0.6125
+recip_rank     	all	0.6682
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-1.0-3-2.0-2:
+map            	all	0.5424
+recip_rank     	all	0.5844
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-1.0-5-0-1:
+map            	all	0.5992
+recip_rank     	all	0.6594
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-1.0-5-0-2:
+map            	all	0.6128
+recip_rank     	all	0.6731
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-1.0-5-0.8-1:
+map            	all	0.5992
+recip_rank     	all	0.6594
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-1.0-5-0.8-2:
+map            	all	0.6088
+recip_rank     	all	0.6567
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-1.0-5-1.0-1:
+map            	all	0.5996
+recip_rank     	all	0.6594
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-1.0-5-1.0-2:
+map            	all	0.6054
+recip_rank     	all	0.6551
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-1.0-5-1.25-1:
+map            	all	0.6061
+recip_rank     	all	0.6594
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-1.0-5-1.25-2:
+map            	all	0.5926
+recip_rank     	all	0.6418
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-1.0-5-1.5-1:
+map            	all	0.6196
+recip_rank     	all	0.6675
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-1.0-5-1.5-2:
+map            	all	0.5719
+recip_rank     	all	0.6072
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-1.0-5-2.0-1:
+map            	all	0.6068
+recip_rank     	all	0.6579
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-1.0-5-2.0-2:
+map            	all	0.5395
+recip_rank     	all	0.5704
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-1.5-3-0-1:
+map            	all	0.5992
+recip_rank     	all	0.6594
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-1.5-3-0-2:
+map            	all	0.6165
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-1.5-3-0.8-1:
+map            	all	0.5991
+recip_rank     	all	0.6594
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-1.5-3-0.8-2:
+map            	all	0.6109
+recip_rank     	all	0.6787
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-1.5-3-1.0-1:
+map            	all	0.5992
+recip_rank     	all	0.6594
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-1.5-3-1.0-2:
+map            	all	0.5987
+recip_rank     	all	0.6625
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-1.5-3-1.25-1:
+map            	all	0.6065
+recip_rank     	all	0.6594
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-1.5-3-1.25-2:
+map            	all	0.5837
+recip_rank     	all	0.6475
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-1.5-3-1.5-1:
+map            	all	0.6190
+recip_rank     	all	0.6657
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-1.5-3-1.5-2:
+map            	all	0.5707
+recip_rank     	all	0.6254
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-1.5-3-2.0-1:
+map            	all	0.6031
+recip_rank     	all	0.6635
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-1.5-3-2.0-2:
+map            	all	0.5296
+recip_rank     	all	0.5745
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-1.5-5-0-1:
+map            	all	0.5992
+recip_rank     	all	0.6594
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-1.5-5-0-2:
+map            	all	0.6138
+recip_rank     	all	0.6780
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-1.5-5-0.8-1:
+map            	all	0.5992
+recip_rank     	all	0.6594
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-1.5-5-0.8-2:
+map            	all	0.6096
+recip_rank     	all	0.6582
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-1.5-5-1.0-1:
+map            	all	0.5994
+recip_rank     	all	0.6594
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-1.5-5-1.0-2:
+map            	all	0.5983
+recip_rank     	all	0.6446
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-1.5-5-1.25-1:
+map            	all	0.6053
+recip_rank     	all	0.6594
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-1.5-5-1.25-2:
+map            	all	0.5771
+recip_rank     	all	0.6198
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-1.5-5-1.5-1:
+map            	all	0.6189
+recip_rank     	all	0.6664
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-1.5-5-1.5-2:
+map            	all	0.5671
+recip_rank     	all	0.6036
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-1.5-5-2.0-1:
+map            	all	0.6005
+recip_rank     	all	0.6578
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-1.5-5-2.0-2:
+map            	all	0.5258
+recip_rank     	all	0.5553
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-2.0-3-0-1:
+map            	all	0.5992
+recip_rank     	all	0.6594
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-2.0-3-0-2:
+map            	all	0.6170
+recip_rank     	all	0.6988
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-2.0-3-0.8-1:
+map            	all	0.5992
+recip_rank     	all	0.6594
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-2.0-3-0.8-2:
+map            	all	0.6125
+recip_rank     	all	0.6788
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-2.0-3-1.0-1:
+map            	all	0.5993
+recip_rank     	all	0.6594
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-2.0-3-1.0-2:
+map            	all	0.5975
+recip_rank     	all	0.6565
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-2.0-3-1.25-1:
+map            	all	0.6061
+recip_rank     	all	0.6594
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-2.0-3-1.25-2:
+map            	all	0.5818
+recip_rank     	all	0.6450
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-2.0-3-1.5-1:
+map            	all	0.6189
+recip_rank     	all	0.6664
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-2.0-3-1.5-2:
+map            	all	0.5659
+recip_rank     	all	0.6244
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-2.0-3-2.0-1:
+map            	all	0.6006
+recip_rank     	all	0.6604
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-2.0-3-2.0-2:
+map            	all	0.5278
+recip_rank     	all	0.5747
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-2.0-5-0-1:
+map            	all	0.5992
+recip_rank     	all	0.6594
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-2.0-5-0-2:
+map            	all	0.6136
+recip_rank     	all	0.6794
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-2.0-5-0.8-1:
+map            	all	0.5992
+recip_rank     	all	0.6594
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-2.0-5-0.8-2:
+map            	all	0.6115
+recip_rank     	all	0.6665
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-2.0-5-1.0-1:
+map            	all	0.5994
+recip_rank     	all	0.6594
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-2.0-5-1.0-2:
+map            	all	0.5925
+recip_rank     	all	0.6420
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-2.0-5-1.25-1:
+map            	all	0.6053
+recip_rank     	all	0.6594
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-2.0-5-1.25-2:
+map            	all	0.5745
+recip_rank     	all	0.6189
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-2.0-5-1.5-1:
+map            	all	0.6140
+recip_rank     	all	0.6594
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-2.0-5-1.5-2:
+map            	all	0.5591
+recip_rank     	all	0.5957
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-2.0-5-2.0-1:
+map            	all	0.5963
+recip_rank     	all	0.6542
+TREC Scores of test_res/RPNBSIM-test/NBSIM-0.5-2.0-5-2.0-2:
+map            	all	0.5249
+recip_rank     	all	0.5568
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-0.5-3-0-1:
+map            	all	0.5923
+recip_rank     	all	0.6890
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-0.5-3-0-2:
+map            	all	0.6037
+recip_rank     	all	0.6837
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-0.5-3-0.8-1:
+map            	all	0.6045
+recip_rank     	all	0.6820
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-0.5-3-0.8-2:
+map            	all	0.6129
+recip_rank     	all	0.6866
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-0.5-3-1.0-1:
+map            	all	0.6064
+recip_rank     	all	0.6820
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-0.5-3-1.0-2:
+map            	all	0.6131
+recip_rank     	all	0.6745
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-0.5-3-1.25-1:
+map            	all	0.6158
+recip_rank     	all	0.6959
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-0.5-3-1.25-2:
+map            	all	0.6078
+recip_rank     	all	0.6594
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-0.5-3-1.5-1:
+map            	all	0.6210
+recip_rank     	all	0.7107
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-0.5-3-1.5-2:
+map            	all	0.6018
+recip_rank     	all	0.6473
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-0.5-3-2.0-1:
+map            	all	0.6107
+recip_rank     	all	0.6921
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-0.5-3-2.0-2:
+map            	all	0.5851
+recip_rank     	all	0.6305
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-0.5-5-0-1:
+map            	all	0.5903
+recip_rank     	all	0.6797
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-0.5-5-0-2:
+map            	all	0.6032
+recip_rank     	all	0.6860
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-0.5-5-0.8-1:
+map            	all	0.6022
+recip_rank     	all	0.6728
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-0.5-5-0.8-2:
+map            	all	0.6096
+recip_rank     	all	0.6797
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-0.5-5-1.0-1:
+map            	all	0.6053
+recip_rank     	all	0.6820
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-0.5-5-1.0-2:
+map            	all	0.6139
+recip_rank     	all	0.6783
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-0.5-5-1.25-1:
+map            	all	0.6133
+recip_rank     	all	0.6867
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-0.5-5-1.25-2:
+map            	all	0.6095
+recip_rank     	all	0.6705
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-0.5-5-1.5-1:
+map            	all	0.6180
+recip_rank     	all	0.7015
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-0.5-5-1.5-2:
+map            	all	0.6025
+recip_rank     	all	0.6566
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-0.5-5-2.0-1:
+map            	all	0.6081
+recip_rank     	all	0.6831
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-0.5-5-2.0-2:
+map            	all	0.5845
+recip_rank     	all	0.6328
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-0.75-3-0-1:
+map            	all	0.5926
+recip_rank     	all	0.6766
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-0.75-3-0-2:
+map            	all	0.6142
+recip_rank     	all	0.6990
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-0.75-3-0.8-1:
+map            	all	0.6036
+recip_rank     	all	0.6696
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-0.75-3-0.8-2:
+map            	all	0.6176
+recip_rank     	all	0.6865
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-0.75-3-1.0-1:
+map            	all	0.6046
+recip_rank     	all	0.6673
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-0.75-3-1.0-2:
+map            	all	0.6187
+recip_rank     	all	0.6771
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-0.75-3-1.25-1:
+map            	all	0.6127
+recip_rank     	all	0.6835
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-0.75-3-1.25-2:
+map            	all	0.6150
+recip_rank     	all	0.6767
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-0.75-3-1.5-1:
+map            	all	0.6204
+recip_rank     	all	0.6928
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-0.75-3-1.5-2:
+map            	all	0.6051
+recip_rank     	all	0.6620
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-0.75-3-2.0-1:
+map            	all	0.6117
+recip_rank     	all	0.6752
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-0.75-3-2.0-2:
+map            	all	0.5785
+recip_rank     	all	0.6313
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-0.75-5-0-1:
+map            	all	0.5982
+recip_rank     	all	0.6829
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-0.75-5-0-2:
+map            	all	0.6149
+recip_rank     	all	0.6940
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-0.75-5-0.8-1:
+map            	all	0.6041
+recip_rank     	all	0.6713
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-0.75-5-0.8-2:
+map            	all	0.6171
+recip_rank     	all	0.6822
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-0.75-5-1.0-1:
+map            	all	0.6044
+recip_rank     	all	0.6713
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-0.75-5-1.0-2:
+map            	all	0.6200
+recip_rank     	all	0.6801
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-0.75-5-1.25-1:
+map            	all	0.6089
+recip_rank     	all	0.6690
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-0.75-5-1.25-2:
+map            	all	0.6122
+recip_rank     	all	0.6715
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-0.75-5-1.5-1:
+map            	all	0.6201
+recip_rank     	all	0.6945
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-0.75-5-1.5-2:
+map            	all	0.6033
+recip_rank     	all	0.6557
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-0.75-5-2.0-1:
+map            	all	0.6052
+recip_rank     	all	0.6700
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-0.75-5-2.0-2:
+map            	all	0.5808
+recip_rank     	all	0.6327
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-1.0-3-0-1:
+map            	all	0.6019
+recip_rank     	all	0.6863
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-1.0-3-0-2:
+map            	all	0.6154
+recip_rank     	all	0.6928
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-1.0-3-0.8-1:
+map            	all	0.6067
+recip_rank     	all	0.6794
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-1.0-3-0.8-2:
+map            	all	0.6181
+recip_rank     	all	0.6731
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-1.0-3-1.0-1:
+map            	all	0.6107
+recip_rank     	all	0.6794
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-1.0-3-1.0-2:
+map            	all	0.6223
+recip_rank     	all	0.6796
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-1.0-3-1.25-1:
+map            	all	0.6147
+recip_rank     	all	0.6840
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-1.0-3-1.25-2:
+map            	all	0.6121
+recip_rank     	all	0.6663
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-1.0-3-1.5-1:
+map            	all	0.6203
+recip_rank     	all	0.7025
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-1.0-3-1.5-2:
+map            	all	0.6039
+recip_rank     	all	0.6571
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-1.0-3-2.0-1:
+map            	all	0.6138
+recip_rank     	all	0.6896
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-1.0-3-2.0-2:
+map            	all	0.5702
+recip_rank     	all	0.6181
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-1.0-5-0-1:
+map            	all	0.5967
+recip_rank     	all	0.6667
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-1.0-5-0-2:
+map            	all	0.6126
+recip_rank     	all	0.6882
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-1.0-5-0.8-1:
+map            	all	0.6031
+recip_rank     	all	0.6667
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-1.0-5-0.8-2:
+map            	all	0.6130
+recip_rank     	all	0.6695
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-1.0-5-1.0-1:
+map            	all	0.6060
+recip_rank     	all	0.6667
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-1.0-5-1.0-2:
+map            	all	0.6195
+recip_rank     	all	0.6770
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-1.0-5-1.25-1:
+map            	all	0.6085
+recip_rank     	all	0.6667
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-1.0-5-1.25-2:
+map            	all	0.6123
+recip_rank     	all	0.6708
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-1.0-5-1.5-1:
+map            	all	0.6116
+recip_rank     	all	0.6598
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-1.0-5-1.5-2:
+map            	all	0.6020
+recip_rank     	all	0.6479
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-1.0-5-2.0-1:
+map            	all	0.6037
+recip_rank     	all	0.6609
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-1.0-5-2.0-2:
+map            	all	0.5665
+recip_rank     	all	0.6129
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-1.5-3-0-1:
+map            	all	0.5948
+recip_rank     	all	0.6690
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-1.5-3-0-2:
+map            	all	0.6271
+recip_rank     	all	0.7119
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-1.5-3-0.8-1:
+map            	all	0.6032
+recip_rank     	all	0.6713
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-1.5-3-0.8-2:
+map            	all	0.6292
+recip_rank     	all	0.6956
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-1.5-3-1.0-1:
+map            	all	0.6073
+recip_rank     	all	0.6713
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-1.5-3-1.0-2:
+map            	all	0.6270
+recip_rank     	all	0.6990
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-1.5-3-1.25-1:
+map            	all	0.6106
+recip_rank     	all	0.6690
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-1.5-3-1.25-2:
+map            	all	0.6087
+recip_rank     	all	0.6668
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-1.5-3-1.5-1:
+map            	all	0.6162
+recip_rank     	all	0.6741
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-1.5-3-1.5-2:
+map            	all	0.5992
+recip_rank     	all	0.6583
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-1.5-3-2.0-1:
+map            	all	0.6101
+recip_rank     	all	0.6763
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-1.5-3-2.0-2:
+map            	all	0.5614
+recip_rank     	all	0.6103
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-1.5-5-0-1:
+map            	all	0.6018
+recip_rank     	all	0.6720
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-1.5-5-0-2:
+map            	all	0.6226
+recip_rank     	all	0.6856
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-1.5-5-0.8-1:
+map            	all	0.6008
+recip_rank     	all	0.6651
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-1.5-5-0.8-2:
+map            	all	0.6183
+recip_rank     	all	0.6780
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-1.5-5-1.0-1:
+map            	all	0.6034
+recip_rank     	all	0.6651
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-1.5-5-1.0-2:
+map            	all	0.6189
+recip_rank     	all	0.6731
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-1.5-5-1.25-1:
+map            	all	0.6067
+recip_rank     	all	0.6651
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-1.5-5-1.25-2:
+map            	all	0.6094
+recip_rank     	all	0.6612
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-1.5-5-1.5-1:
+map            	all	0.6100
+recip_rank     	all	0.6581
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-1.5-5-1.5-2:
+map            	all	0.5900
+recip_rank     	all	0.6394
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-1.5-5-2.0-1:
+map            	all	0.6029
+recip_rank     	all	0.6628
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-1.5-5-2.0-2:
+map            	all	0.5616
+recip_rank     	all	0.6018
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-2.0-3-0-1:
+map            	all	0.5948
+recip_rank     	all	0.6690
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-2.0-3-0-2:
+map            	all	0.6245
+recip_rank     	all	0.7130
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-2.0-3-0.8-1:
+map            	all	0.6037
+recip_rank     	all	0.6713
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-2.0-3-0.8-2:
+map            	all	0.6283
+recip_rank     	all	0.6967
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-2.0-3-1.0-1:
+map            	all	0.6049
+recip_rank     	all	0.6713
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-2.0-3-1.0-2:
+map            	all	0.6223
+recip_rank     	all	0.6984
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-2.0-3-1.25-1:
+map            	all	0.6107
+recip_rank     	all	0.6690
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-2.0-3-1.25-2:
+map            	all	0.6074
+recip_rank     	all	0.6771
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-2.0-3-1.5-1:
+map            	all	0.6167
+recip_rank     	all	0.6741
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-2.0-3-1.5-2:
+map            	all	0.5978
+recip_rank     	all	0.6616
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-2.0-3-2.0-1:
+map            	all	0.6039
+recip_rank     	all	0.6696
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-2.0-3-2.0-2:
+map            	all	0.5502
+recip_rank     	all	0.6012
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-2.0-5-0-1:
+map            	all	0.6011
+recip_rank     	all	0.6720
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-2.0-5-0-2:
+map            	all	0.6212
+recip_rank     	all	0.6809
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-2.0-5-0.8-1:
+map            	all	0.6002
+recip_rank     	all	0.6651
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-2.0-5-0.8-2:
+map            	all	0.6174
+recip_rank     	all	0.6756
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-2.0-5-1.0-1:
+map            	all	0.6005
+recip_rank     	all	0.6651
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-2.0-5-1.0-2:
+map            	all	0.6159
+recip_rank     	all	0.6703
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-2.0-5-1.25-1:
+map            	all	0.6053
+recip_rank     	all	0.6651
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-2.0-5-1.25-2:
+map            	all	0.5992
+recip_rank     	all	0.6472
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-2.0-5-1.5-1:
+map            	all	0.6086
+recip_rank     	all	0.6581
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-2.0-5-1.5-2:
+map            	all	0.5865
+recip_rank     	all	0.6351
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-2.0-5-2.0-1:
+map            	all	0.6029
+recip_rank     	all	0.6628
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.0-2.0-5-2.0-2:
+map            	all	0.5499
+recip_rank     	all	0.5907
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-0.5-3-0-1:
+map            	all	0.5890
+recip_rank     	all	0.6712
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-0.5-3-0-2:
+map            	all	0.6034
+recip_rank     	all	0.6946
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-0.5-3-0.8-1:
+map            	all	0.6043
+recip_rank     	all	0.6895
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-0.5-3-0.8-2:
+map            	all	0.6107
+recip_rank     	all	0.6832
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-0.5-3-1.0-1:
+map            	all	0.6160
+recip_rank     	all	0.6965
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-0.5-3-1.0-2:
+map            	all	0.6169
+recip_rank     	all	0.6915
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-0.5-3-1.25-1:
+map            	all	0.6142
+recip_rank     	all	0.6872
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-0.5-3-1.25-2:
+map            	all	0.6039
+recip_rank     	all	0.6686
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-0.5-3-1.5-1:
+map            	all	0.6192
+recip_rank     	all	0.6997
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-0.5-3-1.5-2:
+map            	all	0.5994
+recip_rank     	all	0.6562
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-0.5-3-2.0-1:
+map            	all	0.6181
+recip_rank     	all	0.6899
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-0.5-3-2.0-2:
+map            	all	0.5867
+recip_rank     	all	0.6402
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-0.5-5-0-1:
+map            	all	0.5906
+recip_rank     	all	0.6783
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-0.5-5-0-2:
+map            	all	0.6044
+recip_rank     	all	0.6977
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-0.5-5-0.8-1:
+map            	all	0.5979
+recip_rank     	all	0.6944
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-0.5-5-0.8-2:
+map            	all	0.6114
+recip_rank     	all	0.6853
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-0.5-5-1.0-1:
+map            	all	0.6186
+recip_rank     	all	0.7106
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-0.5-5-1.0-2:
+map            	all	0.6182
+recip_rank     	all	0.6935
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-0.5-5-1.25-1:
+map            	all	0.6155
+recip_rank     	all	0.6944
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-0.5-5-1.25-2:
+map            	all	0.6046
+recip_rank     	all	0.6694
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-0.5-5-1.5-1:
+map            	all	0.6214
+recip_rank     	all	0.7069
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-0.5-5-1.5-2:
+map            	all	0.6004
+recip_rank     	all	0.6670
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-0.5-5-2.0-1:
+map            	all	0.6211
+recip_rank     	all	0.6927
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-0.5-5-2.0-2:
+map            	all	0.5932
+recip_rank     	all	0.6537
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-0.75-3-0-1:
+map            	all	0.5980
+recip_rank     	all	0.6910
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-0.75-3-0-2:
+map            	all	0.6150
+recip_rank     	all	0.7002
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-0.75-3-0.8-1:
+map            	all	0.6130
+recip_rank     	all	0.6952
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-0.75-3-0.8-2:
+map            	all	0.6253
+recip_rank     	all	0.6935
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-0.75-3-1.0-1:
+map            	all	0.6168
+recip_rank     	all	0.6952
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-0.75-3-1.0-2:
+map            	all	0.6228
+recip_rank     	all	0.6844
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-0.75-3-1.25-1:
+map            	all	0.6173
+recip_rank     	all	0.7022
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-0.75-3-1.25-2:
+map            	all	0.6163
+recip_rank     	all	0.6730
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-0.75-3-1.5-1:
+map            	all	0.6246
+recip_rank     	all	0.7096
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-0.75-3-1.5-2:
+map            	all	0.5996
+recip_rank     	all	0.6517
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-0.75-3-2.0-1:
+map            	all	0.6165
+recip_rank     	all	0.6841
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-0.75-3-2.0-2:
+map            	all	0.5902
+recip_rank     	all	0.6459
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-0.75-5-0-1:
+map            	all	0.5946
+recip_rank     	all	0.6843
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-0.75-5-0-2:
+map            	all	0.6159
+recip_rank     	all	0.7048
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-0.75-5-0.8-1:
+map            	all	0.6108
+recip_rank     	all	0.6954
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-0.75-5-0.8-2:
+map            	all	0.6229
+recip_rank     	all	0.6953
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-0.75-5-1.0-1:
+map            	all	0.6128
+recip_rank     	all	0.6885
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-0.75-5-1.0-2:
+map            	all	0.6195
+recip_rank     	all	0.6887
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-0.75-5-1.25-1:
+map            	all	0.6118
+recip_rank     	all	0.6792
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-0.75-5-1.25-2:
+map            	all	0.6173
+recip_rank     	all	0.6832
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-0.75-5-1.5-1:
+map            	all	0.6201
+recip_rank     	all	0.7047
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-0.75-5-1.5-2:
+map            	all	0.6018
+recip_rank     	all	0.6608
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-0.75-5-2.0-1:
+map            	all	0.6099
+recip_rank     	all	0.6731
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-0.75-5-2.0-2:
+map            	all	0.5911
+recip_rank     	all	0.6524
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-1.0-3-0-1:
+map            	all	0.5933
+recip_rank     	all	0.6941
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-1.0-3-0-2:
+map            	all	0.6219
+recip_rank     	all	0.7008
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-1.0-3-0.8-1:
+map            	all	0.6123
+recip_rank     	all	0.7052
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-1.0-3-0.8-2:
+map            	all	0.6282
+recip_rank     	all	0.6876
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-1.0-3-1.0-1:
+map            	all	0.6132
+recip_rank     	all	0.6983
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-1.0-3-1.0-2:
+map            	all	0.6261
+recip_rank     	all	0.6872
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-1.0-3-1.25-1:
+map            	all	0.6147
+recip_rank     	all	0.6959
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-1.0-3-1.25-2:
+map            	all	0.6168
+recip_rank     	all	0.6781
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-1.0-3-1.5-1:
+map            	all	0.6172
+recip_rank     	all	0.7052
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-1.0-3-1.5-2:
+map            	all	0.6103
+recip_rank     	all	0.6657
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-1.0-3-2.0-1:
+map            	all	0.6090
+recip_rank     	all	0.6881
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-1.0-3-2.0-2:
+map            	all	0.5811
+recip_rank     	all	0.6340
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-1.0-5-0-1:
+map            	all	0.5914
+recip_rank     	all	0.6841
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-1.0-5-0-2:
+map            	all	0.6174
+recip_rank     	all	0.6899
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-1.0-5-0.8-1:
+map            	all	0.6104
+recip_rank     	all	0.6952
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-1.0-5-0.8-2:
+map            	all	0.6264
+recip_rank     	all	0.6899
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-1.0-5-1.0-1:
+map            	all	0.6117
+recip_rank     	all	0.6883
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-1.0-5-1.0-2:
+map            	all	0.6208
+recip_rank     	all	0.6780
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-1.0-5-1.25-1:
+map            	all	0.6099
+recip_rank     	all	0.6790
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-1.0-5-1.25-2:
+map            	all	0.6121
+recip_rank     	all	0.6664
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-1.0-5-1.5-1:
+map            	all	0.6122
+recip_rank     	all	0.6756
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-1.0-5-1.5-2:
+map            	all	0.6087
+recip_rank     	all	0.6569
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-1.0-5-2.0-1:
+map            	all	0.6123
+recip_rank     	all	0.6683
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-1.0-5-2.0-2:
+map            	all	0.5794
+recip_rank     	all	0.6253
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-1.5-3-0-1:
+map            	all	0.5923
+recip_rank     	all	0.7008
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-1.5-3-0-2:
+map            	all	0.6268
+recip_rank     	all	0.7077
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-1.5-3-0.8-1:
+map            	all	0.6112
+recip_rank     	all	0.7123
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-1.5-3-0.8-2:
+map            	all	0.6330
+recip_rank     	all	0.6974
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-1.5-3-1.0-1:
+map            	all	0.6146
+recip_rank     	all	0.7054
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-1.5-3-1.0-2:
+map            	all	0.6310
+recip_rank     	all	0.6971
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-1.5-3-1.25-1:
+map            	all	0.6148
+recip_rank     	all	0.7031
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-1.5-3-1.25-2:
+map            	all	0.6261
+recip_rank     	all	0.6987
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-1.5-3-1.5-1:
+map            	all	0.6163
+recip_rank     	all	0.6961
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-1.5-3-1.5-2:
+map            	all	0.6091
+recip_rank     	all	0.6713
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-1.5-3-2.0-1:
+map            	all	0.6095
+recip_rank     	all	0.6913
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-1.5-3-2.0-2:
+map            	all	0.5815
+recip_rank     	all	0.6373
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-1.5-5-0-1:
+map            	all	0.6048
+recip_rank     	all	0.6972
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-1.5-5-0-2:
+map            	all	0.6199
+recip_rank     	all	0.6812
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-1.5-5-0.8-1:
+map            	all	0.6137
+recip_rank     	all	0.6937
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-1.5-5-0.8-2:
+map            	all	0.6242
+recip_rank     	all	0.6798
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-1.5-5-1.0-1:
+map            	all	0.6167
+recip_rank     	all	0.6937
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-1.5-5-1.0-2:
+map            	all	0.6191
+recip_rank     	all	0.6702
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-1.5-5-1.25-1:
+map            	all	0.6181
+recip_rank     	all	0.6867
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-1.5-5-1.25-2:
+map            	all	0.6188
+recip_rank     	all	0.6638
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-1.5-5-1.5-1:
+map            	all	0.6195
+recip_rank     	all	0.6810
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-1.5-5-1.5-2:
+map            	all	0.6080
+recip_rank     	all	0.6503
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-1.5-5-2.0-1:
+map            	all	0.6219
+recip_rank     	all	0.6801
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-1.5-5-2.0-2:
+map            	all	0.5734
+recip_rank     	all	0.6142
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-2.0-3-0-1:
+map            	all	0.5921
+recip_rank     	all	0.7013
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-2.0-3-0-2:
+map            	all	0.6251
+recip_rank     	all	0.7017
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-2.0-3-0.8-1:
+map            	all	0.6099
+recip_rank     	all	0.7060
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-2.0-3-0.8-2:
+map            	all	0.6336
+recip_rank     	all	0.6940
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-2.0-3-1.0-1:
+map            	all	0.6140
+recip_rank     	all	0.7060
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-2.0-3-1.0-2:
+map            	all	0.6340
+recip_rank     	all	0.6936
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-2.0-3-1.25-1:
+map            	all	0.6128
+recip_rank     	all	0.6967
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-2.0-3-1.25-2:
+map            	all	0.6223
+recip_rank     	all	0.6858
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-2.0-3-1.5-1:
+map            	all	0.6164
+recip_rank     	all	0.6937
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-2.0-3-1.5-2:
+map            	all	0.6091
+recip_rank     	all	0.6649
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-2.0-3-2.0-1:
+map            	all	0.6036
+recip_rank     	all	0.6849
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-2.0-3-2.0-2:
+map            	all	0.5806
+recip_rank     	all	0.6308
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-2.0-5-0-1:
+map            	all	0.6068
+recip_rank     	all	0.6937
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-2.0-5-0-2:
+map            	all	0.6261
+recip_rank     	all	0.6903
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-2.0-5-0.8-1:
+map            	all	0.6154
+recip_rank     	all	0.7041
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-2.0-5-0.8-2:
+map            	all	0.6246
+recip_rank     	all	0.6819
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-2.0-5-1.0-1:
+map            	all	0.6161
+recip_rank     	all	0.6972
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-2.0-5-1.0-2:
+map            	all	0.6202
+recip_rank     	all	0.6724
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-2.0-5-1.25-1:
+map            	all	0.6167
+recip_rank     	all	0.6879
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-2.0-5-1.25-2:
+map            	all	0.6145
+recip_rank     	all	0.6614
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-2.0-5-1.5-1:
+map            	all	0.6185
+recip_rank     	all	0.6821
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-2.0-5-1.5-2:
+map            	all	0.5992
+recip_rank     	all	0.6416
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-2.0-5-2.0-1:
+map            	all	0.6143
+recip_rank     	all	0.6744
+TREC Scores of test_res/RPNBSIM-test/NBSIM-1.5-2.0-5-2.0-2:
+map            	all	0.5665
+recip_rank     	all	0.6110
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-0.5-3-0-1:
+map            	all	0.5957
+recip_rank     	all	0.6724
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-0.5-3-0-2:
+map            	all	0.6035
+recip_rank     	all	0.6914
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-0.5-3-0.8-1:
+map            	all	0.6037
+recip_rank     	all	0.6804
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-0.5-3-0.8-2:
+map            	all	0.6078
+recip_rank     	all	0.6848
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-0.5-3-1.0-1:
+map            	all	0.6032
+recip_rank     	all	0.6734
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-0.5-3-1.0-2:
+map            	all	0.6121
+recip_rank     	all	0.6848
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-0.5-3-1.25-1:
+map            	all	0.6058
+recip_rank     	all	0.6746
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-0.5-3-1.25-2:
+map            	all	0.6000
+recip_rank     	all	0.6653
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-0.5-3-1.5-1:
+map            	all	0.6251
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-0.5-3-1.5-2:
+map            	all	0.5964
+recip_rank     	all	0.6621
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-0.5-3-2.0-1:
+map            	all	0.6202
+recip_rank     	all	0.6788
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-0.5-3-2.0-2:
+map            	all	0.5865
+recip_rank     	all	0.6385
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-0.5-5-0-1:
+map            	all	0.5960
+recip_rank     	all	0.6761
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-0.5-5-0-2:
+map            	all	0.6037
+recip_rank     	all	0.6910
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-0.5-5-0.8-1:
+map            	all	0.6050
+recip_rank     	all	0.6817
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-0.5-5-0.8-2:
+map            	all	0.6064
+recip_rank     	all	0.6839
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-0.5-5-1.0-1:
+map            	all	0.6051
+recip_rank     	all	0.6817
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-0.5-5-1.0-2:
+map            	all	0.6112
+recip_rank     	all	0.6843
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-0.5-5-1.25-1:
+map            	all	0.6061
+recip_rank     	all	0.6759
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-0.5-5-1.25-2:
+map            	all	0.6022
+recip_rank     	all	0.6697
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-0.5-5-1.5-1:
+map            	all	0.6167
+recip_rank     	all	0.6914
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-0.5-5-1.5-2:
+map            	all	0.5965
+recip_rank     	all	0.6595
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-0.5-5-2.0-1:
+map            	all	0.6276
+recip_rank     	all	0.6905
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-0.5-5-2.0-2:
+map            	all	0.5882
+recip_rank     	all	0.6539
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-0.75-3-0-1:
+map            	all	0.6038
+recip_rank     	all	0.7016
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-0.75-3-0-2:
+map            	all	0.6123
+recip_rank     	all	0.7007
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-0.75-3-0.8-1:
+map            	all	0.6155
+recip_rank     	all	0.7058
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-0.75-3-0.8-2:
+map            	all	0.6230
+recip_rank     	all	0.6962
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-0.75-3-1.0-1:
+map            	all	0.6235
+recip_rank     	all	0.7127
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-0.75-3-1.0-2:
+map            	all	0.6186
+recip_rank     	all	0.6869
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-0.75-3-1.25-1:
+map            	all	0.6250
+recip_rank     	all	0.7220
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-0.75-3-1.25-2:
+map            	all	0.6141
+recip_rank     	all	0.6744
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-0.75-3-1.5-1:
+map            	all	0.6307
+recip_rank     	all	0.7289
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-0.75-3-1.5-2:
+map            	all	0.6053
+recip_rank     	all	0.6666
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-0.75-3-2.0-1:
+map            	all	0.6226
+recip_rank     	all	0.6963
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-0.75-3-2.0-2:
+map            	all	0.5889
+recip_rank     	all	0.6468
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-0.75-5-0-1:
+map            	all	0.6044
+recip_rank     	all	0.6944
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-0.75-5-0-2:
+map            	all	0.6125
+recip_rank     	all	0.6981
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-0.75-5-0.8-1:
+map            	all	0.6128
+recip_rank     	all	0.7020
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-0.75-5-0.8-2:
+map            	all	0.6213
+recip_rank     	all	0.6985
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-0.75-5-1.0-1:
+map            	all	0.6127
+recip_rank     	all	0.6963
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-0.75-5-1.0-2:
+map            	all	0.6160
+recip_rank     	all	0.6798
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-0.75-5-1.25-1:
+map            	all	0.6225
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-0.75-5-1.25-2:
+map            	all	0.6117
+recip_rank     	all	0.6770
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-0.75-5-1.5-1:
+map            	all	0.6303
+recip_rank     	all	0.7240
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-0.75-5-1.5-2:
+map            	all	0.6040
+recip_rank     	all	0.6620
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-0.75-5-2.0-1:
+map            	all	0.6316
+recip_rank     	all	0.6986
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-0.75-5-2.0-2:
+map            	all	0.5897
+recip_rank     	all	0.6492
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-1.0-3-0-1:
+map            	all	0.6002
+recip_rank     	all	0.6916
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-1.0-3-0-2:
+map            	all	0.6219
+recip_rank     	all	0.7040
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-1.0-3-0.8-1:
+map            	all	0.6194
+recip_rank     	all	0.6958
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-1.0-3-0.8-2:
+map            	all	0.6299
+recip_rank     	all	0.6960
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-1.0-3-1.0-1:
+map            	all	0.6200
+recip_rank     	all	0.6958
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-1.0-3-1.0-2:
+map            	all	0.6262
+recip_rank     	all	0.6868
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-1.0-3-1.25-1:
+map            	all	0.6238
+recip_rank     	all	0.7027
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-1.0-3-1.25-2:
+map            	all	0.6117
+recip_rank     	all	0.6678
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-1.0-3-1.5-1:
+map            	all	0.6270
+recip_rank     	all	0.7189
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-1.0-3-1.5-2:
+map            	all	0.6123
+recip_rank     	all	0.6765
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-1.0-3-2.0-1:
+map            	all	0.6091
+recip_rank     	all	0.6759
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-1.0-3-2.0-2:
+map            	all	0.5924
+recip_rank     	all	0.6482
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-1.0-5-0-1:
+map            	all	0.5994
+recip_rank     	all	0.6765
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-1.0-5-0-2:
+map            	all	0.6152
+recip_rank     	all	0.6926
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-1.0-5-0.8-1:
+map            	all	0.6123
+recip_rank     	all	0.6922
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-1.0-5-0.8-2:
+map            	all	0.6190
+recip_rank     	all	0.6769
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-1.0-5-1.0-1:
+map            	all	0.6191
+recip_rank     	all	0.6922
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-1.0-5-1.0-2:
+map            	all	0.6165
+recip_rank     	all	0.6746
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-1.0-5-1.25-1:
+map            	all	0.6179
+recip_rank     	all	0.6853
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-1.0-5-1.25-2:
+map            	all	0.6088
+recip_rank     	all	0.6616
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-1.0-5-1.5-1:
+map            	all	0.6182
+recip_rank     	all	0.6806
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-1.0-5-1.5-2:
+map            	all	0.6060
+recip_rank     	all	0.6532
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-1.0-5-2.0-1:
+map            	all	0.6159
+recip_rank     	all	0.6650
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-1.0-5-2.0-2:
+map            	all	0.5857
+recip_rank     	all	0.6318
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-1.5-3-0-1:
+map            	all	0.5982
+recip_rank     	all	0.6978
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-1.5-3-0-2:
+map            	all	0.6254
+recip_rank     	all	0.7119
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-1.5-3-0.8-1:
+map            	all	0.6200
+recip_rank     	all	0.7094
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-1.5-3-0.8-2:
+map            	all	0.6322
+recip_rank     	all	0.6890
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-1.5-3-1.0-1:
+map            	all	0.6196
+recip_rank     	all	0.7024
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-1.5-3-1.0-2:
+map            	all	0.6334
+recip_rank     	all	0.6961
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-1.5-3-1.25-1:
+map            	all	0.6207
+recip_rank     	all	0.7094
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-1.5-3-1.25-2:
+map            	all	0.6207
+recip_rank     	all	0.6869
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-1.5-3-1.5-1:
+map            	all	0.6186
+recip_rank     	all	0.6902
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-1.5-3-1.5-2:
+map            	all	0.6058
+recip_rank     	all	0.6707
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-1.5-3-2.0-1:
+map            	all	0.6141
+recip_rank     	all	0.6899
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-1.5-3-2.0-2:
+map            	all	0.5858
+recip_rank     	all	0.6407
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-1.5-5-0-1:
+map            	all	0.6060
+recip_rank     	all	0.6918
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-1.5-5-0-2:
+map            	all	0.6160
+recip_rank     	all	0.6800
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-1.5-5-0.8-1:
+map            	all	0.6220
+recip_rank     	all	0.7237
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-1.5-5-0.8-2:
+map            	all	0.6214
+recip_rank     	all	0.6875
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-1.5-5-1.0-1:
+map            	all	0.6296
+recip_rank     	all	0.7237
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-1.5-5-1.0-2:
+map            	all	0.6165
+recip_rank     	all	0.6734
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-1.5-5-1.25-1:
+map            	all	0.6278
+recip_rank     	all	0.7168
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-1.5-5-1.25-2:
+map            	all	0.6104
+recip_rank     	all	0.6607
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-1.5-5-1.5-1:
+map            	all	0.6243
+recip_rank     	all	0.6948
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-1.5-5-1.5-2:
+map            	all	0.6038
+recip_rank     	all	0.6516
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-1.5-5-2.0-1:
+map            	all	0.6238
+recip_rank     	all	0.6935
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-1.5-5-2.0-2:
+map            	all	0.5793
+recip_rank     	all	0.6239
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-2.0-3-0-1:
+map            	all	0.6011
+recip_rank     	all	0.7024
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-2.0-3-0-2:
+map            	all	0.6241
+recip_rank     	all	0.7039
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-2.0-3-0.8-1:
+map            	all	0.6218
+recip_rank     	all	0.7186
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-2.0-3-0.8-2:
+map            	all	0.6344
+recip_rank     	all	0.6911
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-2.0-3-1.0-1:
+map            	all	0.6231
+recip_rank     	all	0.7117
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-2.0-3-1.0-2:
+map            	all	0.6339
+recip_rank     	all	0.6978
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-2.0-3-1.25-1:
+map            	all	0.6235
+recip_rank     	all	0.7186
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-2.0-3-1.25-2:
+map            	all	0.6207
+recip_rank     	all	0.6924
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-2.0-3-1.5-1:
+map            	all	0.6221
+recip_rank     	all	0.6994
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-2.0-3-1.5-2:
+map            	all	0.6101
+recip_rank     	all	0.6727
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-2.0-3-2.0-1:
+map            	all	0.6240
+recip_rank     	all	0.7045
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-2.0-3-2.0-2:
+map            	all	0.5854
+recip_rank     	all	0.6385
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-2.0-5-0-1:
+map            	all	0.6062
+recip_rank     	all	0.6892
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-2.0-5-0-2:
+map            	all	0.6162
+recip_rank     	all	0.6818
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-2.0-5-0.8-1:
+map            	all	0.6266
+recip_rank     	all	0.7304
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-2.0-5-0.8-2:
+map            	all	0.6222
+recip_rank     	all	0.6863
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-2.0-5-1.0-1:
+map            	all	0.6294
+recip_rank     	all	0.7235
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-2.0-5-1.0-2:
+map            	all	0.6153
+recip_rank     	all	0.6760
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-2.0-5-1.25-1:
+map            	all	0.6288
+recip_rank     	all	0.7165
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-2.0-5-1.25-2:
+map            	all	0.6059
+recip_rank     	all	0.6580
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-2.0-5-1.5-1:
+map            	all	0.6247
+recip_rank     	all	0.6945
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-2.0-5-1.5-2:
+map            	all	0.6046
+recip_rank     	all	0.6531
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-2.0-5-2.0-1:
+map            	all	0.6217
+recip_rank     	all	0.6933
+TREC Scores of test_res/RPNBSIM-test/NBSIM-2.0-2.0-5-2.0-2:
+map            	all	0.5737
+recip_rank     	all	0.6174
